@@ -30,6 +30,7 @@ const coverPackages = [
     name: "Standard",
     price: "$75",
     delivery: "2 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_STANDARD,
     description:
       "Single ebook cover with 3 concept variations and 1 polished final.",
     features: [
@@ -70,6 +71,7 @@ const coverPackages = [
     price: "$150",
     delivery: "3 business days",
     popular: true,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_PREMIUM,
     description:
       "Premium style cover with extra refinement and revision rounds.",
     features: [
@@ -118,6 +120,7 @@ const brandingPackages = [
     subtitle: "3 Books",
     price: "$250",
     delivery: "3 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STARTER,
     features: [
       {
         title: "Series logo design",
@@ -147,6 +150,7 @@ const brandingPackages = [
     price: "$450",
     delivery: "5 business days",
     popular: true,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STANDARD,
     features: [
       {
         title: "Series logo design",
@@ -180,6 +184,7 @@ const brandingPackages = [
     subtitle: "8+ Books",
     price: "$750",
     delivery: "7 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_PREMIUM,
     features: [
       {
         title: "Series logo design",
@@ -226,6 +231,7 @@ const architecturePackages = [
     subtitle: "3 Books",
     price: "$200",
     delivery: "2 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_ARCHITECTURE_SMALL,
     features: [
       {
         title: "Series structure & arc design",
@@ -260,6 +266,7 @@ const architecturePackages = [
     price: "$400",
     delivery: "3 business days",
     popular: true,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_ARCHITECTURE_MEDIUM,
     features: [
       {
         title: "Series structure & arc design",
@@ -298,6 +305,7 @@ const architecturePackages = [
     subtitle: "8+ Books",
     price: "$800",
     delivery: "5 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_ARCHITECTURE_LARGE,
     features: [
       {
         title: "Epic-scale series structure",
@@ -348,6 +356,7 @@ const childrensPackages = [
     name: "Standard",
     price: "$500",
     delivery: "5 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
     description: "Complete 32-page AI-illustrated picture book.",
     features: [
       {
@@ -387,6 +396,7 @@ const childrensPackages = [
     price: "$1,000",
     delivery: "7 business days",
     popular: true,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PREMIUM,
     description:
       "Premium picture book with custom character design and print-ready formatting.",
     features: [
@@ -440,6 +450,7 @@ const pipelinePackages = [
     subtitle: "3 Books",
     price: "$400",
     delivery: "5 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STARTER,
     features: [
       {
         title: "Series plan (3 books)",
@@ -479,6 +490,7 @@ const pipelinePackages = [
     price: "$900",
     delivery: "7 business days",
     popular: true,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STANDARD,
     features: [
       {
         title: "Series plan (5 books)",
@@ -522,6 +534,7 @@ const pipelinePackages = [
     subtitle: "8+ Books",
     price: "$1,500",
     delivery: "10 business days",
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_PREMIUM,
     features: [
       {
         title: "Full series plan (8+ books)",
@@ -644,6 +657,7 @@ function PackageCard({
   description,
   features,
   popular,
+  priceId,
 }: {
   name: string;
   subtitle?: string;
@@ -652,7 +666,13 @@ function PackageCard({
   description?: string;
   features: Feature[];
   popular?: boolean;
+  priceId?: string;
 }) {
+  const productLabel = subtitle ? `${name} (${subtitle})` : name;
+  const checkoutHref = priceId
+    ? `/checkout?price=${priceId}&product=${encodeURIComponent(productLabel)}`
+    : "#contact";
+
   return (
     <div
       className={`relative flex flex-col rounded-2xl border p-8 transition-all hover-gold-glow ${
@@ -698,14 +718,14 @@ function PackageCard({
         ))}
       </ul>
       <Link
-        href="#contact"
+        href={checkoutHref}
         className={`mt-8 flex items-center justify-center gap-2 rounded-lg px-6 py-3 text-sm font-semibold transition-all ${
           popular
             ? "bg-gold text-background hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
             : "border border-border text-foreground hover:border-gold/30 hover:text-gold"
         }`}
       >
-        Get Started
+        {priceId ? `Get Started — ${price}` : "Get Started"}
       </Link>
     </div>
   );
