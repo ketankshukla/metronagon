@@ -1,0 +1,43 @@
+BRAND: METRONAGON MEDIA
+TYPE: Company Logo / Brand Emblem
+DIMENSIONS: 2000 x 2000 pixels (square, transparent background option)
+
+---
+
+Sharp photorealistic emblem on deep obsidian-black background (#0A0A0A), 2000x2000 pixels. NO oil painting, NO watercolor, NO painterly style, NO soft-focus, NO canvas grain. Every surface must have the tactile realism of actual crafted metal, polished stone, and precision-cut gemstone photographed under studio lighting.
+
+THE EMBLEM:
+
+A circular medallion approximately 1400 pixels in diameter, centered in the frame. The medallion is constructed from multiple layered materials, each rendered with obsessive tactile realism:
+
+OUTER RING: A broad ring of polished black granite — smooth, cold, architectural — with a subtle crystalline sparkle visible in the surface under direct light. The granite ring is 120 pixels wide and carved with a continuous band of geometric patterns — interlocking polygons (pentagons, hexagons, octagons) that reference the "-agon" suffix in the name, forming a precise tessellating border. The carved channels are filled with gold inlay — actual gold (#D4AF37), rendered with the warm luster and subtle granularity of real hammered gold leaf. The inlay catches the studio lighting unevenly, some portions brighter where the gold is thicker, creating natural variation that screams authenticity. At the four cardinal points (top, bottom, left, right), amber gemstones are set into the granite ring — each one a slightly different shade of warm honey-gold, each with natural internal inclusions and the glassy luster of genuine polished amber. The stones are held in place by tiny gold prongs that are individually visible.
+
+INNER FIELD: Within the granite ring, the inner circle is a disc of polished black onyx — mirror-smooth, with the faintest warm golden reflection visible in its surface, as if the emblem's own gold elements are casting light onto it. The onyx surface has a barely-visible depth, like looking into dark water.
+
+CENTRAL DEVICE: Positioned in the center of the onyx disc is a golden compass rose — rendered as a three-dimensional metalwork element that appears to be mounted on top of the onyx surface, casting a tiny precise shadow. The compass rose has eight points — four major cardinal points in polished gold and four minor intercardinal points in brushed gold with slightly less height. At the exact center of the compass rose sits a golden polygon — a regular nonagon (9-sided shape, referencing "Metron-AGON") — with each facet catching light at a slightly different angle, creating a jewel-like multi-faceted effect. Inside the nonagon, a single perfect golden ratio spiral is engraved — the mathematical symbol of divine proportion, referencing "Metron" (measure). The spiral is inlaid with a slightly brighter, more polished gold that catches light distinctly from the surrounding surface. The compass rose represents direction and precision; the nonagon represents the pursuit of excellence through measured angles; the golden ratio spiral represents the mathematical perfection underlying all great creative work.
+
+Radiating outward from the compass rose, thin golden lines extend to the inner edge of the granite ring — like measurement marks on a precision instrument, evenly spaced at 15-degree intervals, engraved into the onyx surface and filled with gold. These create the sense that the emblem is both an ancient artifact and a precision scientific instrument — a tool of measurement and mastery.
+
+LIGHTING AND RENDERING:
+
+The emblem is lit by two studio light sources — a primary warm golden light from the upper-right (creating the main highlights and shadows across every metallic and stone surface) and a secondary cooler neutral-white fill light from the lower-left (adding dimension and filling the shadows with subtle contrast). This dual-lighting setup makes every material pop — the granite catches light in its crystalline structure, the onyx reflects a dark warm mirror, the gold burns rich and warm, and the amber gemstones seem to glow with trapped sunlight.
+
+A very subtle ambient warmth emanates from the central compass device — as though the golden ratio spiral itself is a source of light. This glow is warm gold at the center and fades to nothing at the edges. The glow is restrained and realistic — not a fantasy blur, but the kind of faint luminance you might see from heated metal just barely cooling.
+
+The obsidian-black background is not perfectly flat — it has the very subtle texture of premium matte black paper or dark museum display fabric, barely visible but adding depth. A very faint circular vignette darkens the extreme corners of the image.
+
+TEXT (rendered below the emblem):
+
+Positioned at approximately 78% from the top of the image, centered horizontally:
+
+Line 1: "METRONAGON MEDIA" — elegant Trajan Pro font, gold (#D4AF37) with a subtle warm glow and very faint dark drop shadow offset 2 pixels down and right. Letter-spacing 0.15em, approximately 36pt equivalent. The text must be crisp and perfectly kerned.
+
+Line 2 (approximately 85% from top): "THE MEASURE OF EXCELLENCE" — Trajan Pro font, warm cream (#FFF8DC) with subtle golden shadow. Letter-spacing 0.12em, approximately 16pt equivalent.
+
+Both text lines are centered beneath the emblem with comfortable spacing.
+
+OVERALL QUALITY:
+
+This must look like a photograph of a real precision-crafted artifact — something you could reach out and touch. The granite should look like granite. The gold should look like gold. The onyx should look like onyx. The amber should look like amber. No stylization, no abstraction, no artistic interpretation. Pure photorealistic material rendering at the highest possible quality. The emblem should feel like the official seal of a company that measures everything and accepts only excellence — weighty, mathematical, architectural, and unmistakably premium.
+
+ABSOLUTELY NO oil painting, NO watercolor, NO painterly style, NO traditional media aesthetic. Photorealistic studio product photography of a precision-crafted artifact.
