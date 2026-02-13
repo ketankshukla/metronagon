@@ -302,12 +302,60 @@ The delivered package includes the assembled PDF, all individual page images, an
 
 This is the complete service offered in our Children's Picture Book packages.`,
   },
+  "designing-series-logos-that-anchor-a-brand": {
+    title: "Designing Series Logos That Anchor a Brand",
+    date: "2026-01-18",
+    readTime: "5 min read",
+    category: "Branding",
+    content: `A series logo is the single most important branding asset you create. It appears on every cover, every box set, every thumbnail, every social media post. It's the visual thread that ties everything together — and it needs to work at 16 pixels (favicon) and 1600 pixels (hero banner) with equal clarity.
+
+## What Makes a Great Series Logo
+
+A great series logo accomplishes three things:
+
+1. **Instant recognition** — a reader who's seen it once should recognize it again across any format
+2. **Genre signaling** — the logo should tell you the type of content before you read a single word
+3. **Scale resilience** — it must be readable and impactful at every size, from thumbnail to print poster
+
+## Three Logos, Three Identities
+
+The three series logos shown below were each designed for a completely different audience and genre. Despite being created by the same pipeline, each has its own distinct personality.
+
+### Aztec Samurai Adventures
+
+A fantasy series demands a logo that feels epic and ancient. The Aztec Samurai Adventures logo uses bold, angular letterforms with Aztec-inspired geometric patterns. Gold on dark backgrounds creates a sense of legendary storytelling.
+
+### Repetition: Mother of Mastery
+
+A self-improvement series needs to feel clean, authoritative, and aspirational. The Repetition logo uses modern serif typography with measured spacing. The visual language says "professional development" — not fiction, not casual.
+
+### Reality Without Belief
+
+A philosophical essay series calls for contemplative minimalism. The Reality Without Belief logo uses restrained typography with generous whitespace. It whispers rather than shouts — appropriate for a series about quiet examination of assumptions.
+
+## The Design Process
+
+Each logo follows the same production pipeline:
+
+1. **Brief analysis** — genre expectations, audience demographics, competitive landscape
+2. **Concept development** — 3-4 distinct directions exploring different typographic and symbolic approaches
+3. **Refinement** — the winning concept goes through multiple iteration passes for kerning, proportion, and balance
+4. **Multi-format export** — PNG (transparent), SVG, and variations for dark/light backgrounds
+
+The result is a logo that works everywhere: book covers, Amazon listings, social media profiles, YouTube thumbnails, and marketing materials.
+
+## Why Logos Matter for Series Sales
+
+Authors who invest in a series logo see a measurable difference in reader perception. A consistent logo across 5, 8, or 12 covers transforms a collection of books into a brand. Readers don't just buy books — they buy into series. A strong logo is what makes that series feel real, professional, and worth committing to.
+
+Series logo design is included in every Series Branding and Full Pipeline package at Metronagon.`,
+  },
 };
 
 interface GallerySection {
   title: string;
   caption?: string;
-  layout: "covers" | "landscape" | "portraits" | "pages";
+  layout: "covers" | "landscape" | "portraits" | "pages" | "logos";
   images: { src: string; alt: string }[];
 }
 
@@ -601,11 +649,49 @@ const postGalleries: Record<string, GallerySection[]> = {
       ],
     },
   ],
+  "designing-series-logos-that-anchor-a-brand": [
+    {
+      title: "Aztec Samurai Adventures — Series Logo",
+      caption:
+        "Bold, angular, and epic. The Aztec Samurai Adventures logo anchors a 12-book fantasy series with gold-on-dark energy that immediately signals adventure and ancient mythology.",
+      layout: "logos",
+      images: [
+        {
+          src: "/portfolio/aztec/series-logo.png",
+          alt: "Aztec Samurai Adventures — Series Logo",
+        },
+      ],
+    },
+    {
+      title: "Repetition: Mother of Mastery — Series Logo",
+      caption:
+        "Clean, authoritative, and aspirational. The Repetition series logo sets the tone for a 5-book self-improvement collection with measured typography and professional presence.",
+      layout: "logos",
+      images: [
+        {
+          src: "/portfolio/repetition/series-logo.png",
+          alt: "Repetition: Mother of Mastery — Series Logo",
+        },
+      ],
+    },
+    {
+      title: "Reality Without Belief — Series Logo",
+      caption:
+        "Contemplative and minimal. The Reality Without Belief logo reflects the philosophical nature of a 5-book essay series — restrained, thoughtful, and quietly confident.",
+      layout: "logos",
+      images: [
+        {
+          src: "/portfolio/reality/series-logo.png",
+          alt: "Reality Without Belief — Series Logo",
+        },
+      ],
+    },
+  ],
 };
 
 function GalleryRenderer({ galleries }: { galleries: GallerySection[] }) {
   return (
-    <div className="mt-12 space-y-12">
+    <div className="mt-12 space-y-14">
       <div className="flex items-center gap-3">
         <div className="h-px flex-1 bg-gold/20" />
         <span className="text-xs font-semibold uppercase tracking-widest text-gold">
@@ -621,51 +707,65 @@ function GalleryRenderer({ galleries }: { galleries: GallerySection[] }) {
               {gallery.caption}
             </p>
           )}
-          <div
-            className={`mt-5 grid gap-3 ${
-              gallery.layout === "covers"
-                ? "grid-cols-2 sm:grid-cols-3"
-                : gallery.layout === "portraits"
-                ? "grid-cols-2 sm:grid-cols-4"
-                : gallery.layout === "pages"
-                ? "grid-cols-2 sm:grid-cols-4"
-                : "grid-cols-1"
-            }`}
-          >
-            {gallery.images.map((img) => (
-              <div
-                key={img.src}
-                className={`group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover-gold-glow ${
-                  gallery.layout === "landscape"
-                    ? "aspect-[16/6]"
-                    : gallery.layout === "covers"
-                    ? "aspect-[2/3]"
-                    : gallery.layout === "portraits"
-                    ? "aspect-square"
-                    : "aspect-square"
-                }`}
-              >
-                <Image
-                  src={img.src}
-                  alt={img.alt}
-                  fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  sizes={
-                    gallery.layout === "landscape"
-                      ? "100vw"
-                      : gallery.layout === "covers"
-                      ? "(max-width: 640px) 50vw, 33vw"
-                      : "25vw"
-                  }
-                />
-                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-3 opacity-0 transition-opacity group-hover:opacity-100">
-                  <span className="text-xs font-medium text-white">
-                    {img.alt}
-                  </span>
+          {gallery.layout === "logos" || gallery.layout === "landscape" ? (
+            <div className="mt-5 space-y-4">
+              {gallery.images.map((img) => (
+                <div
+                  key={img.src}
+                  className="overflow-hidden rounded-xl border border-border bg-surface-light"
+                >
+                  <Image
+                    src={img.src}
+                    alt={img.alt}
+                    width={1200}
+                    height={400}
+                    className="h-auto w-full"
+                    sizes="100vw"
+                  />
+                  <div className="px-4 py-2">
+                    <span className="text-xs font-medium text-muted">
+                      {img.alt}
+                    </span>
+                  </div>
                 </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          ) : (
+            <div
+              className={`mt-5 grid gap-4 ${
+                gallery.layout === "covers"
+                  ? "grid-cols-2 sm:grid-cols-3"
+                  : gallery.layout === "portraits"
+                  ? "grid-cols-2 sm:grid-cols-4"
+                  : "grid-cols-2 sm:grid-cols-4"
+              }`}
+            >
+              {gallery.images.map((img) => (
+                <div
+                  key={img.src}
+                  className="overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover-gold-glow"
+                >
+                  <Image
+                    src={img.src}
+                    alt={img.alt}
+                    width={gallery.layout === "covers" ? 400 : 300}
+                    height={gallery.layout === "covers" ? 600 : 300}
+                    className="h-auto w-full"
+                    sizes={
+                      gallery.layout === "covers"
+                        ? "(max-width: 640px) 50vw, 33vw"
+                        : "25vw"
+                    }
+                  />
+                  <div className="px-3 py-2">
+                    <span className="text-xs font-medium text-muted">
+                      {img.alt}
+                    </span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       ))}
     </div>

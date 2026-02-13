@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
+import MetronagonLogo from "./MetronagonLogo";
 
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -10,13 +11,8 @@ export default function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 border-b border-border bg-background/80 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
-        <Link href="/" className="flex items-center gap-3">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg border border-gold/30 bg-gold/10">
-            <span className="text-lg font-bold text-gold">M</span>
-          </div>
-          <span className="text-lg font-semibold tracking-tight text-foreground">
-            Metronagon
-          </span>
+        <Link href="/" className="flex items-center">
+          <MetronagonLogo className="h-10 w-auto" />
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">

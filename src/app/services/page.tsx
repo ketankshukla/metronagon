@@ -28,8 +28,8 @@ interface Feature {
 const coverPackages = [
   {
     name: "Standard",
-    price: "$150",
-    delivery: "5 business days",
+    price: "$75",
+    delivery: "2 business days",
     description:
       "Single ebook cover with 3 concept variations and 1 polished final.",
     features: [
@@ -67,8 +67,8 @@ const coverPackages = [
   },
   {
     name: "Premium",
-    price: "$300",
-    delivery: "7 business days",
+    price: "$150",
+    delivery: "3 business days",
     popular: true,
     description:
       "Premium style cover with extra refinement and revision rounds.",
@@ -116,8 +116,8 @@ const brandingPackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$500",
-    delivery: "7 business days",
+    price: "$250",
+    delivery: "3 business days",
     features: [
       {
         title: "Series logo design",
@@ -144,8 +144,8 @@ const brandingPackages = [
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$900",
-    delivery: "10 business days",
+    price: "$450",
+    delivery: "5 business days",
     popular: true,
     features: [
       {
@@ -178,8 +178,8 @@ const brandingPackages = [
   {
     name: "Premium",
     subtitle: "8+ Books",
-    price: "$1,500",
-    delivery: "14 business days",
+    price: "$750",
+    delivery: "7 business days",
     features: [
       {
         title: "Series logo design",
@@ -224,8 +224,8 @@ const architecturePackages = [
   {
     name: "Small",
     subtitle: "3 Books",
-    price: "$500",
-    delivery: "5 business days",
+    price: "$200",
+    delivery: "2 business days",
     features: [
       {
         title: "Series structure & arc design",
@@ -257,8 +257,8 @@ const architecturePackages = [
   {
     name: "Medium",
     subtitle: "5 Books",
-    price: "$1,000",
-    delivery: "7 business days",
+    price: "$400",
+    delivery: "3 business days",
     popular: true,
     features: [
       {
@@ -296,8 +296,8 @@ const architecturePackages = [
   {
     name: "Large",
     subtitle: "8+ Books",
-    price: "$2,000",
-    delivery: "12 business days",
+    price: "$800",
+    delivery: "5 business days",
     features: [
       {
         title: "Epic-scale series structure",
@@ -346,8 +346,8 @@ const architecturePackages = [
 const childrensPackages = [
   {
     name: "Standard",
-    price: "$1,200",
-    delivery: "10 business days",
+    price: "$500",
+    delivery: "5 business days",
     description: "Complete 32-page AI-illustrated picture book.",
     features: [
       {
@@ -384,8 +384,8 @@ const childrensPackages = [
   },
   {
     name: "Premium",
-    price: "$2,500",
-    delivery: "14 business days",
+    price: "$1,000",
+    delivery: "7 business days",
     popular: true,
     description:
       "Premium picture book with custom character design and print-ready formatting.",
@@ -438,8 +438,8 @@ const pipelinePackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$1,000",
-    delivery: "10 business days",
+    price: "$400",
+    delivery: "5 business days",
     features: [
       {
         title: "Series plan (3 books)",
@@ -476,8 +476,8 @@ const pipelinePackages = [
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$2,200",
-    delivery: "14 business days",
+    price: "$900",
+    delivery: "7 business days",
     popular: true,
     features: [
       {
@@ -520,8 +520,8 @@ const pipelinePackages = [
   {
     name: "Premium",
     subtitle: "8+ Books",
-    price: "$3,500",
-    delivery: "21 business days",
+    price: "$1,500",
+    delivery: "10 business days",
     features: [
       {
         title: "Full series plan (8+ books)",
@@ -570,69 +570,69 @@ const pipelinePackages = [
 const updates = [
   {
     name: "Cover — Minor Revision",
-    price: "$35",
+    price: "$20",
     desc: "Text fix, color adjustment, subtitle change",
-    delivery: "2 business days",
+    delivery: "1 business day",
   },
   {
     name: "Cover — Major Revision",
-    price: "$100",
+    price: "$50",
     desc: "New concept, different style, layout overhaul",
-    delivery: "4 business days",
-  },
-  {
-    name: "Add New Book Cover",
-    price: "$175",
-    desc: "New cover matching existing series style",
-    delivery: "4 business days",
-  },
-  {
-    name: "Logo Refresh",
-    price: "$200",
-    desc: "Updated or redesigned series logo",
-    delivery: "3 business days",
-  },
-  {
-    name: "New Box Set Cover",
-    price: "$150",
-    desc: "Additional box set or panoramic cover",
-    delivery: "3 business days",
-  },
-  {
-    name: "Add Book to Plan",
-    price: "$200",
-    desc: "New outline + chapter structure + continuity update",
-    delivery: "3 business days",
-  },
-  {
-    name: "Plan Restructure",
-    price: "$350",
-    desc: "Reorder, split, or merge books in plan",
-    delivery: "5 business days",
-  },
-  {
-    name: "Book Description Update",
-    price: "$40",
-    desc: "Updated Amazon/retail description",
     delivery: "2 business days",
   },
   {
+    name: "Add New Book Cover",
+    price: "$85",
+    desc: "New cover matching existing series style",
+    delivery: "2 business days",
+  },
+  {
+    name: "Logo Refresh",
+    price: "$100",
+    desc: "Updated or redesigned series logo",
+    delivery: "2 business days",
+  },
+  {
+    name: "New Box Set Cover",
+    price: "$75",
+    desc: "Additional box set or panoramic cover",
+    delivery: "2 business days",
+  },
+  {
+    name: "Add Book to Plan",
+    price: "$100",
+    desc: "New outline + chapter structure + continuity update",
+    delivery: "2 business days",
+  },
+  {
+    name: "Plan Restructure",
+    price: "$175",
+    desc: "Reorder, split, or merge books in plan",
+    delivery: "3 business days",
+  },
+  {
+    name: "Book Description Update",
+    price: "$20",
+    desc: "Updated Amazon/retail description",
+    delivery: "1 business day",
+  },
+  {
     name: "Children's Book — Page Edit",
-    price: "$50/pg",
+    price: "$25/pg",
     desc: "Text/story edits with re-illustrated page",
-    delivery: "2 days per page",
+    delivery: "1 day per page",
   },
   {
     name: "Children's Book — Add Page",
-    price: "$75/pg",
+    price: "$40/pg",
     desc: "New illustrated page in existing book",
-    delivery: "2 days per page",
+    delivery: "1 day per page",
   },
   {
     name: "Children's Book — New Character",
-    price: "$100",
+    price: "$50",
     desc: "New character or scene in existing style",
-    delivery: "3 business days",
+    delivery: "2 business days",
   },
 ];
 
@@ -933,7 +933,7 @@ export default function ServicesPage() {
                 Ongoing cover additions as you publish. Up to 1 new cover per
                 month.
               </p>
-              <p className="mt-3 text-sm font-bold text-gold">$300/quarter</p>
+              <p className="mt-3 text-sm font-bold text-gold">$150/quarter</p>
             </div>
           </div>
         </div>

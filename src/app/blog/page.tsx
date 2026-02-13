@@ -63,6 +63,15 @@ const posts = [
     readTime: "12 min read",
     category: "Children's Books",
   },
+  {
+    slug: "designing-series-logos-that-anchor-a-brand",
+    title: "Designing Series Logos That Anchor a Brand",
+    excerpt:
+      "A logo is the visual anchor of every series. This post showcases the logos created for three distinct book series — each designed to work at favicon scale and hero banner size while capturing the tone and identity of the series it represents.",
+    date: "2026-01-18",
+    readTime: "5 min read",
+    category: "Branding",
+  },
 ];
 
 const categories = [
@@ -72,6 +81,7 @@ const categories = [
   "Process",
   "Character Design",
   "Children's Books",
+  "Branding",
 ];
 
 function formatDate(dateStr: string) {

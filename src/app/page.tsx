@@ -11,6 +11,7 @@ import {
   Shield,
   ChevronRight,
 } from "lucide-react";
+import MetronagonLogo from "@/components/MetronagonLogo";
 
 const services = [
   {
@@ -18,7 +19,7 @@ const services = [
     title: "Ebook Cover Design",
     description:
       "Photorealistic and stylised AI-generated covers at 1600×2400, 300 DPI. Three concepts, one polished final.",
-    price: "From $150",
+    price: "From $75",
     href: "/services#covers",
   },
   {
@@ -26,7 +27,7 @@ const services = [
     title: "Series Branding",
     description:
       "Consistent visual identity across your entire series. Logos, covers, box sets, panoramic art, and thumbnails.",
-    price: "From $500",
+    price: "From $250",
     href: "/services#branding",
   },
   {
@@ -34,7 +35,7 @@ const services = [
     title: "Series Architecture",
     description:
       "Complete series blueprints. Chapter outlines, continuity plans, book descriptions, and cross-book arc design.",
-    price: "From $500",
+    price: "From $200",
     href: "/services#architecture",
   },
   {
@@ -42,7 +43,7 @@ const services = [
     title: "Children's Picture Books",
     description:
       "32-page AI-illustrated picture books with consistent character design. Story to assembled PDF.",
-    price: "From $1,200",
+    price: "From $500",
     href: "/services#childrens",
   },
 ];
@@ -89,11 +90,8 @@ export default function Home() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(212,175,55,0.08),transparent_60%)]" />
         <div className="relative mx-auto max-w-6xl px-6 pb-24 pt-24 md:pb-32 md:pt-32">
           <div className="mx-auto max-w-3xl text-center">
-            <div className="animate-fade-in mb-6 inline-flex items-center gap-2 rounded-full border border-gold/20 bg-gold/5 px-4 py-1.5">
-              <Sparkles size={14} className="text-gold" />
-              <span className="text-xs font-medium text-gold">
-                The Measure of Excellence
-              </span>
+            <div className="animate-fade-in mb-8">
+              <MetronagonLogo className="mx-auto h-16 w-auto md:h-20" />
             </div>
 
             <h1 className="animate-fade-in-delay-1 text-4xl font-bold leading-tight tracking-tight md:text-6xl md:leading-[1.1]">
