@@ -317,9 +317,13 @@ A great series logo accomplishes three things:
 2. **Genre signaling** — the logo should tell you the type of content before you read a single word
 3. **Scale resilience** — it must be readable and impactful at every size, from thumbnail to print poster
 
-## Three Logos, Three Identities
+## Four Logos, Four Identities
 
-The three series logos shown below were each designed for a completely different audience and genre. Despite being created by the same pipeline, each has its own distinct personality.
+The four logos shown below were each designed for a completely different audience and purpose. Despite being created by the same pipeline, each has its own distinct personality.
+
+### Metronagon Media
+
+Our own brand logo — a precision-crafted compass rose emblem with a golden nonagon at its center, representing the mathematical perfection underlying all great creative work. The outer ring features tessellating polygon carvings filled with gold inlay, and amber gemstones at the cardinal points. "Metronagon Media — The Measure of Excellence" rendered in elegant gold typography. This logo embodies everything we stand for: measurement, precision, and the pursuit of excellence.
 
 ### Aztec Samurai Adventures
 
@@ -650,6 +654,18 @@ const postGalleries: Record<string, GallerySection[]> = {
     },
   ],
   "designing-series-logos-that-anchor-a-brand": [
+    {
+      title: "Metronagon Media — Brand Logo",
+      caption:
+        "Our own brand emblem — a precision-crafted compass rose with a golden nonagon at its center, tessellating polygon carvings, and amber gemstones. The logo that represents everything we build for our clients.",
+      layout: "logos",
+      images: [
+        {
+          src: "/portfolio/logo.png",
+          alt: "Metronagon Media — The Measure of Excellence",
+        },
+      ],
+    },
     {
       title: "Aztec Samurai Adventures — Series Logo",
       caption:

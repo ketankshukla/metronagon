@@ -92,11 +92,15 @@ export default function Home() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(212,175,55,0.08),transparent_60%)]" />
         <div className="relative mx-auto max-w-6xl px-6 pb-24 pt-24 md:pb-32 md:pt-32">
           <div className="mx-auto max-w-3xl text-center">
-            <div className="animate-fade-in mb-6 inline-flex items-center gap-2 rounded-full border border-gold/20 bg-gold/5 px-4 py-1.5">
-              <Sparkles size={14} className="text-gold" />
-              <span className="text-xs font-medium text-gold">
-                The Measure of Excellence
-              </span>
+            <div className="animate-fade-in mb-8">
+              <Image
+                src="/portfolio/logo.png"
+                alt="Metronagon Media — The Measure of Excellence"
+                width={280}
+                height={280}
+                className="mx-auto h-48 w-48 md:h-64 md:w-64 object-contain drop-shadow-2xl"
+                priority
+              />
             </div>
 
             <h1 className="animate-fade-in-delay-1 text-4xl font-bold leading-tight tracking-tight md:text-6xl md:leading-[1.1]">

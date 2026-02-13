@@ -15,9 +15,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Metronagon — The Measure of Excellence",
+  title: "Metronagon Media — The Measure of Excellence",
   description:
     "Professional book cover design, series branding, series architecture, and children's book illustration for authors and publishers.",
+  icons: {
+    icon: "/icon.svg",
+    apple: "/portfolio/logo.png",
+  },
 };
 
 export default function RootLayout({
