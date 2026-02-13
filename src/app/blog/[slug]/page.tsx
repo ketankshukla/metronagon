@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowLeft, Calendar, Clock } from "lucide-react";
 
@@ -303,6 +304,374 @@ This is the complete service offered in our Children's Picture Book packages.`,
   },
 };
 
+interface GallerySection {
+  title: string;
+  caption?: string;
+  layout: "covers" | "landscape" | "portraits" | "pages";
+  images: { src: string; alt: string }[];
+}
+
+const postGalleries: Record<string, GallerySection[]> = {
+  "how-i-designed-12-consistent-covers-for-a-fantasy-series": [
+    {
+      title: "Aztec Samurai Adventures — Selected Covers",
+      caption:
+        "6 of the 12 covers from the series. Notice the consistent lighting, color palette, and compositional style across every cover — each built from the same style header.",
+      layout: "covers",
+      images: [
+        {
+          src: "/portfolio/aztec/covers/book1-cover.jpg",
+          alt: "Aztec Samurai Adventures — Book 1",
+        },
+        {
+          src: "/portfolio/aztec/covers/book3-cover.jpg",
+          alt: "Aztec Samurai Adventures — Book 3",
+        },
+        {
+          src: "/portfolio/aztec/covers/book5-cover.jpg",
+          alt: "Aztec Samurai Adventures — Book 5",
+        },
+        {
+          src: "/portfolio/aztec/covers/book7-cover.jpg",
+          alt: "Aztec Samurai Adventures — Book 7",
+        },
+        {
+          src: "/portfolio/aztec/covers/book9-cover.jpg",
+          alt: "Aztec Samurai Adventures — Book 9",
+        },
+        {
+          src: "/portfolio/aztec/covers/book12-cover.jpg",
+          alt: "Aztec Samurai Adventures — Book 12",
+        },
+      ],
+    },
+    {
+      title: "Box Set Covers",
+      caption:
+        "Landscape box set covers designed for Amazon bundle listings. The complete series and sub-collections, all maintaining the same visual identity.",
+      layout: "landscape",
+      images: [
+        {
+          src: "/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg",
+          alt: "Complete Series Box Set",
+        },
+        {
+          src: "/portfolio/aztec/box-sets/box-set-1-landscape.jpg",
+          alt: "Box Set 1 — Books 1-4",
+        },
+        {
+          src: "/portfolio/aztec/box-sets/box-set-2-landscape.jpg",
+          alt: "Box Set 2 — Books 5-8",
+        },
+      ],
+    },
+  ],
+  "planning-a-5-book-non-fiction-series-from-a-single-topic": [
+    {
+      title: "The Repetition Series — 5-Book Non-Fiction Example",
+      caption:
+        "A complete 5-book self-improvement series with consistent branding. Each cover uses the same compositional approach while varying the subject imagery.",
+      layout: "covers",
+      images: [
+        {
+          src: "/portfolio/repetition/book1-cover.jpg",
+          alt: "Repetition Series — Book 1",
+        },
+        {
+          src: "/portfolio/repetition/book2-cover.jpg",
+          alt: "Repetition Series — Book 2",
+        },
+        {
+          src: "/portfolio/repetition/book3-cover.jpg",
+          alt: "Repetition Series — Book 3",
+        },
+        {
+          src: "/portfolio/repetition/book5-cover.jpg",
+          alt: "Repetition Series — Book 5",
+        },
+      ],
+    },
+    {
+      title: "Series Landscape Cover",
+      caption:
+        "The complete Repetition series presented as a single panoramic product — designed for Amazon box set listings and marketing banners.",
+      layout: "landscape",
+      images: [
+        {
+          src: "/portfolio/repetition/complete-series-cover-landscape.jpg",
+          alt: "Repetition — Complete Series",
+        },
+      ],
+    },
+    {
+      title: "Reality Without Belief — Another 5-Book Series",
+      caption:
+        "A philosophical essay series with a completely different visual identity. Same pipeline, different genre, different aesthetic — proving the system adapts to any style.",
+      layout: "covers",
+      images: [
+        {
+          src: "/portfolio/reality/book1-cover.jpg",
+          alt: "Reality Series — Book 1",
+        },
+        {
+          src: "/portfolio/reality/book2-cover.jpg",
+          alt: "Reality Series — Book 2",
+        },
+        {
+          src: "/portfolio/reality/book3-cover.jpg",
+          alt: "Reality Series — Book 3",
+        },
+        {
+          src: "/portfolio/reality/book5-cover.jpg",
+          alt: "Reality Series — Book 5",
+        },
+      ],
+    },
+  ],
+  "the-ai-powered-book-cover-pipeline": [
+    {
+      title: "Pipeline Output — Three Different Series, One System",
+      caption:
+        "The same AI-powered pipeline produced all three series below. Fantasy fiction, self-improvement, and philosophy — each with its own visual language, all built on the same production system.",
+      layout: "covers",
+      images: [
+        {
+          src: "/portfolio/aztec/covers/book1-cover.jpg",
+          alt: "Aztec Samurai — Fantasy Fiction",
+        },
+        {
+          src: "/portfolio/aztec/covers/book5-cover.jpg",
+          alt: "Aztec Samurai — Fantasy Fiction",
+        },
+        {
+          src: "/portfolio/repetition/book1-cover.jpg",
+          alt: "Repetition — Self-Improvement",
+        },
+        {
+          src: "/portfolio/repetition/book3-cover.jpg",
+          alt: "Repetition — Self-Improvement",
+        },
+        {
+          src: "/portfolio/reality/book1-cover.jpg",
+          alt: "Reality — Philosophy",
+        },
+        {
+          src: "/portfolio/reality/book3-cover.jpg",
+          alt: "Reality — Philosophy",
+        },
+      ],
+    },
+    {
+      title: "From Single Covers to Complete Branding",
+      caption:
+        "Box sets, panoramic covers, and series logos — all generated from the same pipeline that produces individual covers.",
+      layout: "landscape",
+      images: [
+        {
+          src: "/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg",
+          alt: "Aztec — Complete Series Box Set",
+        },
+        {
+          src: "/portfolio/repetition/complete-series-cover-landscape.jpg",
+          alt: "Repetition — Complete Series",
+        },
+        {
+          src: "/portfolio/reality/complete-series-cover-landscape.jpg",
+          alt: "Reality — Complete Series",
+        },
+      ],
+    },
+  ],
+  "creating-30-character-portraits-with-consistent-style": [
+    {
+      title: "Character Portrait Gallery — 8 of 30 Characters",
+      caption:
+        "Eight characters from the Aztec Samurai Adventures series. Each portrait shares the same rendering style, lighting setup, and color grading — while every character is visually distinct and immediately recognizable.",
+      layout: "portraits",
+      images: [
+        {
+          src: "/portfolio/aztec/characters/01-Itzil.jpg",
+          alt: "Itzil — Main Protagonist",
+        },
+        {
+          src: "/portfolio/aztec/characters/03-Volzentar.jpg",
+          alt: "Volzentar",
+        },
+        {
+          src: "/portfolio/aztec/characters/05-Nightshade.jpg",
+          alt: "Nightshade",
+        },
+        { src: "/portfolio/aztec/characters/07-Neyla.jpg", alt: "Neyla" },
+        { src: "/portfolio/aztec/characters/09-Miyako.jpg", alt: "Miyako" },
+        { src: "/portfolio/aztec/characters/14-Rainara.jpg", alt: "Rainara" },
+        { src: "/portfolio/aztec/characters/22-Relicara.jpg", alt: "Relicara" },
+        { src: "/portfolio/aztec/characters/30-Sethara.jpg", alt: "Sethara" },
+      ],
+    },
+  ],
+  "what-makes-a-book-cover-sell": [
+    {
+      title: "Genre Signaling in Action — Three Different Genres",
+      caption:
+        "Fantasy (dark, cinematic, character-focused), Self-Improvement (clean, bold, aspirational), Philosophy (minimal, contemplative, abstract). Same creator, completely different visual language — because genre dictates design.",
+      layout: "covers",
+      images: [
+        {
+          src: "/portfolio/aztec/covers/book1-cover.jpg",
+          alt: "Fantasy — Dark & Cinematic",
+        },
+        {
+          src: "/portfolio/aztec/covers/book7-cover.jpg",
+          alt: "Fantasy — Character-Focused",
+        },
+        {
+          src: "/portfolio/repetition/book1-cover.jpg",
+          alt: "Self-Improvement — Clean & Bold",
+        },
+        {
+          src: "/portfolio/repetition/book2-cover.jpg",
+          alt: "Self-Improvement — Aspirational",
+        },
+        {
+          src: "/portfolio/reality/book1-cover.jpg",
+          alt: "Philosophy — Minimal & Contemplative",
+        },
+        {
+          src: "/portfolio/reality/book2-cover.jpg",
+          alt: "Philosophy — Abstract",
+        },
+      ],
+    },
+    {
+      title: "Consistency Sells Series",
+      caption:
+        "When a reader sees covers that clearly belong together, the message is unmistakable: this is a professional, complete body of work.",
+      layout: "landscape",
+      images: [
+        {
+          src: "/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg",
+          alt: "12-Book Fantasy Series",
+        },
+        {
+          src: "/portfolio/repetition/complete-series-cover-landscape.jpg",
+          alt: "5-Book Self-Improvement Series",
+        },
+      ],
+    },
+  ],
+  "building-a-childrens-picture-book-with-ai-illustration": [
+    {
+      title: "Ixchel and the Stolen Sun — Selected Pages",
+      caption:
+        "Pages from a 32-page AI-illustrated children's picture book. Notice the consistent character design, vibrant color palette, and Pixar-inspired art style maintained across every page.",
+      layout: "pages",
+      images: [
+        {
+          src: "/portfolio/childrens/page-01.jpg",
+          alt: "Page 1 — Story Opening",
+        },
+        {
+          src: "/portfolio/childrens/page-04.jpg",
+          alt: "Page 4 — Character Introduction",
+        },
+        {
+          src: "/portfolio/childrens/page-08.jpg",
+          alt: "Page 8 — The Journey Begins",
+        },
+        {
+          src: "/portfolio/childrens/page-12.jpg",
+          alt: "Page 12 — Rising Action",
+        },
+        {
+          src: "/portfolio/childrens/page-16.jpg",
+          alt: "Page 16 — The Challenge",
+        },
+        {
+          src: "/portfolio/childrens/page-20.jpg",
+          alt: "Page 20 — The Turning Point",
+        },
+        {
+          src: "/portfolio/childrens/page-24.jpg",
+          alt: "Page 24 — Resolution",
+        },
+        {
+          src: "/portfolio/childrens/page-28.jpg",
+          alt: "Page 28 — Conclusion",
+        },
+      ],
+    },
+  ],
+};
+
+function GalleryRenderer({ galleries }: { galleries: GallerySection[] }) {
+  return (
+    <div className="mt-12 space-y-12">
+      <div className="flex items-center gap-3">
+        <div className="h-px flex-1 bg-gold/20" />
+        <span className="text-xs font-semibold uppercase tracking-widest text-gold">
+          Portfolio Examples
+        </span>
+        <div className="h-px flex-1 bg-gold/20" />
+      </div>
+      {galleries.map((gallery) => (
+        <div key={gallery.title}>
+          <h3 className="text-lg font-bold text-foreground">{gallery.title}</h3>
+          {gallery.caption && (
+            <p className="mt-2 text-sm leading-relaxed text-muted">
+              {gallery.caption}
+            </p>
+          )}
+          <div
+            className={`mt-5 grid gap-3 ${
+              gallery.layout === "covers"
+                ? "grid-cols-2 sm:grid-cols-3"
+                : gallery.layout === "portraits"
+                ? "grid-cols-2 sm:grid-cols-4"
+                : gallery.layout === "pages"
+                ? "grid-cols-2 sm:grid-cols-4"
+                : "grid-cols-1"
+            }`}
+          >
+            {gallery.images.map((img) => (
+              <div
+                key={img.src}
+                className={`group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover-gold-glow ${
+                  gallery.layout === "landscape"
+                    ? "aspect-[16/6]"
+                    : gallery.layout === "covers"
+                    ? "aspect-[2/3]"
+                    : gallery.layout === "portraits"
+                    ? "aspect-square"
+                    : "aspect-square"
+                }`}
+              >
+                <Image
+                  src={img.src}
+                  alt={img.alt}
+                  fill
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  sizes={
+                    gallery.layout === "landscape"
+                      ? "100vw"
+                      : gallery.layout === "covers"
+                      ? "(max-width: 640px) 50vw, 33vw"
+                      : "25vw"
+                  }
+                />
+                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-3 opacity-0 transition-opacity group-hover:opacity-100">
+                  <span className="text-xs font-medium text-white">
+                    {img.alt}
+                  </span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
 export async function generateStaticParams() {
   return Object.keys(posts).map((slug) => ({ slug }));
 }
@@ -369,9 +738,7 @@ export default async function BlogPost({
         </Link>
 
         <div className="mb-4 inline-flex rounded-full border border-gold/20 bg-gold/5 px-3 py-1">
-          <span className="text-xs font-medium text-gold">
-            {post.category}
-          </span>
+          <span className="text-xs font-medium text-gold">{post.category}</span>
         </div>
 
         <h1 className="text-3xl font-bold leading-tight tracking-tight md:text-4xl">
@@ -451,6 +818,10 @@ export default async function BlogPost({
             );
           })}
         </div>
+
+        {postGalleries[slug] && (
+          <GalleryRenderer galleries={postGalleries[slug]} />
+        )}
       </article>
 
       <section className="border-t border-border bg-surface py-16">
