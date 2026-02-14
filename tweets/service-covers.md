@@ -16,7 +16,7 @@ I design professional, cinematic ebook covers for indie authors:
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #EbookCover #AmazonKDP #CoverDesign
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #IngramSpark #PrintOnDemand #CoverDesigner
 ```
 
 ## Images to Attach (4-image carousel — your best individual covers)

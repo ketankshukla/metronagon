@@ -11,7 +11,7 @@ That's what series branding does. It turns individual books into a unified brand
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #FantasyBooks #IndieAuthor #CoverDesign #BookCoverReveal
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt
 ```
 
 ## Image to Attach

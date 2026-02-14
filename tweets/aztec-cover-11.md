@@ -9,7 +9,7 @@ The penultimate cover. One book left after this. The tension in the story should
 
 Darker. Bolder. More urgent. The visual language shifts just enough to signal: the climax is here.
 
-#BookCoverDesign #FantasyBooks #IndieAuthor #CoverReveal #WritingCommunity
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt
 ```
 
 ## Image to Attach

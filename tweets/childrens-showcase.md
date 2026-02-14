@@ -11,7 +11,7 @@ This is what a professional children's book looks like when it's designed with i
 
 Children's picture books from $500 → metronagon.com/services
 
-#ChildrensBooks #PictureBook #BookIllustration #IndieAuthor #SelfPublishing #KidLit
+#ChildrensBooks #PictureBook #KidLit #KidLitArt #PictureBookArt #ChildrensAuthor #ChildrensIllustration #BookIllustration #Illustration #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #AIart #AIillustration #BookDesign #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #Storytime #ReadAloud #KidsBooks #ChildrensLiterature #PictureBookIllustration
 ```
 
 ## Images to Attach (4-image carousel)

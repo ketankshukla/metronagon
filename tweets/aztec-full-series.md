@@ -11,7 +11,7 @@ This is The Aztec Chronicles — and this is what full series branding looks lik
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #FantasyBooks #SeriesBranding
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookBranding #FantasyBooks #DarkFantasy #EpicFantasy #FantasyArt #FantasyCover #BookCoverReveal #CoverReveal #AIart #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices
 ```
 
 ## Images to Attach (4-image carousel)

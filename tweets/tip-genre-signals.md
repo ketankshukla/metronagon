@@ -15,7 +15,7 @@ If your fantasy novel looks like a romance, fantasy readers skip it AND romance 
 
 Genre-accurate covers sell. Pretty covers that miss the genre don't.
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #WritingTips #BookMarketing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #WritingTips #BookMarketing #AuthorTips #BookSales #SelfPubTips #FantasyBooks #RomanceBooks #ThrillerBooks #SciFiBooks #GenreFiction #CoverDesigner #HireADesigner #AuthorServices #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #PublishingTips #BookDesignTips #GenreSignals
 ```
 
 ## Image to Attach

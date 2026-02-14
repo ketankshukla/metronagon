@@ -15,7 +15,7 @@ Your cover is your #1 marketing asset. Treat it like one.
 
 Need help? → metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #WritingTips #BookMarketing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #WritingTips #BookMarketing #AuthorTips #BookSales #SelfPubTips #AuthorBranding #BookBranding #CoverDesigner #HireADesigner #AuthorServices #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #PublishingTips #AuthorCommunity #WritingAdvice #BookDesignTips #MarketingTips #SelfPublishingTips
 ```
 
 ## Image to Attach

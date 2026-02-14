@@ -14,7 +14,7 @@ Nothing makes this work more rewarding than hearing a client is thrilled with th
 If you're looking for professional book covers or series branding:
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #ClientReview #SelfPublishing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #ClientReview #Testimonial #HappyClient #SeriesBranding #AuthorBranding #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #AIart #AIillustration #SocialProof #CoverDesigner
 ```
 
 ## Image to Attach

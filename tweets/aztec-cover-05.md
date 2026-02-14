@@ -9,7 +9,7 @@ Five covers deep into a 12-book series and the visual language is rock solid. Sa
 
 This is what readers see on your Amazon page. Make it count.
 
-#BookCoverDesign #FantasyBooks #IndieAuthor #AmazonKDP #CoverDesign
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt
 ```
 
 ## Image to Attach

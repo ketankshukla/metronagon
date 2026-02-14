@@ -10,6 +10,8 @@ Every page. Every character. Consistent art style from cover to final page.
 Here's what the process looks like — and what you get when you order one.
 
 🧵 Thread ↓
+
+#ChildrensBooks #PictureBook #KidLit #KidLitArt #PictureBookArt #ChildrensAuthor #ChildrensIllustration #BookIllustration #Illustration #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #AIart #AIillustration #BookDesign #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #Storytime #ReadAloud #KidsBooks #ChildrensLiterature #PictureBookIllustration
 ```
 
 **Image:** `public/portfolio/childrens/page-01.jpg`

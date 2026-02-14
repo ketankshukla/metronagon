@@ -11,7 +11,7 @@ Your series isn't just a collection of books — it's a brand. Treat it like one
 
 Box set covers included in all series branding packages → metronagon.com/services
 
-#SeriesBranding #BoxSet #BookCoverDesign #IndieAuthor #SelfPublishing #AuthorBranding
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #BoxSet #BoxSetCover #SeriesBranding #AuthorBranding #BookBranding #LogoDesign #BrandIdentity #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #VisualIdentity #YouTubeThumbnail
 ```
 
 ## Images to Attach (4-image carousel)

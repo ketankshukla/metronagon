@@ -18,6 +18,8 @@ Every project delivered in 2–10 business days.
 
 See the full portfolio and pricing ↓
 🔗 metronagon.com/services
+
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #IndieWriter #WritingCommunity #AuthorLife #AuthorCommunity #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookBranding #ChildrensBooks #PictureBook #KidLit #BookIllustration #AIart #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #BookCoverReveal #WritersLife #IndieBooks #BookStagram #BookTwitter #CreativeServices
 ```
 
 ## Images to Attach (4-image carousel)

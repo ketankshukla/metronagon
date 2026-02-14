@@ -11,7 +11,7 @@ Consistent branding across 12 books means every cover feels like it belongs — 
 
 Series branding from $250 → metronagon.com/services
 
-#BookCoverDesign #FantasyBooks #SelfPublishing #SeriesBranding #BookCovers
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt
 ```
 
 ## Image to Attach

@@ -19,7 +19,7 @@ One order. One designer. Complete series.
 
 🔗 metronagon.com/services
 
-#SeriesBranding #BookCoverDesign #IndieAuthor #SelfPublishing #WritingCommunity #AuthorServices
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #SeriesBranding #AuthorBranding #BookBranding #BrandIdentity #SeriesPlanning #BookPlanning #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #BookCoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #BoxSet #VisualIdentity
 ```
 
 ## Images to Attach (4-image carousel)

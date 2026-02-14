@@ -14,7 +14,7 @@ How did you get your current book cover?
 
 No judgment. Just curious what the split looks like in 2026.
 
-#IndieAuthor #SelfPublishing #BookCoverDesign #WritingCommunity
+#IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookDesign #AuthorTips #WritingTips #BookMarketing #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #AuthorCommunity #PublishingTips #CoverDesigner #HireADesigner #AuthorBranding #BookArt #SelfPubTips #FreelanceDesigner #AuthorServices #CreativeServices
 ```
 
 ## No image needed

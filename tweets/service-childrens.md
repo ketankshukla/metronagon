@@ -17,7 +17,7 @@ Premium — $1,000 (7-day delivery, character ref sheet + print formatting)
 
 🔗 metronagon.com/services
 
-#ChildrensBooks #PictureBook #KidLit #IndieAuthor #SelfPublishing #BookIllustration
+#ChildrensBooks #PictureBook #KidLit #KidLitArt #PictureBookArt #ChildrensAuthor #ChildrensIllustration #BookIllustration #Illustration #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmazonKDP #KDP #KindlePublishing #AIart #AIillustration #BookDesign #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #Storytime #ReadAloud #KidsBooks #ChildrensLiterature #PictureBookIllustration #PrintOnDemand
 ```
 
 ## Images to Attach (4-image carousel)

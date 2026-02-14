@@ -11,7 +11,7 @@ Every element is intentional — the lighting direction, the color temperature, 
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #DarkFantasy #SelfPublishing #BookCovers #WritingCommunity
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt
 ```
 
 ## Image to Attach

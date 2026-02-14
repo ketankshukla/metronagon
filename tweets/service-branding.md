@@ -17,7 +17,7 @@ Covers. Logo. Box set. Style guide. All unified.
 
 🔗 metronagon.com/services
 
-#SeriesBranding #BookCoverDesign #IndieAuthor #SelfPublishing #AuthorBranding
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #SeriesBranding #AuthorBranding #BookBranding #BrandIdentity #LogoDesign #VisualIdentity #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #BookCoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #BoxSet
 ```
 
 ## Images to Attach (4-image carousel)

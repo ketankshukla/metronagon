@@ -11,7 +11,7 @@ When a reader lands on your Amazon author page and sees a row of covers that loo
 
 Full series branding → metronagon.com/services
 
-#BookCoverDesign #SeriesBranding #IndieAuthor #SelfPublishing #CoverReveal #BookCovers
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices
 ```
 
 ## Image to Attach

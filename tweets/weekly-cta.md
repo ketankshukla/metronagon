@@ -3,6 +3,7 @@
 ## Tweet Text (rotate these weekly)
 
 ### Week 1
+
 ```
 New week. New covers.
 
@@ -16,10 +17,11 @@ If your book needs a cover that actually sells, I'm taking orders this week.
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #ChildrensBooks #AIart #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #CoverDesigner #PrintOnDemand
 ```
 
 ### Week 2
+
 ```
 Authors — how's your cover looking?
 
@@ -31,10 +33,11 @@ Starting at $75. Delivered in 2 days.
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #AmazonKDP
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookCoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #CoverDesigner
 ```
 
 ### Week 3
+
 ```
 Building a book series?
 
@@ -48,10 +51,11 @@ Series branding from Metronagon Media gives you consistent covers, a series logo
 
 🔗 metronagon.com/services
 
-#SeriesBranding #IndieAuthor #SelfPublishing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookDesign #SeriesBranding #AuthorBranding #BookBranding #BrandIdentity #LogoDesign #VisualIdentity #BoxSet #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #AIart #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices
 ```
 
 ### Week 4
+
 ```
 Spots open for this week.
 
@@ -61,7 +65,7 @@ Everything starts with a simple order on my website. I'll email you within 24 ho
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #AuthorServices
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #ChildrensBooks #PictureBook #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #FreelanceDesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #CoverDesigner
 ```
 
 ## Image to Attach

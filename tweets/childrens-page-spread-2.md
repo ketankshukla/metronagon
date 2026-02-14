@@ -9,7 +9,7 @@ Bigger scenes. More action. More emotion. The illustrations have to carry the st
 
 Every page is a full-color, full-bleed illustration. No shortcuts.
 
-#ChildrensBooks #PictureBook #BookIllustration #KidLit #IndieAuthor #AIart
+#ChildrensBooks #PictureBook #KidLit #KidLitArt #PictureBookArt #ChildrensAuthor #ChildrensIllustration #BookIllustration #Illustration #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmazonKDP #KDP #AIart #AIillustration #BookDesign #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #Storytime #ReadAloud #KidsBooks #ChildrensLiterature #PictureBookIllustration
 ```
 
 ## Images to Attach

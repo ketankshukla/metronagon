@@ -5,6 +5,7 @@ Use this template for business milestones (first sale, 10th client, 100th cover,
 ## Tweet Text Templates
 
 ### First Sale
+
 ```
 Just completed my first client project at Metronagon Media. ✦
 
@@ -14,10 +15,11 @@ If you're an indie author who needs professional book covers, I'd love to work w
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #SmallBusiness
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #SmallBusiness #SmallBusinessOwner #Entrepreneur #CreativeEntrepreneur #AuthorServices #HireADesigner #BookMarketing #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #SeriesBranding #AuthorBranding #GraphicDesign #DigitalArt #FreelanceDesigner
 ```
 
 ### 10th Client
+
 ```
 10 clients in. [X] covers designed. [X] series branded.
 
@@ -27,10 +29,11 @@ Here's to the next 10. And the 10 after that.
 
 🔗 metronagon.com
 
-#BookCoverDesign #IndieAuthor #SmallBusiness #Milestone
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #SmallBusiness #SmallBusinessOwner #Entrepreneur #CreativeEntrepreneur #Milestone #AuthorServices #HireADesigner #BookMarketing #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #SeriesBranding #AuthorBranding #GraphicDesign #FreelanceDesigner
 ```
 
 ### Cover Count Milestone
+
 ```
 [100] book covers designed at Metronagon Media.
 
@@ -40,7 +43,7 @@ Thank you to every author who trusted me with their vision.
 
 Here's to the next 100. ✦
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #Milestone
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #SmallBusiness #Milestone #CreativeEntrepreneur #AuthorServices #HireADesigner #BookMarketing #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #SeriesBranding #AuthorBranding #GraphicDesign #FreelanceDesigner #AIart
 ```
 
 ## Image to Attach

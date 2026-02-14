@@ -13,7 +13,7 @@ That's what we build at Metronagon Media.
 
 🔗 metronagon.com/services
 
-#SeriesBranding #BoxSet #BookCoverDesign #IndieAuthor #AuthorBranding #SelfPublishing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #BoxSet #BoxSetCover #SeriesBranding #AuthorBranding #BookBranding #LogoDesign #BrandIdentity #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #VisualIdentity #YouTubeThumbnail
 ```
 
 ## Images to Attach (4-image carousel)

@@ -6,6 +6,8 @@
 Which cover style do you prefer for dark fantasy?
 
 (Showing 2 different approaches to the same genre)
+
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #BookDesign #AuthorTips #BookMarketing #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #AuthorCommunity #CoverDesigner #BookArt #AIart #GraphicDesign #DigitalArt #FantasyCover
 ```
 
 ## Poll Options

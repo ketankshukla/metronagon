@@ -21,7 +21,7 @@ Plan once. Write with confidence.
 
 🔗 metronagon.com/services
 
-#WritingCommunity #IndieAuthor #SelfPublishing #AmWriting #BookPlanning #SeriesPlanning
+#WritingCommunity #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #AmWriting #WritersOfTwitter #AuthorLife #WritersLife #IndieWriter #BookPlanning #SeriesPlanning #StoryPlanning #PlotOutline #WritingTips #BookSeries #SeriesArchitecture #AuthorServices #BookMarketing #AmazonKDP #KDP #KindlePublishing #BookDesign #BookDescription #IndieBooks #BookStagram #BookTwitter #AuthorCommunity #WritingAdvice #NaNoWriMo #WritingProcess #StoryStructure #BookOutline #AuthorBranding #CreativeServices #HireADesigner
 ```
 
 ## Image to Attach

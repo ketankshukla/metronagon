@@ -11,7 +11,7 @@ When your entire series looks like it was planned from day one, readers trust it
 
 Series branding from $250 → metronagon.com/services
 
-#BookCoverDesign #SeriesBranding #IndieAuthor #SelfPublishing #BookCovers
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookBranding #BrandIdentity #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #VisualIdentity #BoxSet
 ```
 
 ## Images to Attach (4-image carousel)

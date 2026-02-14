@@ -11,7 +11,7 @@ These closing pages are designed to land with emotion — and to make this book 
 
 Complete 32-page children's picture books → metronagon.com/services
 
-#ChildrensBooks #PictureBook #KidLit #BookIllustration #IndieAuthor #SelfPublishing
+#ChildrensBooks #PictureBook #KidLit #KidLitArt #PictureBookArt #ChildrensAuthor #ChildrensIllustration #BookIllustration #Illustration #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmazonKDP #KDP #AIart #AIillustration #BookDesign #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #Storytime #ReadAloud #KidsBooks #ChildrensLiterature #PictureBookIllustration
 ```
 
 ## Images to Attach

@@ -9,7 +9,7 @@ Consistency is the difference between "books by the same author" and "a series."
 
 Same typography. Same layout structure. Same color language. Different story, same world. That's branding.
 
-#BookCoverDesign #SeriesBranding #IndieAuthor #BookCovers #WritingCommunity
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt
 ```
 
 ## Image to Attach

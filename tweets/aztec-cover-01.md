@@ -11,7 +11,7 @@ This is the cover that sets the tone for a 12-book series. Every element — the
 
 Ebook covers from $75. Link in bio.
 
-#BookCoverDesign #DarkFantasy #IndieAuthor #BookCovers #CoverReveal
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #SeriesBranding #AuthorBranding
 ```
 
 ## Image to Attach

@@ -11,7 +11,7 @@ This is what intentional design looks like — not just a pretty image, but a st
 
 Ebook covers from $75 → metronagon.com/services
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #CoverDesign #BookCovers
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices
 ```
 
 ## Image to Attach

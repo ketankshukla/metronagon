@@ -15,7 +15,7 @@ If the answer to any of these is "no," your cover is failing on Amazon — becau
 
 Design for the thumbnail first. Always.
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #BookMarketing #WritingTips
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #WritingTips #BookMarketing #AuthorTips #BookSales #SelfPubTips #AuthorBranding #CoverDesigner #HireADesigner #AuthorServices #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #PublishingTips #AuthorCommunity #WritingAdvice #BookDesignTips #MarketingTips #ThumbnailDesign
 ```
 
 ## Image to Attach

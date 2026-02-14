@@ -9,7 +9,7 @@ Eight covers. One unified world. Every time a reader sees this series on Amazon,
 
 That's what branding does — it builds trust before a single word is read.
 
-#BookCoverDesign #DarkFantasy #IndieAuthor #SelfPublishing #AuthorBranding
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt
 ```
 
 ## Image to Attach

@@ -11,7 +11,7 @@ Series branding includes a custom logo, and it's included in every branding pack
 
 🔗 metronagon.com/services
 
-#SeriesBranding #LogoDesign #BookCoverDesign #IndieAuthor #AuthorBranding
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #SeriesBranding #AuthorBranding #BookBranding #LogoDesign #BrandIdentity #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #DarkFantasy #FantasyBooks #BookCoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices #VisualIdentity
 ```
 
 ## Images to Attach

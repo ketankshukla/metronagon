@@ -4,6 +4,8 @@
 
 ```
 Authors — which genre's book covers are the HARDEST to get right?
+
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #FantasyBooks #RomanceBooks #ThrillerBooks #SciFiBooks #ChildrensBooks #GenreFiction #BookDesign #AuthorTips #WritingTips #BookMarketing #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #AuthorCommunity #PublishingTips #CoverDesigner #AuthorBranding #BookArt #SelfPubTips
 ```
 
 ## Poll Options (X allows 4 options)

@@ -11,7 +11,7 @@ Character portraits are included in our Premium series branding package.
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #CharacterDesign #DarkFantasy #IndieAuthor #FantasyArt #WritingCommunity
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #CharacterDesign #CharacterArt #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCharacters #SeriesBranding #AuthorBranding #BookCoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #Illustration #ConceptArt
 ```
 
 ## Images to Attach (4-image carousel — pick the 4 most visually striking)

@@ -9,7 +9,7 @@ The home stretch. The story is building to its peak — and the cover reflects t
 
 Darker. Sharper. More weight. But still part of the family. That's the discipline of series branding.
 
-#BookCoverDesign #IndieAuthor #SelfPublishing #BookCovers #CoverDesign
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt
 ```
 
 ## Image to Attach

@@ -13,7 +13,7 @@ Consistent branding = higher read-through rate = more revenue per reader.
 
 This is why I design entire series as a system, not individual covers in isolation.
 
-#SeriesBranding #BookCoverDesign #IndieAuthor #SelfPublishing #BookMarketing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #SeriesBranding #AuthorBranding #BookBranding #BrandIdentity #VisualIdentity #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #BookMarketing #AuthorTips #BookSales #SelfPubTips #AuthorServices #HireADesigner #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #PublishingTips #WritingAdvice #BookDesignTips #ReadThrough #BookSeries
 ```
 
 ## Image to Attach (side-by-side of a branded series)

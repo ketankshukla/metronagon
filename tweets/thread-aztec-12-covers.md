@@ -10,6 +10,8 @@ Every cover. The series logo. Box sets. Character portraits. A complete visual i
 This is The Aztec Chronicles. Here's every cover and the story behind the design.
 
 🧵 Thread ↓
+
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices
 ```
 
 **Image:** `public/portfolio/aztec/covers/book1-cover.jpg`

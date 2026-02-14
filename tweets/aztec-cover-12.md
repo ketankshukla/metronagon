@@ -11,7 +11,7 @@ This is the complete Aztec Chronicles — a 12-book dark fantasy series, designe
 
 Full series branding → metronagon.com/services
 
-#BookCoverDesign #DarkFantasy #IndieAuthor #SeriesBranding #CoverReveal #SelfPublishing
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #FantasyCover #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt #CreativeServices
 ```
 
 ## Image to Attach

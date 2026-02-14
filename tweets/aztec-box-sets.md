@@ -11,7 +11,7 @@ These are designed to stop the scroll on Amazon.
 
 🔗 metronagon.com/services
 
-#BookCoverDesign #BoxSet #DarkFantasy #IndieAuthor #SelfPublishing #AmazonKDP
+#BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #BoxSet #BoxSetCover #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #DarkFantasy #FantasyBooks #EpicFantasy #FantasyArt #SeriesBranding #AuthorBranding #BookBranding #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #BookArt
 ```
 
 ## Images to Attach (up to 4)
