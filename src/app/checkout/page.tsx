@@ -24,11 +24,11 @@ function CheckoutForm() {
     const res = await fetch("/api/checkout", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ priceId }),
+      body: JSON.stringify({ priceId, productName }),
     });
     const data = await res.json();
     return data.clientSecret;
-  }, [priceId]);
+  }, [priceId, productName]);
 
   if (!priceId) {
     return (

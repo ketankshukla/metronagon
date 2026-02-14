@@ -5,7 +5,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!);
 
 export async function POST(req: NextRequest) {
   try {
-    const { priceId } = await req.json();
+    const { priceId, productName } = await req.json();
 
     if (!priceId) {
       return NextResponse.json(
@@ -20,6 +20,7 @@ export async function POST(req: NextRequest) {
       mode: "payment",
       return_url: `${req.nextUrl.origin}/thank-you?session_id={CHECKOUT_SESSION_ID}`,
       allow_promotion_codes: true,
+      metadata: { product_name: productName || "" },
     });
 
     return NextResponse.json({ clientSecret: session.client_secret });
