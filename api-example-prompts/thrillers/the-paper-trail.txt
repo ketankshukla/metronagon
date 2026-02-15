@@ -1,0 +1,59 @@
+THE PAPER TRAIL — A LEGAL THRILLER
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Legal Thriller / Courtroom Drama
+ART STYLE: Stark typography-dominant design with a single photographic element — the cover is 90% bold black-and-white typography with a single dramatic photograph of a torn legal document revealing redacted text beneath. Inspired by the bold, confrontational graphic design of investigative journalism covers and Penguin Modern Classics. Maximum typographic impact, minimum imagery.
+
+---
+
+A bold, stark, typography-forward book cover where the TEXT is the design and the design is the text. The cover is dominated by massive, aggressive typography that fills nearly the entire surface — the kind of cover that can be read from thirty feet away, that hits the viewer like a headline. A single photographic element — a torn document fragment — provides the only non-typographic visual, serving as a window into the story's content. The design philosophy is confrontational minimalism: bold type, stark contrast, and the unsettling suggestion that what has been hidden on paper can destroy lives.
+
+THE TYPOGRAPHY — THE COVER IS THE TEXT:
+
+The cover is built from text elements stacked vertically, filling the space with typographic mass:
+
+BACKGROUND: Stark, matte white (#FFFFFF) — not warm cream, not cool blue-white, but aggressive, bright, institutional white. The white of a legal brief, a subpoena, a court filing.
+
+TITLE BLOCK (filling 10-55% from top):
+"THE" — in enormous ultra-bold condensed sans-serif (think Helvetica Neue Black Condensed or Impact) in pure black (#000000). The word spans the FULL width of the cover, letters touching both margins. The size is aggressive — each letter approximately 15% of the image height.
+"PAPER" — directly below, same font, same size, same full-width treatment, same black. Zero space between "THE" and "PAPER" — the words stack tightly, creating a dense black mass of letterforms.
+"TRAIL" — directly below, same treatment. The three words create a solid block of black type that dominates the upper half of the cover through sheer typographic mass. The density of the type block is deliberate — it suggests bureaucracy, legal filings, mountains of paper.
+
+THE TORN DOCUMENT (center, 55-75% from top):
+
+In the space between the title block and the author name, a SINGLE PHOTOGRAPHIC ELEMENT: a fragment of a legal document, torn roughly, as though ripped from a larger page. The document fragment is rendered with photographic precision:
+- Off-white legal paper (#F0ECE0) with visible fiber texture and a rough torn edge along the top and bottom
+- Printed legal text in small serif font — partially visible, partially torn away. The visible fragments include legal language: "...pursuant to Section 7(a) of the...," "...the defendant knowingly...," "...all evidence pertaining to..."
+- BLACK REDACTION BARS: Across the document fragment, thick black redaction bars (#000000) cover specific words and phrases — the characteristic heavy black rectangles used by government agencies to censor classified or sensitive information. The redaction bars are slightly uneven, as though applied by hand with a thick marker rather than printed.
+- BENEATH ONE TORN REDACTION BAR: Where the document has been torn, one redaction bar has been partially ripped away — and beneath it, previously hidden text is visible in red ink (#CC2020): a name, a date, or a damning phrase that was supposed to remain hidden forever. This revealed text is the cover's narrative hook — someone tore through the redaction and found the truth.
+
+The document fragment casts a subtle shadow on the white background beneath it, giving it physical dimensionality — it appears to be a real piece of paper lying on the white cover surface.
+
+A single red (#CC2020) paperclip attaches the document fragment to... nothing. It clips the upper-right corner of the fragment, a mundane office object that connects the explosive content to the everyday bureaucratic world where it originated.
+
+LOWER SECTION (75-95% from top):
+
+Below the document fragment, more typography:
+
+Author name: "VICTORIA CHASE-OKONKWO" — in medium-weight sans-serif in black (#000000), centered, letter-spacing 0.2em. The author name is large enough to be prominent but smaller than the title — occupying approximately 5% of the image height.
+
+Below the author name, a thin horizontal rule in black, and beneath it: "A LEGAL THRILLER" — in small, widely-spaced sans-serif capitals in red (#CC2020), letter-spacing 0.4em. The red genre label is the only color other than the revealed text — connecting the genre description to the dangerous truth hidden under the redaction.
+
+COLOR PALETTE — THREE COLORS ONLY:
+
+- Black: #000000 — typography, redaction bars
+- White: #FFFFFF — background
+- Red: #CC2020 — revealed text, genre label, paperclip
+The three-color restriction is absolute. The stark black-white-red palette has maximum visual impact and carries strong connotations: black for concealment, white for the blank page of justice, red for the blood-cost of hidden truth.
+
+TEXT RENDERING:
+
+All text on this cover must be RAZOR SHARP — no softness, no texture, no effects. The letters are pure geometry: straight edges, perfect curves, absolute black against absolute white. The precision of the typography is itself a statement — this is a cover about DOCUMENTS, about WORDS on PAPER, and every word on this cover is rendered with the same precision that legal language demands.
+
+OVERALL MOOD:
+
+Confrontational, urgent, institutional — the feeling of opening a classified file and finding that someone has torn through the redactions to reveal what was hidden. The typography-dominant design signals "important" and "serious" — this is not escapist fiction but fiction that engages with power, law, and the paper systems that conceal truth. The torn document is both literal (the story involves documents) and metaphorical (the story tears through concealment to reveal what matters).
+
+At thumbnail, the massive black "THE PAPER TRAIL" on white is instantly readable from any distance — the most legible cover in the entire collection. At full resolution, the document fragment details — the legal text, the redaction bars, the revealed red text, the paper texture — reward close reading.
+
+THIS IS TYPOGRAPHIC DESIGN with documentary photography. Bold, stark, confrontational. The beauty is in the impact — massive type that demands attention, and a single torn document that demands investigation.

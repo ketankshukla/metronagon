@@ -1,0 +1,79 @@
+THE ROBOT WHO LEARNED TO DREAM — A BEDTIME STORY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Children's Picture Book / Bedtime Story (ages 3-6)
+ART STYLE: 3D rendered Pixar-quality character art — a single adorable robot character rendered with the warmth, expressiveness, and polish of a major animation studio. Soft studio lighting, subsurface scattering on translucent materials, and the characteristic big-eyes-small-body proportions that make animated characters irresistible. A warm, intimate bedroom scene with soft blues and warm amber nightlight glow.
+
+---
+
+A heartwarming children's book cover featuring a single adorable robot character rendered in the style of a major animation studio's character art — the kind of polished, expressive 3D rendering seen in the best animated films. The robot is the entire focus: a loveable, slightly clumsy, deeply endearing character that children will want to hug. The scene is intimate — a child's bedroom at night, lit by a single warm nightlight, with the robot experiencing something new and wonderful: a dream.
+
+THE ROBOT — BLINK (center, 35-85% from top):
+
+Blink is a small, round, decidedly NON-threatening robot designed with every principle of cute character design:
+
+BODY: A rounded, egg-shaped body approximately the size of a large cat — smooth, slightly dented brushed aluminum with a warm silver-blue tone (#A0B0C0). The body is not sleek and perfect — it has the loveable imperfection of a well-used toy: small scratches, a tiny dent on the left side, and a patch where a different-colored metal panel has been riveted on as a repair (warm copper-gold, #C09050). The body has a subtle subsurface scattering quality — the metal is thin enough in places that the warm internal glow of Blink's power source shows through as a faint amber warmth from within.
+
+HEAD: A slightly smaller rounded shape sitting atop the body with no visible neck — the head rotates and tilts via an internal mechanism. The head is the same brushed aluminum as the body. On the front of the head, TWO ENORMOUS EYES — Blink's primary expressive feature. The eyes are large, round camera-lens-style optics with glowing iris rings: the outer ring is soft blue (#60A0E0), the inner ring is warm amber (#FFB040), and the pupil is a deep, dark circle that reflects the bedroom scene in miniature. The eyes are currently half-closed — heavy-lidded with sleepiness, the iris rings dimmed to a gentle glow. The eyelids are thin metal shutters that close from top and bottom, and they are rendered at the drowsy halfway point. A small antenna protrudes from the top of the head — a thin, flexible wire with a tiny glowing blue ball at the tip, currently drooping to one side like a sleepy flower.
+
+ARMS: Two thin, articulated arms extend from the body's sides — simple mechanical arms with ball-joint shoulders, hinged elbows, and three-fingered hands (two fingers and a thumb, each a rounded cylinder). The arms are currently hugging a small stuffed teddy bear to Blink's chest — the teddy is soft, worn, brown, and clearly beloved. The mechanical fingers grip the teddy with surprising gentleness.
+
+LEGS: Two short, stumpy legs ending in flat, round feet — like small suction cups. Blink is sitting on a child's bed, legs dangling over the edge, feet not touching the floor.
+
+EXPRESSION: Despite having no mouth, Blink communicates PURE SLEEPY CONTENTMENT through eye shape (half-closed, heavy), antenna position (drooping), body posture (slightly slumped, hugging teddy), and the warm dimmed glow of the eye-rings. The character design follows the animation principle that eyes and body language communicate emotion more powerfully than mouths.
+
+THE DREAM EFFECT — THE MAGICAL ELEMENT:
+
+Above Blink's head, a soft, luminous cloud of dream imagery is forming — Blink's first dream, made visible. The dream cloud is rendered as a translucent, softly glowing bubble approximately 25% of the image width, hovering above the antenna. Inside the dream cloud, small, simple, dreamlike images are faintly visible:
+- A tiny field of flowers in soft watercolor style (not 3D — deliberately different from the rest of the image, as dreams look different from reality)
+- A small butterfly in warm gold
+- Stars and a crescent moon
+The dream cloud glows with a soft, warm light — pale lavender (#D0C0E0) and warm gold (#FFE080) — that illuminates Blink's head from above, adding a magical rim-light to the antenna and the top of the head.
+
+THE BEDROOM:
+
+A child's bedroom at night — warm, cozy, safe:
+- The bed is simple, with a blue (#6080A0) duvet that is rumpled and soft, white pillows, and a patchwork quilt in warm colors (amber, coral, sky blue squares)
+- A nightlight on the bedside table casts the scene's primary warm light — a small plug-in light shaped like a crescent moon, glowing warm amber (#FFD080)
+- The walls are soft blue (#C0D0E0) with barely visible star-pattern wallpaper
+- A bookshelf in the background holds a few children's books (colorful spines visible) and a few more stuffed animals
+- A window shows a deep blue night sky (#1A2050) with a real crescent moon and stars outside — mirroring the dream moon above Blink's head
+- Soft shadows fill the corners — not scary darkness but cozy, protective dimness
+
+LIGHTING — WARM AND INTIMATE:
+
+Two light sources create the scene's warmth:
+1. The moon nightlight: Warm amber (#FFD080), casting soft directional light from the right, illuminating Blink's face, the teddy bear, and the bed surface. This light is warm, soft, and domestic.
+2. The dream cloud: Pale lavender and gold glow from above, adding a magical quality to the upper portion of the scene. This light is ethereal, soft, and wonder-inducing.
+The combination creates a warm, safe, slightly magical atmosphere — nighttime in a child's room, where the boundary between waking and dreaming is beautifully thin.
+
+COLOR PALETTE — BEDTIME WARMTH:
+
+- Brushed silver-blue: #A0B0C0 — Blink's body
+- Warm amber: #FFD080 — nightlight, eye ring, internal glow
+- Soft blue: #60A0E0 — eye ring, duvet, accents
+- Deep night blue: #1A2050 — window sky, deep shadows
+- Dream lavender: #D0C0E0 — dream cloud
+- Dream gold: #FFE080 — dream cloud accents
+- Warm copper: #C09050 — Blink's repair patch, warm accents
+- Teddy brown: #8B6B4A — stuffed bear
+- Soft wall blue: #C0D0E0 — bedroom walls
+
+TEXT — SOFT, ROUNDED, CHILD-FRIENDLY:
+
+Title (positioned at 4-24% from top, centered):
+"The Robot Who" — in a soft, rounded sans-serif font (think Fredoka One, Baloo, or Quicksand Bold — the fonts that say "children's book" without being Comic Sans) in warm amber (#FFD080). Medium size, letter-spacing 0.1em.
+"Learned to" — on the next line, same font, smaller, in soft blue (#60A0E0).
+"DREAM" — on the next line, MUCH larger, in the same font but rendered with a special treatment: the letters are filled with a gradient from warm amber at the bottom to dream lavender at the top, with tiny star shapes scattered within the letters. The word "DREAM" is the visual event — it glows, it sparkles, it promises magic.
+
+Subtitle (positioned at 26% from top, centered): "a bedtime story" — in small, gentle rounded sans-serif in soft blue (#60A0E0), letter-spacing 0.2em.
+
+Author/Illustrator (positioned at 89-93% from top, centered): "written & illustrated by KUMI NAKAMURA-OSEI" — in small rounded sans-serif in warm amber (#FFD080).
+
+OVERALL MOOD:
+
+Tender, sleepy, magical — the feeling of a child's eyelids getting heavy while a parent reads the last page of a bedtime story. Blink is the perfect bedtime companion: gentle, warm, slightly imperfect, and discovering something wonderful for the first time. The 3D rendering quality makes Blink feel REAL — a character a child could believe exists, sitting on their own bed, learning to dream.
+
+At thumbnail, the glowing robot eyes and the warm bedroom lighting against the dark blue night create an immediately appealing, warm image. At full resolution, Blink's character design — the gentle eye-lids, the drooping antenna, the tender grip on the teddy bear, the dream cloud above — is irresistible.
+
+THIS IS PIXAR-QUALITY 3D CHARACTER ART. Polished, expressive, warm. The beauty is in the character design — a robot that communicates pure emotion through eye shape and body language, in a scene that makes bedtime feel like the beginning of an adventure.

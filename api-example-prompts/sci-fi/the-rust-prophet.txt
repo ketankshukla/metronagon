@@ -1,0 +1,61 @@
+THE RUST PROPHET — BOOK ONE OF THE SCAVENGER GOSPELS
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Post-Apocalyptic / Dystopian Science Fiction
+ART STYLE: Dusty matte painting with a washed-out, desaturated color palette — the visual language of drought photography and dust bowl documentation. Vast empty landscapes dwarfing a single tiny figure. Every color bleached by relentless sun. Gritty texture of windblown sand on every surface.
+
+---
+
+A vast, desolate post-apocalyptic landscape rendered as a cinematic matte painting with a deliberately desaturated, sun-bleached color palette. The image should feel like a photograph taken through a haze of airborne dust — every color muted, every edge softened by particulate matter in the atmosphere, every surface scoured by decades of wind and neglect. The visual reference is drought photography, Dust Bowl-era FSA images, and the blinding white skies of extreme heat. This is NOT the dramatic, colorful post-apocalypse of action movies — it is the quiet, exhausted, sun-bleached apocalypse of a world that died slowly from heat and thirst.
+
+THE LANDSCAPE — AN ENDLESS RUST-RED DESERT WITH A BURIED CITY:
+
+The composition is dominated by EMPTINESS — a vast, flat desert plain stretching from edge to edge, horizon to horizon. The desert floor is hard-packed earth in rust-red and bleached ochre, cracked into large polygonal plates by decades of drought — the crack pattern is deep, wide enough to insert fingers, creating a tessellated texture across the entire ground surface. Fine rust-colored dust sits in the cracks and covers every surface.
+
+THE BURIED CITY (mid-ground, 40-70% from top):
+
+Rising from the desert floor like the bones of a half-buried skeleton, the remains of a modern city emerge. Skyscrapers — or what remains of them — protrude at various angles from the accumulated sand and dust. Only the upper floors are visible; the rest is buried. The tallest ruin reaches perhaps 30 stories above the dust line — a steel-and-glass tower with every window shattered, the glass long gone, the steel framework exposed and coated in thick rust that matches the desert floor. The building leans 15 degrees from vertical — slowly toppling over the centuries, arrested mid-fall by the compacted sand around its base. Smaller buildings around it are more deeply buried — some showing only their rooftop structures, HVAC units and elevator penthouses, protruding like strange geometric rocks from the flat desert. A freeway overpass emerges from the sand at a steep angle, its concrete crumbling, rebar exposed and rusted to lace, a single car — chassis only, no glass, no tires, no paint — sitting on the tilted road surface, held in place by accumulated sand.
+
+Every metal surface is coated in thick, textured rust — not the subtle surface oxidation of a few years but the deep, crumbling, structural rust of a century of exposure. The rust has its own beauty — warm oranges, deep browns, and occasional patches of almost purple-black where the corrosion is deepest. The concrete surfaces are sandblasted smooth, their aggregate exposed, stained with rust-water streaks running vertically from every piece of exposed rebar.
+
+THE FIGURE — TINY, SOLITARY, WALKING:
+
+At approximately 65% from the top of the image, dead center, a single human figure walks across the desert toward the buried city. The figure is SMALL — perhaps 3% of the image height — deliberately dwarfed by the vast landscape. The figure is gender-ambiguous, wrapped in layers of sun-bleached fabric — a hooded robe in faded sand-yellow over what appears to be scavenged modern clothing. They carry a long staff or walking stick in one hand and drag a makeshift sled behind them on a rope — the sled loaded with salvaged materials (indistinct shapes, bundles, containers). The figure casts a long shadow to the left — the only strong shadow in the image, indicating a low sun angle. Despite their tiny size, the figure is the image's emotional center — a single point of human persistence in an inhuman landscape.
+
+THE SKY — BLINDING, WHITE, OPPRESSIVE:
+
+The sky occupies the top 35% of the image and is almost entirely white — not cloud-white but the blinding, overexposed white of extreme heat haze. The sky begins as pale, bleached cream at the horizon, brightening to near-pure white (#F5F0E8) overhead. There are no clouds, no blue, no color — just an oppressive, featureless white dome of heat and dust. The sun is not directly visible but its position is implied by the lighting — high and slightly to the right, its light so diffused by atmospheric dust that it casts no hard shadows except at ground level. Near the horizon, the white sky transitions to the rust-colored landscape through a band of warm haze — the dust-laden air blurring the boundary between earth and sky.
+
+ATMOSPHERIC EFFECTS — DUST AND HEAT:
+
+Fine airborne dust permeates the entire scene, creating atmospheric perspective — distant objects (the buried buildings) are hazier and more desaturated than foreground objects (the cracked earth). Heat shimmer distorts the lowest portion of the buried buildings — the characteristic wavering of hot air over heated ground, rendered as a subtle vertical distortion of the building edges near the sand line. Occasional thin wisps of wind-blown dust curl across the foreground — low, ground-hugging streams of fine particles catching the light.
+
+COLOR PALETTE — BLEACHED AND DESATURATED:
+
+Every color in this image has been bleached by sun and scoured by sand:
+- Rust red-orange: #A05030 — desert floor, corroded metal (the dominant color)
+- Bleached ochre: #C8A870 — lighter earth areas, sand accumulation
+- Bone white: #E8DCC8 — exposed concrete, sun-bleached fabric
+- Deep rust brown: #5A2A1A — deep corrosion, crack shadows
+- Haze white: #F5F0E8 — sky, atmospheric dust
+- Steel grey (desaturated): #8A8078 — exposed structural steel under rust
+- Faded sand-yellow: #D4C4A0 — the figure's robe, light sand
+NO vivid colors anywhere. NO blue sky. NO green vegetation. NO bright highlights. Every color is muted, warm, and tired — the palette of a world that has been baking for a hundred years.
+
+TEXT — WEATHERED, DISTRESSED SERIF TYPOGRAPHY:
+
+Title (positioned at 6-20% from top, centered against the white sky):
+"THE RUST" — in a large, heavy serif font (think Playfair Display Black or similar high-contrast serif) in deep rust brown (#5A2A1A). The letters have a subtle distressed texture — tiny irregular gaps and rough edges as though the text itself has been sandblasted and corroded, matching the visual language of the rusted city below. The thick-thin contrast of the serif font creates elegant weight.
+"PROPHET" — on the next line, same font, same size, same distressed treatment, in a slightly lighter rust-orange (#A05030). The two-tone title creates depth while staying within the monochromatic warm palette.
+
+Series line (positioned at 22% from top, centered): "Book One of the Scavenger Gospels" — in small italic serif in bleached ochre (#C8A870), letter-spacing 0.1em. Warm and faded, like text on a sun-bleached book spine.
+
+Author name (positioned at 90-93% from top, centered over the dark cracked earth): "IBRAHIM KOWALSKI-ADESANYA" — in serif capitals in bone white (#E8DCC8), letter-spacing 0.2em. The white text floats above the dark rust-red desert floor, readable but not shouting.
+
+OVERALL MOOD AND QUALITY:
+
+Desolate, vast, quietly hopeful — the feeling of standing at the edge of a dead world and seeing, in the distance, the tiny figure of someone who refuses to stop walking. The emptiness IS the statement — the vast white sky, the endless cracked earth, the buried city, and the single human dot at the center. This cover communicates scale, loss, and stubborn persistence.
+
+At thumbnail, the stark contrast between the white sky and the rust-red earth, bisected by the silhouette of the buried city, creates an immediately striking composition. At full resolution, the cracked earth texture, the detailed rust on the buildings, and the tiny but carefully rendered walking figure reward close inspection.
+
+THIS IS POST-APOCALYPTIC MATTE PAINTING. Vast, desaturated, sun-bleached. The beauty is in the emptiness, the texture of decay, and the single point of human stubbornness against a landscape of total desolation.

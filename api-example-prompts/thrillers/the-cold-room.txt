@@ -1,0 +1,69 @@
+THE COLD ROOM — A NOVEL OF ESPIONAGE
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Spy Thriller / Cold War Espionage
+ART STYLE: Grainy vintage Cold War photography — the aesthetic of declassified intelligence photographs, shot on high-speed black-and-white film through a telephoto lens from across a foggy Berlin street. Heavy film grain, motion blur, surveillance-camera composition, and the stark, paranoid visual language of 1960s espionage. Monochrome with a cold blue-grey tint.
+
+---
+
+A tense, atmospheric book cover rendered as a grainy Cold War surveillance photograph — the kind of image found in a classified intelligence dossier, shot covertly from a car window or rooftop across a foggy European street. The image has all the technical imperfections of real surveillance photography: heavy film grain, slight motion blur, imperfect focus, the compression of a long telephoto lens, and the stark high-contrast rendering of fast black-and-white film pushed to its limits in low light. This is NOT a beautiful photograph — it is a functional one, taken by someone who valued information over aesthetics, and its utilitarian quality is precisely what makes it compelling.
+
+THE SCENE — A FIGURE ON A FOG-BOUND STREET:
+
+A narrow European street (Berlin, Prague, or Vienna — the architecture is deliberately ambiguous) in heavy fog, shot from a distance with a long telephoto lens. The telephoto compression flattens the depth — the buildings, the street, and the figure all appear to exist on nearly the same plane, stacked together.
+
+THE FIGURE (center, approximately 40-70% from top): A single person walks away from the camera, captured mid-stride. They wear a dark overcoat and a fedora-style hat — the silhouette is classic Cold War spy: anonymous, purposeful, heading somewhere important. The figure is NOT sharply focused — they are slightly soft, the edges of the coat blurred by either slight camera motion or the fog. The figure is dark — nearly a silhouette against the slightly lighter fog behind them — but enough detail is visible to see the shape of the coat collar turned up, the angle of the hat brim, and the suggestion of one hand in a coat pocket. The other hand carries a small briefcase or document case — a dark rectangular shape at the figure's side.
+
+The figure is small in the frame — occupying perhaps 15% of the image width — because the photographer is far away, watching through the telephoto. This distance creates the paranoid, voyeuristic quality of surveillance photography.
+
+THE STREET AND ARCHITECTURE:
+
+Old European buildings line both sides of the narrow street — their facades rendered as dark, looming shapes in the fog. The architecture is heavy: stone walls, tall windows, ornate cornices — but all of it reduced to near-silhouette by the fog and the high-contrast rendering. Street-level details emerge from the murk: a wrought-iron lamppost casting a diffuse circle of weak yellowish light in the fog; wet cobblestones reflecting the faint light; the edge of a parked car (a period-appropriate 1960s model) visible as a dark shape at the left edge.
+
+The fog is the scene's dominant atmospheric element — thick, cold, European river-fog that reduces visibility to perhaps fifty meters. In the photograph, the fog creates a natural depth gradient: the nearest buildings are darkest and most detailed; the figure is mid-tone and softer; the buildings beyond the figure are barely visible as light grey shapes; and beyond that, nothing — just white-grey void.
+
+SURVEILLANCE PHOTOGRAPH CHARACTERISTICS:
+
+- HEAVY FILM GRAIN: Extremely visible grain across the entire image — the characteristic coarse, clumpy grain of high-speed black-and-white film (ISO 3200+) pushed in development. The grain is most visible in the mid-tone areas (the fog, the lighter building surfaces) and gives the entire image a gritty, textured quality
+- TELEPHOTO COMPRESSION: The depth appears flattened — buildings seem closer to each other than they are, and the figure appears to be "pressed" against the background rather than standing in three-dimensional space
+- IMPERFECT FOCUS: The focus is slightly off — the lamppost in the mid-ground may be the sharpest element, with the figure slightly soft and the foreground slightly soft, suggesting the photographer focused quickly and imperfectly
+- HIGH CONTRAST: The tonal range is compressed — deep blacks and bright whites with limited mid-tones, the characteristic look of pushed high-speed film
+- SLIGHT MOTION BLUR: A very subtle horizontal smear on the figure and the nearest building edges — suggesting either slight camera movement during the long exposure needed for the low light, or that the photographer was shooting from a moving vehicle
+- VIGNETTING: The image is darker at the corners — the natural light fall-off of a telephoto lens, creating a subtle tunnel-vision effect that draws the eye to the center
+
+COLOR TINT — COLD BLUE-GREY:
+
+The image is monochrome but not neutral grey — it has a COLD BLUE-GREY tint (#8090A0 in the mid-tones) that suggests either the color of the fog, the fluorescent lighting of the street, or a deliberate toning choice in the darkroom. The tint adds to the cold, paranoid atmosphere — nothing in this image is warm.
+
+DOCUMENT/DOSSIER OVERLAY ELEMENTS:
+
+Overlaid on the photograph, subtle intelligence document elements:
+- A thin white border line around the image, slightly irregular, as though the photo was printed and then the border drawn by hand with a ruler
+- In the lower-left corner, a small classification stamp: "CLASSIFIED — EYES ONLY" in a red (#CC2020) rubber-stamp font, slightly smeared, at a slight angle
+- In the lower-right corner, a date and file reference number in small typewriter font: "12.NOV.1963 / REF: COLDROOM-7734"
+- Along the top edge, very faint: a strip of film edge markings — frame numbers and manufacturer codes, as though the entire film strip was printed rather than just the image
+
+COLOR PALETTE — SURVEILLANCE MONOCHROME:
+
+- Deep shadow black: #0A0A10
+- Mid-tone cold grey: #607080
+- Fog light grey: #B0B8C0
+- Highlight white: #D0D0D8
+- Cold blue tint: #8090A0 (permeating all mid-tones)
+- Classification stamp red: #CC2020 (the ONLY color)
+
+TEXT — TYPEWRITER AND CLASSIFIED:
+
+Title (positioned at 5-18% from top, centered over the foggy upper buildings):
+"THE COLD" — in a typewriter font (think Courier, American Typewriter, or Special Elite — the font of intelligence reports and classified documents) in stark white (#D0D0D8). Large, with the slightly uneven impression of a manual typewriter — some letters slightly darker than others, some slightly offset. The typewriter aesthetic connects directly to the Cold War intelligence theme.
+"ROOM" — on the next line, same typewriter font, same size, same white. The four letters of "ROOM" are spaced widely (letter-spacing 0.4em), each letter isolated, creating a sense of clinical precision.
+
+Subtitle (positioned at 20% from top, centered): "A NOVEL OF ESPIONAGE" — in smaller typewriter font in cold grey (#8090A0), all caps, letter-spacing 0.3em.
+
+Author name (positioned at 90-93% from top, centered over the dark lower foreground): "ALEXEI SHAW-OKONKWO" — in typewriter font in white (#D0D0D8), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Paranoid, cold, professional — the feeling of being watched by someone you will never see, in a city where everyone is watching everyone and the fog hides everything that matters. The surveillance photograph aesthetic creates instant tension — the viewer is positioned as the watcher, complicit in the surveillance, straining to identify the figure in the fog. The Cold War visual language (fog, fedora, classified stamps) is instantly recognizable to thriller readers.
+
+THIS IS SURVEILLANCE PHOTOGRAPHY. Grainy, telephoto-compressed, imperfectly focused. The beauty is in the imperfection — every technical flaw (grain, blur, fog, vignetting) adds to the atmosphere of secrecy and paranoia. The most important things in this image are the things you CANNOT quite see.

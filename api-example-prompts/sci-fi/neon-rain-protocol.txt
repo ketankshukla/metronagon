@@ -1,0 +1,74 @@
+NEON RAIN PROTOCOL — CHROME CITY BOOK ONE
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Cyberpunk / Near-Future Thriller
+ART STYLE: Hyper-glossy digital painting with reflective wet surfaces, neon light diffusion, and chrome material rendering — inspired by the luminous, glass-like ocean art tradition where every surface is a mirror for colored light. Rain-soaked megacity with a single figure reflected in chrome and puddles.
+
+---
+
+A stunning cyberpunk book cover rendered as a hyper-glossy digital painting where EVERY surface is wet, reflective, and catching neon light. The visual signature of this cover is reflectivity — the entire image is built from layers of reflected color bouncing between chrome, glass, water, and polished metal. The effect should be like looking into a hall of mirrors made of liquid neon. The rendering style emphasizes glass-smooth surfaces, translucent layering, and the way light bends and diffracts through water droplets on polished surfaces — that luminous, almost crystalline quality where reality becomes a kaleidoscope of reflected color.
+
+THE SCENE — A RAIN-SOAKED CYBERPUNK STREET AT NIGHT:
+
+A narrow urban canyon between towering megastructures, viewed from street level looking slightly upward. Heavy rain falls in sheets — not gentle rain but a monsoon-grade downpour that turns the entire scene into a cascade of water and reflected light. The street surface is polished black composite — like wet obsidian — and serves as a near-perfect mirror for everything above it, creating a symmetrical reflection that doubles the visual complexity of the scene.
+
+THE MEGASTRUCTURES (filling both sides, 0-100% height):
+
+Towering buildings rise on both sides of the narrow street, their facades a dense layering of technological surfaces: holographic advertising panels displaying fractured, glitching imagery in vivid magenta (#FF00FF) and electric cyan (#00FFFF); exposed ventilation ducts in brushed chrome that catch and stretch the neon reflections into long curved highlights; windows — hundreds of them — each a small rectangle of warm amber or cool blue-white light behind rain-streaked glass. The buildings are not clean — they are layered with decades of technological accretion: cables, conduits, satellite dishes, water pipes, all woven between the original architecture like technological ivy. Water streams down every surface, creating thin waterfalls that catch the neon light and glow as they fall.
+
+Massive holographic kanji characters float in the rain between the buildings — ten feet tall, rendered in translucent electric blue light, their edges diffracted by the rain into soft halos. The characters are illegible (fictional script) but suggest advertising, warnings, or navigation. Rain passes THROUGH the holograms, each droplet catching the holographic light and becoming a tiny blue spark for an instant.
+
+THE FIGURE (center-bottom, approximately 55-85% from top):
+
+A single figure stands in the center of the rain-soaked street, seen from behind — we see their back, not their face. They are a person of ambiguous gender and build, wearing a full-length chrome-and-matte-black tactical coat that falls to their ankles. The coat is the cover's material showcase — the upper portions are matte black ballistic fabric beaded with rain droplets (each droplet a tiny lens reflecting the surrounding neon), while the lower panels are polished chrome plates that mirror the wet street below them with perfect fidelity. The coat's hood is up, its edge lined with a thin strip of electroluminescent wire that glows soft white, outlining the figure's silhouette against the dark street. From beneath the coat, the figure's left hand hangs at their side, holding a compact pistol — matte black polymer with a single glowing amber indicator light on the grip. Their right hand is raised slightly, fingers spread, as if reaching for something or someone in the rain ahead. The figure's posture is tense, alert — mid-stride, caught in a moment of decision.
+
+The figure is reflected PERFECTLY in the wet street below — a mirror image stretching toward the viewer, slightly distorted by the ripples of rain impact on the water surface. This reflection is as detailed as the figure itself, creating a visual doubling effect.
+
+NEON LIGHT SOURCES — THE COLOR ARCHITECTURE:
+
+The scene is lit entirely by artificial light — there is no natural light, no sky visible, only the glow of technology:
+- MAGENTA (#FF00FF): The dominant neon color, emanating from large holographic advertising panels on the left building. This magenta light washes across every wet surface on the left side of the image, turning rain streams into glowing pink rivulets and painting the figure's left shoulder and arm in vivid pink highlight.
+- ELECTRIC CYAN (#00FFFF): The secondary neon color, from signage and holographic displays on the right building. This cyan competes with the magenta, creating a split-lighting effect where the figure's right side glows cool blue-white. Where magenta and cyan overlap (on the wet street, on the chrome coat panels), they create zones of white and pale lavender.
+- WARM AMBER (#FF8C00): The accent color, from interior windows high above. Small pools of amber appear as warm counterpoints to the cold neon — particularly in the figure's pistol indicator light and in the deepest reflections of the street puddles.
+- The rain itself becomes a medium for color — each falling raindrop catches whatever light it passes through, creating a curtain of colored sparks that fills the air between the buildings.
+
+RAIN RENDERING — THE TECHNICAL SHOWCASE:
+
+The rain must be rendered with obsessive attention to how water interacts with light:
+- Individual droplets visible in the foreground (bottom 20% of image) — each one a tiny elongated sphere catching light on its surface, with a bright highlight dot and a subtle internal refraction of the colors behind it
+- In the mid-ground, rain becomes streaks — motion-blurred vertical lines of varying brightness, denser where they pass through holographic light sources
+- Where rain hits surfaces, tiny crown-shaped splashes are visible — the circular impact patterns on the street surface, each splash a momentary ring of white that catches the neon glow
+- Steam or mist rises from warm surfaces (ventilation grates, exposed pipes) and mixes with the rain, creating zones of diffuse, glowing fog that softens the neon light into atmospheric halos
+
+THE STREET REFLECTION — THE SECOND IMAGE:
+
+The bottom 25% of the image is dominated by the wet street surface, which functions as a dark mirror. The reflection is NOT a simple flip — it is subtly distorted by the micro-waves of rain impact, creating a shimmering, liquid version of the scene above. Colors are slightly more saturated in the reflection (as they are in real wet-surface reflections). The reflection extends toward the viewer, creating depth and the sensation of standing in the rain at the far end of the street, watching the figure walk away.
+
+COLOR PALETTE — NEON AND DARKNESS:
+
+- Magenta neon: #FF00FF — primary light source, dominant color
+- Electric cyan: #00FFFF — secondary light source
+- Warm amber: #FF8C00 — accent from windows
+- Deep black: #050508 — true darkness between light sources, the void
+- Chrome silver: #C0C8D0 — coat panels, metal surfaces, reflective highlights
+- Pale lavender: #D0C0E0 — where magenta and cyan mix
+- Rain white: #E8E8F0 — highlights on droplets and splashes
+The palette is ONLY neon and darkness — no earth tones, no pastels, no natural colors. This is a world where nature has been replaced by technology and light.
+
+TEXT — SLEEK FUTURISTIC TYPOGRAPHY:
+
+Title (positioned at 5-20% from top, centered):
+"NEON RAIN" — rendered in a sharp, angular, futuristic sans-serif font (think Orbitron, Rajdhani, or Exo 2 — geometric, slightly condensed, with sharp terminals). The letters are large and rendered in electric cyan (#00FFFF) with a subtle neon glow effect — a soft cyan halo extending 2-3px around each letter, as though the text itself is a holographic projection floating in the rain. The letters have a slight horizontal glitch effect — tiny offset fragments of the letters in magenta, shifted 1-2px to the right, creating a chromatic aberration/digital distortion effect.
+"PROTOCOL" — rendered below on the next line, same font, same size, but in magenta (#FF00FF) with the same neon glow, the glitch fragments now in cyan. The color swap between the two words creates visual rhythm.
+
+Series line (positioned at 22% from top, centered): "CHROME CITY — BOOK ONE" — in small, thin, widely-spaced sans-serif capitals in white (#E0E0E0) with 0.4em letter-spacing. Clean and clinical.
+
+Author name (positioned at 90-93% from top, centered over the dark street reflection): "KIRA TANAKA-OYELARAN" — in thin sans-serif capitals, electric cyan (#00FFFF), letter-spacing 0.3em. The name sits on the dark mirror of the wet street, its reflection faintly visible below.
+
+OVERALL MOOD:
+
+Immersive, rain-soaked, electric — the feeling of being swallowed by a city that never sleeps and never stops raining. The hyper-glossy rendering transforms urban decay into liquid beauty. Every surface is a mirror, every raindrop is a lens, every shadow hides another reflection. This is cyberpunk as visual poetry — the genre's signature rain-and-neon aesthetic rendered with crystalline, almost jewel-like precision.
+
+At thumbnail, the magenta-cyan split lighting and the bright figure silhouette against the dark street create instant cyberpunk recognition. At full resolution, the individual raindrops, the chrome coat reflections, and the liquid street mirror are extraordinary.
+
+THIS IS HYPER-GLOSSY DIGITAL PAINTING. Every surface reflects. Every raindrop catches light. The beauty is in the liquid, crystalline quality of light on wet surfaces — luminous, translucent, and endlessly reflective.

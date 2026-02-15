@@ -1,0 +1,69 @@
+THE BLOOD CLOCK — A FORENSIC THRILLER
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Forensic Thriller / Serial Killer
+ART STYLE: Macro forensic evidence photography — extreme close-up of a single piece of evidence (a blood-spattered wristwatch) rendered with the clinical, unflinching detail of a crime scene photograph. Shot against an evidence room grey background with a forensic ruler for scale. Hyper-detailed, clinically lit, emotionally cold.
+
+---
+
+A chilling book cover rendered as an extreme close-up forensic evidence photograph — the kind of image entered as Exhibit A in a murder trial, shot by a crime scene technician with clinical precision and no artistic intention. The subject is a single piece of evidence: a wristwatch spattered with blood, photographed against a neutral evidence background with a forensic measurement ruler visible in frame. The rendering is hyper-detailed and clinically lit — every scratch on the watch crystal, every droplet of dried blood, every fiber of the watchband is rendered with forensic precision. There is no artistic drama in the lighting — only the flat, even, shadowless illumination of an evidence photography setup. The horror comes from the detail and the implications.
+
+THE WATCH (center, filling 25-75% from top):
+
+A men's wristwatch photographed from directly above (plan view), lying face-up on the evidence surface. The watch is a mid-range analog timepiece — not luxury, not cheap — the kind of watch a middle-aged professional might wear daily:
+
+WATCH FACE: A round dial approximately 40mm in diameter (rendered at approximately 40% of image width). The dial is pale cream (#F0E8D0) with simple black hour markers (thin baton indices at each hour) and slender black hands. The hour and minute hands are stopped at 11:47 — the time of the event. A small date window at the 3 o'clock position shows "17." The crystal (glass face) has a single hairline crack running diagonally from the 2 o'clock to the 8 o'clock position — the crack has the characteristic clean fracture line of tempered glass, with tiny stress fractures branching from the main line. The crystal also has a small chip at the 10 o'clock edge — missing a tiny triangular fragment.
+
+WATCH CASE: Stainless steel with a brushed finish — rendered in fine detail showing the parallel micro-scratches of brushed steel, the slightly beveled edge between the case side and the crystal surround (bezel), and a small engraving on the case-back edge: "TO R — ALWAYS — M" (partially visible, suggesting the watch is a personal gift). The steel has the characteristic cool grey tone (#B0B0B0) of real stainless steel under flat fluorescent lighting.
+
+WATCH BAND: A dark brown leather strap (#3A2010) — worn, with visible creasing at the buckle holes where it has been fastened at the same setting hundreds of times. The leather shows its age: micro-cracks in the surface finish, slight darkening where it contacts skin (the inside of the strap is darker and smoother), and fraying at the edges where the stitching is beginning to pull. The buckle is stainless steel, matching the case.
+
+THE BLOOD SPATTER:
+
+Blood is the cover's most critical and most carefully rendered element. Dried blood spatter covers approximately 30% of the watch's visible surface, distributed in a pattern that tells a forensic story:
+
+HIGH-VELOCITY SPATTER: Tiny droplets (0.5-2mm diameter) scattered across the watch crystal and upper portion of the case — characteristic of impact spatter from a blunt or sharp weapon strike. Each droplet is rendered individually: a small, roughly circular spot of dried blood in dark brownish-red (#5A1A0A), each with a slightly darker rim where the blood dried first at the edges (the characteristic "coffee ring" effect of dried blood droplets). Some droplets show directional tailing — small elongated tails pointing in the same direction, indicating the direction of the impact force.
+
+PASSIVE DROPS: Larger drops (3-5mm) on the leather strap — round, with scalloped edges characteristic of blood dropping from a height onto a soft surface. These larger drops have soaked partially into the leather, creating dark stains with diffuse edges.
+
+TRANSFER SMEAR: A single smear of blood across the crystal — as though someone wiped the watch face with a bloody thumb, creating a curved, directional smear that partially obscures the 9 and 10 o'clock hour markers. The smear shows the characteristic pattern of skin ridge contact — faint fingerprint-like parallel lines visible within the smear where the blood was thin enough to show the friction ridge pattern.
+
+The blood has DRIED — it is not wet, glossy red but the dark, matte, brownish-red of dried blood (#5A1A0A to #3A0A05). Some droplets have begun to crack — the thin dried blood film fracturing into tiny polygonal plates, a characteristic that forensic scientists use to estimate time since deposition.
+
+THE EVIDENCE BACKGROUND:
+
+The watch sits on a flat evidence photography surface — medium grey (#808080) evidence paper or cardboard, evenly lit to eliminate shadows. The surface has the slightly textured quality of cardstock. Visible at the bottom edge of the image, a standard forensic measurement ruler — a flat plastic L-shaped ruler in bright yellow (#FFD020) with metric markings in black (centimeters and millimeters visible), the kind of ruler included in every evidence photograph for scale reference. The ruler's "0" mark is aligned with the left edge of the watch.
+
+In the upper-right corner, partially visible: the edge of an evidence card — a small white card with printed text in black: "CASE #: 2024-MH-4471 / ITEM: 17-A / DESC: Wristwatch, analog / COND: Blood-stained, cracked crystal" in small sans-serif type.
+
+LIGHTING — CLINICAL AND FLAT:
+
+The lighting is the characteristic flat, even, shadowless illumination of forensic photography — created by diffused overhead lights or a ring flash. There are NO dramatic shadows, NO directional highlights, NO atmospheric effects. Every surface is evenly lit to maximum detail visibility. The lighting is not beautiful — it is functional, designed to document rather than dramatize. This clinical flatness is itself unsettling — it treats a blood-stained watch with the same emotionless precision as a catalogue photograph of a new product.
+
+COLOR PALETTE — FORENSIC:
+
+- Watch steel grey: #B0B0B0
+- Watch dial cream: #F0E8D0
+- Leather brown: #3A2010
+- Dried blood dark: #5A1A0A to #3A0A05
+- Evidence grey background: #808080
+- Ruler yellow: #FFD020
+- Evidence card white: #F0F0F0
+- Black: #0A0A0A — hour markers, text, ruler markings
+No vivid colors, no warm tones, no cool atmospheric blues. Only the flat, neutral colors of an evidence room under fluorescent lights, and the dark brown-red of dried blood.
+
+TEXT — CLINICAL SANS-SERIF:
+
+Title (positioned at 5-16% from top, centered above the watch):
+"THE BLOOD" — in a clean, medium-weight sans-serif font (think Helvetica Neue Medium or Roboto Medium) in dark brownish-red (#5A1A0A) — the exact color of the dried blood on the watch. Medium-large, letter-spacing 0.1em. The blood-colored text creates an immediate connection between title and image.
+"CLOCK" — on the next line, same font, same size, in black (#0A0A0A). The color shift from blood-red to black mirrors the transition from evidence to conclusion.
+
+Subtitle (positioned at 18% from top): "A FORENSIC THRILLER" — in small, thin sans-serif in evidence grey (#808080), letter-spacing 0.3em.
+
+Author name (positioned at 90-93% from top, positioned near the ruler): "DR. MORGAN BLACKWELL-OSEI" — in thin sans-serif in black (#0A0A0A), letter-spacing 0.2em. The "Dr." implies forensic expertise.
+
+OVERALL MOOD:
+
+Clinical, unflinching, quietly horrifying — the feeling of opening an evidence file and confronting the physical reality of violence reduced to documentation. The forensic photography aesthetic strips away all drama and leaves only detail — and the detail is worse than any dramatic rendering could be. The stopped watch at 11:47, the crack in the crystal, the fingerprint in the blood smear — each detail implies a story, and the story is terrible.
+
+THIS IS FORENSIC EVIDENCE PHOTOGRAPHY. Flat-lit, hyper-detailed, clinically neutral. The beauty — if it can be called beauty — is in the precision: every blood droplet scientifically accurate, every material texture forensically rendered, every detail a piece of evidence in a case the reader will spend 400 pages trying to solve.

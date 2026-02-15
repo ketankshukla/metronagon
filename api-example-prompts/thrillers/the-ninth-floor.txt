@@ -1,0 +1,73 @@
+THE NINTH FLOOR — A DOMESTIC THRILLER
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Domestic Thriller / Psychological Suspense
+ART STYLE: Unsettling suburban photography with wrong-color processing — a seemingly normal photograph of a suburban house at dusk that has been color-graded with deliberately WRONG colors, creating a sense of unease from the familiar made strange. The grass is too green, the sky is too amber, the shadows are too purple, and one window glows with a light that is the wrong color for any normal household. Hyperreal, over-saturated, uncanny.
+
+---
+
+A deeply unsettling book cover that uses a single photograph of a completely normal suburban house — the kind of house millions of people live in — but processes it with deliberately wrong, hyperreal colors that transform the familiar into the threatening. The image should trigger the uncanny valley response: everything is ALMOST normal, but something is fundamentally wrong with the light, the color, and the atmosphere. The viewer knows this is a regular house, but their brain screams that something terrible is happening inside it.
+
+THE HOUSE — PERFECTLY NORMAL, PERFECTLY WRONG:
+
+A two-story suburban house photographed from across the street at dusk — the transitional moment between day and night when interior lights come on but the sky still holds color. The house is architecturally generic: vinyl siding, a front porch with a railing, a two-car garage, a manicured front lawn, a concrete driveway, a single tree in the yard. The mailbox is at the curb. A garden hose is coiled by the front steps. A child's bicycle lies on its side on the lawn. Everything about the house says "normal family lives here."
+
+But the COLOR is wrong.
+
+THE WRONG COLOR GRADE:
+
+The entire image has been processed with a color grade that shifts every hue into an unsettling, hyperreal version of itself:
+
+THE SKY: Not the natural blue-to-orange of a real dusk sky, but an intense, burning amber-yellow (#FFB040) that transitions to a sickly green-yellow (#C8D040) at the zenith. The sky looks like it does before a tornado — a color that the brain associates with atmospheric danger. The clouds (if any) are rendered in deep, bruised purple (#4A2050).
+
+THE GRASS: Too green. Unnaturally, violently green (#20C020) — the hypersaturated green of grass in a nightmare, like AstroTurf lit by fluorescent lights. The green is uniform and aggressive, without the natural variation of real grass. It almost seems to glow.
+
+THE HOUSE: The vinyl siding, which should be a neutral beige or grey, has been shifted to a pale, sickly blue-lavender (#C0B0D0) — the color of skin drained of blood. The shadows on the house are deep purple-black (#1A0A20) rather than natural grey, creating an unnatural depth that makes the house appear to have more recesses and dark corners than a normal house should.
+
+THE TREE: The single tree in the yard is rendered in dark, desaturated tones — its leaves are a deep, almost black-green (#0A2A10), and its trunk is a dark grey-purple (#3A2A3A). The tree casts a shadow that is too long and too dark for the apparent light level — it stretches across the lawn like a reaching hand.
+
+THE WINDOWS — THE KEY DETAIL:
+
+Most of the house's windows show warm, normal interior light — the characteristic warm amber of household incandescent bulbs, rendered as small, glowing rectangles of warm yellow (#FFE080). These normal-lit windows are comforting and domestic.
+
+But ONE WINDOW — a second-floor window, the third from the left — glows with a DIFFERENT light. This window emits a cold, clinical, blue-white light (#C0D0FF) that is distinctly wrong: too bright, too cold, too institutional for a family home. The blue-white light spills out of this window onto the siding around it, creating a cold splash of wrong-colored illumination on the lavender wall. The contrast between the warm-windowed normalcy and the single cold-lit window is the cover's central visual tension.
+
+Behind this wrong-lit window, a faint silhouette is visible — the vague, dark shape of a person standing close to the glass, looking out. The silhouette is not detailed — just a dark form, human-shaped, motionless. The viewer cannot tell if the person is watching or waiting or something else entirely.
+
+THE STREET AND SURROUNDINGS:
+
+The street in the foreground is wet — as though it has recently rained — and reflects the amber sky and the house's lights in dark, distorted pools. The wet asphalt has been color-shifted to a deep blue-black (#0A0A20) that is more oceanic than urban. A single streetlight stands at the left edge, casting a pool of orange-amber light that seems too bright and too concentrated — a spotlight rather than a streetlight.
+
+Across the street, the edges of neighboring houses are barely visible — dark shapes in the amber twilight, their windows also glowing with warm normal light. The normalcy of the neighbors makes the central house's wrongness more pronounced.
+
+ATMOSPHERIC EFFECTS:
+
+A slight haze or mist hangs in the air — rendered in the amber-green of the wrong sky, it adds a humid, oppressive quality to the atmosphere. The mist softens the distant elements while the foreground remains sharp, creating shallow depth-of-field that mimics the hypervigilant focus of someone watching a specific house from across the street.
+
+COLOR PALETTE — THE WRONG FAMILIAR:
+
+- Burning amber sky: #FFB040 — sky, dominant atmospheric tone
+- Sickly green-yellow: #C8D040 — upper sky, atmospheric wrong-note
+- Hypergreen grass: #20C020 — lawn, unnaturally vivid
+- Lavender siding: #C0B0D0 — house exterior
+- Deep purple shadow: #1A0A20 — shadows, darkness
+- Warm window amber: #FFE080 — normal interior lights
+- Cold window blue: #C0D0FF — the ONE wrong window
+- Wet street blue-black: #0A0A20 — road surface
+- Bruised cloud purple: #4A2050 — sky accents
+
+TEXT — CLEAN AND COLD:
+
+Title (positioned at 5-18% from top, centered over the burning amber sky):
+"THE NINTH" — in a clean, medium-weight sans-serif (think Avenir or Proxima Nova) in stark white (#FFFFFF). Medium-large, letter-spacing 0.1em. The white text is cold and clinical against the warm-wrong sky.
+"FLOOR" — on the next line, same font, same size, in the cold blue-white (#C0D0FF) of the wrong window. The shift from white to cold blue connects the title directly to the cover's key visual element.
+
+Subtitle (positioned at 20% from top): "A DOMESTIC THRILLER" — in small sans-serif in pale lavender (#C0B0D0), letter-spacing 0.3em.
+
+Author name (positioned at 90-93% from top, over the wet dark street): "SARAH WARD-OKONKWO" — in sans-serif in white (#FFFFFF), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Uncanny, suburban, dread — the feeling of driving past a house on your street and noticing, for the first time, that one window has the wrong kind of light. Domestic thrillers work because they make the familiar threatening, and this cover achieves that transformation purely through color manipulation — the house is normal, the neighborhood is normal, but the color grade tells your brain that something has gone horribly wrong, and it happened behind that one blue-lit window on the ninth floor.
+
+THIS IS WRONG-COLOR SUBURBAN PHOTOGRAPHY. Hyperreal, oversaturated, uncanny. The beauty — if unsettled dread can be called beauty — is in the wrongness: familiar shapes and settings rendered in colors that the brain rejects, creating an image that looks like home but feels like a crime scene.

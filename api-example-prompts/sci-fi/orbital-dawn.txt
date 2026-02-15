@@ -1,0 +1,81 @@
+ORBITAL DAWN — A HARD SCIENCE FICTION NOVEL
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Hard Science Fiction / Space Engineering
+ART STYLE: Technical illustration meets fine art — the precision of aerospace engineering cutaway diagrams combined with the dramatic lighting of cinematic space photography. Blueprint-accurate mechanical detail rendered with the visual drama of a Hubble telescope image. Cool steel blues and warm solar gold.
+
+---
+
+A stunning book cover that merges the visual language of technical aerospace illustration with cinematic space photography. The image should look like a page from a classified engineering manual that has been brought to life with dramatic lighting — every rivet, every solar panel, every structural beam rendered with blueprint accuracy, but lit with the awe-inspiring natural light of orbital sunrise. The rendering is crisp, precise, and technically obsessive — this cover appeals to readers who know what a reaction control thruster looks like and will notice if the solar panel geometry is wrong.
+
+THE SCENE — AN ORBITAL STATION AT SUNRISE, CUTAWAY VIEW:
+
+The cover depicts a massive orbital space station in low Earth orbit, captured at the exact moment of orbital sunrise — the sun cresting the curved horizon of Earth below, flooding the station with brilliant golden light from the right side while the left side remains in deep space shadow. The station is rendered in a PARTIAL CUTAWAY VIEW — the outer hull is intact on the right side (facing the sun) but on the left side, the hull has been "cut away" in a clean diagonal slice, revealing the intricate interior structure and systems within, as in a technical illustration or cross-section diagram.
+
+THE STATION EXTERIOR (right side, sunlit):
+
+The intact portion of the station is a massive cylindrical structure with a realistic, functional design — NOT a sleek sci-fi fantasy station but a plausible near-future construction: modular cylindrical habitat sections connected by pressurized tunnels, large rectangular solar panel arrays extending outward on articulated booms, cylindrical fuel tanks and radiator panels, docking ports with standardized international docking adapters, communications antenna arrays, and the distinctive gold-colored multi-layer insulation blankets (MLI) that cover real spacecraft. The exterior is rendered in the actual colors of real space hardware: white thermal paint, gold MLI foil, dark grey radiator surfaces, and the deep blue-black of solar cell arrays.
+
+The orbital sunrise light catches the station's exterior surfaces dramatically — the white-painted habitat modules glow warm gold on their sun-facing surfaces, with sharp shadow lines where the light cannot reach. The solar panels catch the sunlight and glow electric blue (the characteristic color of silicon solar cells in direct sunlight). The gold MLI blankets blaze with reflected light. Every surface detail is visible: micro-meteorite impact scars (tiny bright spots on the white paint), hand-hold rails for EVA astronauts, inspection hatches with stenciled identification numbers, and small attitude control thrusters.
+
+THE CUTAWAY INTERIOR (left side, in shadow):
+
+Where the hull has been "cut away," the station's interior is revealed with technical-illustration precision. The cutaway edge is rendered as a clean diagonal line — the cut hull material shown in cross-section, revealing the layered construction: outer micrometeorite shield (thin aluminum), thermal insulation layer (white), pressure hull (thicker aluminum with visible rivets), and inner wall panels. The cross-section is color-coded as in a real engineering diagram — each layer a slightly different shade.
+
+Inside the revealed interior, multiple levels of the station are visible simultaneously:
+
+HABITAT LEVEL: Living quarters with compact sleeping pods, a small galley with magnetic food containers, and fold-down work surfaces. The interior walls are soft off-white with color-coded equipment panels (blue for life support, red for emergency, yellow for electrical). Small personal items are visible — photographs taped to walls, a floating pen (in zero-g), a tablet computer magnetically attached to a surface.
+
+ENGINEERING LEVEL: Below the habitat, a dense tangle of pipes, cables, and equipment — life support systems with cylindrical CO2 scrubbers, water recycling units with visible tubing, electrical distribution panels with neatly routed cable bundles. Everything is labeled with tiny stenciled text and color-coded markers, exactly as on real spacecraft systems.
+
+COMMAND MODULE: At the forward end of the cutaway, a compact control center with multiple display screens showing orbital data, Earth observation imagery, and system status readouts. Two acceleration couches face the displays, and through a small forward viewport, the curve of Earth is visible.
+
+The interior is lit by the station's own lighting — cool white LED panels that cast even, shadowless illumination on the interior systems, contrasting with the warm gold orbital sunrise light flooding the exterior.
+
+EARTH BELOW (bottom 25% of image):
+
+The curved horizon of Earth fills the lower portion of the image, rendered with photographic accuracy. The Earth's surface shows a dawn terminator — the boundary between the sunlit and dark hemispheres. On the sunlit side (right), cloud formations over ocean are visible in brilliant white against deep blue. On the dark side (left), the night surface shows clusters of city lights — tiny golden-orange dots in recognizable continental patterns. The thin blue line of Earth's atmosphere is visible along the curved limb, transitioning from electric blue to dark space. The sun itself is just cresting the atmospheric limb on the right — a brilliant white-gold starburst partially obscured by the atmosphere, its light filtered into horizontal rays of warm gold that streak across the image.
+
+DEEP SPACE (top 25% of image):
+
+Above the station, the void of space — true black (#000000) with a dense field of stars rendered as small, sharp, white points. No nebulae, no artistic color — just the honest blackness of LEO space with star fields. The stars are slightly dimmer near the sun (washed out by the sunrise glare) and brightest in the deep shadow areas on the left — as they appear in real orbital photography.
+
+COLOR PALETTE — AEROSPACE AND SUNRISE:
+
+- Solar gold: #FFD080 — sunrise light on surfaces, warm highlights
+- Cool steel blue: #7090B0 — shadows, Earth's atmosphere, station shadow side
+- Deep space black: #000000 — space background
+- Solar panel blue: #1A3A6B — the electric blue of illuminated solar cells
+- Thermal white: #F0F0F0 — station hull, interior lighting
+- MLI gold: #D4A030 — insulation blankets
+- Earth blue: #2040A0 — ocean, atmospheric limb
+- Cross-section grey: #A0A0A0 — cutaway hull material
+- Interior warm white: #FFF5E8 — habitat lighting
+The palette is divided: warm gold on the sun side, cool blue in shadow, with the technical illustration interior providing neutral white and grey balance.
+
+TECHNICAL ANNOTATION ELEMENTS:
+
+Thin white leader lines (hairline weight) extend from key components of the cutaway to small text labels in a tiny monospaced engineering font (think OCR-A or Courier):
+- "HABITAT MODULE B-4" pointing to the living quarters
+- "PRIMARY SOLAR ARRAY" pointing to a panel boom
+- "LIFE SUPPORT / ECLSS" pointing to the engineering level
+- "REACTION CONTROL SYSTEM" pointing to a thruster
+These annotations are subtle — they add to the technical illustration aesthetic without overwhelming the composition. They are rendered in white text with 60% opacity against the dark space background, clearly readable but not dominant.
+
+TEXT — CLEAN ENGINEERING TYPOGRAPHY:
+
+Title (positioned at 4-16% from top, centered over deep space):
+"ORBITAL" — in a clean, medium-weight sans-serif font (think IBM Plex Sans, DIN, or Roboto) in bright white (#FFFFFF). Large, precise, with letter-spacing 0.15em. The font choice signals technical precision and modernity.
+"DAWN" — on the next line, same font but lighter weight and in solar gold (#FFD080), same size. The white-to-gold color transition mirrors the sunrise happening in the image below.
+
+Subtitle (positioned at 18% from top, centered): "A HARD SCIENCE FICTION NOVEL" — in very small monospaced font (OCR-A style) in cool steel blue (#7090B0), letter-spacing 0.3em. The monospaced font connects to the technical annotation labels, reinforcing the engineering aesthetic.
+
+Author name (positioned at 90-93% from top, centered over Earth's curve): "COMMANDER JIAO PETROV-ADEBAYO" — in clean sans-serif capitals in white (#FFFFFF), letter-spacing 0.2em. The military/space-agency title is genre-appropriate.
+
+OVERALL MOOD AND QUALITY:
+
+Precise, awe-inspiring, technically authentic — the feeling of looking out a viewport at orbital sunrise and understanding, at an engineering level, every system that keeps you alive in the vacuum. This cover appeals to hard sci-fi readers who want their space fiction grounded in real physics and real engineering. The cutaway illustration format is unique among the 110 covers — no other cover uses technical illustration as its primary visual language.
+
+At thumbnail, the station silhouette against the Earth limb sunrise creates classic sci-fi visual appeal. At full resolution, the technical accuracy of the cutaway — the labeled systems, the realistic construction details, the cross-section materials — distinguishes this from generic space covers.
+
+THIS IS TECHNICAL AEROSPACE ILLUSTRATION meets CINEMATIC SPACE PHOTOGRAPHY. Blueprint precision with dramatic natural lighting. Every rivet is real, every system is plausible, and the sunrise light makes engineering beautiful.

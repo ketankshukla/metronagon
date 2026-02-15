@@ -1,0 +1,80 @@
+WHEN THE MOON FELL INTO THE GARDEN — A NIGHTTIME TALE
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Children's Picture Book / Magical Realism (ages 3-6)
+ART STYLE: Soft digital painting with a luminous, dreamy quality — inspired by the gentle, glowing illustration style of modern award-winning picture books. Soft edges, luminous lighting from within the scene, gentle color gradients, and characters with simple, expressive features. A warm, intimate nighttime palette of deep indigo, soft silver, and warm garden greens lit by the golden glow of a fallen moon.
+
+---
+
+A gentle, luminous children's book cover depicting a magical nighttime scene: a small, glowing crescent moon has fallen out of the sky and landed softly in a backyard garden, where a child in pajamas discovers it among the flowers. The art style is soft digital painting with the warm, dreamy quality of the best modern picture book illustration — soft edges, gentle gradients, luminous internal lighting, and a color palette that makes nighttime feel cozy rather than scary. Every light source glows from within, creating halos and soft pools of warmth.
+
+THE GARDEN AT NIGHT (filling the entire image):
+
+A small backyard garden at night — humble, domestic, real. The garden is slightly overgrown in a charming way: climbing roses on a wooden fence, a vegetable patch with tomato stakes, wildflowers along a stone path, and a big old oak tree in the corner. The garden is rendered in soft, dreamy tones — deep indigo (#1A2050) and warm dark green (#1A3A20) for the shadowed areas, with the details emerging only where light touches them.
+
+THE FALLEN MOON (center-right, 45-70% from top):
+
+A crescent moon — the classic fairy-tale crescent shape, about the size of a large armchair — has landed gently among the garden flowers. It rests on its curved back, cradled by tall foxgloves and hollyhocks that have bent around it protectively. The moon is the scene's primary light source: it glows with a warm, soft, golden-silver light (#FFE8C0) that illuminates everything within a few feet with a gentle radiance. The light from the moon is not harsh — it is the softest possible glow, like a nightlight made of captured starlight. The moon's surface has a subtle texture — gentle craters and smooth areas visible as slightly different tones of pale gold, but idealized and beautiful, not rocky or harsh. Small sparkles — tiny points of brighter light — drift upward from the moon's surface like luminous pollen.
+
+The garden flowers nearest the moon are brilliantly illuminated: foxglove bells in soft purple (#9070B0) glow translucent where the moon-light passes through their petals; rose blooms in warm pink (#D0808) have golden highlights on their edges; tall grass blades cast long, soft shadows. The illumination falls off gently with distance — flowers further from the moon fade into the soft indigo darkness.
+
+THE CHILD (center-left, 50-80% from top):
+
+A small child — approximately 5 years old, gender-ambiguous, in cozy pajamas — has come out of the house (a back door with warm kitchen light spilling from it is visible at the far left) and is kneeling in the garden path beside the fallen moon. The child is rendered with simple, expressive features: large, round eyes wide with wonder (dark irises with bright moon-reflection highlights), a small open mouth of astonishment, tousled dark hair, and bare feet on the cool stone path. The pajamas are soft blue (#6080A0) with tiny star patterns.
+
+The child reaches one small hand toward the moon — not quite touching it, fingers extended in the universal gesture of a child reaching for something magical. The moon's glow illuminates the child's face from below and to the right, creating warm golden highlights on the chin, nose tip, and the underside of the extended hand, while the rest of the face is in soft, cool shadow. The child's expression is the cover's emotional center: pure, open, unafraid wonder.
+
+A STUFFED RABBIT (the child's comfort object) is tucked under the other arm — a small, well-loved plush in worn brown, its button eyes also catching the moon-glow.
+
+THE SKY ABOVE — WHERE THE MOON SHOULD BE:
+
+Above the garden, the night sky is visible through the oak tree's branches. The sky is deep indigo (#101840) with stars rendered as small, soft, slightly diffused points of light (not sharp — everything in this image is soft). And in the sky, where the crescent moon SHOULD be, there is a moon-shaped HOLE — a dark absence in the sky, slightly darker than the surrounding night, edged with a faint glow of residual silver light. The moon's absence from the sky is visible and poignant — the sky misses its moon, and the garden has gained something magical.
+
+SUPPORTING DETAILS:
+
+- A FAT GARDEN SNAIL on a nearby cabbage leaf, its eyestalks turned toward the moon, its shell catching the golden glow
+- A HEDGEHOG emerging from under the garden fence, nose twitching toward the light
+- THREE MOTHS circling the moon, drawn to its light as they would be to any lamp — small, delicate, their wings pale against the glow
+- FIREFLIES (4-5 small dots of warm yellow-green light) scattered through the garden, their natural glow now competing with the moon's much brighter light
+- DEW on the grass blades and flower petals — tiny droplets that catch the moon-light as miniature golden highlights
+- The BACK DOOR of the house, slightly ajar, warm kitchen light (#FFD080) spilling out — suggesting the child snuck out to investigate
+
+LIGHTING — MAGICAL BUT BELIEVABLE:
+
+Three light sources create the scene's atmosphere:
+1. THE FALLEN MOON: Warm golden-silver (#FFE8C0), the primary light source, illuminating the center of the scene with a soft, radial glow
+2. THE KITCHEN DOORLIGHT: Warm amber (#FFD080), a secondary light from the left, creating a warm path of light from the house to where the child kneels
+3. STARLIGHT: Very faint, cool blue-silver (#C0D0E0), providing just enough ambient light to suggest the shapes of trees and fence in the darkness
+
+The interplay of warm moon-glow and the softer kitchen light creates a scene that is simultaneously magical and domestic — the extraordinary has landed in the everyday, and both are illuminated.
+
+COLOR PALETTE — NIGHTTIME WONDER:
+
+- Deep indigo sky: #101840
+- Garden dark green: #1A3A20
+- Moon glow gold-silver: #FFE8C0
+- Kitchen amber: #FFD080
+- Pajama blue: #6080A0
+- Foxglove purple: #9070B0
+- Rose pink: #D08080
+- Grass moon-lit: #508040
+- Stone path: #808080 with golden highlights
+- Star points: #E0E0FF
+- Sparkle white: #FFFFFF
+
+TEXT — GENTLE AND STORYBOOK:
+
+Title (positioned at 3-22% from top, centered over the dark sky):
+"When the Moon" — in a warm, gentle serif font (think Libre Baskerville or EB Garamond) in soft golden (#FFE8C0) — the color of the moon itself. Medium size, letter-spacing 0.1em. The warm gold glows softly against the indigo sky.
+"Fell into" — on the next line, smaller, same font, in pale silver-blue (#C0D0E0) — the color of starlight.
+"the Garden" — on the next line, same size as "When the Moon," in soft garden green (#508040). The three-color title treatment (gold / silver / green) mirrors the three worlds of the image: moon, sky, garden.
+
+Subtitle (positioned at 24% from top): "A Nighttime Tale" — in tiny, delicate serif in pale silver (#C0D0E0), letter-spacing 0.2em.
+
+Author/Illustrator (positioned at 90-93% from top): "written & illustrated by LUNA OSEI-BRENNAN" — in small, gentle serif in golden (#FFE8C0).
+
+OVERALL MOOD:
+
+Tender, magical, intimate — the feeling of a child's first encounter with true wonder, found not in a faraway land but in their own backyard garden. The fallen moon makes the familiar extraordinary — the same garden that has tomatoes and snails now holds a piece of the sky. The soft painting style and warm lighting create a scene that is safe, beautiful, and just magical enough to believe.
+
+THIS IS SOFT LUMINOUS DIGITAL PAINTING. Gentle edges, warm internal glow, dreamy color gradients. The beauty is in the light — the way a fallen moon turns an ordinary garden into a place of wonder, and the way a child's open face reflects that wonder back.

@@ -1,0 +1,63 @@
+THE PAPER KINGDOMS — A FABLE OF FOLDED WORLDS
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Portal Fantasy / Fairy Tale
+ART STYLE: Paper-cut layered shadow box art — the entire scene constructed from layers of cut paper at different depths, creating a theatrical diorama effect with real shadows between layers. Inspired by the tradition of intricate Chinese and European paper-cutting art (scherenschnitte), rendered as a multi-layered paper theatre with dramatic backlighting.
+
+---
+
+A magical book cover that looks like a three-dimensional paper-cut shadow box — a diorama constructed from seven or eight layers of intricately cut paper, arranged at different depths, with light shining from behind the deepest layer, casting real shadows between each paper layer. The entire image has the quality of a handcrafted paper theatre: every element is a flat silhouette or cut-out, but the layering and lighting create extraordinary depth, atmosphere, and drama. The paper-cut style is intricate — every edge is a complex pattern of curves, points, and negative space that transforms simple silhouettes into lace-like works of art.
+
+THE LAYER STRUCTURE — FRONT TO BACK:
+
+LAYER 1 (FOREGROUND — closest to viewer): Dense forest undergrowth in deep black paper — ferns, mushrooms, twisted roots, and small creatures rendered as intricate paper silhouettes. This layer is the darkest and most detailed, creating a dense border around the bottom and sides of the image (bottom 15%, sides 8%). The cut-work is extraordinarily fine — individual fern fronds, tiny snail silhouettes, a small fox with a bushy tail peering outward. Because this is the frontmost layer, it casts the longest shadows onto the layers behind it.
+
+LAYER 2: Tall tree trunks rise from the undergrowth — rendered as dark charcoal grey (#2A2A2A) paper silhouettes. The trunks are not simple cylinders but elaborately cut with texture patterns: spiraling bark lines, small knotholes, bracket fungi, and tiny owls perched in hollow openings. The trees frame the central scene, creating a natural archway or window through which the deeper layers are visible.
+
+LAYER 3: A middle-ground of rolling hills with a winding path — rendered in medium grey (#5A5A5A) paper. The hills have cut-out details: a small cottage with smoke curling from its chimney (the smoke is a delicate spiral cut from the paper), a stone bridge arching over a stream (the stream suggested by wavy cut lines), and a signpost at a fork in the path. The path winds from the lower-center upward and to the right, leading the eye deeper into the scene.
+
+LAYER 4: A distant castle on a hilltop — rendered in lighter grey (#8A8A8A) paper. The castle is a fairy-tale silhouette: tall spires with pennant flags (so delicately cut they could bend in a breeze), a drawbridge, crenellated walls, and windows that are negative-space cutouts through which the backlight shines, creating the illusion of lit windows. The castle is detailed but small — perhaps 15% of the image width — positioned in the upper-right quadrant.
+
+LAYER 5: A mountain range — rendered in pale grey (#B0B0B0) paper. The mountains are simple, elegant silhouettes with snow-capped peaks. Among the peaks, a dragon circles — a sinuous, serpentine silhouette with delicate wing membranes cut as fine lattice patterns through which light passes.
+
+LAYER 6: A sky layer — rendered in very pale grey (#D0D0D0) paper with cut-out shapes: a large crescent moon, scattered stars (simple four-pointed cuts), and drifting clouds (organic, flowing shapes). The cloud cut-outs allow the backlighting to pass through, creating bright cloud shapes.
+
+LAYER 7 (BACKMOST — light source): A warm, luminous backlight layer in gradient from warm amber (#FFE0A0) at the horizon area to pale golden white (#FFF8E0) higher up. This layer is not cut — it is the light source itself, glowing through all the cut-out negative spaces in the layers in front of it. The warm light passes through the castle windows, the dragon's wing lattice, the cloud shapes, the star cuts, and the gaps between all the layered elements, creating the shadow box's magical illumination.
+
+SHADOW EFFECTS — THE KEY TO THE 3D ILLUSION:
+
+Between each paper layer, real shadows are cast — each layer casts a soft shadow on the layer behind it, with the shadow offset and softness increasing with the distance between layers. Layer 1 (frontmost) casts the most dramatic shadows on Layer 2; the shadows become progressively softer and lighter as layers get closer to the backlight. The shadow color is not grey but a warm, dark amber (#3A2010) — the natural color of shadow when the light source is warm amber. These inter-layer shadows are what create the extraordinary sense of depth — they make the flat paper layers feel like they exist in three-dimensional space.
+
+PAPER TEXTURE:
+
+Every layer should show the texture of actual paper — a slight fiber texture, clean-cut edges with the characteristic slight roughness of paper cut with a sharp blade or laser. The darker foreground layers should appear as thick, substantial cardstock; the lighter background layers as thinner, more translucent paper. Where the warm backlight passes through the thinner back layers, the paper itself seems to glow at its edges — a warm amber rim-light on every cut edge.
+
+COLOR PALETTE — MONOCHROMATIC GREY LAYERS WITH WARM AMBER BACKLIGHT:
+
+- Layer 1: Deep black #0A0A0A
+- Layer 2: Dark charcoal #2A2A2A
+- Layer 3: Medium grey #5A5A5A
+- Layer 4: Light grey #8A8A8A
+- Layer 5: Pale grey #B0B0B0
+- Layer 6: Very pale grey #D0D0D0
+- Backlight: Warm amber to golden white #FFE0A0 → #FFF8E0
+- Shadow color: Dark warm amber #3A2010
+The monochromatic grey layering creates a clear sense of depth (darker = closer), while the warm amber backlight provides warmth, magic, and the feeling of a story lit from within.
+
+TEXT — INTEGRATED INTO THE PAPER LAYERS:
+
+Title (positioned at 5-20% from top, appearing to be CUT FROM one of the paper layers):
+"THE PAPER" — rendered as though CUT from Layer 2 (dark charcoal paper) — the letters are silhouettes with cut edges, casting their own subtle shadows on the layers behind them. The font is an elegant serif with decorative details that echo the intricate paper-cutting of the illustration below. Medium-large, centered.
+"KINGDOMS" — on the next line, same technique, slightly larger. The letters have the same paper-cut quality — visible edge texture, shadow-casting, integrated into the layered composition.
+
+Subtitle (positioned at 22% from top, centered): "A Fable of Folded Worlds" — in smaller, thinner cut-paper letters in the same dark charcoal, with more delicate, intricate letter forms — serif letters where the thin strokes are cut so fine they seem impossibly delicate, like paper lace.
+
+Author name (positioned at 90-93% from top, integrated into the foreground Layer 1): "ELSPETH MOREAU-OKAFOR" — cut from the same deep black paper as the foreground foliage, the letters appearing among the ferns and roots as though they grew there. The letters are visible because the warm backlight passes through the cuts, illuminating each letter shape with warm amber light.
+
+OVERALL MOOD:
+
+Enchanting, intimate, handcrafted — the feeling of peering into a magical diorama, a story-world contained in a box, lit from within. The paper-cut aesthetic creates a sense of craftsmanship and fairy-tale tradition — this is a story made by hand, layer by careful layer. The warm amber backlight gives the entire scene a bedtime-story glow — inviting, warm, and full of promise.
+
+At thumbnail, the dark silhouette frame with the warm glowing center creates an immediately compelling image — the eye is drawn into the light at the center, just as the path in the image draws the eye toward the castle. At full resolution, the intricate paper-cutting detail — every fern frond, every castle turret, every dragon wing membrane — is extraordinary.
+
+THIS IS PAPER-CUT SHADOW BOX ART. Layered paper silhouettes with dramatic backlighting. Flat forms creating three-dimensional depth through shadows and layering. The beauty is in the intricacy of the cuts, the warmth of the light, and the theatrical magic of a story told in layers of paper and shadow.

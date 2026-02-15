@@ -1,0 +1,96 @@
+THE INFORMANT — A POLITICAL THRILLER
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Political Thriller / Conspiracy
+ART STYLE: Newspaper collage and redacted document montage — layers of torn newspaper headlines, classified document fragments, photographs, and sticky notes arranged in a chaotic evidence-board composition. The aesthetic of a conspiracy theorist's wall or an investigative journalist's research board. Mixed media: newsprint, photographs, handwritten notes, red string connections.
+
+---
+
+A dense, layered book cover that looks like a section of an investigative evidence board — the kind of corkboard covered in overlapping documents, photographs, newspaper clippings, and handwritten notes that a journalist or detective assembles while tracking a conspiracy. Every element is a separate physical document layered on top of others, creating a dense collage of information and paranoia. Red string connects key elements. Pushpins hold documents to the surface. The composition is deliberately chaotic — information overload that the viewer must sort through, just as the protagonist must.
+
+THE CORKBOARD BASE:
+
+The background is a section of natural cork bulletin board (#B89868) — warm brown with the characteristic random texture pattern of compressed cork. The cork surface is visible in small gaps between the overlapping documents. Pushpin holes from previous documents are visible — small dark circles in the cork where pins were pushed in and removed.
+
+THE LAYERED DOCUMENTS (filling 15-85% of the image):
+
+NEWSPAPER CLIPPINGS: Three or four torn newspaper clippings in various sizes, their edges ragged and uneven. The newsprint is slightly yellowed (#F0E8D0) with visible column text in small serif font. Headlines are partially visible:
+- "SENATOR DENIES ALL CONNECTIONS TO—" (the rest torn away)
+- "WHISTLEBLOWER FOUND DEAD IN—" (the rest torn away)
+- "BILLIONS MISSING FROM FEDERAL—" (the rest torn away)
+Each clipping is pinned to the board with a colored pushpin — red, yellow, blue — rendered as small, dimensional objects casting tiny shadows.
+
+PHOTOGRAPHS: Two or three small photographs pinned to the board — printed on glossy photo paper with white borders:
+- A blurry surveillance-style photo of a man in a suit entering a building — the face circled in red marker
+- A distant aerial photograph of a compound or facility — a specific building circled in red with a question mark written beside it in red ink
+- A photo of handshake between two people — their faces obscured by a sticky note placed ON TOP of the photograph that reads "WHO IS HE?" in urgent handwriting
+
+CLASSIFIED DOCUMENTS: One or two pages of official-looking documents — printed on white paper with typed text, but heavily redacted:
+- Black redaction bars cover names, dates, and key phrases
+- A large "TOP SECRET" stamp in red ink, slightly smeared
+- Handwritten annotations in blue ballpoint pen in the margins: "LIES!", "Check bank records", "Same date as the fire?"
+- One document has a coffee ring stain — a circular brown mark from a mug placed on it during a late-night research session
+
+STICKY NOTES: Several Post-it notes in various colors stuck to the board and overlapping other documents:
+- A yellow sticky note: "Follow the money" in hurried handwriting
+- A pink sticky note: "Call source at 3pm — BURNER PHONE ONLY"
+- A blue sticky note with a phone number and a name (partially obscured by another document)
+- A green sticky note: "THEY KNOW. BE CAREFUL." in block capitals — the most alarming note, placed prominently
+
+HANDWRITTEN NOTES: Scraps of paper with handwritten lists, timelines, and names — rendered in convincing handwriting styles:
+- A timeline on lined notebook paper: dates from 2019-2024 with events listed beside each, some circled, some crossed out
+- A list of names on a torn envelope — three names, two crossed out with single lines, the third circled multiple times in red
+
+RED STRING: The conspiracy board's signature element — red thread (#CC2020) connecting related documents. The string runs from pushpin to pushpin, creating a web of connections across the board:
+- String from the Senator headline to the surveillance photograph
+- String from the classified document to the aerial photo
+- String from a name on the list to the "THEY KNOW" sticky note
+The strings cross over and under documents, creating a physical web of connections. Where strings cross, they create small X-patterns.
+
+ADDITIONAL DETAILS:
+- A small map (printed, folded, with a location circled in red) partially visible under other documents
+- A business card, face-down, with a phone number written on the back in pen
+- A USB drive taped to the board with clear tape — a small black rectangular object, ominous in its simplicity
+- Red marker circles and arrows drawn directly on several documents and on the cork itself — connecting ideas, highlighting suspicious coincidences
+
+TEXTURE AND MATERIAL QUALITY:
+
+Every document type has distinct material quality:
+- Newspaper: thin, slightly translucent, yellowed, visible column printing on the back showing through faintly
+- Photographs: glossy, with the slight curl of a printed photo
+- Office documents: crisp white paper, laser-printed text
+- Sticky notes: the characteristic slightly-textured surface of Post-it adhesive paper
+- Notebook paper: lined, torn from a spiral notebook (the ragged spiral-edge visible)
+
+COLOR PALETTE — EVIDENCE BOARD:
+
+- Cork brown: #B89868 — background
+- Newsprint yellow: #F0E8D0 — newspaper clippings
+- Paper white: #F8F8F8 — documents, photo borders
+- Red string/markers: #CC2020 — connections, circles, urgent annotations
+- Blue ballpoint: #1A3A8B — pen annotations
+- Black ink/redaction: #0A0A0A — printed text, redaction bars, stamps
+- Sticky yellow: #FFF080 — Post-it notes
+- Sticky pink: #FFB0B0 — Post-it notes
+- Sticky blue: #B0D0FF — Post-it notes
+- Sticky green: #B0FFB0 — Post-it notes
+- Coffee stain brown: #8B6B4A — ring stain
+
+TEXT — INTEGRATED INTO THE COLLAGE:
+
+Title: The title "THE INFORMANT" is NOT rendered as normal cover typography — instead, it is composed from individual newspaper headline letters cut out and arranged on the board, ransom-note style:
+- Each letter is cut from a different newspaper headline — different fonts, different sizes, different weights
+- "THE" — three letters, each from a different source, arranged in a slightly uneven line
+- "INFORMANT" — nine letters, similarly assembled, larger than "THE"
+- The letters are pinned or taped to the board as physical objects, each one casting a tiny shadow
+- This ransom-note title treatment is positioned at 8-22% from top
+
+Subtitle (positioned at 24% from top): "A POLITICAL THRILLER" — handwritten in red marker directly on the cork board surface, in urgent block capitals.
+
+Author name (positioned at 88-92% from top): "JAMES THORNTON-ADEYEMI" — typed on a small strip of white paper (like a label-maker output) taped to the board.
+
+OVERALL MOOD:
+
+Paranoid, obsessive, urgent — the feeling of standing in front of an evidence board at 3am, coffee-stained and sleepless, watching the red strings form a pattern that everyone else says doesn't exist. The evidence-board collage transforms the book cover into a prop from the story itself — it IS the protagonist's research, pinned to a wall, waiting for the one connection that makes everything click.
+
+THIS IS CONSPIRACY EVIDENCE BOARD COLLAGE. Mixed media, layered documents, red string connections. The beauty is in the chaos — overlapping, contradictory, incomplete information that, when viewed from the right angle, reveals a pattern that changes everything.

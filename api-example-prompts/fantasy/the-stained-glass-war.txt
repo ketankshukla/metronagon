@@ -1,0 +1,83 @@
+THE STAINED GLASS WAR — BOOK ONE OF THE CATHEDRAL CYCLE
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Religious Fantasy / Sacred War Epic
+ART STYLE: Gothic stained glass window design — the entire cover rendered as a single magnificent stained glass panel with bold lead caming lines, jewel-toned translucent glass segments, and the radiant backlighting of a sun-filled cathedral window. Every element composed of geometric glass shapes separated by dark lead lines, creating a mosaic-like illustration that glows with transmitted light.
+
+---
+
+A striking book cover rendered entirely as a Gothic cathedral stained glass window — the kind of monumental rose window or lancet panel that fills a medieval cathedral with colored light. Every element in the image is composed of irregularly shaped glass segments separated by dark lead caming lines, creating a mosaic-like composition where figures, architecture, and sky are all constructed from the same material: colored glass and lead. The entire image should GLOW — lit from behind as though the viewer is standing inside a cathedral looking up at the window with afternoon sunlight streaming through.
+
+THE WINDOW STRUCTURE:
+
+The cover is framed as a single tall pointed-arch (Gothic lancet) window. A thin border of dark stone (#3A3028) frames the window on all sides — the visible wall of the cathedral in which this window is set. Within the arch, the stained glass composition fills the space.
+
+THE CENTRAL FIGURE — A WARRIOR-SAINT IN GLASS:
+
+Dominating the center of the window (30-80% from top), a towering figure rendered in the flat, iconic style of medieval stained glass: a warrior-saint in full armor, standing frontally, arms outstretched in a posture that is simultaneously cruciform and commanding.
+
+The figure is built from dozens of individual glass pieces, each one a distinct color separated by thick dark lead lines:
+- The face is a single piece of pale flesh-toned glass (#F0D0B0) with features painted in dark brown vitreous paint (the traditional technique for adding detail to stained glass) — strong brows, large eyes, a straight nose, and a solemn expression. The face is idealized and iconic — not photorealistic but the stylized, serene face of a saint in a medieval window.
+- The armor is composed of many small pieces of deep cobalt blue glass (#1A3A8B) and bright silver-white glass (#D0D8E0), arranged to suggest plate armor with geometric precision. Each armor piece catches the backlight differently — some glow bright, some are deeper, creating the illusion of three-dimensional form from flat glass.
+- A surcoat over the armor is rendered in rich ruby red glass (#8B1A2A) — the most saturated, most luminous glass in the window, glowing with the deep warm light that only ruby glass can produce when backlit. The surcoat bears a cross motif in gold-yellow glass (#E8C030).
+- A sword is held upright in the right hand — the blade rendered as a single long piece of clear, nearly colorless glass with a subtle pale blue tint, the hilt in gold-yellow glass.
+- A shield in the left hand — a geometric shape composed of multiple pieces: the central boss in gold, the field in deep blue, with a heraldic device (a stylized lion) rendered in red glass pieces within the blue field.
+- A halo behind the head — a circle of bright gold-yellow glass (#FFD040) composed of wedge-shaped segments radiating outward like a sunburst, the most luminous element in the entire window.
+
+THE BATTLE SCENE — NARRATIVE IN GLASS:
+
+Surrounding the central figure, smaller scenes of battle fill the remaining window space, arranged in the traditional stained glass narrative style — multiple scenes existing simultaneously within the same window:
+
+LOWER SECTION (65-85% from top): A battle scene rendered in the simplified, iconic style of medieval stained glass. Armored figures on horseback clash — each horse and rider composed of a few bold glass shapes. Swords cross in geometric patterns. Fallen figures lie on a ground rendered as a series of green glass segments. The glass colors in this section are warmer — amber, orange, deep green, burgundy — the colors of earth and blood and autumn.
+
+UPPER SECTIONS (flanking the central figure, 20-50% from top): On the left, a castle under siege — the castle rendered as a geometric arrangement of grey and white glass pieces forming towers and walls, with red and orange glass "flames" rising from the ramparts. On the right, a monastery or cathedral — its Gothic architecture rendered in pale blue and white glass, with a single rose window within the window (a meta-reference) in multicolored glass.
+
+THE ROSE WINDOW ELEMENT (top of the arch, 5-20% from top):
+
+At the very top of the pointed arch, above the central figure's halo, a small rose window is incorporated — a circular geometric pattern of radiating glass segments in alternating colors: ruby red, deep blue, emerald green, gold yellow, and clear white. This rose window serves as both a decorative crown for the composition and a symbolic element — the divine order above the human conflict below.
+
+LEAD CAMING — THE STRUCTURAL LINES:
+
+The lead lines separating every glass segment are CRITICAL to the stained glass aesthetic. They are rendered as dark lines (#1A1410) of consistent width (approximately 2-3mm at print scale), following the contours of every figure, every architectural element, every decorative shape. The lead lines are not perfectly straight or smooth — they have the slight irregularity of hand-formed lead caming, with tiny variations in width and gentle curves where straight lines would be expected. The lead lines serve a dual purpose: structurally, they hold the glass pieces together; artistically, they create bold outlines that define every form with graphic clarity.
+
+LIGHT AND TRANSLUCENCY:
+
+The critical visual effect: every glass segment must appear to be LIT FROM BEHIND. The backlight is warm afternoon sunlight — not visible directly, but implied by the way every piece of glass glows with transmitted light. The effect varies by glass color:
+- Ruby red glass: Glows with deep, warm, wine-colored light — the most dramatic translucency
+- Cobalt blue glass: Glows with a rich, deep blue luminance
+- Gold yellow glass: Blazes with warm, intense light — the brightest elements
+- Green glass: Glows with a cool, forest-deep luminance
+- Clear/white glass: Transmits the most light — bright, nearly blinding where the sun hits directly
+- The paler, thinner glass segments glow more brightly; the deeper, thicker glass glows with richer, more saturated color
+
+Where glass segments of different colors are adjacent, their transmitted light intermingles at the lead-line boundary — a subtle warm glow where red meets gold, a subtle cool zone where blue meets green. This light interaction is what makes stained glass alive.
+
+COLOR PALETTE — CATHEDRAL GLASS:
+
+- Ruby red: #8B1A2A — surcoat, flames, rose window segments
+- Cobalt blue: #1A3A8B — armor, sky, castle, rose window segments
+- Gold yellow: #FFD040 → #E8C030 — halo, heraldic elements, brightest accents
+- Emerald green: #1A6B3A — ground, vegetation, rose window segments
+- Amber: #C88020 — battle scene, architectural accents
+- Flesh tone: #F0D0B0 — faces, hands
+- Silver-white: #D0D8E0 — armor highlights, clear glass areas
+- Lead dark: #1A1410 — all caming lines
+- Stone grey: #3A3028 — window frame border
+
+TEXT — GOTHIC BLACKLETTER, INTEGRATED INTO THE GLASS:
+
+Title (positioned at 5-16% from top, centered within the rose window area):
+"THE STAINED" — rendered in Gothic blackletter font (think Fraktur or Old English — the angular, ornamental medieval lettering style) in gold-yellow glass (#FFD040), each letter appearing as a glass segment with lead-line borders, as though the text itself is made of stained glass. The blackletter font is deliberately medieval and ornamental.
+"GLASS WAR" — on the next line, same blackletter font, same size, in ruby red glass (#8B1A2A). The gold-to-red title mirrors the window's two dominant warm colors.
+
+Series banner (positioned at 18% from top, centered): A horizontal banner shape in pale glass containing "Book One of the Cathedral Cycle" — in small blackletter in cobalt blue (#1A3A8B).
+
+Author name (positioned at 90-93% from top, centered in the lower battle scene area): "BENEDICT CROSS-ADEYEMI" — in small Gothic blackletter capitals in gold-yellow glass (#FFD040), each letter appearing as a lit glass segment.
+
+OVERALL MOOD:
+
+Sacred, martial, radiant — the feeling of standing in a medieval cathedral and looking up at a window that tells the story of a holy war in light and color. The stained glass aesthetic transforms a fantasy war story into something that feels ancient, sacred, and monumentally important — not mere fiction but scripture rendered in light.
+
+At thumbnail, the glowing jewel-toned glass segments and the central armored figure create an immediately recognizable and striking image — nothing else on a bookshelf looks like a stained glass window. At full resolution, the individual glass pieces, the lead caming detail, and the narrative battle scenes are extraordinary.
+
+THIS IS STAINED GLASS WINDOW ART. Jewel-toned glass segments, dark lead caming lines, radiant backlighting. The beauty is in the transmitted light — the way colored glass transforms sunlight into something sacred, and the way bold lead lines transform figures into icons.

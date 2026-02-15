@@ -1,0 +1,75 @@
+GHOST IN THE SIGNAL — A NOVEL OF DIGITAL CONSCIOUSNESS
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Cyberpunk / AI Fiction / Techno-Thriller
+ART STYLE: Abstract data visualization art — the aesthetic of network topology maps, particle physics diagrams, and real-time data flow renders merged with impressionistic light painting. A human face dissolving into streams of luminous data particles against pure darkness. Cool electric blues and warm signal-amber on black.
+
+---
+
+An abstract, visually striking book cover that depicts a human face in the process of dissolving into — or forming from — millions of tiny luminous data particles. The image exists at the intersection of data visualization art, particle physics imagery, and impressionist light painting. There is no solid matter in this image — everything is made of light, particles, and the suggestion of connection. The background is absolute darkness, and against this void, a face made of light struggles to exist.
+
+THE FACE — DISSOLVING INTO DATA:
+
+A human face is positioned in the center of the image, occupying approximately 30-75% of the vertical space. The face is rendered NOT as solid flesh but as a dense cloud of millions of tiny luminous particles — each particle a small point of light, like a single pixel or a single data point in a vast visualization. The face is recognizable as a face only because of the density and arrangement of these particles — where the particles are densely packed, features emerge (the bridge of a nose, the curve of an eye socket, the line of lips); where they thin out, the face dissolves into scattered points of light drifting into the void.
+
+The face appears to be a woman's face, viewed in three-quarter profile facing slightly left. The expression is ambiguous — it could be pain, wonder, transcendence, or the effort of holding oneself together. The eyes are the most defined feature — the particle density is highest around the eyes, creating two bright focal points. The left eye (facing the viewer) is nearly complete — enough particles packed tightly enough to suggest an iris, a pupil, the curve of an eyelid. The right eye is more dissolved — the particles are spreading outward, the eye fragmenting into a stream of light points that trail away to the right like sparks from a fire.
+
+PARTICLE BEHAVIOR — THE DISSOLUTION:
+
+The particles that compose the face behave differently in different zones:
+
+LEFT SIDE (more intact): The particles are densely packed, small, and relatively stationary — creating a nearly solid appearance. The left cheek, left eye, and left side of the forehead are almost complete, almost real. Individual particles are barely visible at this density — the face looks almost photographic from a distance, only revealing its particle nature on close inspection.
+
+CENTER (transitional): The particle density decreases. Individual particles become visible — each one a small, bright point of light with a soft glow halo. The particles are beginning to separate, creating tiny gaps between them through which the black background shows. The nose bridge, lips, and chin exist in this transitional zone — recognizable but fragile, on the verge of dissolution.
+
+RIGHT SIDE (dissolving): The face breaks apart. Particles stream rightward and upward in flowing, organic trajectories — like a murmuration of starlings, each particle following its own path but the collective motion creating sweeping, graceful curves. The streams of particles thin and spread as they move away from the face, eventually becoming scattered individual points of light lost in the darkness. Some particle streams curve back on themselves, creating loop patterns; others trail off in straight lines toward the edges of the image. The right side of the face is mostly gone — just enough particles remain to suggest where the right cheek and right eye should be, creating a ghostly absence.
+
+DATA CONNECTION LINES:
+
+Between the particles, thin luminous lines connect nearby points — like the edges in a network graph or the bonds in a molecular diagram. These connection lines are NOT drawn between every particle (that would create a solid mesh) but selectively — one in every twenty particle pairs is connected, creating a sparse, web-like network that is visible in the transitional and dissolving zones. The connection lines are very thin, in a slightly different color from the particles themselves — pale electric blue (#4488FF) while the particles are warmer amber-white. The connection lines give the face structure and suggest that the particles are not random but part of a system — a network, a consciousness, a signal.
+
+In the dissolving zone, the connection lines stretch and snap as particles move apart — broken connections rendered as tiny bright flashes at their endpoints, like micro-synapses firing. The visual suggestion is of a neural network or social graph being torn apart — each broken connection a lost thought, a lost memory, a lost connection.
+
+PARTICLE COLOR AND LIGHT:
+
+The particles are not a single color — they shift in a gradient across the face:
+- Core particles (densest areas): Warm amber-white (#FFE0B0) — the warmth of human presence, analog warmth
+- Transitional particles: Pure white (#FFFFFF) — bright, neutral, the moment of transformation
+- Dissolving particles: Cool electric blue (#4488FF) — the cold of digital space, signal without source
+- Scattered distant particles: Pale ice-blue (#A0C8FF) — fading, almost invisible against the black
+
+Each particle has a soft glow — a tiny halo of its own color extending 2-3x the particle's diameter. In dense areas, these halos overlap and merge, creating a soft, luminous quality like looking at city lights through fog. In sparse areas, each particle's halo is distinct — a tiny isolated lantern in the void.
+
+BACKGROUND — ABSOLUTE VOID WITH DATA TRACES:
+
+The background is true black (#000000) — the darkest background possible, representing the void of digital space. Against this black, very faint traces are barely visible: ghost images of data streams — horizontal and vertical lines of tiny grey dots (#333333) arranged in grid patterns, like the background data flow of a network. These traces are extremely subtle — barely visible, more felt than seen — creating a subliminal sense that the darkness is not empty but full of invisible information.
+
+COLOR PALETTE — LIGHT ON DARKNESS:
+
+- Warm amber-white: #FFE0B0 — core face particles
+- Pure white: #FFFFFF — transitional particles, brightest highlights
+- Electric blue: #4488FF — connection lines, dissolving particles
+- Pale ice-blue: #A0C8FF — distant scattered particles
+- Absolute black: #000000 — background void
+- Ghost grey: #333333 — background data traces (barely visible)
+The palette is strictly: warm light vs. cool light vs. absolute darkness. No other colors. The simplicity focuses all attention on the particle behavior and the face's dissolution.
+
+TEXT — THIN, PRECISE, DIGITAL:
+
+Title (positioned at 6-18% from top, centered over the dark upper void):
+"GHOST IN" — in a thin, precise, monospaced font (think Fira Code, Source Code Pro, or JetBrains Mono — the fonts of code editors and terminals) in warm amber-white (#FFE0B0). Medium size, letter-spacing 0.2em. The monospaced font signals digital, computational themes.
+"THE SIGNAL" — on the next line, same monospaced font, but in electric blue (#4488FF) and slightly larger. The color shift from warm amber to cool blue mirrors the particle gradient in the face below.
+
+A thin horizontal line of dots (like a data stream) in alternating amber and blue connects the title to the image below — running from the 's' of "SIGNAL" down to the dissolving particles of the face, visually linking text and image.
+
+Subtitle (positioned at 20% from top, centered): "a novel of digital consciousness" — in very small, thin sans-serif, all lowercase, in ghost grey (#666666). Understated, almost invisible — a whisper in the digital void.
+
+Author name (positioned at 90-93% from top, centered): "ELENA VASQUEZ-KIMURA" — in thin monospaced font in warm amber-white (#FFE0B0), letter-spacing 0.3em. Clean, digital, precise.
+
+OVERALL MOOD:
+
+Haunting, beautiful, liminal — the feeling of watching a person transform into pure information, unsure whether they are being born or dying. The dissolving face is simultaneously tragic (a person disappearing) and transcendent (a consciousness expanding beyond physical form). The visual poetry of light particles against absolute darkness creates an image that is emotionally resonant and technically striking.
+
+At thumbnail, the glowing face-shape against the black background is immediately arresting — it reads as a face made of light, which is visually unique and compelling. At full resolution, the individual particles, the connection lines, the gradient from warm to cool, and the breaking network edges are extraordinary.
+
+THIS IS DATA VISUALIZATION ART meets LIGHT PAINTING. No solid surfaces, no traditional rendering. Everything is particles, connections, and light against void. The beauty is in the emergence — how millions of tiny points of light, each meaningless alone, create a recognizable human face when arranged with intention.
