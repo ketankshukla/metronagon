@@ -4,11 +4,12 @@ Metronagon Confidence Scripts
 
 Folder Structure
 
-Each script has 3 files:
+Each script has 3 files + its own image folder:
 
   XX-script-name.txt              Full production document with image timing, visual direction, music cues, and narration
   XX-script-name-heygen-metadata.txt   HeyGen-specific settings: avatar, voice, background, music, and image overlay instructions
   XX-script-name-plain.txt        Clean narration text only — copy-paste directly into HeyGen's script field
+  XX-images/                      Folder containing ONLY the images that script uses — drag and drop the whole folder into HeyGen
 
 Scripts
 
@@ -19,35 +20,20 @@ Scripts
   05  The Full Pipeline            YouTube Shorts / Facebook       End-to-end "we do everything" power pitch
   06  The Origin Story             All platforms                   Credibility pitch — 22 books, 3 series, the proof is the product
 
-Portfolio Images Available
+Per-Script Image Folders
 
-All images are in the images/ subfolder. Upload these directly to HeyGen — filenames are self-descriptive.
+Each script has its own image folder containing ONLY the images it references.
+Just drag and drop the entire folder contents into HeyGen for that video.
 
-Metronagon Brand
-  - metronagon-logo.png — Main Metronagon logo emblem
-  - metronagon-founder-ketan.jpeg — Founder photo
+  01-images/    28 files    The Elevator Pitch
+  02-images/    24 files    The Portfolio Showcase
+  03-images/    29 files    The Series Branding Story
+  04-images/    12 files    The Children's Book Magic
+  05-images/    27 files    The Full Pipeline
+  06-images/    39 files    The Origin Story
 
-Aztec Samurai Adventures (12-book fantasy series)
-  - aztec-book01-cover.jpg through aztec-book12-cover.jpg — All 12 covers
-  - aztec-character-itzil.jpg, aztec-character-volzentar.jpg, aztec-character-nightshade.jpg, aztec-character-neyla.jpg, aztec-character-miyako.jpg, aztec-character-rainara.jpg, aztec-character-relicara.jpg, aztec-character-sethara.jpg — 8 character portraits
-  - aztec-series-logo.png — Series logo
-  - aztec-complete-series.jpg — Complete series cover
-  - aztec-boxset-1.jpg, aztec-boxset-2.jpg — Box set covers
-
-Repetition: Mother of Mastery (5-book self-improvement series)
-  - repetition-book01-cover.jpg through repetition-book05-cover.jpg — All 5 covers
-  - repetition-series-logo.png — Series logo
-  - repetition-complete-series.jpg — Complete series cover
-  - repetition-youtube-thumbnail.jpg — YouTube thumbnail
-
-Reality Without Belief (5-book essay series)
-  - reality-book01-cover.jpg through reality-book05-cover.jpg — All 5 covers
-  - reality-series-logo.png — Series logo
-  - reality-complete-series.jpg — Complete series cover
-  - reality-youtube-thumbnail.jpg — YouTube thumbnail
-
-Children's Book — Ixchel and the Stolen Sun
-  - childrens-page-01.jpg through childrens-page-28.jpg (pages 01, 04, 08, 12, 16, 20, 24, 28)
+Filenames are self-descriptive (e.g. aztec-book01-cover.jpg, aztec-character-itzil.jpg, childrens-page-01.jpg).
+No paths needed — just the filename as listed in each script.
 
 Music Direction (All Scripts)
 
