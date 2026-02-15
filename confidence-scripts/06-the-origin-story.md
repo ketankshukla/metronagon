@@ -1,0 +1,70 @@
+# Script 06: The Origin Story
+
+**Duration:** 60 seconds
+**Purpose:** The credibility pitch — "I didn't just start a business, I built the proof first." This is the trust-builder, the story that turns a stranger into a believer. For when someone asks "Why should I trust you?"
+**Platform:** All platforms — this is the most versatile script
+**Tone:** Personal, reflective, building to powerful conviction — like the opening monologue of a prestige documentary. The narrator is looking back at a journey and realizing the significance of what was built.
+
+---
+
+## Visual Direction
+
+This is a NARRATIVE script. It follows a chronological journey — from writing books, to creating covers, to building a system, to launching a business. The visual treatment should feel like a documentary montage: slow, deliberate reveals of portfolio work timed to the story beats. The presenter is on screen more in this script than any other — this is about the person behind the brand. Eye contact, authenticity, and quiet intensity are the visual keys.
+
+---
+
+## Image Sequence & Timing
+
+| Timestamp | Visual | Image File | Motion |
+|-----------|--------|------------|--------|
+| 0:00–0:06 | Presenter, direct to camera, dark background, contemplative start | — (talking head) | Static |
+| 0:06–0:09 | Aztec Book 1 cover — the first book, the beginning | `portfolio/aztec/covers/book1-cover.jpg` | Slow fade in, gentle zoom |
+| 0:09–0:12 | Aztec Books 1-4, side by side — the series growing | `portfolio/aztec/covers/book1-cover.jpg` through `book4-cover.jpg` | Slide in from right |
+| 0:12–0:16 | All 12 Aztec covers — the full shelf revealed | All 12 Aztec covers | Slow zoom out to reveal all |
+| 0:16–0:19 | Itzil character portrait — the first character | `portfolio/aztec/characters/01-Itzil.jpg` | Slow zoom in |
+| 0:19–0:22 | Character grid — Itzil, Nightshade, Neyla, Volzentar, Miyako, Rainara | Multiple character portraits | Grid appear one by one |
+| 0:22–0:25 | Aztec series logo — the brand crystallizing | `portfolio/aztec/series-logo.png` | Fade in, centered |
+| 0:25–0:28 | Repetition series — all 5 covers + logo | `portfolio/repetition/book1-cover.jpg` through `book5-cover.jpg`, `series-logo.png` | Quick elegant cascade |
+| 0:28–0:31 | Reality series — all 5 covers + logo | `portfolio/reality/book1-cover.jpg` through `book5-cover.jpg`, `series-logo.png` | Quick elegant cascade |
+| 0:31–0:35 | Children's book pages — 01, 12, 24 — the range expanding | `portfolio/childrens/page-01.jpg`, `page-12.jpg`, `page-24.jpg` | Soft dissolve sequence |
+| 0:35–0:38 | Panoramic: Aztec complete series landscape — the scope | `portfolio/aztec/box-sets/complete-series-cover-landscape.jpg` | Slow horizontal pan |
+| 0:38–0:41 | YouTube thumbnails side by side | `portfolio/repetition/youtube-thumbnail.jpg`, `portfolio/reality/youtube-thumbnail.jpg` | Slide in together |
+| 0:41–0:44 | Metronagon logo — the business born | `portfolio/logo.png` | Dramatic fade in, slow zoom |
+| 0:44–0:52 | Presenter returns, full screen, direct eye contact, the closing conviction | — (talking head) | Static |
+| 0:52–0:55 | Quick montage flash: one Aztec cover, one character, one children's page, one logo — 0.75s each | Various | Quick dissolve |
+| 0:55–0:60 | Metronagon logo + "Metronagon.com" + tagline "The Measure of Excellence" | `portfolio/logo.png` | Gold glow, hold |
+
+---
+
+## Music Direction
+
+- **Track style:** Intimate to epic — starts with a single piano playing a reflective melody (0:00–0:12), strings enter gently at 0:12 (the "twelve books" reveal), builds steadily through 0:22–0:35, reaches full orchestral warmth at 0:41 (logo reveal), and holds that emotional power through the close
+- **Volume:** 20% during the intimate opening (0:00–0:12), 30% during the building middle, 35% at the emotional peak (0:41–0:55), back to 25% for the final seconds
+- **Feel:** The feeling of watching someone's life work unfold — pride, weight, earned confidence. NOT triumphant or boastful. Earned.
+- **Reference:** Max Richter "On the Nature of Daylight" meets Hans Zimmer "Time" — start intimate and reflective, build to something vast and moving
+- **Key moment:** The emotional swell at 0:41 when the Metronagon logo appears should feel like the moment in a documentary where everything clicks into place — "this is why it all mattered"
+
+---
+
+## Narration Script (with timing)
+
+**[0:00–0:06]** *(presenter to camera, contemplative)*
+"I didn't start Metronagon to sell you something. I started it because I built something — and realized other authors needed it too."
+
+**[0:06–0:16]** *(first cover → series building → all 12 revealed)*
+"It began with one book. Then two. Then twelve. A complete fantasy series — every cover, every character, every visual element designed and generated through a pipeline I built from scratch."
+
+**[0:16–0:25]** *(characters → series logo)*
+"Thirty character portraits, each one distinct, each one consistent with the world. A series logo. Box set art. Panoramic covers. Not outsourced. Not templated. Built."
+
+**[0:25–0:35]** *(Repetition → Reality → children's book)*
+"Then I did it again. A self-improvement series. A philosophical essay series. A children's picture book. Four completely different visual languages — same pipeline, same standard, same obsessive attention to detail."
+
+**[0:35–0:44]** *(panoramic → thumbnails → Metronagon logo)*
+"Twenty-two books. Three complete series. Four live portfolio websites. Thumbnails, style guides, brand systems. And then I looked at what I'd built and thought — this isn't just my workflow. This is a service."
+
+**[0:44–0:55]** *(presenter returns, direct conviction)*
+"That's Metronagon. Not a promise of what we could do — a portfolio of what we've already done. Every cover on our site is real. Every series is published. Every image was created with the exact same process we use for your project."
+
+**[0:55–0:60]** *(logo + URL)*
+"Metronagon dot com. The measure of excellence."

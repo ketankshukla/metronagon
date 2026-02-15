@@ -1,0 +1,84 @@
+# Script 02: The Portfolio Showcase
+
+**Duration:** 60 seconds
+**Purpose:** A visually-driven reel that lets the work speak — rapid-fire portfolio showcase designed to stop the scroll
+**Platform:** TikTok / YouTube Shorts / Instagram Reels
+**Tone:** Cinematic, awe-inspiring — like a movie trailer for a design studio
+
+---
+
+## Visual Direction
+
+This is an IMAGE-FORWARD script. The presenter appears only at the opening and closing. The middle 45 seconds are a cinematic cascade of portfolio images with voiceover narration. Each image should have subtle motion — slow zoom, gentle pan, or parallax effect — to create that premium Ken Burns documentary feel. Transitions between images should be smooth dissolves or elegant slide-ins, NOT hard cuts.
+
+---
+
+## Image Sequence & Timing
+
+| Timestamp | Visual | Image File | Motion |
+|-----------|--------|------------|--------|
+| 0:00–0:04 | Presenter, direct to camera, dark background | — (talking head) | Static |
+| 0:04–0:07 | Metronagon logo, gold on black, dramatic reveal | `portfolio/logo.png` | Slow zoom in |
+| 0:07–0:10 | Aztec Book 1 cover — full screen | `portfolio/aztec/covers/book1-cover.jpg` | Slow upward pan |
+| 0:10–0:12 | Aztec Book 2 cover | `portfolio/aztec/covers/book2-cover.jpg` | Slow zoom in |
+| 0:12–0:14 | Aztec Book 5 cover | `portfolio/aztec/covers/book5-cover.jpg` | Gentle left pan |
+| 0:14–0:16 | Aztec Book 8 cover | `portfolio/aztec/covers/book8-cover.jpg` | Slow zoom out |
+| 0:16–0:18 | Aztec Book 12 cover | `portfolio/aztec/covers/book12-cover.jpg` | Slow upward pan |
+| 0:18–0:20 | Itzil character portrait — full screen | `portfolio/aztec/characters/01-Itzil.jpg` | Slow zoom in on face |
+| 0:20–0:22 | Nightshade character portrait | `portfolio/aztec/characters/05-Nightshade.jpg` | Gentle right pan |
+| 0:22–0:23 | Volzentar character portrait | `portfolio/aztec/characters/03-Volzentar.jpg` | Slow zoom in |
+| 0:23–0:25 | Rainara character portrait | `portfolio/aztec/characters/14-Rainara.jpg` | Slow zoom out |
+| 0:25–0:27 | Aztec complete series panoramic | `portfolio/aztec/box-sets/complete-series-cover-landscape.jpg` | Slow horizontal pan left to right |
+| 0:27–0:30 | Repetition Book 1 cover | `portfolio/repetition/book1-cover.jpg` | Slow zoom in |
+| 0:30–0:32 | Repetition Book 3 cover | `portfolio/repetition/book3-cover.jpg` | Gentle upward pan |
+| 0:32–0:34 | Repetition complete series landscape | `portfolio/repetition/complete-series-cover-landscape.jpg` | Slow horizontal pan |
+| 0:34–0:37 | Reality Book 1 cover | `portfolio/reality/book1-cover.jpg` | Slow zoom in |
+| 0:37–0:39 | Reality Book 4 cover | `portfolio/reality/book4-cover.jpg` | Gentle pan |
+| 0:39–0:41 | Reality complete series landscape | `portfolio/reality/complete-series-cover-landscape.jpg` | Slow horizontal pan |
+| 0:41–0:44 | Children's page 01 | `portfolio/childrens/page-01.jpg` | Slow zoom in |
+| 0:44–0:46 | Children's page 08 | `portfolio/childrens/page-08.jpg` | Gentle zoom |
+| 0:46–0:48 | Children's page 16 | `portfolio/childrens/page-16.jpg` | Slow pan |
+| 0:48–0:50 | Children's page 24 | `portfolio/childrens/page-24.jpg` | Slow zoom out |
+| 0:50–0:52 | All three series logos side by side | `portfolio/aztec/series-logo.png`, `portfolio/repetition/series-logo.png`, `portfolio/reality/series-logo.png` | Fade in sequence |
+| 0:52–0:56 | Presenter returns, direct to camera | — (talking head) | Static |
+| 0:56–0:60 | Metronagon logo + "Metronagon.com" text overlay | `portfolio/logo.png` | Slow zoom in, gold glow |
+
+---
+
+## Music Direction
+
+- **Track style:** Epic orchestral build — starts with a single piano note at 0:00, strings enter at 0:07, full orchestral swell from 0:18 to 0:48, then resolves to warm strings at 0:52
+- **Volume:** 30% during talking head sections (0:00–0:04, 0:52–0:56), 40% during image showcase (0:04–0:52) since there's no competing face-to-face visual
+- **Key moments:** Percussion hit at 0:07 (first cover reveal), brass swell at 0:18 (character portraits), emotional peak at 0:41 (children's book), resolution at 0:52
+- **Reference:** Audiomachine "Guardians at the Gate" at low volume — that building, sweeping orchestral energy
+
+---
+
+## Narration Script (with timing)
+
+**[0:00–0:04]** *(presenter to camera)*
+"Let me show you what twenty-two books of experience looks like."
+
+**[0:04–0:07]** *(logo reveal)*
+*(Beat — let the logo breathe)*
+
+**[0:07–0:18]** *(Aztec covers cascading)*
+"Twelve-book fantasy series. Every cover photorealistic. Every composition cinematic. Every single one designed to stop a reader mid-scroll and make them click."
+
+**[0:18–0:25]** *(character portraits)*
+"Thirty character portraits. Each one unique. Each one consistent with the world they inhabit. This is not clip art. This is world-building."
+
+**[0:25–0:34]** *(panoramics + Repetition series)*
+"Self-improvement series with authoritative branding. Five books that look like they came from a publishing house with a fifty-person design team."
+
+**[0:34–0:41]** *(Reality series)*
+"Philosophical essays with quiet, contemplative covers. Different genre. Different mood. Same level of craft."
+
+**[0:41–0:50]** *(children's book pages)*
+"And Pixar-quality children's book illustrations. Thirty-two pages. Consistent characters on every single page. Assembled, formatted, print-ready."
+
+**[0:50–0:52]** *(series logos)*
+*(Beat — let the logos land)*
+
+**[0:52–0:60]** *(presenter returns)*
+"Everything you just saw — I created it. And now I create it for you. Metronagon dot com."
