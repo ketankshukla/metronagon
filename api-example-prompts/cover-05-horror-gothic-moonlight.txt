@@ -1,44 +1,59 @@
-COVER 05: HOLLOWFIELD — WHERE THE DEAD STILL WHISPER
-TYPE: Ebook Front Cover (Amazon Kindle + Apple iBooks)
+COVER 05: STILL WATER — A NOVEL
+TYPE: Paperback Front Cover
 DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
-GENRE: Gothic Horror / Supernatural
+GENRE: Literary Fiction / Quiet Suspense / Domestic Drama
+ART STYLE: Fine art photography — a single breathtaking landscape photograph with NO people, shot with a medium-format camera at dawn, with natural color grading in muted earth tones and extraordinary atmospheric depth
 
 ---
 
-A breathtaking ultra-high-resolution photorealistic book cover rendered at 1024x1536 pixels in sharp cinematic digital style with dramatic moonlight, volumetric fog, and oppressive atmospheric tension. This must look like the poster for a prestige horror film — beautiful but deeply unsettling, every shadow hiding something, every detail contributing to creeping dread. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+A book cover built around a single stunning landscape photograph that occupies the ENTIRE image — edge to edge, top to bottom, no borders, no frames. The photograph is rendered with the quality of a National Geographic cover or a fine art landscape print by photographers like Gregory Crewdson, Todd Hido, or Michael Kenna. The entire mood comes from the landscape itself — there are NO people anywhere in this image. Not a single human figure, not a silhouette, not a hint of a person. The absence of people IS the point — this cover is about a place, and the quiet, heavy feeling that the place itself is holding its breath.
 
-SUBJECT — AN ABANDONED VICTORIAN MANOR ON A MOONLIT HILL:
+THE PHOTOGRAPH — A LONE CABIN ON A MISTY LAKE AT DAWN:
 
-The primary subject is not a person but a building — a massive, decaying Victorian Gothic manor house positioned in the lower-center of the image, sitting atop a barren hill. The manor is three stories of crumbling grandeur — dark grey stone walls streaked with black water stains and patches of dead ivy. The architecture is elaborate and menacing — pointed gable roofs with missing slate tiles, ornate but corroded iron finials, a round tower on the right side with a conical roof and narrow windows like watching eyes. The front facade features a grand entrance with a heavy oak door — slightly ajar, revealing absolute darkness within. Above the door, a massive cracked stained-glass window in deep violet and sickly amber depicts an angel with its face deliberately scratched away. Every window in the manor is dark except one — a single window on the third floor, far left, glows with a faint, pulsing amber light. No source for the light is visible. No one should be in there.
+The camera is positioned at the edge of a still, glass-flat lake, shooting across the water toward the far shore. The camera is low — barely above the water's surface — so the bottom 15% of the image is the lake's surface stretching toward the viewer, creating an immersive, wading-in feeling.
 
-In the foreground, a rusted wrought-iron gate stands open — one gate hanging from a single hinge at an unnatural angle. Beyond the gate, a cracked stone path leads uphill through an overgrown graveyard — tilting headstones, some broken, some sunken into the earth at disturbing angles. Dead trees flank the path — leafless, their branches twisted into shapes that almost look like reaching hands. A single raven perches on the nearest headstone, rendered in photorealistic detail — glossy black feathers, one beady eye catching the moonlight.
+THE LAKE: The water is perfectly still — mirror-flat, not a single ripple, not a breath of wind. The surface is so calm that it reflects the entire scene above it in a near-perfect mirror image, slightly darker and more muted than reality (as real water reflections are). The water color is a deep, muted grey-green — the color of deep freshwater in the Pacific Northwest or Scandinavia, tinged with tannins from forest runoff. In the extreme foreground (bottom 5% of image), the shallow water near the camera position is clearer, and through it, smooth river stones are visible on the lake bed — grey, brown, and moss-green stones, softened by the water above them, slightly out of focus due to the shallow depth-of-field. A single fallen leaf — deep burnt orange, the only warm color in the entire image — floats on the water surface in the lower-left, perfectly still, its reflection creating a tiny symmetrical splash of color.
 
-BACKGROUND — OPPRESSIVE MOONLIT SKY:
+THE FAR SHORE (MIDDLE GROUND): Approximately 200 meters across the lake, the far shore is a dense wall of old-growth evergreen forest — massive Douglas firs and Western red cedars rising straight and tall, their trunks dark charcoal-brown, their canopy a solid mass of deep forest green so dark it is nearly black. The treeline is reflected in the lake, creating a dark green band across the center of the image. The trees are rendered with photographic precision — individual branch structures visible on the nearest trees, the canopy becoming a unified mass further back. Where the trees meet the water, a narrow strip of rocky beach is visible — pale grey gravel and scattered driftwood logs, bleached silver-white by years of weather.
 
-The sky is the upper half of the image and is extraordinary — a massive full moon dominates the upper-center, rendered in sharp photorealistic detail showing actual lunar surface features (craters, maria, highlands). The moon is slightly yellowed — a harvest moon — and is partially obscured by thin, wispy clouds that streak across its face like reaching fingers. The moonlight is cold and blue-white, casting sharp shadows of the manor and trees across the graveyard. The sky around the moon transitions from deep midnight blue near the horizon to true black at the top edges. A few stars are visible in the clear patches between clouds. To the left of the manor, the distant treeline of a dark forest is visible — solid black against the dark blue sky, an impenetrable wall of shadow. Low-lying fog blankets the ground around the base of the hill, pooling between the gravestones like a slow-moving white river, obscuring the lower portions of the headstones and the base of the dead trees.
+THE CABIN: Nestled among the trees at the far shore, slightly left of center, sits a small wooden cabin. It is the ONLY man-made structure in the entire image, and it is small — perhaps 8% of the image width, 5% of the image height. The cabin is simple, weathered, and solitary: a rectangular structure of dark-stained cedar planks, a peaked roof with cedar shake shingles covered in thick green moss, a single small window facing the lake, and a narrow wooden dock extending ten feet into the water from the cabin's shore. The dock is old — some planks are missing, others are warped and grey with age. A single wooden rowboat is tied to the dock — dark green paint, most of it peeled away to reveal grey wood beneath. The boat sits low in the water, half-filled with rainwater.
 
-ATMOSPHERIC EFFECTS:
+The cabin's single window is dark. No light, no warmth, no sign of occupancy. But the door — barely visible at this distance — appears to be open. Just slightly. Just enough to notice.
 
-Fog is the dominant atmospheric element — dense ground-level fog that swirls around the gravestones and the base of the manor, with tendrils of mist rising and curling like beckoning fingers. The moonlight creates volumetric shafts where it passes through gaps in the clouds, illuminating patches of fog with an eerie blue-white glow. A faint greenish bioluminescence emanates from the ground near the oldest, most sunken graves — could be swamp gas, could be something else. The overall palette is midnight blue, cold grey, bone white, and sickly amber — with the dominant tonal range being desaturated and cold. The single warm light in the third-floor window is the only true warmth in the scene, and it feels wrong rather than welcoming.
+THE SKY AND ATMOSPHERE:
 
-CRITICAL COMPOSITION RULE — BUILDING PLACEMENT:
+The sky occupies the top 40% of the image and is the primary source of the cover's mood. It is the sky of very early dawn — the sun has not yet risen, but the eastern horizon (right side of the image) is beginning to lighten. The sky transitions from deep slate grey at the top to a pale, washed-out silver-white at the horizon, with a single band of muted dusty rose — barely pink, more like the memory of pink — along the horizon line where the dawn light is just beginning to warm the clouds. The clouds are high, thin stratus layers — not dramatic cumulus thunderheads, but flat, horizontal sheets of grey that create subtle horizontal banding across the sky, like geological strata. The cloud layers trap the dawn light and diffuse it, creating a soft, even illumination with almost no shadows — the hallmark of overcast dawn light. The reflection of this sky in the lake below creates a beautiful symmetry — the image is nearly mirrored at the horizontal midpoint.
 
-The manor occupies roughly the 45%-85% vertical zone. The top 35% contains only sky, moon, clouds, and the very tips of the manor's roofline. The text zone is completely clear.
+MIST: The critical atmospheric element. A low-lying mist hangs over the lake, hugging the water surface, extending from the far shore outward toward the camera. The mist is not opaque — it is translucent, like gauze, allowing the cabin and treeline to be visible through it but softened, slightly obscured, as though seen through a veil. The mist is thickest at the far shore (where it pools among the tree trunks and partially obscures the base of the cabin) and thins as it extends toward the camera. Tendrils of mist curl and drift above the water surface — each one faintly visible, caught in the dawn light, moving so slowly they appear frozen. The mist gives the entire scene a dreamlike, suspended quality — time has stopped, the world is holding its breath.
 
-TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+COLOR PALETTE — MUTED, NATURAL, DESATURATED:
 
-Line 1 (exactly 3% from top): "A SUPERNATURAL THRILLER" — small sans-serif font, centered, pale sickly amber color (#C4A265), letter-spacing 0.2em, approximately 14pt. The letters have a faint, unsettling flicker quality.
+This is NOT a colorful image. The palette is deliberately muted and restrained — the colors of the natural world before sunrise, when everything is drained of saturation and exists in a narrow tonal range:
+- Deep forest green (nearly black): #1A2E1A — the dominant tree color
+- Slate grey: #5A6B7A — sky, water, stones
+- Moss green: #4A5E3A — cabin roof, water tint
+- Dusty rose: #C4A0A0 — the faintest hint at the horizon, barely there
+- Silver-white: #D4D8DC — mist, sky highlights, bleached driftwood
+- Warm brown: #5A4030 — cabin wood, tree trunks
+- Burnt orange: #B85C2A — ONLY the single fallen leaf, the cover's sole warm accent
+The overall tonal impression is cool, grey-green, and hushed. Every color whispers.
 
-Lines 2-3 (title block, exactly 8-20% from top): "HOLLOWFIELD" — massive, bold serif font (Cinzel style), centered, bone white with a faint cold blue glow and subtle cracking texture within the letters — as if the text itself is ancient and decaying. Single word, dominating the upper portion.
+TEXT — ELEGANT, THIN, UNDERSTATED. THE TYPOGRAPHY WHISPERS TOO:
 
-Decorative line (exactly 22% from top): A thin horizontal line in pale grey that looks like a crack spreading across the image, with tiny branching fractures at the center.
+Title (positioned at 12-26% from top, centered over the sky area):
+"still" — rendered in lowercase, thin-weight serif font (think Cormorant Garamond Light or Freight Text Light) in a muted sage green (#6B7F62). The word is rendered at medium size, elegant and quiet, with generous letter-spacing (0.3em). Lowercase is deliberate — it feels intimate, literary, unhurried.
+"water" — rendered on the next line, same font, same color, same size, same letter-spacing. The two words are stacked with generous line spacing (leading) — there is breathing room between them, visual silence.
 
-Line 4 (exactly 24% from top): "Where the Dead Still Whisper" — smaller italic serif, centered, pale grey with a ghostly translucency effect.
+The text has NO glow, NO shadow, NO outline, NO effects. It simply sits on the image, the sage green color chosen specifically to harmonize with the forest tones behind it while remaining legible against the lighter sky. The text feels like it belongs to the landscape — as natural as the trees and the mist.
 
-Line 5 (exactly 92% from top): "MARGARET HOLLOWAY" — large serif font, centered, bone white, letter-spacing 0.15em. Cold and stark.
+Subtitle (positioned at 28% from top, centered): "a novel" — in the same font, same color, even smaller, all lowercase, letter-spacing 0.4em. A whisper of a subtitle.
 
-OVERALL MOOD:
+Author name (positioned at 90-93% from top, centered over the dark water/reflection area): "INGRID SOLHEIM" — in small, thin-weight sans-serif font (think Gill Sans Light or Avenir Light) in a muted silver-white (#B8BCC0) that is just barely lighter than the dark water beneath it. All uppercase, generous letter-spacing (0.3em). The author name is understated to the point of near-invisibility — it rewards attention rather than demanding it. No line, no ornament, no flourish.
 
-Dread, isolation, the uncanny — the feeling of driving past a house at night and seeing a light in the window of a building that has been abandoned for decades. The cover should make a horror reader feel simultaneously repelled and drawn in. The restraint is what makes it terrifying — no monsters, no blood, no screaming faces. Just a house, a light, and the certainty that something is watching. At thumbnail size, the moon-manor silhouette creates instant atmosphere.
+OVERALL MOOD AND QUALITY:
 
-ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, cold, and deeply unsettling.
+Quiet. Still. Heavy with unspoken things. The cover evokes the feeling of arriving at a lake house very early in the morning, before anyone else is awake, and standing at the water's edge in the silence and the mist, and realizing that the silence is not empty — it is full of something you cannot name. The beauty is in the restraint — no drama, no spectacle, no color, no people. Just a lake, a cabin, a mist, a door that might be open, and a silence so deep it becomes a sound.
+
+This cover targets literary fiction readers who are drawn to quiet, atmospheric storytelling — readers of Marilynne Robinson, Kent Haruf, Elizabeth Strout. At thumbnail size, the horizontal symmetry of sky/water and the centered cabin silhouette create an instantly recognizable literary fiction aesthetic. At full resolution, the photographic detail — the stones beneath the clear water, the moss on the roof, the individual mist tendrils — is museum-print quality.
+
+THIS IS FINE ART PHOTOGRAPHY. Photorealistic, natural light, no manipulation beyond tasteful color grading. No fantasy elements, no magic, no monsters. The real world, rendered with such beauty and attention that it becomes uncanny. The horror, if there is any, is in the open door and the empty boat and the perfect, terrible stillness.

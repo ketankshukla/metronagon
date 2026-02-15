@@ -1,46 +1,84 @@
-COVER 07: STARFALL COVENANT — THE LAST FLEET RISES
-TYPE: Ebook Front Cover (Amazon Kindle + Apple iBooks)
+COVER 07: THE SHRINE BENEATH THE TIDE — TALES OF THE DROWNED PROVINCE
+TYPE: Paperback Front Cover
 DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
-GENRE: Space Opera / Military Sci-Fi
+GENRE: Historical Fantasy / Japanese-inspired Epic
+ART STYLE: Traditional Japanese ukiyo-e woodblock print — flat color areas with bold black outlines, stylized wave and cloud patterns, traditional composition principles, visible wood-grain texture suggesting actual block printing on washi paper
 
 ---
 
-A breathtaking ultra-high-resolution photorealistic book cover rendered at 1024x1536 pixels in sharp cinematic digital style with advanced volumetric lighting, lens flares, and deep-space atmospheric effects. This must look like a $200-million Hollywood space opera poster — every surface, every star, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+A magnificent book cover illustration rendered entirely in the style of Edo-period Japanese ukiyo-e woodblock printing — specifically the dramatic landscape and nature prints of Katsushika Hokusai and Utagawa Hiroshige. This is NOT photorealistic, NOT digital art, NOT anime, NOT manga. It must look like an authentic multi-block woodblock print on textured washi paper — flat color areas with no gradients (except the subtle bokashi technique of gradual color fade achieved by wiping ink from the block), bold sumi ink outlines of varying thickness, stylized rather than realistic rendering of natural elements, and the visible texture of handmade paper showing through the printed areas. The entire image should have the warm, slightly uneven quality of hand-printed art — subtle registration variations where color blocks don't perfectly align with outlines (a hallmark of authentic woodblock printing), the soft absorbency of ink into paper fibers, and the characteristic color palette of traditional Japanese pigments.
 
-SUBJECT — A FLEET COMMANDER ON THE BRIDGE OF A WARSHIP:
+THE SCENE — A DRAMATIC OCEAN STORM WITH A SUBMERGED TORII GATE:
 
-A man of South Asian descent in his early 40s, positioned in the lower-center of the image, standing at the helm of a massive warship bridge. He is captured from the waist up, body angled slightly right, his gaze fixed forward through a panoramic viewport that fills the background with the vastness of space. He wears a formal military command uniform — deep charcoal-black with sharp violet piping along the collar, shoulders, and cuffs. The uniform is tailored and precise — high Nehru-style collar, fitted across broad shoulders, with rank insignia on the collar: three interlocking silver stars above a violet nebula emblem. A long officer's coat drapes from his shoulders like a cape — the same charcoal-black with a violet silk lining visible at the edges. His hands are clasped behind his back in a classic command posture — one hand gripping the opposite wrist, the knuckles showing tension that his face does not betray. On his left wrist, a holographic command interface projects a faint tactical display — ship positions rendered in miniature violet and white light.
+The composition follows the classic ukiyo-e landscape format adapted to portrait orientation. The image is divided into three horizontal bands that interact dynamically — turbulent ocean (bottom 40%), a transitional zone of spray, rocks, and the torii gate (middle 30%), and a dramatic sky with clouds and a distant mountain (top 30%).
 
-FACE — COMMANDING PHOTOREALISTIC DETAIL:
+THE OCEAN (BOTTOM 40% OF IMAGE):
 
-His face radiates quiet, unshakeable authority. Warm brown skin with golden undertones, cleanly shaven with the shadow of stubble along a strong, angular jaw. His bone structure is striking — prominent cheekbones, a straight nose with a slight ridge (broken once, healed well), deep-set eyes under strong brows. His eyes are dark brown, almost black, with extraordinary depth — the kind of eyes that have watched worlds burn and made the impossible decision anyway. The violet light from the tactical display and the distant nebula outside casts subtle violet highlights along his right cheekbone and temple, while the cooler white light of the bridge instruments illuminates his left side. His hair is jet black, cropped military-short on the sides with slightly more length on top, precisely maintained, a few silver strands at the temples — not age but stress, the cost of command. His expression is resolute and measured — not grim, not hopeful, but the focused calm of a man who has calculated every outcome and chosen the one that costs the least lives. A thin scar runs from his right ear to his jawline — a remnant of a battle that cost him his first ship.
+Enormous stylized waves dominate the lower portion — rendered in the iconic Hokusai tradition with bold, curling forms that are graphic and decorative rather than realistic. The waves are NOT photographic water — they are the stylized, claw-like wave forms of ukiyo-e art, with curling crests that break into precise, decorative finger-like tendrils of white foam. The wave bodies are printed in deep Prussian blue (ai-zuri blue, the signature indigo of Japanese woodblock prints — #1B3A5C) with the darkest troughs in near-black indigo (#0D1B2A). The wave crests and foam are rendered in unpainted paper white (the washi paper itself shows through) with just the faintest grey-blue outlines defining the foam shapes. Each wave has bold, confident sumi ink outlines of varying thickness — thick on the outer contours, thinner on the interior details, tapering at the ends with the characteristic brushstroke quality of carved woodblock lines. Between the major waves, the churning water surface is depicted with hundreds of small, repetitive wave patterns — the classic ukiyo-e "fish scale" wave texture, each tiny wave a simple curved line repeated in dense rows, printed in medium blue (#2E5A88) over the darker blue base.
 
-BACKGROUND — DEEP SPACE FLEET FORMATION BEFORE A NEBULA:
+Three waves are dramatically prominent — the largest on the left side, curling upward and over toward the center of the image, its crest reaching into the middle zone. This wave is rendered with particular care: the interior shows the graduated bokashi technique — the ink fades from deep indigo at the base to medium blue at the crest, achieved by the traditional method of partially wiping ink from the block before printing. Inside the curl of this great wave, the water is lighter, almost turquoise (#3D7A8A), revealing the depth and transparency of the wave body.
 
-Through the massive bridge viewport, an awe-inspiring vista of deep space unfolds. Dominating the upper portion of the image is a colossal nebula — the Starfall Nebula — a vast cloud of interstellar gas in breathtaking shades of deep violet, electric purple, magenta-pink, and pale lavender, shot through with veins of bright white where new stars are being born. The nebula is rendered with astronomical accuracy — filamentary structures, dark dust lanes, bright emission regions, and wispy tendrils extending outward like the fingers of a cosmic hand. Against the nebula, arranged in a dramatic V-formation, the Last Fleet is visible — dozens of warships of varying sizes, their hulls dark gunmetal grey with running lights in violet and white. The largest ship, a massive dreadnought, is positioned directly behind the commander's silhouette, its engine nacelles glowing with intense violet-white thrust plasma. Smaller escort vessels and fighter wings create a sense of vast military scale. Stars fill every gap between the ships and the nebula — thousands of pinpoint lights in white, blue-white, and pale yellow, creating a dense starfield of extraordinary depth.
+THE TORII GATE (CENTER OF IMAGE, 35-65% FROM TOP):
 
-ATMOSPHERIC EFFECTS:
+Rising from the churning ocean, partially submerged, stands a massive vermillion torii gate — the iconic Shinto shrine gate, here depicted as ancient, weathered, and half-claimed by the sea. The gate is rendered in the traditional ukiyo-e style: flat areas of vermillion red (#B22222) — the specific warm, slightly brownish red of traditional Japanese vermillion pigment (shu-iro), NOT bright modern red. The wood grain of the gate's pillars is suggested by fine sumi ink lines running vertically — parallel, slightly wavy, varying in thickness. The gate's crossbeams (kasagi and nuki) extend horizontally across the center of the image, the upper kasagi beam with its characteristic upward curve at each end.
 
-The bridge interior has subtle atmospheric haze from the holographic displays — faint violet light scattered through the air. Lens flares from the brightest stars and ship engines create cinematic streaks of violet-white light across the viewport. The nebula casts a diffuse purple-violet ambient glow across every surface — the commander's uniform, his skin, the bridge instruments. The overall palette is deep violet, charcoal black, silver-white, and electric purple — with warm amber accents from the bridge instrument panels. The mood is epic, solemn, and vast — the quiet before a battle that will decide the fate of civilizations.
+The gate is partially submerged — the ocean reaches halfway up the main pillars, waves crashing against the wood, white spray bursting around the contact points. Barnacles and seaweed cling to the submerged portions — the barnacles rendered as tiny clustered dots in grey-white, the seaweed as flowing organic curves in dark green (#1A3A2A) that trail in the current like hair. The gate is old — the vermillion paint is faded and patchy, showing grey weathered wood beneath in several areas. A large crack runs diagonally through the right pillar. Despite its deterioration, the gate stands firm against the storm — it is ancient and enduring, a threshold between the human world and the divine.
 
-CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+Perched on the upper crossbeam of the torii, THREE CRANES (tsuru) are rendered in the classic ukiyo-e style — Japanese red-crowned cranes, each in a different pose: one with wings fully spread (wingspan extending beyond the gate's crossbeam), one with head tucked in weathering the storm, one with neck extended calling into the wind. The cranes are printed in flat white (paper showing through) with black wingtip details, red crown spots on their heads (tiny circles of vermillion), and elegant black sumi outlines. The cranes are stylized and decorative — they are not photographic birds but the graceful, elongated crane forms of Japanese artistic tradition.
 
-His face occupies roughly the 52%-68% vertical zone. The top 40% contains only the nebula, fleet, and starfield through the viewport. No part of his face or body enters the top 35%.
+ROCKS AND SHORE ELEMENTS:
 
-TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+Around the base of the torii gate, dark volcanic rocks break the surface — rendered as bold, angular shapes in flat dark grey (#3A3A3A) with lighter grey highlight faces and strong black outlines. White spray explodes where waves hit rocks, rendered as stylized splash patterns — decorative rather than realistic, each spray droplet a small circle or teardrop shape with a fine ink outline. Scattered among the rocks, pieces of a small wooden shrine are visible — broken timber, a fragment of a shimenawa (sacred rope) with its white zigzag paper streamers (shide) still attached, trailing in the wind and water. These fragments tell the story — the shrine has been claimed by the tide, only its gate remains standing.
 
-Line 1 (exactly 3% from top): "THE LAST FLEET SAGA" — small elegant sans-serif font, centered, silver-white color (#C0C0C0), letter-spacing 0.2em, approximately 14pt.
+THE SKY (TOP 30% OF IMAGE):
 
-Line 2 (exactly 6% from top): "BOOK ONE" — sans-serif font, centered, violet color (#9B59B6), letter-spacing 0.2em, approximately 12pt. Flanked by thin horizontal silver lines.
+The sky is rendered in the classic Hiroshige style — dramatic, stylized, with the bokashi gradation technique creating smooth transitions between color zones:
 
-Lines 3-4 (title block, exactly 10-22% from top): "STARFALL COVENANT" — large, bold sans-serif font, centered, bright white with a subtle violet glow emanating from behind the letters, as if lit by the nebula itself. "STARFALL" on one line, larger. "COVENANT" on the next. The letters have a metallic quality — faint chrome reflections.
+Upper sky: A deep gradient from near-black indigo (#0D1B2A) at the very top, fading through deep blue to a lighter blue-grey as it descends. This gradient is achieved through the bokashi technique and should show the characteristic subtle banding of hand-wiped woodblock printing — not a perfectly smooth digital gradient.
 
-Line 5 (exactly 26% from top): "The Last Fleet Rises" — smaller italic sans-serif, centered, pale violet/silver color with a soft glow.
+Storm clouds: Massive, stylized cloud forms rendered in the ukiyo-e convention — flat areas of grey (#6A6A6A) and dark grey (#3A3A3A) with curved, flowing outlines. The clouds are NOT realistic cumulus formations — they are the decorative, swirling, almost dragon-like cloud forms of Japanese art, with bold outlines and internal curve patterns suggesting turbulent motion. Rain is depicted as fine, perfectly parallel diagonal lines (a dense field of thin sumi ink lines running from upper-right to lower-left at a 60-degree angle), visible in front of the clouds and sky, creating the characteristic ukiyo-e rain effect seen in Hiroshige's famous rain prints.
 
-Line 6 (exactly 92% from top): "ARJUN RAMASWAMY" — large sans-serif font, centered, silver-white, letter-spacing 0.2em. Clean and commanding.
+Distant mountain: In the far background, visible between the clouds, a single mountain peak emerges — conical, symmetrical, unmistakably evoking Fuji though this is a fictional peak. The mountain is rendered in pale lavender-grey with a white snow cap, using the bokashi fade technique so it appears distant and ethereal. The mountain is small — perhaps 10% of the image width — but its presence anchors the composition and provides depth.
 
-OVERALL MOOD:
+Lightning: A single bolt of lightning splits the sky on the right side — rendered NOT as realistic branching lightning but as the stylized angular zigzag line of ukiyo-e tradition: a bold white line (paper showing through) with a thin gold-yellow (#C8A817) glow line beside it, zigzagging from cloud to ocean in sharp geometric angles.
 
-Epic, vast, solemn — the feeling of standing on the bridge of a warship as the last hope of humanity forms up behind you, and the impossible battle ahead is the only option left. The violet-dominated palette creates a distinctive visual identity that separates this from the typical blue-and-orange sci-fi covers. At thumbnail, the bright nebula and fleet silhouettes create instant sci-fi recognition and visual impact.
+COLOR PALETTE — AUTHENTIC UKIYO-E PIGMENTS:
 
-ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, vast, and awe-inspiring.
+The palette is strictly limited to colors achievable with traditional Japanese woodblock printing pigments:
+- Ai-zuri Prussian blue: #1B3A5C — waves, deep sky (the dominant color)
+- Medium blue: #2E5A88 — wave patterns, lighter water areas
+- Vermillion red (shu-iro): #B22222 — torii gate, crane crowns
+- Sumi black: #1A1A1A — outlines, darkest accents, rain lines
+- Grey: #6A6A6A and #3A3A3A — clouds, rocks, weathered wood
+- Dark green: #1A3A2A — seaweed, moss on rocks
+- Paper white: #F5EDE0 — the warm cream-white of washi paper, showing through as foam, crane bodies, lightning, and highlights
+- Pale lavender-grey: #B0A8C0 — distant mountain only
+- Gold-yellow: #C8A817 — lightning accent only, used sparingly
+
+NO modern pigment colors. NO neon. NO pink. NO orange (except the vermillion red which has an orange warmth). The palette is restrained and traditional — dominated by the interplay of blue, white, red, and black that defines the ukiyo-e aesthetic.
+
+TEXT — A RADICAL DEPARTURE: VERTICAL JAPANESE-INSPIRED CALLIGRAPHIC LAYOUT:
+
+This cover's text layout is COMPLETELY different from every other cover — it uses a combination of vertical and horizontal text placement inspired by the way titles appear on actual ukiyo-e prints.
+
+Title cartouche (positioned on the RIGHT side of the image, approximately 15-85% from top, 75-95% from left): A vertical rectangular cartouche (frame) — a simple double-line border in sumi black, filled with a semi-transparent wash of pale cream (#F5EDE0 at 85% opacity) that allows the image to show faintly through. Inside this cartouche, the title is written VERTICALLY (top to bottom) in large, bold brush-script lettering:
+
+"THE SHRINE BENEATH THE TIDE" — rendered in a bold, expressive brush calligraphy style (think Brush Script or a Japanese-inspired display font with dramatic thick-thin variation). The text reads top to bottom within the cartouche. Each word is rendered in sumi black with visible brush texture — the strokes have thick starts and thin trails, like genuine calligraphy brush work. "SHRINE" and "TIDE" are rendered larger and bolder than "THE," "BENEATH," and "THE." The vertical orientation and brush quality make this title treatment unique among all 10 covers.
+
+Series cartouche (positioned on the LEFT side of the image, approximately 5-25% from top, 3-15% from left): A smaller vertical cartouche in the same style, containing: "Tales of the Drowned Province" — written vertically in smaller, more refined calligraphic text in deep vermillion red (#B22222). This mirrors the traditional ukiyo-e practice of placing series titles in separate cartouches.
+
+Author name (positioned at 90-94% from top, centered horizontally): "HARUKI TANNENBAUM" — rendered horizontally in small, clean, widely-spaced sans-serif capitals in sumi black (#1A1A1A) against the lighter ocean/foam area at the bottom. Letter-spacing 0.3em. The horizontal author name provides a modern anchor that contrasts with the vertical Japanese-style title elements above.
+
+PAPER TEXTURE — THE FINAL LAYER:
+
+The ENTIRE image should have a subtle washi paper texture overlay — the warm, fibrous, slightly uneven texture of traditional Japanese handmade paper. This texture is most visible in the lightest areas (foam, crane bodies, sky highlights) where the paper's fiber structure shows through the thin ink coverage. In the darkest areas (deep wave troughs, sumi outlines), the texture is less visible but still subtly present. The paper color is not pure white — it is the warm cream (#F5EDE0) of aged washi. The edges of the image may show slightly heavier paper texture and the faintest darkening, as though this is a print that has been stored in a portfolio for a century.
+
+Subtle wood-grain texture should be visible in the larger flat color areas (the vermillion of the torii gate, the blue sky gradients) — faint parallel lines with slight irregularities, suggesting the actual wood blocks from which this image was "printed." This texture is very subtle — it should be felt more than seen, contributing to the handmade quality without becoming distracting.
+
+OVERALL MOOD AND QUALITY:
+
+Powerful, ancient, sacred — the feeling of witnessing a moment where the boundary between the mortal world and the spirit world is being tested by the raw force of nature. The torii gate — the literal threshold between worlds — stands defiant against the storm, its shrine already lost to the tide. The cranes represent endurance and transcendence. The mountain in the distance represents permanence. The ocean represents the overwhelming, indifferent power of nature.
+
+At thumbnail, the bold vermillion torii gate against the deep blue waves creates instant visual impact — the red-blue contrast is one of the most powerful in all of visual art. At full resolution, the woodblock printing techniques — the bokashi gradients, the sumi outlines, the paper texture, the stylized wave patterns — are extraordinary.
+
+THIS IS UKIYO-E WOODBLOCK PRINT ART. Flat, stylized, traditional. NOT anime. NOT manga. NOT modern Japanese pop art. NOT photorealistic. The beauty is in the bold outlines, the limited palette, the stylized natural forms, the interplay of paper texture and printed ink, and the centuries of artistic tradition that inform every line and color choice.

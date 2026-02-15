@@ -1,44 +1,71 @@
-COVER 06: THE WEIGHT OF SUNDAYS — A NOVEL
-TYPE: Ebook Front Cover (Amazon Kindle + Apple iBooks)
+COVER 06: THE HOUSE OF INFINITE STAIRS — A LABYRINTH BETWEEN WORLDS
+TYPE: Paperback Front Cover
 DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
-GENRE: Literary Fiction / Contemporary Drama
+GENRE: Surreal Fiction / Magical Realism / New Weird
+ART STYLE: Surrealist architectural illustration inspired by M.C. Escher's impossible geometry, Giorgio de Chirico's metaphysical cityscapes, and the dreamlike CGI renders of architectural visualization art — clean, geometric, mathematically precise yet deeply unsettling. Soft pastel color palette with sharp geometric shadows.
 
 ---
 
-A breathtaking ultra-high-resolution photorealistic book cover rendered at 1024x1536 pixels in sharp cinematic digital style with warm golden-hour natural lighting and intimate depth-of-field. This must look like a frame from a Terrence Malick or Sofia Coppola film — poetic, contemplative, achingly beautiful in its simplicity. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters. Every pixel must be razor-sharp where in focus and have natural photographic bokeh where out of focus.
+A surreal, dreamlike book cover depicting an impossible architectural space — a vast interior of staircases, arches, bridges, and doorways that defy gravity, perspective, and Euclidean geometry. The image should feel like stepping inside an Escher lithograph that has been recolored in a soft, dusty pastel palette and rendered with the clean precision of modern 3D architectural visualization. There are NO people in this image — only architecture, light, shadow, and the suggestion that someone was here a moment ago. The entire image is a single continuous impossible space — no sky, no ground, no exterior. Just an infinite interior.
 
-SUBJECT — A WOMAN SITTING ALONE AT A KITCHEN TABLE:
+THE IMPOSSIBLE ARCHITECTURE:
 
-A woman of mixed-race descent (Black and Irish) in her early 40s, positioned in the lower-center of the image, sitting at a small wooden kitchen table in a sun-drenched room. She is captured in a contemplative moment — her body angled slightly to the left, one elbow on the table, her chin resting lightly on her knuckles, gazing out a window to her left (out of frame). The light from the window floods across her face and the table in warm golden bars, creating a dramatic pattern of light and shadow through what must be venetian blinds. She wears a simple cream-white linen button-down shirt, the sleeves rolled to her forearms, the fabric catching the golden light beautifully. Her other hand rests flat on the table beside a ceramic coffee mug — pale blue, slightly chipped at the rim, steam rising in a delicate curl that catches the golden light. A folded newspaper sits on the table, and a pair of reading glasses rests atop it. The table is old, honey-colored pine with visible grain and the patina of decades of use — nicks, ring stains, a child's scratch mark partially sanded away.
+The image depicts the interior of an enormous structure — a building that contains itself, where up is also down, where staircases lead to ceilings that are also floors, where doorways open onto the undersides of bridges. The geometry is deliberately impossible but rendered with such clean, precise, architectural accuracy that the impossibility takes a moment to register — the viewer's eye follows a staircase upward and suddenly realizes it connects to a platform that is simultaneously above and below where it started.
 
-FACE — INTIMATE PHOTOREALISTIC BEAUTY:
+CENTRAL STAIRCASE COMPLEX (occupying 30-75% of the image vertically):
 
-Her face is the emotional core of the image. Her skin is a warm medium-brown — a beautiful blend of her heritage — with golden undertones that the sunlight turns luminous. Freckles are scattered across her nose and cheekbones — real, natural freckles, each individually rendered, some darker than others. Fine lines at the corners of her eyes — laugh lines that also tell of worry, of sleepless nights, of forty years of living fully. Her eyes are hazel-green — extraordinary in the golden light, almost amber where the sunbeam catches them, with a depth of emotion that is impossible to name but impossible to look away from. She is not crying, not smiling — her expression is that quiet, loaded stillness of someone who is deciding something enormous while appearing to think about nothing at all. Her lips are naturally tinted, neither smiling nor frowning — neutral in the most powerful sense of the word. Her hair is natural — a beautiful halo of dark brown tight curls with auburn highlights lit golden by the sun, shoulder-length, a few strands falling forward to frame her face. One curl catches the light and seems to glow with warm amber fire.
+The dominant feature is a grand central staircase that spirals through the center of the image — but not a normal spiral. The staircase begins at the lower-center of the image, climbing rightward in a gentle curve with wide, elegant stone steps. Halfway up, the staircase passes through an archway and continues climbing — but now the perspective has rotated 90 degrees, so what was the wall is now the floor, and the staircase appears to be climbing along what the viewer's brain insists is a vertical wall, yet the steps are rendered with perfect horizontal treads as though gravity has simply changed its mind. At the top of this rotated section, the staircase passes through another archway and emerges on the underside of where it started — Escher's impossible loop made tangible.
 
-BACKGROUND — A SMALL, LIVED-IN KITCHEN IN MORNING LIGHT:
+Each step is rendered with architectural precision: pale cream-pink marble (#F0E0D0) with subtle veining in warm grey, the edges slightly worn from centuries of phantom footsteps, each tread casting a crisp geometric shadow on the riser below. The staircase has elegant iron railings on both sides — slender black iron balusters with a simple handrail, the iron rendered with fine detail showing the slight texture of forged metal.
 
-The background is shallow depth-of-field (beautifully blurred, natural bokeh) but the shapes are recognizable — a modest kitchen in a small American home. Blurred warm tones of honey-colored cabinets, a window with thin white curtains that diffuse the morning light into soft golden warmth, the edge of a refrigerator with blurred shapes that suggest children's artwork held by magnets. On the counter behind her, blurred shapes of everyday objects — a fruit bowl with warm orange and yellow tones, a stack of mail, a small potted plant. Everything is warm, real, and slightly worn — this is not a catalog kitchen, it is a kitchen where a family lives, where coffee is made at 6 AM, where homework is checked, where a woman sits after everyone else has left and lets the weight of the quiet settle on her shoulders.
+SECONDARY ARCHITECTURAL ELEMENTS:
 
-ATMOSPHERIC EFFECTS:
+Surrounding and interlocking with the central staircase, a complex of additional architectural features fills the space:
 
-Golden morning light is everything in this image. It streams from the left, creating long warm shadows and bars of golden illumination across the table, the coffee mug, and her face. Dust motes float in the shafts of light — tiny golden particles suspended in air, each one catching the sun like a miniature star. The steam from the coffee mug rises in a thin, delicate spiral, backlit by the golden light into a translucent ribbon. The overall palette is warm gold, honey amber, cream white, soft brown, and muted sage green — everything bathed in that specific quality of morning light that makes ordinary objects look like sacred things.
+ARCHED CORRIDORS: Three barrel-vaulted corridors extend in different directions from the central staircase — one extends "leftward" (but the floor of this corridor is the wall of the main space), one extends "upward" (but its perspective suggests it is perfectly horizontal), and one extends "downward" (but it is lit from below as though it opens onto a sky). Each corridor is rendered in a different pastel tone:
+- Left corridor: Pale dusty rose (#D4A0A0) walls with cream trim
+- Upper corridor: Soft powder blue (#A0B8D4) walls with white trim
+- Lower corridor: Muted sage green (#A0C4A0) walls with warm grey trim
 
-CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The corridors are lined with identical arched doorways — eight per corridor, four on each side, evenly spaced. Each doorway is a simple pointed arch (Gothic lancet style) in cream white, framing absolute darkness within — not shadow, but a void, a flat black rectangle that reveals nothing about what lies beyond. The doorways are all identical, all the same size, all perfectly aligned — the repetition is part of the unsettling beauty.
 
-Her face occupies roughly the 55%-72% vertical zone. The top 40% contains only the upper kitchen — blurred cabinets, the top of the window, golden light, dust motes. No part of her face or body enters the top 35%.
+BRIDGES AND PLATFORMS: Connecting the corridors and staircases, several narrow stone bridges span the open central void. One bridge runs horizontally across the upper portion of the image; another runs vertically (impossible — a bridge cannot be vertical, and yet here it is, complete with railings on both sides, the stones rendered with the same precision as the horizontal one). A small square platform floats in the exact center of the void — not attached to anything visible, simply hovering, rendered in the same pale marble as the stairs, with a single wooden chair sitting on it. The chair is simple, elegant, Shaker-style — dark honey-colored wood, ladder-back, slightly angled as though someone just stood up from it. This chair is the cover's emotional anchor — a human object in an inhuman space.
 
-TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+IMPOSSIBLE WATER FEATURE: In one section of the architecture, a narrow stream of crystal-clear water flows along a stone channel carved into the top of a wall. The water flows in a physically impossible circuit — it cascades off the edge of the wall in a thin waterfall, falls downward (or is it upward?), and lands in the channel of another wall that connects seamlessly to the first, creating a perpetual-motion water loop. The water is rendered with photographic clarity — transparent, with visible refraction of the stone beneath, tiny ripples on the surface catching the light, and the waterfall section creating a fine mist where it impacts the lower channel. The water is the only moving element in an otherwise frozen scene.
 
-Line 1 (exactly 4% from top): "A NOVEL" — small, refined serif font (Garamond style), centered, warm gold color (#C8A961), letter-spacing 0.3em, approximately 12pt. Understated and quiet.
+LIGHT AND SHADOW — THE GEOMETRY OF IMPOSSIBLE ILLUMINATION:
 
-Lines 2-3 (title block, exactly 10-24% from top): "THE WEIGHT OF SUNDAYS" — elegant serif font, centered, dark charcoal (#2C2C2C) with a very subtle warm gold tint where the golden light would hit the letters. "THE WEIGHT OF" on one line, smaller. "SUNDAYS" on the next line, significantly larger — the word itself carries visual weight. The letters are clean, refined, literary — no glow, no effects, just beautiful typography.
+The lighting in this space is impossible — it comes from multiple directions simultaneously, yet each element casts crisp, geometrically precise shadows that obey the local gravity of its immediate surface. A staircase lit from the left casts shadows to the right on its own treads, while the corridor above it (which is rotated 90 degrees) is lit from above, casting shadows downward onto what is simultaneously the staircase's wall and the corridor's floor. The light itself is soft, diffused, and warm — the pale golden light of late afternoon sun entering through windows that are not visible but implied. The shadows are not black — they are soft, colored shadows: pale lavender in the rose-tinted sections, soft teal in the blue sections, warm amber in the green sections. The interplay of these colored shadows across the pale pastel surfaces creates a soft, dreamlike luminosity — the entire space seems to glow from within.
 
-Line 4 (exactly 27% from top): A thin horizontal line in warm gold, simple, centered, width 30% of image.
+COLOR PALETTE — SOFT PASTELS WITH GEOMETRIC PRECISION:
 
-Line 5 (exactly 92% from top): "RUTH MCALISTER" — elegant serif font, centered, dark charcoal (#2C2C2C), letter-spacing 0.2em. Quiet and dignified.
+The palette is the opposite of every other cover in this set — no bold colors, no dark tones, no high contrast. Everything is pale, soft, dusty, and dreamlike:
+- Pale cream-pink marble: #F0E0D0 — stairs, platforms, bridges
+- Dusty rose: #D4A0A0 — left corridor walls
+- Powder blue: #A0B8D4 — upper corridor walls
+- Sage green: #A0C4A0 — lower corridor walls
+- Warm cream white: #F8F0E8 — trim, archway frames, ceiling details
+- Soft lavender shadow: #C0B0D0 — shadows in rose areas
+- Pale teal shadow: #A0C0C8 — shadows in blue areas
+- Charcoal black: #1A1A1A — ONLY in the doorway voids and the iron railings
+- Clear water: transparent with subtle blue-green tint
+The overall impression is of a space rendered in watercolor pastels but with the precision of architectural CAD — soft and hard simultaneously, dreamy yet exact.
 
-OVERALL MOOD:
+TEXT — GEOMETRIC, ARCHITECTURAL, INTEGRATED INTO THE SPACE:
 
-Intimate, contemplative, achingly human — the feeling of a Sunday morning when everyone else has left the house and the silence becomes a living thing. This is not an action cover or a genre cover — it is a portrait of a moment, the kind of image that makes a literary reader think "I know this feeling." The restraint is the power — no drama, no spectacle, just light and a woman and the weight of an ordinary extraordinary life. At thumbnail, the warm golden light and the intimate composition create immediate emotional pull.
+Title (positioned at 5-18% from top, centered — appearing to float in the upper void of the impossible space):
+"THE HOUSE OF" — rendered in a refined geometric sans-serif font (think Futura Light or Didot) in warm charcoal (#3A3028). The letters are thin, elegant, widely spaced (letter-spacing 0.25em), and appear to exist WITHIN the architectural space — as though they are carved into an invisible plane that hovers in the void. Medium size.
+"INFINITE" — rendered on the next line in the SAME font but dramatically larger and in a different color: dusty rose (#B07070). This word dominates the title block — it is the visual weight, the word your eye goes to first.
+"STAIRS" — rendered on the next line, same size as "INFINITE," in soft powder blue (#7090B0). The color shift from rose to blue across the title mirrors the color shift in the architecture below, visually binding the text to the image.
 
-ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — warm, sharp, intimate.
+Subtitle (positioned at 20% from top, centered): "A Labyrinth Between Worlds" — in small italic serif font (think Cormorant Garamond Italic) in warm grey (#8A8078), letter-spacing 0.15em. Quiet, secondary, explanatory.
+
+Author name (positioned at 91-93% from top, centered): "CASSIA MOREAU" — in the same geometric sans-serif as the title, thin weight, in warm charcoal (#3A3028), generous letter-spacing (0.3em), all uppercase. Clean and architectural. Below the name, a tiny geometric symbol: a simple line drawing of an impossible triangle (Penrose triangle) in dusty rose, approximately 1% of the image height — a subtle nod to the impossible geometry of the cover.
+
+OVERALL MOOD AND QUALITY:
+
+Dreamlike, precise, intellectually unsettling — the feeling of walking through a building in a lucid dream where the architecture obeys its own laws and you cannot find the exit because the exit is also an entrance. The cover is beautiful in a mathematical way — every angle, every proportion, every shadow is deliberate and precise, yet the overall effect is deeply irrational. The pastel palette prevents the surrealism from feeling threatening — this is not horror, it is wonder tinged with vertigo. The empty chair on the floating platform is the cover's emotional core — someone was sitting there, thinking about the infinite stairs, and they are gone now, and you are alone in the impossible house.
+
+At thumbnail, the geometric staircases and the soft pastel palette are immediately distinctive — nothing else on a bookshelf looks like this. At full resolution, the architectural detail, the impossible water, the colored shadows, and the precise stone textures reward extended contemplation.
+
+THIS IS SURREALIST ARCHITECTURAL ILLUSTRATION. Clean, precise, geometric, yet impossible. NOT realistic architecture. NOT fantasy landscape. NOT abstract art. It is a specific, detailed, impossible BUILDING rendered with the precision of an architectural rendering and the logic of a dream.

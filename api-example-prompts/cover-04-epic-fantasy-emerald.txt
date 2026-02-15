@@ -1,50 +1,65 @@
-COVER 04: THE EMERALD THRONE — CHRONICLES OF THE VERDANT KINGDOM
-TYPE: Ebook Front Cover (Amazon Kindle + Apple iBooks)
+COVER 04: STARDRIFT SEVEN — A CAPTAIN RENKO ADVENTURE
+TYPE: Paperback Front Cover
 DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
-GENRE: Epic Fantasy / High Fantasy
+GENRE: Retro Science Fiction / Space Adventure
+ART STYLE: 1970s pulp sci-fi paperback illustration — gouache/airbrush painting style with visible brushwork, warm analog color palette, slight film grain, and the bold, exaggerated dynamism of classic sci-fi cover art from Ace Books, DAW, and Ballantine
 
 ---
 
-A breathtaking ultra-high-resolution photorealistic book cover rendered at 1024x1536 pixels in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood fantasy epic poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+A full-cover illustration rendered in the style of classic 1970s science fiction paperback cover art — the kind of bold, slightly exaggerated, gorgeously painted covers created by artists like Chris Foss, Peter Andrew Jones, John Berkey, and Frank Frazetta's space work. This is NOT modern digital art — it must look like a hand-painted gouache and airbrush illustration from 1977, reproduced on slightly yellowed paperback stock. The entire image should have the warm, analog quality of pre-digital illustration: visible paint texture, soft airbrush gradients, bold opaque color areas, and the slight oversaturation and warmth of 1970s printing on cheap pulp paper. Apply a subtle overall film grain texture and the faintest yellowing at the edges, as though this cover has been sitting on a used bookstore shelf for 45 years.
 
-SUBJECT — A WARRIOR-KING STANDING BEFORE HIS THRONE:
+THE SCENE — A CHAOTIC SPACE BATTLE WITH MULTIPLE ELEMENTS:
 
-A powerful man of West African descent in his mid-30s, positioned in the lower-center of the image, standing with commanding presence. He is tall and broad-shouldered, captured in a heroic three-quarter pose facing slightly right, his weight planted firmly, chin raised with quiet authority. He wears magnificent armor that fuses medieval plate design with African sculptural aesthetics — the breastplate is forged from a dark bronze alloy with a deep green patina, embossed with intricate geometric patterns inspired by Benin bronze reliefs. The armor plates are layered and organic, shaped like overlapping leaves and scales, each edge trimmed with bright gold filigree depicting intertwined vines and lions. Over his shoulders, a grand cape of deep emerald-green velvet cascades to the floor, clasped at each shoulder by golden lion-head brooches with tiny emerald eyes. The cape's underside is visible where it drapes — rich gold silk embroidered with a repeating pattern of crowned lions.
+This is NOT a single-character portrait — it is a busy, action-packed, multi-element composition crammed with the gleeful maximalism of 1970s pulp sci-fi. The composition is diagonal and dynamic, with elements arranged along a sweeping diagonal line from lower-left to upper-right, creating a sense of explosive forward motion.
 
-He holds a magnificent war-staff in his right hand — a seven-foot weapon of dark ironwood capped with a massive emerald crystal the size of a fist, the crystal radiating soft green light that illuminates his face from below. The crystal is faceted and internally cracked, with veins of gold running through it like frozen lightning. His left hand rests on the pommel of a sheathed longsword at his hip — the scabbard wrapped in dark green leather tooled with gold vine patterns.
+THE SPACESHIP (DOMINANT ELEMENT, 30-70% OF IMAGE):
 
-FACE — REGAL PHOTOREALISTIC DETAIL:
+Dominating the center of the image, a massive spacecraft flies at an aggressive diagonal angle — nose pointed toward the upper-right, engines blazing toward the lower-left. This ship is rendered in the Chris Foss style: enormous, industrial, asymmetrical, and covered in bold geometric color panels. The hull is NOT sleek and Apple-designed — it is chunky, mechanical, bristling with antenna arrays, sensor dishes, gun turrets, and exposed mechanical systems. The hull coloring is the most distinctive element: large flat panels of bright burnt orange (#CC5500) and avocado green (#568203) separated by black panel lines and yellow hazard stripes — the unmistakable Chris Foss color language. Some panels are pristine, others are scorched, dented, and patched with mismatched metal plates. The ship's name "STARDRIFT VII" is stenciled on the hull in blocky military-style yellow text, partially obscured by blast damage. The engine section at the rear erupts with a massive plume of blue-white thrust plasma, painted in layered airbrush gradients from blinding white at the nozzle to deep cobalt blue at the edges, the plasma trail streaking across the lower-left corner of the image in a sweeping curve.
 
-His face commands absolute attention. Rich dark brown skin with warm undertones that catch the green and gold light beautifully — visible pores, the texture of real skin, a thin sheen of determination across his brow. His bone structure is magnificent — strong, square jaw, high prominent cheekbones, a broad noble forehead. His eyes are deep brown, nearly black, with extraordinary depth and intelligence — the eyes of a man who has studied war and philosophy in equal measure. Gold-green reflections from the emerald crystal dance in his irises. His nose is broad and strong, his lips full and set in a line of resolute calm. He wears a close-cropped beard, meticulously shaped, with a few strands of silver at the chin — not age, but the mark of the emerald throne's power. His hair is cropped short with a precise fade, and atop his head sits a crown — not gaudy, but elegant: a circlet of dark bronze set with seven emeralds of descending size, the central stone catching the light with an internal fire.
+SECONDARY SHIPS AND COMBAT:
 
-BACKGROUND — THE EMERALD THRONE ROOM IN A LIVING PALACE:
+Behind and around the main ship, a space battle is raging. Three smaller attack craft — sleek, angular, painted in menacing deep red and gunmetal grey — are in pursuit, arranged in a triangular formation. Each one trails thin streams of orange-red weapons fire (painted as solid bright lines in the 1970s style, not realistic beam effects). Two of the weapons streams narrowly miss the main ship, one striking its aft section and creating a small explosion rendered as a bright white starburst with orange and yellow radiating streaks — painted in the bold, graphic style of 1970s space battle art. In the far background, a larger capital ship is visible — a massive, cathedral-like dreadnought painted in dark purple-grey, bristling with hundreds of tiny light points, rendered at a scale that makes the foreground ships look like insects. This dreadnought is partially obscured by the curvature of a planet below.
 
-Behind him rises the Emerald Throne itself — an enormous seat carved from a single massive emerald crystal, veined with gold, grown rather than built. It rises fifteen feet high, its back shaped like an unfurling canopy of crystallized leaves. The throne room is extraordinary — the walls are living stone intertwined with enormous ancient trees whose roots form the pillars and whose canopy forms the ceiling far above. Bioluminescent moss and vines climb every surface, emitting soft green-gold light. The floor is polished dark stone with veins of emerald running through it like rivers seen from above. Shafts of golden sunlight stream through gaps in the living canopy ceiling, creating dramatic god-rays that cut through the green-tinged air. In the distance, through massive arched windows, a vast kingdom of rolling green hills and distant mountains is visible under a dramatic sky of gold and deep blue.
+THE PLANET:
 
-ATMOSPHERIC EFFECTS:
+The lower-right portion of the image is dominated by the curved horizon of a gas giant planet — an enormous, banded world in swirling layers of deep amber, burnt sienna, rust red, and pale cream. The bands are painted in sweeping, flowing brushstrokes that suggest massive atmospheric storms. A single enormous storm eye — like Jupiter's Great Red Spot — is visible near the planet's limb, rendered as a tight spiral of dark red and cream. The planet's atmosphere catches the light of a nearby sun (out of frame to the upper-right), creating a bright atmospheric glow along the planet's limb — a crescent of brilliant white-gold light that separates the planet from the deep space background.
 
-The scene is saturated with green and gold light. Emerald-colored particles of magical energy drift slowly upward from the throne and the crystal staff, like luminous spores or fireflies. Golden sunbeams intersect with the green bioluminescence creating complex, layered lighting across every surface. Fine mist hangs in the air at floor level, catching the light and creating soft halos around the base of the throne. The overall palette is deep emerald green, rich gold, dark bronze, and warm amber, with accents of deep blue in the shadows.
+THE FIGURES — SMALL BUT PRESENT:
 
-CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+In the lower-left corner of the image, visible through a large viewport window on the main ship's bridge, TWO FIGURES are visible — small, only about 5% of the image height, but rendered with enough detail to be distinct:
 
-His face occupies roughly the 50%-68% vertical zone. The top 40% contains only the upper throne room — canopy ceiling, god-rays, living stone architecture. No part of his face or body enters the top 35%.
+CAPTAIN RENKO: A stocky, broad-shouldered man in his 50s with a grey crew cut and a jaw like a brick, wearing a battered orange flight suit with mission patches. He is gripping the edge of a console, leaning forward, barking an order. His face is lit by the orange glow of console screens.
 
-TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+THE NAVIGATOR: A tall, thin woman with close-cropped silver hair and dark brown skin, seated at the navigation console, her hands flying across holographic controls rendered as small dots and lines of green light. She is calm where he is intense — the competence behind the bluster.
 
-Line 1 (exactly 3% from top): "CHRONICLES OF THE VERDANT KINGDOM" — small elegant serif font, centered, gold color (#D4AF37), letter-spacing 0.15em, approximately 14pt.
+These figures are NOT the focus of the cover — they are a detail that rewards close inspection, adding human scale to the massive machinery around them.
 
-Line 2 (exactly 6% from top): "BOOK I" — serif font, centered, emerald color (#50C878), letter-spacing 0.2em, approximately 12pt. Flanked by thin gold ornamental vine lines.
+DEEP SPACE BACKGROUND:
 
-Lines 3-4 (title block, exactly 10-22% from top): "THE EMERALD THRONE" — large, regal serif font, centered, white/cream with a subtle green-gold luminous glow. "THE EMERALD" on one line, "THRONE" on the next, larger. Letters have a subtle crystalline quality — faint emerald-green light at the edges.
+The background beyond the ships and planet is deep space — not empty black, but the rich, warm, slightly purple-tinted space of 1970s sci-fi art. A dense field of stars is rendered as tiny dots and crosses (the characteristic four-pointed star rendering of 1970s space art, painted with a fine brush). A distant nebula cloud fills the upper-left corner — painted in soft airbrush gradients of warm pink, pale lavender, and deep purple, like a cosmic watercolor. The nebula is not the focus — it provides color and depth to the background.
 
-Decorative ornamental line (exactly 24% from top): An elegant gold filigree divider with vine and leaf motifs, small emerald-green gemstone accents at the center.
+COLOR PALETTE — DISTINCTLY 1970s:
 
-Line 5 (exactly 26% from top): "A Kingdom Grown from Stone and Root" — smaller italic serif, centered, pale gold/cream with a soft warm glow.
+The overall palette is warm and analog — burnt orange, avocado green, mustard yellow, rust red, deep brown, cobalt blue, warm purple, cream white. These are NOT modern saturated digital colors — they are the slightly muted, warm-shifted colors of 1970s gouache and airbrush illustration, reproduced on paper that has yellowed with age. The black areas are not true black — they are very dark warm brown (#1A1209), giving the entire image a vintage warmth. Highlights are not pure white — they are warm cream (#FFF8E7). The overall impression is of a beautifully painted image seen through a filter of warm nostalgia.
 
-Line 6 (exactly 92% from top): "ADEWALE OKONKWO" — large serif font, centered, white/cream, letter-spacing 0.2em. Regal and commanding.
+TEXT — RETRO 1970s PAPERBACK TYPOGRAPHY, COMPLETELY DIFFERENT FROM EVERY OTHER COVER:
 
-OVERALL MOOD:
+Price badge (positioned at 2-4% from top, LEFT-aligned, approximately 8% from left edge): A small rectangular badge with rounded corners, filled with a solid warm mustard yellow (#D4A017). Inside the badge, in tiny bold black text: "$1.95" — because every proper 1970s paperback had a price in the corner. Below the price: "SCIENCE FICTION" in even tinier black text within the badge.
 
-Majestic, verdant, powerful — the feeling of standing in the presence of a king whose power comes not from conquest but from the living earth itself. The dominant palette of emerald and gold creates a unique visual identity that stands apart from the typical dark-and-fire fantasy covers. Stunning at thumbnail (the green-gold palette is immediately distinctive) and breathtaking at full resolution.
+Publisher logo (positioned at 2-4% from top, RIGHT-aligned, approximately 8% from right edge): A small circular logo in bright orange — a simple geometric design suggesting a stylized planet with a ring, with tiny text reading "NOVA PRESS" curving around the inside of the circle. This is a fictional publisher logo in the style of the DAW or Ace logos from the era.
 
-ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART.
+Title (positioned at 6-20% from top, centered):
+"STARDRIFT" — rendered in a massive retro display font that screams 1970s: think ITC Busorama, Pump, or Bauhaus 93 — rounded, chunky, geometric letterforms with thick strokes and exaggerated curves. The font color is bright chrome yellow (#FFD700) with a dark orange (#CC5500) drop shadow offset 3 pixels down and right — classic pulp paperback title treatment. The letters are large enough to span nearly the full width of the cover.
+"SEVEN" — rendered directly beneath "STARDRIFT" in a COMPLETELY DIFFERENT font: a thin, angular, futuristic stencil font (think Eurostile Extended or Microgramma Bold Extended) in bright white with the same dark orange drop shadow. The contrast between the chunky rounded "STARDRIFT" and the angular mechanical "SEVEN" creates visual interest.
+
+Tagline (positioned at 22-24% from top, centered): "The galaxy's last freelance crew. The universe's worst luck." — rendered in a small italic serif font (Times-style) in pale cream (#FFF8E7), the text justified to a narrow column width. This is the classic paperback tagline treatment — small, readable, promising adventure.
+
+Series indicator (positioned at 25% from top, centered): "A Captain Renko Adventure — Volume VII" — in very small sans-serif text in warm mustard yellow (#D4A017), letter-spacing 0.1em.
+
+Author name (positioned at 88-92% from top, centered): "FRANK CASTELLANO" — in a bold, wide sans-serif font (think Futura Bold or Avant Garde Gothic Bold) in bright white (#FFF8E7) with generous letter-spacing (0.2em). Below the author name, in much smaller italic serif text in pale yellow: "Author of BURNGATE STATION and THE IRON NEBULA" — because 1970s paperbacks ALWAYS credited the author's other works.
+
+OVERALL MOOD AND QUALITY:
+
+Thrilling, nostalgic, kinetic — the feeling of grabbing a dog-eared paperback off a spinning rack at a drugstore in 1977 and knowing from the cover alone that you're in for a wild ride. The cover is busy, colorful, action-packed, and unabashedly fun. It does not take itself too seriously — this is space adventure, not literary fiction, and the cover celebrates that with maximal energy and warm retro charm. The warm analog palette, the visible paint textures, the chunky retro fonts, and the classic multi-element action composition make this cover look COMPLETELY different from every other cover in this set.
+
+THIS IS RETRO ILLUSTRATION. It must look PAINTED — visible gouache texture, airbrush gradients, fine brush detail work. It should feel like you could smell the yellowed paper. NOT photorealistic, NOT digitally clean, NOT modern. 1970s analog warmth and bold pulp energy.
