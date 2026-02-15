@@ -76,6 +76,13 @@ IMAGE FILES TO UPLOAD TO HEYGEN
 SHOT-BY-SHOT PRODUCTION TIMELINE
 =======================================================
 
+DISPLAY RULES FOR 9:16 PORTRAIT FORMAT:
+  - Portrait images (book covers, character portraits): ONE per scene, full screen
+  - Square images (children's book pages): ONE per scene, centered, dark bars top/bottom
+  - Landscape images (panoramics, box sets): TWO stacked vertically, both fully visible, no cropping
+  - No watermarks or logo overlays during avatar/narration scenes
+  - No side-by-side images — every image gets the full frame
+
 Each shot specifies exactly what is on screen, the transition into and out of it,
 and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 "IMAGE" means the avatar is hidden and a full-screen image is shown.
@@ -84,6 +91,7 @@ and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 SHOT 01 | 0:00 - 0:05 | AVATAR — Opening Hook
 ----------------------------------------------------------------------
   On Screen: AI presenter, warm expression, dark background (#0a0a0a)
+             NO watermarks, NO logo overlays — clean presenter shot
   Motion: Static presenter, slightly playful body language — inviting the viewer in
   Transition In: Fade in from black over 0.3s
   Transition Out: 0.5s crossfade — avatar dissolves as first children's page fades in
@@ -93,7 +101,10 @@ SHOT 01 | 0:00 - 0:05 | AVATAR — Opening Hook
 ----------------------------------------------------------------------
 SHOT 02 | 0:05 - 0:09 | IMAGE — Children's Page 01
 ----------------------------------------------------------------------
-  On Screen: childrens-page-01.jpg — full screen, vibrant colors fill entire 9:16 frame
+  On Screen: childrens-page-01.jpg — CENTERED in 9:16 frame (square image)
+             Image displayed at full width (1080px), vertically centered
+             Dark black (#0a0a0a) fills remaining space above and below
+             The vibrant colors against the dark bars create a stunning contrast
   Motion: Gentle slow zoom in (3% over 4s) — like leaning in to admire the art
   Transition In: 0.5s crossfade from avatar. MUSIC: harp entrance at 0:05
              The color explosion from dark-to-vibrant is the hook
@@ -103,7 +114,8 @@ SHOT 02 | 0:05 - 0:09 | IMAGE — Children's Page 01
 ----------------------------------------------------------------------
 SHOT 03 | 0:09 - 0:13 | IMAGE — Children's Page 04
 ----------------------------------------------------------------------
-  On Screen: childrens-page-04.jpg — full screen
+  On Screen: childrens-page-04.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Soft rightward pan (4% horizontal drift over 4s) — like turning a page
   Transition In: 0.5s soft dissolve from previous page
   Transition Out: 0.5s soft dissolve
@@ -112,7 +124,8 @@ SHOT 03 | 0:09 - 0:13 | IMAGE — Children's Page 04
 ----------------------------------------------------------------------
 SHOT 04 | 0:13 - 0:17 | IMAGE — Children's Page 08
 ----------------------------------------------------------------------
-  On Screen: childrens-page-08.jpg — full screen
+  On Screen: childrens-page-08.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Slow zoom out (3% over 4s) — revealing the full composition
   Transition In: 0.5s soft dissolve
   Transition Out: 0.5s soft dissolve
@@ -121,7 +134,8 @@ SHOT 04 | 0:13 - 0:17 | IMAGE — Children's Page 08
 ----------------------------------------------------------------------
 SHOT 05 | 0:17 - 0:21 | IMAGE — Children's Page 12
 ----------------------------------------------------------------------
-  On Screen: childrens-page-12.jpg — full screen
+  On Screen: childrens-page-12.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Gentle upward pan (3% vertical drift over 4s)
   Transition In: 0.5s soft dissolve
   Transition Out: 0.5s soft dissolve
@@ -130,7 +144,8 @@ SHOT 05 | 0:17 - 0:21 | IMAGE — Children's Page 12
 ----------------------------------------------------------------------
 SHOT 06 | 0:21 - 0:25 | IMAGE — Children's Page 16
 ----------------------------------------------------------------------
-  On Screen: childrens-page-16.jpg — full screen
+  On Screen: childrens-page-16.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Slow zoom in (3% over 4s) — focusing on character detail
   Transition In: 0.5s soft dissolve
   Transition Out: 0.5s soft dissolve
@@ -139,7 +154,8 @@ SHOT 06 | 0:21 - 0:25 | IMAGE — Children's Page 16
 ----------------------------------------------------------------------
 SHOT 07 | 0:25 - 0:29 | IMAGE — Children's Page 20
 ----------------------------------------------------------------------
-  On Screen: childrens-page-20.jpg — full screen
+  On Screen: childrens-page-20.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Soft leftward pan (3% horizontal over 4s) — variety in motion direction
   Transition In: 0.5s soft dissolve
   Transition Out: 0.5s soft dissolve
@@ -148,7 +164,8 @@ SHOT 07 | 0:25 - 0:29 | IMAGE — Children's Page 20
 ----------------------------------------------------------------------
 SHOT 08 | 0:29 - 0:33 | IMAGE — Children's Page 24
 ----------------------------------------------------------------------
-  On Screen: childrens-page-24.jpg — full screen
+  On Screen: childrens-page-24.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Gentle zoom (2% over 4s)
   Transition In: 0.5s soft dissolve
   Transition Out: 0.5s soft dissolve
@@ -157,50 +174,53 @@ SHOT 08 | 0:29 - 0:33 | IMAGE — Children's Page 24
 ----------------------------------------------------------------------
 SHOT 09 | 0:33 - 0:37 | IMAGE — Children's Page 28
 ----------------------------------------------------------------------
-  On Screen: childrens-page-28.jpg — full screen
+  On Screen: childrens-page-28.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
   Motion: Slow zoom out (3% over 4s) — pulling back to reveal the full final page
   Transition In: 0.5s soft dissolve
   Transition Out: 0.5s dissolve to montage grid. MUSIC: emotional string swell at 0:37
   Narration: "— and we've solved it. Story written. Pages illustrated. PDF assembled and print-ready."
 
 ----------------------------------------------------------------------
-SHOT 10 | 0:37 - 0:40 | IMAGE — Four-Page Montage Grid
+SHOT 10 | 0:37 - 0:40 | IMAGE — Children's Page 01 Reprise (Consistency Proof)
 ----------------------------------------------------------------------
-  On Screen: 2x2 grid of children's pages filling the screen:
-             Top-left:     childrens-page-01.jpg
-             Top-right:    childrens-page-08.jpg
-             Bottom-left:  childrens-page-16.jpg
-             Bottom-right: childrens-page-24.jpg
-             2px dark gaps between quadrants, soft warm border glow
-  Motion: Static grid — let the consistency across four pages speak for itself
-  Transition In: 0.5s dissolve from single page to grid layout
-  Transition Out: 0.5s dissolve to side-by-side
+  On Screen: childrens-page-01.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+             Showing the FIRST page again to prove character consistency
+  Motion: Slow zoom in (2% over 3s) — focus on the main character
+  Transition In: 0.5s dissolve
+  Transition Out: 0.5s dissolve
   Narration: "One complete package."
 
 ----------------------------------------------------------------------
-SHOT 11 | 0:40 - 0:44 | IMAGE — Side-by-Side Consistency Proof
+SHOT 11 | 0:40 - 0:42 | IMAGE — Children's Page 28 (Consistency Proof)
 ----------------------------------------------------------------------
-  On Screen: Two pages side by side proving character consistency:
-             Left half:  childrens-page-01.jpg (first page)
-             Right half: childrens-page-28.jpg (last page)
-             Thin gold divider line between them
-  Motion: Left page slides in from left edge, right page slides in from right edge,
-          meeting in the center over 0.5s
-  Transition In: Slide from opposite sides (0.5s)
-  Transition Out: 0.5s dissolve to character portraits
+  On Screen: childrens-page-28.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+             Showing the LAST page — viewer sees the character is identical to page 01
+  Motion: Slow zoom in (2% over 2s)
+  Transition In: 0.5s dissolve
+  Transition Out: 0.5s dissolve to character portrait
   Narration: "And this isn't our only style. The same pipeline that creates children's illustrations"
 
 ----------------------------------------------------------------------
-SHOT 12 | 0:44 - 0:48 | IMAGE — Range Demonstration (Fantasy Portraits)
+SHOT 12 | 0:42 - 0:45 | IMAGE — Itzil Character Portrait (Range Demo)
 ----------------------------------------------------------------------
-  On Screen: Two images showing completely different style:
-             Left half:  aztec-character-itzil.jpg (cinematic fantasy portrait)
-             Right half: aztec-character-neyla.jpg (cinematic fantasy portrait)
-             This visually demonstrates range: children's illustration -> photorealistic fantasy
-  Motion: Quick dissolve in (0.3s), then slow zoom in (2% over 4s)
-  Transition In: 0.5s dissolve from children's pages — the style contrast is the point
+  On Screen: aztec-character-itzil.jpg — full screen, filling entire 9:16 frame
+             Dramatic style contrast: vibrant children's illustration → photorealistic fantasy
+  Motion: Slow zoom in on face (3% over 3s)
+  Transition In: 0.5s dissolve from children's page — the style contrast is the point
+  Transition Out: 0.3s dissolve to next portrait
+  Narration: "also produces cinematic fantasy covers"
+
+----------------------------------------------------------------------
+SHOT 12b | 0:45 - 0:48 | IMAGE — Neyla Character Portrait (Range Demo)
+----------------------------------------------------------------------
+  On Screen: aztec-character-neyla.jpg — full screen, filling entire 9:16 frame
+  Motion: Gentle right pan (2% over 3s)
+  Transition In: 0.3s dissolve
   Transition Out: 0.3s dissolve to book cover
-  Narration: "also produces cinematic fantasy covers and photorealistic character portraits."
+  Narration: "and photorealistic character portraits."
 
 ----------------------------------------------------------------------
 SHOT 13 | 0:48 - 0:50 | IMAGE — Aztec Book Cover (Versatility Proof)
@@ -216,6 +236,7 @@ SHOT 13 | 0:48 - 0:50 | IMAGE — Aztec Book Cover (Versatility Proof)
 SHOT 14 | 0:50 - 0:55 | AVATAR — Closing Statement
 ----------------------------------------------------------------------
   On Screen: AI presenter returns, full screen, direct to camera, dark background
+             NO watermarks, NO logo overlays — clean presenter shot
              Genuine warmth in expression — this is about creating something beautiful
   Motion: Static presenter, warm natural gestures
   Transition In: 0.5s crossfade from book cover — back to the dark intimate setting
@@ -226,8 +247,8 @@ SHOT 14 | 0:50 - 0:55 | AVATAR — Closing Statement
 SHOT 15 | 0:55 - 0:60 | IMAGE — Logo + Call to Action
 ----------------------------------------------------------------------
   On Screen: metronagon-logo.png — centered, 60% screen width
-             Text overlay below logo: "Children's Books from $500" in gold (#d4af37)
-             Text overlay below that: "Metronagon.com" in larger gold text
+             Below logo: "Metronagon.com" in gold (#d4af37) text
+             NO other text overlays — the tagline is already part of the logo design
              Background: solid black
   Motion: Gold glow fade in (logo pulses with warm gold light), slow zoom in (2% over 5s)
   Transition In: 0.5s crossfade from avatar

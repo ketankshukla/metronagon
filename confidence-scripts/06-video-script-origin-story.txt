@@ -96,6 +96,13 @@ IMAGE FILES TO UPLOAD TO HEYGEN
 SHOT-BY-SHOT PRODUCTION TIMELINE
 ===============================================
 
+DISPLAY RULES FOR 9:16 PORTRAIT FORMAT:
+  - Portrait images (book covers, character portraits): ONE per scene, full screen
+  - Square images (children's book pages): ONE per scene, centered, dark bars top/bottom
+  - Landscape images (panoramics, box sets, thumbnails): TWO stacked vertically, both fully visible, no cropping
+  - No watermarks or logo overlays during avatar/narration scenes
+  - No side-by-side images — every image gets the full frame
+
 Each shot specifies exactly what is on screen, the transition into and out of it,
 and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 "IMAGE" means the avatar is hidden and a full-screen image is shown.
@@ -104,6 +111,7 @@ and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 SHOT 01 | 0:00 - 0:06 | AVATAR — Opening Reflection
 ----------------------------------------------------------------------
   On Screen: AI presenter, direct to camera, dark background (#0a0a0a), contemplative expression
+             NO watermarks, NO logo overlays — clean presenter shot
   Motion: Static presenter, quiet intensity, minimal gestures — this is a personal moment
   Transition In: Fade in from black over 0.5s (slower than other scripts — deliberate)
   Transition Out: 0.5s slow dissolve — avatar fades as first book cover gently appears
@@ -113,118 +121,229 @@ SHOT 01 | 0:00 - 0:06 | AVATAR — Opening Reflection
 ----------------------------------------------------------------------
 SHOT 02 | 0:06 - 0:09 | IMAGE — The First Book
 ----------------------------------------------------------------------
-  On Screen: aztec-book01-cover.jpg — centered, 75% screen width, surrounded by black
+  On Screen: aztec-book01-cover.jpg — full screen, filling entire 9:16 frame
              This is the origin — one single book where it all began
   Motion: Slow fade in over 0.5s, then gentle zoom in (2% over 3s)
   Transition In: 0.5s slow dissolve from avatar
-  Transition Out: 0.5s dissolve — additional covers slide in from the right
+  Transition Out: 0.3s dissolve to next cover
   Narration: "It began with one book."
 
 ----------------------------------------------------------------------
-SHOT 03 | 0:09 - 0:12 | IMAGE — Series Growing (Books 1-4)
+SHOT 03 | 0:09 - 0:10 | IMAGE — Aztec Book 02
 ----------------------------------------------------------------------
-  On Screen: Four Aztec covers side by side, showing the series expanding:
-             aztec-book01-cover.jpg | aztec-book02-cover.jpg | aztec-book03-cover.jpg | aztec-book04-cover.jpg
-             Arranged in a tight row, each ~22% screen width
-  Motion: Books 2-4 slide in from the right, one at a time, 1s apart
-  Transition In: Book01 stays from previous shot, slides left as others join
-  Transition Out: Row compresses as remaining 8 covers begin entering
+  On Screen: aztec-book02-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Then two."
+
+----------------------------------------------------------------------
+SHOT 03b | 0:10 - 0:12 | IMAGE — Aztec Book 04
+----------------------------------------------------------------------
+  On Screen: aztec-book04-cover.jpg — full screen
+  Motion: Gentle upward pan (2% over 2s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
   MUSIC: Strings enter gently at 0:12
-  Narration: "Then two. Then twelve."
+  Narration: "Then twelve."
 
 ----------------------------------------------------------------------
-SHOT 04 | 0:12 - 0:16 | IMAGE — All 12 Aztec Covers Revealed
+SHOT 04 | 0:12 - 0:13 | IMAGE — Aztec Book 06
 ----------------------------------------------------------------------
-  On Screen: All 12 Aztec covers visible — arranged in two rows of 6:
-             Row 1: aztec-book01 through aztec-book06-cover.jpg
-             Row 2: aztec-book07 through aztec-book12-cover.jpg
-             Covers fill the screen, a complete visual shelf
-  Motion: Slow zoom out (5% over 4s) to reveal the full shelf — the scope is the point
-  Transition In: Remaining 8 covers slide in rapidly over 1s, then zoom out begins
+  On Screen: aztec-book06-cover.jpg — full screen
+  Motion: Slow zoom out (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "A complete fantasy series —"
+
+----------------------------------------------------------------------
+SHOT 04b | 0:13 - 0:14 | IMAGE — Aztec Book 08
+----------------------------------------------------------------------
+  On Screen: aztec-book08-cover.jpg — full screen
+  Motion: Gentle right pan (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "every cover, every character,"
+
+----------------------------------------------------------------------
+SHOT 04c | 0:14 - 0:15 | IMAGE — Aztec Book 10
+----------------------------------------------------------------------
+  On Screen: aztec-book10-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "every visual element"
+
+----------------------------------------------------------------------
+SHOT 04d | 0:15 - 0:16 | IMAGE — Aztec Book 12
+----------------------------------------------------------------------
+  On Screen: aztec-book12-cover.jpg — full screen
+  Motion: Gentle left pan (2% over 1s)
+  Transition In: 0.3s dissolve
   Transition Out: 0.5s dissolve to character portrait
-  Narration: "A complete fantasy series — every cover, every character, every visual element designed and generated through a pipeline we built from scratch."
+  Narration: "designed and generated through a pipeline we built from scratch."
 
 ----------------------------------------------------------------------
-SHOT 05 | 0:16 - 0:19 | IMAGE — Itzil Character Portrait
+SHOT 05 | 0:16 - 0:18 | IMAGE — Itzil Character Portrait
 ----------------------------------------------------------------------
   On Screen: aztec-character-itzil.jpg — full screen, the first character created
-  Motion: Slow zoom in on face (3% over 3s) — intimate, detailed, showcasing the quality
-  Transition In: 0.5s dissolve from shelf of covers
-  Transition Out: 0.5s dissolve to character grid
+  Motion: Slow zoom in on face (3% over 2s) — intimate, detailed, showcasing the quality
+  Transition In: 0.5s dissolve from book cover
+  Transition Out: 0.3s dissolve
   Narration: "Thirty character portraits, each one distinct,"
 
 ----------------------------------------------------------------------
-SHOT 06 | 0:19 - 0:22 | IMAGE — Character Grid
+SHOT 06 | 0:18 - 0:19 | IMAGE — Nightshade Character Portrait
 ----------------------------------------------------------------------
-  On Screen: 2x3 grid of character portraits filling the screen:
-             Row 1: aztec-character-itzil.jpg | aztec-character-nightshade.jpg | aztec-character-neyla.jpg
-             Row 2: aztec-character-volzentar.jpg | aztec-character-miyako.jpg | aztec-character-rainara.jpg
-             2px dark gaps between portraits
-  Motion: Portraits appear one at a time, top-left to bottom-right, 0.3s apart
-          Once complete, slow zoom in (2% over remaining time)
-  Transition In: Each portrait fades in sequentially
+  On Screen: aztec-character-nightshade.jpg — full screen
+  Motion: Gentle right pan (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "each one consistent with the world."
+
+----------------------------------------------------------------------
+SHOT 06b | 0:19 - 0:20 | IMAGE — Neyla Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-neyla.jpg — full screen
+  Motion: Slow zoom out (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: (continuation)
+
+----------------------------------------------------------------------
+SHOT 06c | 0:20 - 0:21 | IMAGE — Volzentar Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-volzentar.jpg — full screen
+  Motion: Gentle left pan (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: (continuation)
+
+----------------------------------------------------------------------
+SHOT 06d | 0:21 - 0:22 | IMAGE — Miyako Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-miyako.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.3s dissolve
   Transition Out: 0.5s dissolve to series logo
-  Narration: "each one consistent with the world. A series logo."
+  Narration: "A series logo."
 
 ----------------------------------------------------------------------
 SHOT 07 | 0:22 - 0:25 | IMAGE — Aztec Series Logo
 ----------------------------------------------------------------------
-  On Screen: aztec-series-logo.png — centered, 60% screen width, gold on black
+  On Screen: aztec-series-logo.png — full screen, centered on black background
   Motion: Fade in centered over 0.5s, hold, subtle glow
-  Transition In: 0.5s dissolve from character grid
+  Transition In: 0.5s dissolve from character portrait
   Transition Out: 0.5s dissolve to Repetition series
   Narration: "Box set art. Panoramic covers. Not outsourced. Not templated. Built."
 
 ----------------------------------------------------------------------
-SHOT 08 | 0:25 - 0:28 | IMAGE — Repetition Series
+SHOT 08 | 0:25 - 0:26 | IMAGE — Repetition Book 01
 ----------------------------------------------------------------------
-  On Screen: All 5 Repetition covers in a row with repetition-series-logo.png above:
-             repetition-book01-cover.jpg through repetition-book05-cover.jpg
-  Motion: Quick elegant cascade — covers slide in from left over 0.4s, logo fades in above
-  Transition In: 0.5s dissolve from Aztec logo, then cascade
-  Transition Out: 0.5s dissolve to Reality series
-  Narration: "Then we did it again. A self-improvement series."
+  On Screen: repetition-book01-cover.jpg — full screen
+  Motion: Slow zoom in (3% over 1s)
+  Transition In: 0.5s dissolve from logo
+  Transition Out: 0.2s dissolve
+  Narration: "Then we did it again."
 
 ----------------------------------------------------------------------
-SHOT 09 | 0:28 - 0:31 | IMAGE — Reality Series
+SHOT 08b | 0:26 - 0:27 | IMAGE — Repetition Book 03
 ----------------------------------------------------------------------
-  On Screen: All 5 Reality covers in a row with reality-series-logo.png above:
-             reality-book01-cover.jpg through reality-book05-cover.jpg
-  Motion: Quick elegant cascade — covers slide in from right over 0.4s, logo fades in above
-  Transition In: 0.5s dissolve from Repetition series
-  Transition Out: 0.5s dissolve to children's pages
+  On Screen: repetition-book03-cover.jpg — full screen
+  Motion: Gentle upward pan (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "A self-improvement series."
+
+----------------------------------------------------------------------
+SHOT 08c | 0:27 - 0:28 | IMAGE — Repetition Series Logo
+----------------------------------------------------------------------
+  On Screen: repetition-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.2s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: (continuation)
+
+----------------------------------------------------------------------
+SHOT 09 | 0:28 - 0:29 | IMAGE — Reality Book 01
+----------------------------------------------------------------------
+  On Screen: reality-book01-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.2s dissolve
   Narration: "A philosophical essay series."
 
 ----------------------------------------------------------------------
-SHOT 10 | 0:31 - 0:35 | IMAGE — Children's Book Pages
+SHOT 09b | 0:29 - 0:30 | IMAGE — Reality Book 03
 ----------------------------------------------------------------------
-  On Screen: Three children's pages in a soft dissolve sequence:
-             0:31-0:32.5 — childrens-page-01.jpg (full screen, vibrant color burst)
-             0:32.5-0:34 — childrens-page-12.jpg (dissolves over)
-             0:34-0:35   — childrens-page-24.jpg (dissolves over)
-  Motion: Each page has gentle zoom (2% over its duration), soft dissolve between pages (0.4s)
-  Transition In: 0.5s dissolve from Reality series — dramatic shift from dark covers to vibrant illustration
-  Transition Out: 0.5s dissolve to panoramic
-  Narration: "A children's picture book. Four completely different visual languages — same pipeline, same standard, same obsessive attention to detail."
+  On Screen: reality-book03-cover.jpg — full screen
+  Motion: Gentle right pan (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: (continuation)
 
 ----------------------------------------------------------------------
-SHOT 11 | 0:35 - 0:38 | IMAGE — Aztec Complete Series Panoramic
+SHOT 09c | 0:30 - 0:31 | IMAGE — Reality Series Logo
 ----------------------------------------------------------------------
-  On Screen: aztec-complete-series.jpg — full screen panoramic
+  On Screen: reality-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.2s dissolve
+  Transition Out: 0.5s dissolve to children's pages
+  Narration: (continuation)
+
+----------------------------------------------------------------------
+SHOT 10 | 0:31 - 0:32.5 | IMAGE — Children's Page 01
+----------------------------------------------------------------------
+  On Screen: childrens-page-01.jpg — CENTERED in 9:16 frame (square image)
+             Image displayed at full width (1080px), vertically centered
+             Dark black (#0a0a0a) fills remaining space above and below
+  Motion: Gentle zoom in (2% over 1.5s)
+  Transition In: 0.5s dissolve — dramatic shift from dark covers to vibrant illustration
+  Transition Out: 0.4s dissolve
+  Narration: "A children's picture book."
+
+----------------------------------------------------------------------
+SHOT 10b | 0:32.5 - 0:34 | IMAGE — Children's Page 12
+----------------------------------------------------------------------
+  On Screen: childrens-page-12.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Soft rightward pan (2% over 1.5s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Four completely different visual languages —"
+
+----------------------------------------------------------------------
+SHOT 10c | 0:34 - 0:35 | IMAGE — Children's Page 24
+----------------------------------------------------------------------
+  On Screen: childrens-page-24.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Gentle zoom out (2% over 1s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.5s dissolve to panoramic
+  Narration: "same pipeline, same standard, same obsessive attention to detail."
+
+----------------------------------------------------------------------
+SHOT 11 | 0:35 - 0:38 | IMAGE — Aztec Complete Series Panoramic (Landscape)
+----------------------------------------------------------------------
+  On Screen: aztec-complete-series.jpg — LANDSCAPE image, centered in 9:16 frame
+             Image displayed at full width (1080px), vertically centered
+             Dark black (#0a0a0a) fills remaining space above and below
   Motion: Slow horizontal pan left to right (10% over 3s) — showcasing the full scope
   Transition In: 0.5s dissolve from children's page
   Transition Out: 0.5s dissolve to thumbnails
   Narration: "Twenty-two books. Three complete series. Four live portfolio websites."
 
 ----------------------------------------------------------------------
-SHOT 12 | 0:38 - 0:41 | IMAGE — YouTube Thumbnails
+SHOT 12 | 0:38 - 0:41 | IMAGE — YouTube Thumbnails (Landscape Pair)
 ----------------------------------------------------------------------
-  On Screen: Two YouTube thumbnails side by side:
-             Left half:  repetition-youtube-thumbnail.jpg
-             Right half: reality-youtube-thumbnail.jpg
-             Thin gold divider line between them
-  Motion: Both slide in from opposite sides, meeting in center over 0.4s
-  Transition In: Slide from opposite sides
+  On Screen: Two landscape thumbnails stacked vertically:
+             Top half:    repetition-youtube-thumbnail.jpg
+             Bottom half: reality-youtube-thumbnail.jpg
+             Both images displayed at full width (1080px), scaled proportionally
+             Both fit entirely within the 9:16 frame — NO cropping
+             Thin dark gap (4px) between them
+  Motion: Static hold — let the thumbnails land
+  Transition In: 0.5s dissolve from panoramic
   Transition Out: 0.5s dissolve to Metronagon logo. MUSIC: emotional swell at 0:41
   Narration: "Thumbnails, style guides, brand systems."
 
@@ -242,6 +361,7 @@ SHOT 13 | 0:41 - 0:44 | IMAGE — Metronagon Logo Reveal
 SHOT 14 | 0:44 - 0:52 | AVATAR — The Conviction Close
 ----------------------------------------------------------------------
   On Screen: AI presenter returns, full screen, direct eye contact, dark background
+             NO watermarks, NO logo overlays — clean presenter shot
              This is the longest avatar segment — 8 seconds of pure personal delivery
              Expression: quiet power, absolute conviction, earned confidence
   Motion: Static presenter — no distractions, no overlays, just direct human connection
@@ -250,23 +370,39 @@ SHOT 14 | 0:44 - 0:52 | AVATAR — The Conviction Close
   Narration: "That's Metronagon. Not a promise of what we could do — a portfolio of what we've already done. Every cover on our site is real. Every series is published. Every image was created with the exact same process we use for your project."
 
 ----------------------------------------------------------------------
-SHOT 15 | 0:52 - 0:55 | IMAGE — Quick Montage Flash
+SHOT 15 | 0:52 - 0:53 | IMAGE — Montage Flash: Book Cover
 ----------------------------------------------------------------------
-  On Screen: Rapid 3-image flash, each full-screen for ~1 second:
-             0:52-0:53 — aztec-book05-cover.jpg (book cover — proof)
-             0:53-0:54 — aztec-character-itzil.jpg (character — craft)
-             0:54-0:55 — childrens-page-16.jpg (children's — range)
-  Motion: Quick dissolve between each (0.2s transition), each image has slight zoom
+  On Screen: aztec-book05-cover.jpg — full screen (book cover — proof)
+  Motion: Quick zoom in (2% over 1s)
   Transition In: 0.5s dissolve from avatar
-  Transition Out: 0.3s dissolve to final logo
+  Transition Out: 0.2s dissolve
   Narration: (silence — let the images do the final talking)
 
 ----------------------------------------------------------------------
-SHOT 16 | 0:55 - 0:60 | IMAGE — Logo + Tagline + Call to Action
+SHOT 15b | 0:53 - 0:54 | IMAGE — Montage Flash: Character
+----------------------------------------------------------------------
+  On Screen: aztec-character-itzil.jpg — full screen (character — craft)
+  Motion: Quick zoom in (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: (silence)
+
+----------------------------------------------------------------------
+SHOT 15c | 0:54 - 0:55 | IMAGE — Montage Flash: Children's
+----------------------------------------------------------------------
+  On Screen: childrens-page-16.jpg — CENTERED in 9:16 frame (square — range)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Quick zoom in (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.3s dissolve to final logo
+  Narration: (silence)
+
+----------------------------------------------------------------------
+SHOT 16 | 0:55 - 0:60 | IMAGE — Logo + URL
 ----------------------------------------------------------------------
   On Screen: metronagon-logo.png — centered, 60% screen width
-             Text overlay below logo: "The Measure of Excellence" in gold (#d4af37) italic
-             Text overlay below that: "Metronagon.com" in larger gold text, bold
+             Below logo: "Metronagon.com" in gold (#d4af37) text
+             NO other text overlays — the tagline is already part of the logo design
              Background: solid black
   Motion: Gold glow hold — warm, confident, permanent. Slow zoom in (2% over 5s)
   Transition In: 0.3s dissolve from montage

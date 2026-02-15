@@ -93,6 +93,13 @@ IMAGE FILES TO UPLOAD TO HEYGEN
 SHOT-BY-SHOT PRODUCTION TIMELINE
 =====================================================
 
+DISPLAY RULES FOR 9:16 PORTRAIT FORMAT:
+  - Portrait images (book covers, character portraits): ONE per scene, full screen
+  - Square images (children's book pages): ONE per scene, centered, dark bars top/bottom
+  - Landscape images (panoramics, box sets): TWO stacked vertically, both fully visible, no cropping
+  - No watermarks or logo overlays during avatar/narration scenes
+  - No side-by-side images — every image gets the full frame
+
 Each shot specifies exactly what is on screen, the transition into and out of it,
 and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 "IMAGE" means the avatar is hidden and a full-screen image is shown.
@@ -102,6 +109,7 @@ and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 SHOT 01 | 0:00 - 0:04 | AVATAR — Opening Hook
 ----------------------------------------------------------------------
   On Screen: AI presenter, direct to camera, confident stance, dark background (#0a0a0a)
+             NO watermarks, NO logo overlays — clean presenter shot
   Motion: Static presenter, decisive body language — "listen up"
   Transition In: Fade in from black over 0.3s
   Transition Out: 0.3s — avatar snaps off as text overlay snaps in
@@ -114,43 +122,71 @@ SHOT 02 | 0:04 - 0:06 | TEXT — Layer 1 Label
              "LAYER 1: COVERS" in gold (#d4af37), large bold Cinzel font, centered
   Motion: Text snaps in instantly (no fade — sharp, decisive appearance)
   Transition In: Instant snap-in. MUSIC: percussion snap at 0:04
-  Transition Out: 0.3s dissolve to book covers
+  Transition Out: 0.3s dissolve to book cover
   Narration: "Layer one — covers."
 
 ----------------------------------------------------------------------
-SHOT 03 | 0:06 - 0:10 | IMAGE — Layer 1: Three Covers
+SHOT 03 | 0:06 - 0:07.3 | IMAGE — Layer 1: Aztec Book 01
 ----------------------------------------------------------------------
-  On Screen: Three Aztec covers arranged side by side, filling the screen:
-             aztec-book01-cover.jpg (left third)
-             aztec-book05-cover.jpg (center third)
-             aztec-book09-cover.jpg (right third)
-             2px dark gaps between covers
-  Motion: All three slide in from the bottom edge over 0.4s, then subtle slow zoom in (2% over 4s)
-  Transition In: 0.4s slide up from bottom
-  Transition Out: 0.3s — covers dissolve as next text label snaps in
-  Narration: "Photorealistic, genre-accurate, Amazon-ready. Three concepts, one polished final. Starting at seventy-five dollars."
+  On Screen: aztec-book01-cover.jpg — full screen, filling entire 9:16 frame
+  Motion: Slow zoom in (2% over 1.3s)
+  Transition In: 0.3s dissolve from text
+  Transition Out: 0.3s dissolve to next cover
+  Narration: "Photorealistic, genre-accurate, Amazon-ready."
+
+----------------------------------------------------------------------
+SHOT 03b | 0:07.3 - 0:08.6 | IMAGE — Layer 1: Aztec Book 05
+----------------------------------------------------------------------
+  On Screen: aztec-book05-cover.jpg — full screen
+  Motion: Gentle upward pan (2% over 1.3s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Three concepts, one polished final."
+
+----------------------------------------------------------------------
+SHOT 03c | 0:08.6 - 0:10 | IMAGE — Layer 1: Aztec Book 09
+----------------------------------------------------------------------
+  On Screen: aztec-book09-cover.jpg — full screen
+  Motion: Slow zoom out (2% over 1.4s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve as next text label snaps in
+  Narration: "Starting at seventy-five dollars."
 
 ----------------------------------------------------------------------
 SHOT 04 | 0:10 - 0:12 | TEXT — Layer 2 Label
 ----------------------------------------------------------------------
   On Screen: "LAYER 2: BRANDING" in gold, same style as Layer 1 label
   Motion: Instant snap-in. MUSIC: percussion snap at 0:10
-  Transition In: Instant snap-in (covers dissolve out over 0.3s as text appears)
-  Transition Out: 0.3s dissolve to logos
+  Transition In: Instant snap-in
+  Transition Out: 0.3s dissolve to logo
   Narration: "Layer two — branding."
 
 ----------------------------------------------------------------------
-SHOT 05 | 0:12 - 0:16 | IMAGE — Layer 2: Three Series Logos
+SHOT 05 | 0:12 - 0:13.3 | IMAGE — Layer 2: Aztec Series Logo
 ----------------------------------------------------------------------
-  On Screen: Three series logos arranged side by side, vertically centered:
-             aztec-series-logo.png (left, 30% width)
-             repetition-series-logo.png (center, 30% width)
-             reality-series-logo.png (right, 30% width)
-             Background: solid black
-  Motion: Logos fade in one at a time, left to right, 0.4s apart (0:12.0, 0:12.4, 0:12.8)
-  Transition In: Sequential fade-in
+  On Screen: aztec-series-logo.png — full screen, centered on black background
+  Motion: Fade in over 0.3s, subtle gold glow
+  Transition In: 0.3s dissolve from text
+  Transition Out: 0.3s dissolve
+  Narration: "Series logos, style guides,"
+
+----------------------------------------------------------------------
+SHOT 05b | 0:13.3 - 0:14.6 | IMAGE — Layer 2: Repetition Series Logo
+----------------------------------------------------------------------
+  On Screen: repetition-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "visual identity systems"
+
+----------------------------------------------------------------------
+SHOT 05c | 0:14.6 - 0:16 | IMAGE — Layer 2: Reality Series Logo
+----------------------------------------------------------------------
+  On Screen: reality-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.3s dissolve
   Transition Out: 0.3s dissolve as next text label snaps in
-  Narration: "Series logos, style guides, visual identity systems that make every book in your series unmistakably part of the same family."
+  Narration: "that make every book in your series unmistakably part of the same family."
 
 ----------------------------------------------------------------------
 SHOT 06 | 0:16 - 0:18 | TEXT — Layer 3 Label
@@ -162,10 +198,12 @@ SHOT 06 | 0:16 - 0:18 | TEXT — Layer 3 Label
   Narration: "Layer three — series architecture."
 
 ----------------------------------------------------------------------
-SHOT 07 | 0:18 - 0:22 | IMAGE — Layer 3: Box Set Panoramic
+SHOT 07 | 0:18 - 0:22 | IMAGE — Layer 3: Box Set Panoramic (Landscape)
 ----------------------------------------------------------------------
-  On Screen: aztec-complete-series.jpg — full screen panoramic showing all 12 books as one product
-  Motion: Slow horizontal pan left to right (10% over 4s) — showcasing the architectural scope
+  On Screen: aztec-complete-series.jpg — LANDSCAPE image, centered in 9:16 frame
+             Image displayed at full width (1080px), vertically centered
+             Dark black (#0a0a0a) fills remaining space above and below
+  Motion: Slow horizontal pan left to right (10% over 4s)
   Transition In: 0.3s dissolve from text
   Transition Out: 0.3s dissolve as next text label snaps in
   Narration: "Chapter outlines, continuity plans, book descriptions, cross-book arc design. The blueprint before the build."
@@ -176,27 +214,62 @@ SHOT 08 | 0:22 - 0:24 | TEXT — Layer 4 Label
   On Screen: "LAYER 4: CHARACTER DESIGN" in gold, same style
   Motion: Instant snap-in. MUSIC: percussion snap at 0:22
   Transition In: Instant snap-in
-  Transition Out: 0.3s dissolve to character grid
+  Transition Out: 0.3s dissolve to character portrait
   Narration: "Layer four — character design."
 
 ----------------------------------------------------------------------
-SHOT 09 | 0:24 - 0:30 | IMAGE — Layer 4: Character Portrait Grid
+SHOT 09 | 0:24 - 0:25 | IMAGE — Layer 4: Itzil Portrait
 ----------------------------------------------------------------------
-  On Screen: 2x3 grid of character portraits filling the screen:
-             Row 1: aztec-character-itzil.jpg | aztec-character-volzentar.jpg | aztec-character-nightshade.jpg
-             Row 2: aztec-character-neyla.jpg | aztec-character-miyako.jpg | aztec-character-sethara.jpg
-             2px dark gaps between portraits
-  Motion: Portraits appear one at a time, building the grid:
-          0:24.0 — itzil (top-left)
-          0:24.5 — volzentar (top-center)
-          0:25.0 — nightshade (top-right)
-          0:25.5 — neyla (bottom-left)
-          0:26.0 — miyako (bottom-center)
-          0:26.5 — sethara (bottom-right)
-          0:27-0:30 — completed grid has slow zoom in (2% over 3s)
-  Transition In: Each portrait fades in sequentially (0.3s fade each)
+  On Screen: aztec-character-itzil.jpg — full screen, filling entire 9:16 frame
+  Motion: Slow zoom in (3% over 1s)
+  Transition In: 0.3s dissolve from text
+  Transition Out: 0.2s dissolve
+  Narration: "Photorealistic portraits with consistent style."
+
+----------------------------------------------------------------------
+SHOT 09b | 0:25 - 0:26 | IMAGE — Layer 4: Volzentar Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-volzentar.jpg — full screen
+  Motion: Gentle right pan (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "Thirty unique characters"
+
+----------------------------------------------------------------------
+SHOT 09c | 0:26 - 0:27 | IMAGE — Layer 4: Nightshade Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-nightshade.jpg — full screen
+  Motion: Slow zoom out (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "across one series —"
+
+----------------------------------------------------------------------
+SHOT 09d | 0:27 - 0:28 | IMAGE — Layer 4: Neyla Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-neyla.jpg — full screen
+  Motion: Gentle left pan (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "every one recognizable,"
+
+----------------------------------------------------------------------
+SHOT 09e | 0:28 - 0:29 | IMAGE — Layer 4: Miyako Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-miyako.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "every one distinct."
+
+----------------------------------------------------------------------
+SHOT 09f | 0:29 - 0:30 | IMAGE — Layer 4: Sethara Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-sethara.jpg — full screen
+  Motion: Gentle upward pan (2% over 1s)
+  Transition In: 0.2s dissolve
   Transition Out: 0.3s dissolve as next text label snaps in
-  Narration: "Photorealistic portraits with consistent style. Thirty unique characters across one series — every one recognizable, every one distinct."
+  Narration: (beat)
 
 ----------------------------------------------------------------------
 SHOT 10 | 0:30 - 0:32 | TEXT — Layer 5 Label
@@ -204,21 +277,49 @@ SHOT 10 | 0:30 - 0:32 | TEXT — Layer 5 Label
   On Screen: "LAYER 5: CHILDREN'S BOOKS" in gold, same style
   Motion: Instant snap-in. MUSIC: percussion snap at 0:30
   Transition In: Instant snap-in
-  Transition Out: 0.3s dissolve to children's pages
+  Transition Out: 0.3s dissolve to children's page
   Narration: "Layer five — children's picture books."
 
 ----------------------------------------------------------------------
-SHOT 11 | 0:32 - 0:36 | IMAGE — Layer 5: Children's Pages
+SHOT 11 | 0:32 - 0:33 | IMAGE — Layer 5: Children's Page 01
 ----------------------------------------------------------------------
-  On Screen: Four children's book pages in a cascading dissolve:
-             childrens-page-01.jpg (appears at 0:32, full screen, 1s hold)
-             childrens-page-08.jpg (dissolves over at 0:33)
-             childrens-page-16.jpg (dissolves over at 0:34)
-             childrens-page-24.jpg (dissolves over at 0:35, holds to 0:36)
-  Motion: Quick dissolve cascade — each page replaces the last over 0.4s
+  On Screen: childrens-page-01.jpg — CENTERED in 9:16 frame (square image)
+             Image displayed at full width (1080px), vertically centered
+             Dark black (#0a0a0a) fills remaining space above and below
+  Motion: Gentle zoom in (2% over 1s)
   Transition In: 0.3s dissolve from text
+  Transition Out: 0.3s dissolve
+  Narration: "Thirty-two illustrated pages,"
+
+----------------------------------------------------------------------
+SHOT 11b | 0:33 - 0:34 | IMAGE — Layer 5: Children's Page 08
+----------------------------------------------------------------------
+  On Screen: childrens-page-08.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Soft rightward pan (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "consistent characters,"
+
+----------------------------------------------------------------------
+SHOT 11c | 0:34 - 0:35 | IMAGE — Layer 5: Children's Page 16
+----------------------------------------------------------------------
+  On Screen: childrens-page-16.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Gentle zoom out (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "print-ready PDF."
+
+----------------------------------------------------------------------
+SHOT 11d | 0:35 - 0:36 | IMAGE — Layer 5: Children's Page 24
+----------------------------------------------------------------------
+  On Screen: childrens-page-24.jpg — CENTERED in 9:16 frame (square image)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.3s dissolve
   Transition Out: 0.3s dissolve as "THE FULL PIPELINE" text snaps in
-  Narration: "Thirty-two illustrated pages, consistent characters, print-ready PDF. Complete."
+  Narration: "Complete."
 
 ----------------------------------------------------------------------
 SHOT 12 | 0:36 - 0:38 | TEXT — The Full Pipeline Reveal
@@ -228,64 +329,117 @@ SHOT 12 | 0:36 - 0:38 | TEXT — The Full Pipeline Reveal
              Background: solid black
   Motion: Text SCALES UP with impact — starts at 80% size, punches to 100% over 0.3s
   Transition In: Scale-up snap with impact. MUSIC: full brass hit at 0:36 — the climax
-  Transition Out: 0.5s dissolve to composite image
+  Transition Out: 0.5s dissolve to first recap image
   Narration: "Stack them all together — that's the Full Pipeline."
 
 ----------------------------------------------------------------------
-SHOT 13 | 0:38 - 0:44 | IMAGE — Full Pipeline Composite
+SHOT 13 | 0:38 - 0:39.5 | IMAGE — Pipeline Recap: Cover
 ----------------------------------------------------------------------
-  On Screen: Visual summary of all 5 layers composited into one frame:
-             Center: aztec-book01-cover.jpg (cover — Layer 1)
-             Upper-left: aztec-series-logo.png (branding — Layer 2)
-             Upper-right: aztec-complete-series.jpg small thumbnail (architecture — Layer 3)
-             Lower-left: aztec-character-itzil.jpg small (character — Layer 4)
-             Lower-right: childrens-page-01.jpg small (children's — Layer 5)
-             All arranged in a unified composition showing the full scope
-  Motion: Slow zoom out (3% over 6s) — pulling back to reveal the complete picture
-  Transition In: 0.5s dissolve from "THE FULL PIPELINE" text
-  Transition Out: 0.5s dissolve to Repetition series proof
-  Narration: "Covers, branding, planning, illustration — one partner, one vision, one delivery. No coordination headaches. No style mismatches."
+  On Screen: aztec-book01-cover.jpg — full screen (representing Layer 1: Covers)
+  Motion: Slow zoom in (2% over 1.5s)
+  Transition In: 0.5s dissolve from text
+  Transition Out: 0.3s dissolve
+  Narration: "Covers, branding, planning, illustration —"
 
 ----------------------------------------------------------------------
-SHOT 14 | 0:44 - 0:48 | IMAGE — Repetition Series Quick Proof
+SHOT 13b | 0:39.5 - 0:41 | IMAGE — Pipeline Recap: Logo
 ----------------------------------------------------------------------
-  On Screen: Quick cascade showcasing the second series as proof:
-             0:44-0:45 — repetition-book01-cover.jpg through repetition-book05-cover.jpg
-                         (all 5 in a row, slide in together from left)
-             0:45-0:46 — repetition-series-logo.png fades in above
-             0:46-0:48 — repetition-complete-series.jpg replaces (quick panoramic pan)
-  Motion: Fast, confident cascade — proving this was done before
-  Transition In: 0.4s slide from left
-  Transition Out: 0.4s dissolve to Reality series
-  Narration: "We've done it three times. Three different genres. Three complete series."
+  On Screen: aztec-series-logo.png — full screen, centered on black (representing Layer 2: Branding)
+  Motion: Fade in, subtle glow
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "one partner, one vision, one delivery."
 
 ----------------------------------------------------------------------
-SHOT 15 | 0:48 - 0:50 | IMAGE — Reality Series Quick Proof
+SHOT 13c | 0:41 - 0:42.5 | IMAGE — Pipeline Recap: Character
 ----------------------------------------------------------------------
-  On Screen: Quick proof of the third series:
-             Three Reality covers side by side:
-             reality-book01-cover.jpg | reality-book03-cover.jpg | reality-book05-cover.jpg
-             reality-series-logo.png appears above
-  Motion: Quick slide in from right (0.3s), brief hold
-  Transition In: 0.3s slide from right
+  On Screen: aztec-character-itzil.jpg — full screen (representing Layer 4: Characters)
+  Motion: Slow zoom in on face (3% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "No coordination headaches."
+
+----------------------------------------------------------------------
+SHOT 13d | 0:42.5 - 0:44 | IMAGE — Pipeline Recap: Children's
+----------------------------------------------------------------------
+  On Screen: childrens-page-01.jpg — CENTERED in 9:16 frame (square, representing Layer 5)
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Gentle zoom (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "No style mismatches."
+
+----------------------------------------------------------------------
+SHOT 14 | 0:44 - 0:45 | IMAGE — Repetition Book 01
+----------------------------------------------------------------------
+  On Screen: repetition-book01-cover.jpg — full screen
+  Motion: Slow zoom in (3% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "We've done it three times."
+
+----------------------------------------------------------------------
+SHOT 14b | 0:45 - 0:46 | IMAGE — Repetition Book 03
+----------------------------------------------------------------------
+  On Screen: repetition-book03-cover.jpg — full screen
+  Motion: Gentle right pan (2% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "Three different genres."
+
+----------------------------------------------------------------------
+SHOT 14c | 0:46 - 0:47 | IMAGE — Repetition Series Logo
+----------------------------------------------------------------------
+  On Screen: repetition-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "Three complete series."
+
+----------------------------------------------------------------------
+SHOT 14d | 0:47 - 0:48 | IMAGE — Repetition Panoramic (Landscape)
+----------------------------------------------------------------------
+  On Screen: repetition-complete-series.jpg — LANDSCAPE image, centered in 9:16 frame
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Quick horizontal pan (5% over 1s)
+  Transition In: 0.2s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: (continuation)
+
+----------------------------------------------------------------------
+SHOT 15 | 0:48 - 0:49 | IMAGE — Reality Book 01
+----------------------------------------------------------------------
+  On Screen: reality-book01-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: "Twenty-two books."
+
+----------------------------------------------------------------------
+SHOT 15b | 0:49 - 0:50 | IMAGE — Reality Series Logo
+----------------------------------------------------------------------
+  On Screen: reality-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.2s dissolve
   Transition Out: 0.5s crossfade to avatar returning
-  Narration: "Twenty-two books. The proof isn't a promise — it's a portfolio."
+  Narration: "The proof isn't a promise — it's a portfolio."
 
 ----------------------------------------------------------------------
 SHOT 16 | 0:50 - 0:55 | AVATAR — Closing Statement
 ----------------------------------------------------------------------
   On Screen: AI presenter returns, full screen, direct to camera, dark background
+             NO watermarks, NO logo overlays — clean presenter shot
   Motion: Static presenter, commanding posture, direct eye contact
-  Transition In: 0.5s crossfade from Reality covers to full-screen presenter
+  Transition In: 0.5s crossfade from logo to full-screen presenter
   Transition Out: 0.5s crossfade to Metronagon logo
   Narration: "Full Pipeline packages start at four hundred dollars. Everything your series needs — delivered in days."
 
 ----------------------------------------------------------------------
-SHOT 17 | 0:55 - 0:60 | IMAGE — Logo + Call to Action
+SHOT 17 | 0:55 - 0:60 | IMAGE — Logo + URL
 ----------------------------------------------------------------------
   On Screen: metronagon-logo.png — centered, 60% screen width
-             Text overlay below logo: "Full Pipeline from $400" in gold (#d4af37)
-             Text overlay below that: "Metronagon.com" in larger gold text
+             Below logo: "Metronagon.com" in gold (#d4af37) text
+             NO other text overlays — the tagline is already part of the logo design
              Background: solid black
   Motion: Gold glow effect on logo, slow zoom in (2% over 5s)
   Transition In: 0.5s crossfade from avatar

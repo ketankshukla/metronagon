@@ -91,6 +91,13 @@ IMAGE FILES TO UPLOAD TO HEYGEN
 SHOT-BY-SHOT PRODUCTION TIMELINE
 =======================================================
 
+DISPLAY RULES FOR 9:16 PORTRAIT FORMAT:
+  - Portrait images (book covers, character portraits): ONE per scene, full screen
+  - Square images (children's book pages): ONE per scene, centered, dark bars top/bottom
+  - Landscape images (panoramics, box sets): TWO stacked vertically, both fully visible, no cropping
+  - No watermarks or logo overlays during avatar/narration scenes
+  - No side-by-side images — every image gets the full frame
+
 Each shot specifies exactly what is on screen, the transition into and out of it,
 and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 "IMAGE" means the avatar is hidden and a full-screen image is shown.
@@ -99,6 +106,7 @@ and what the narrator is saying. "AVATAR" means the AI presenter is visible.
 SHOT 01 | 0:00 - 0:05 | AVATAR — Opening Hook
 ----------------------------------------------------------------------
   On Screen: AI presenter, direct to camera, dark background (#0a0a0a)
+             NO watermarks, NO logo overlays — clean presenter shot
   Motion: Static presenter, slight head tilt — "listen up" body language
   Transition In: Fade in from black over 0.3s
   Transition Out: 0.5s crossfade — avatar dissolves to black with text overlay
@@ -117,139 +125,231 @@ SHOT 02 | 0:05 - 0:08 | IMAGE — Text Overlay: The Problem
 ----------------------------------------------------------------------
 SHOT 03 | 0:08 - 0:12 | IMAGE — Single Cover (The Problem Illustrated)
 ----------------------------------------------------------------------
-  On Screen: aztec-book01-cover.jpg — centered, occupying 70% screen width
-             Surrounded by black negative space to emphasize it being "alone"
+  On Screen: aztec-book01-cover.jpg — full screen, filling the entire 9:16 frame
   Motion: Slow zoom in (3% over 4s) — drawing the viewer into the single cover
   Transition In: 0.5s dissolve from text overlay
-  Transition Out: Cover slides left as additional covers begin entering from right
+  Transition Out: 0.3s dissolve to next cover
   Narration: "If they don't match — if the fonts are different, the lighting is off, the style shifts — your series looks amateur."
 
 ----------------------------------------------------------------------
-SHOT 04 | 0:12 - 0:18 | IMAGE — Books 1-4 Building (The Solution Begins)
+SHOT 04 | 0:12 - 0:13.5 | IMAGE — Aztec Book 02
 ----------------------------------------------------------------------
-  On Screen: Four Aztec covers side by side, perfectly matched:
-             aztec-book01-cover.jpg (already on screen, slides left)
-             aztec-book02-cover.jpg (slides in from right at 0:13)
-             aztec-book03-cover.jpg (slides in at 0:14.5)
-             aztec-book04-cover.jpg (slides in at 0:16)
-             Each cover ~22% screen width, arranged in a tight row
-  Motion: Each cover slides in from right with 0.4s ease-in, staggered entry
-  Transition In: Continuous from previous shot — book01 was already visible
-  Transition Out: Row compresses slightly as books 5-8 join
-  Narration: "This is what consistency looks like. Twelve books. Same color grading. Same typography system."
+  On Screen: aztec-book02-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "This is what consistency looks like. Twelve books."
 
 ----------------------------------------------------------------------
-SHOT 05 | 0:18 - 0:24 | IMAGE — Books 5-8 Join, Then All 12 Revealed
+SHOT 05 | 0:13.5 - 0:15 | IMAGE — Aztec Book 03
 ----------------------------------------------------------------------
-  On Screen: Building shelf effect:
-             0:18-0:21 — Books 5-8 slide in, all 8 now visible in a compressed row
-               aztec-book05-cover.jpg through aztec-book08-cover.jpg
-             0:21-0:24 — Books 9-12 complete the shelf, all 12 visible
-               aztec-book09-cover.jpg through aztec-book12-cover.jpg
-             At 0:24 all 12 covers are visible, arranged in two rows of 6 (or one long scrolling row)
-  Motion: Slow zoom out starting at 0:21 to reveal the full shelf (5% over 3s)
-  Transition In: Covers continue sliding in from right
-  Transition Out: 0.5s — hold at full reveal, then series logo fades in above
+  On Screen: aztec-book03-cover.jpg — full screen
+  Motion: Gentle upward pan (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Same color grading."
+
+----------------------------------------------------------------------
+SHOT 06 | 0:15 - 0:16.5 | IMAGE — Aztec Book 04
+----------------------------------------------------------------------
+  On Screen: aztec-book04-cover.jpg — full screen
+  Motion: Slow zoom out (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Same typography system."
+
+----------------------------------------------------------------------
+SHOT 07 | 0:16.5 - 0:18 | IMAGE — Aztec Book 05
+----------------------------------------------------------------------
+  On Screen: aztec-book05-cover.jpg — full screen
+  Motion: Gentle right pan (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Same lighting direction."
+
+----------------------------------------------------------------------
+SHOT 08 | 0:18 - 0:19.5 | IMAGE — Aztec Book 07
+----------------------------------------------------------------------
+  On Screen: aztec-book07-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Same compositional language."
+
+----------------------------------------------------------------------
+SHOT 09 | 0:19.5 - 0:21 | IMAGE — Aztec Book 09
+----------------------------------------------------------------------
+  On Screen: aztec-book09-cover.jpg — full screen
+  Motion: Gentle left pan (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "A reader sees one —"
+
+----------------------------------------------------------------------
+SHOT 10 | 0:21 - 0:22.5 | IMAGE — Aztec Book 11
+----------------------------------------------------------------------
+  On Screen: aztec-book11-cover.jpg — full screen
+  Motion: Slow zoom out (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "they recognize the rest instantly."
+
+----------------------------------------------------------------------
+SHOT 11 | 0:22.5 - 0:24 | IMAGE — Aztec Book 12
+----------------------------------------------------------------------
+  On Screen: aztec-book12-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
   MUSIC: Brass punctuation hit at 0:24 — the "reveal" moment
-  Narration: "Same lighting direction. Same compositional language. A reader sees one — they recognize the rest instantly. That's not luck. That's a system."
+  Narration: "That's not luck. That's a system."
 
 ----------------------------------------------------------------------
-SHOT 06 | 0:28 - 0:31 | IMAGE — Aztec Series Logo
+SHOT 12 | 0:24 - 0:28 | IMAGE — Aztec Series Logo
 ----------------------------------------------------------------------
-  On Screen: aztec-series-logo.png — appears above the row of 12 covers
-             Logo centered in upper third, covers compressed in lower two-thirds
-  Motion: Logo fades in from above over 0.5s, subtle glow effect
-  Transition In: Logo appears over the existing shelf of covers
-  Transition Out: 0.5s dissolve — everything transitions to panoramic
+  On Screen: aztec-series-logo.png — full screen, centered on black background
+  Motion: Fade in over 0.5s, subtle gold glow, hold
+  Transition In: 0.3s dissolve
+  Transition Out: 0.5s dissolve to panoramic
   Narration: "A series logo that anchors the brand."
 
 ----------------------------------------------------------------------
-SHOT 07 | 0:31 - 0:34 | IMAGE — Aztec Box Set Panoramic
+SHOT 13 | 0:28 - 0:31 | IMAGE — Aztec Box Set Panoramic (Landscape)
 ----------------------------------------------------------------------
-  On Screen: aztec-complete-series.jpg — full screen panoramic
+  On Screen: aztec-complete-series.jpg — LANDSCAPE image, centered in 9:16 frame
+             Image displayed at full width (1080px), vertically centered
+             Dark black (#0a0a0a) fills remaining space above and below
   Motion: Slow horizontal pan left to right (10% over 3s)
-  Transition In: 0.5s dissolve from shelf + logo
+  Transition In: 0.5s dissolve from logo
   Transition Out: 0.5s dissolve to Repetition series
   Narration: "A box set cover that sells all twelve as one premium product."
 
 ----------------------------------------------------------------------
-SHOT 08 | 0:34 - 0:38 | IMAGE — Repetition Series: All 5 Covers
+SHOT 14 | 0:31 - 0:33 | IMAGE — Repetition Book 01
 ----------------------------------------------------------------------
-  On Screen: All 5 Repetition covers in a tight row:
-             repetition-book01-cover.jpg through repetition-book05-cover.jpg
-             Arranged side by side, filling screen width
-  Motion: All 5 slide in together from the left edge over 0.5s
-  Transition In: 0.5s slide from left (contrasting direction from Aztec's right-to-left build)
-  Transition Out: 0.3s — logo fades in above
-  Narration: "Different genre? Different mood? Same precision. Self-improvement series — authoritative, clean, powerful."
+  On Screen: repetition-book01-cover.jpg — full screen
+  Motion: Slow zoom in (3% over 2s)
+  Transition In: 0.5s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Different genre? Different mood? Same precision."
 
 ----------------------------------------------------------------------
-SHOT 09 | 0:38 - 0:40 | IMAGE — Repetition Series Logo
+SHOT 15 | 0:33 - 0:35 | IMAGE — Repetition Book 03
 ----------------------------------------------------------------------
-  On Screen: repetition-series-logo.png — appears above the 5 covers
-             Same layout as Aztec: logo in upper third, covers in lower two-thirds
-  Motion: Logo fades in from above over 0.3s
-  Transition In: Logo overlays existing covers
-  Transition Out: 0.4s dissolve to panoramic
-  Narration: (continuation of previous narration)
+  On Screen: repetition-book03-cover.jpg — full screen
+  Motion: Gentle upward pan (2% over 2s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Self-improvement series — authoritative, clean, powerful."
 
 ----------------------------------------------------------------------
-SHOT 10 | 0:40 - 0:42 | IMAGE — Repetition Box Set Panoramic
+SHOT 16 | 0:35 - 0:37 | IMAGE — Repetition Book 05
 ----------------------------------------------------------------------
-  On Screen: repetition-complete-series.jpg — full screen panoramic
-  Motion: Slow horizontal pan (8% over 2s)
-  Transition In: 0.4s dissolve
-  Transition Out: 0.4s dissolve to Reality series
-  Narration: "Philosophical essays — contemplative, restrained, intellectual."
+  On Screen: repetition-book05-cover.jpg — full screen
+  Motion: Slow zoom out (2% over 2s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: (continuation)
 
 ----------------------------------------------------------------------
-SHOT 11 | 0:42 - 0:46 | IMAGE — Reality Series: 5 Covers + Logo
+SHOT 17 | 0:37 - 0:38.5 | IMAGE — Repetition Series Logo
 ----------------------------------------------------------------------
-  On Screen: All 5 Reality covers in a row with reality-series-logo.png above:
-             reality-book01-cover.jpg through reality-book05-cover.jpg
-             Logo appears simultaneously (same layout as previous series)
-  Motion: Covers slide in from right, logo fades in — both over 0.5s
-  Transition In: 0.4s slide + fade combo
-  Transition Out: 0.4s dissolve to panoramic
+  On Screen: repetition-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "Philosophical essays —"
+
+----------------------------------------------------------------------
+SHOT 18 | 0:38.5 - 0:40 | IMAGE — Repetition Box Set Panoramic (Landscape)
+----------------------------------------------------------------------
+  On Screen: repetition-complete-series.jpg — LANDSCAPE image, centered in 9:16 frame
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Slow horizontal pan (8% over 1.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: "contemplative, restrained, intellectual."
+
+----------------------------------------------------------------------
+SHOT 19 | 0:40 - 0:42 | IMAGE — Reality Book 01
+----------------------------------------------------------------------
+  On Screen: reality-book01-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 2s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
   Narration: "Three completely different visual languages —"
 
 ----------------------------------------------------------------------
-SHOT 12 | 0:46 - 0:48 | IMAGE — Reality Box Set Panoramic
+SHOT 20 | 0:42 - 0:44 | IMAGE — Reality Book 03
 ----------------------------------------------------------------------
-  On Screen: reality-complete-series.jpg — full screen panoramic
-  Motion: Slow horizontal pan (8% over 2s)
-  Transition In: 0.4s dissolve
-  Transition Out: 0.5s dissolve to three logos
+  On Screen: reality-book03-cover.jpg — full screen
+  Motion: Gentle right pan (2% over 2s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
+  Narration: (continuation)
+
+----------------------------------------------------------------------
+SHOT 21 | 0:44 - 0:45.5 | IMAGE — Reality Series Logo
+----------------------------------------------------------------------
+  On Screen: reality-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.3s dissolve
+  Transition Out: 0.3s dissolve
   Narration: "— all built with the same pipeline."
 
 ----------------------------------------------------------------------
-SHOT 13 | 0:48 - 0:52 | IMAGE — Three Series Logos Side by Side
+SHOT 22 | 0:45.5 - 0:48 | IMAGE — Reality Box Set Panoramic (Landscape)
 ----------------------------------------------------------------------
-  On Screen: Three logos arranged side by side, vertically centered:
-             aztec-series-logo.png (left, 30% width)
-             repetition-series-logo.png (center, 30% width)
-             reality-series-logo.png (right, 30% width)
-             Background: solid black
-  Motion: Static hold — let the three brands land together
-  Transition In: Logos fade in one at a time, left to right, 0.5s apart (0:48.0, 0:48.5, 0:49.0)
-  Transition Out: 0.5s crossfade to avatar returning
-  Narration: (2-second dramatic silence — let the logos land)
+  On Screen: reality-complete-series.jpg — LANDSCAPE image, centered in 9:16 frame
+             Full width, vertically centered, dark bars top/bottom
+  Motion: Slow horizontal pan (8% over 2.5s)
+  Transition In: 0.3s dissolve
+  Transition Out: 0.5s dissolve to logos
+  Narration: (beat)
 
 ----------------------------------------------------------------------
-SHOT 14 | 0:52 - 0:56 | AVATAR — Closing Statement
+SHOT 23 | 0:48 - 0:49.3 | IMAGE — Aztec Series Logo (Reprise)
+----------------------------------------------------------------------
+  On Screen: aztec-series-logo.png — full screen, centered on black background
+  Motion: Fade in over 0.2s, subtle gold glow
+  Transition In: 0.3s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: (dramatic silence — let the logos land)
+
+----------------------------------------------------------------------
+SHOT 24 | 0:49.3 - 0:50.6 | IMAGE — Repetition Series Logo (Reprise)
+----------------------------------------------------------------------
+  On Screen: repetition-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.2s dissolve
+  Transition Out: 0.2s dissolve
+  Narration: (silence)
+
+----------------------------------------------------------------------
+SHOT 25 | 0:50.6 - 0:52 | IMAGE — Reality Series Logo (Reprise)
+----------------------------------------------------------------------
+  On Screen: reality-series-logo.png — full screen, centered on black background
+  Motion: Fade in, subtle glow
+  Transition In: 0.2s dissolve
+  Transition Out: 0.5s crossfade to avatar returning
+  Narration: (silence)
+
+----------------------------------------------------------------------
+SHOT 26 | 0:52 - 0:56 | AVATAR — Closing Statement
 ----------------------------------------------------------------------
   On Screen: AI presenter returns, full screen, direct to camera, dark background
+             NO watermarks, NO logo overlays — clean presenter shot
   Motion: Static presenter, confident posture, direct eye contact
-  Transition In: 0.5s crossfade from logos to full-screen presenter
+  Transition In: 0.5s crossfade from logo to full-screen presenter
   Transition Out: 0.5s crossfade to Metronagon logo
   Narration: "This is what we do. We don't design covers — we build series brands."
 
 ----------------------------------------------------------------------
-SHOT 15 | 0:56 - 0:60 | IMAGE — Logo + Call to Action
+SHOT 27 | 0:56 - 0:60 | IMAGE — Logo + URL
 ----------------------------------------------------------------------
   On Screen: metronagon-logo.png — centered, 60% screen width
-             Text overlay below logo: "Series Branding from $250" in gold (#d4af37)
-             Text overlay below that: "Metronagon.com" in larger gold text
+             Below logo: "Metronagon.com" in gold (#d4af37) text
+             NO other text overlays — the tagline is already part of the logo design
              Background: solid black
   Motion: Slow zoom in (2% over 4s), subtle gold glow on logo
   Transition In: 0.5s crossfade from avatar
