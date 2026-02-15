@@ -1,0 +1,93 @@
+THE CROSSWORD KILLER — A PUZZLE MYSTERY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Puzzle Mystery / Whodunit
+ART STYLE: Newspaper crossword puzzle design — the entire cover is a crossword puzzle grid with clues that hint at the mystery's plot. Some squares are filled in with letters that spell out ominous words; others are blacked out in the standard crossword pattern. A single square is filled in RED instead of black — the killer's signature. The aesthetic of a newspaper puzzle page, complete with newsprint texture and fold lines.
+
+---
+
+A clever, graphically bold book cover designed as a CROSSWORD PUZZLE — the entire cover surface is filled with a crossword grid, complete with numbered squares, black blocking squares, and clues. The grid is not decorative — it is a real, solvable crossword where the answers relate to murder, clues, and the mystery's themes. The design mimics the look of a newspaper crossword page: newsprint paper texture, the characteristic typeface of newspaper puzzles, and the black-and-white grid that millions of people recognize from their morning paper. One square — just one — is filled in blood-red instead of standard black, the killer's calling card.
+
+THE CROSSWORD GRID (filling 20-80% of the image):
+
+A standard American-style crossword puzzle grid — 15 squares across, approximately 21 squares tall (adjusted to fit the portrait format). The grid follows standard crossword construction rules: bilateral symmetry in the black-square pattern, no unchecked squares (every letter is part of both an across and a down answer), and standard numbering in the upper-left corner of each answer's first square.
+
+BLACK SQUARES: Standard crossword blocking squares in solid black (#1A1A1A), arranged in the characteristic symmetric pattern. Approximately 20% of squares are black.
+
+WHITE SQUARES: Empty squares in white (#FFFFFF) with thin grey (#808080) grid lines separating them. Each square is a precise rectangle.
+
+FILLED SQUARES: Some squares have been filled in with penciled letters — capital letters in a handwritten style (graphite pencil, slightly grey #404040, with the characteristic slight unevenness of pencil on newsprint). The filled letters spell out THEMED ANSWERS across the grid:
+
+ACROSS answers partially filled in:
+- 17-Across: "MURDER" (six letters, fully filled)
+- 23-Across: "ALIBI" (five letters, fully filled)
+- 38-Across: "POISON" (six letters, fully filled)
+- 51-Across: "SUSPECT" (seven letters, fully filled)
+- 62-Across: "MOTIVE" (six letters, partially filled — "MOTI_E" with the V missing)
+
+DOWN answers partially filled in:
+- 3-Down: "VICTIM" (six letters, fully filled)
+- 12-Down: "WEAPON" (six letters, fully filled)
+- 29-Down: "CLUE" (four letters, fully filled)
+
+The partially completed state suggests a solver in progress — someone working through the puzzle, getting closer to the answer.
+
+THE RED SQUARE:
+
+One square in the grid — at the intersection of a key across and down answer, approximately at the center of the grid — is filled not with black but with VIVID BLOOD RED (#CC1A1A). The red square is the ONLY color in the entire cover. It is the killer's signature — a single square that changes the puzzle from entertainment to evidence. The red is solid and vivid, impossible to miss against the black-and-white grid.
+
+THE CLUES (above and below the grid):
+
+ABOVE THE GRID (8-18% from top): Selected ACROSS clues printed in the standard crossword clue format — numbered, with the clue text in small serif font:
+- "17-Across: What happened in the library at midnight (6)"
+- "23-Across: She said she was at the theatre. Was she? (5)"
+- "38-Across: The method was elegant. The result was not. (6)"
+- "51-Across: Everyone is one, until the evidence says otherwise (7)"
+
+BELOW THE GRID (82-90% from top): Selected DOWN clues:
+- "3-Down: The first. Not the last. (6)"
+- "12-Down: Every killer needs one. So does every crossword. (6)"
+- "29-Down: The detective finds them. The killer leaves them. (4)"
+
+The clues are written with double meaning — they function as real crossword clues AND as ominous narrative hints.
+
+NEWSPAPER TEXTURE AND AGING:
+
+The entire cover has the texture and quality of NEWSPRINT:
+- PAPER TEXTURE: Visible fiber texture of newspaper paper — slightly rough, slightly grey-white rather than bright white
+- NEWSPRINT TONE: The paper is not pure white but the characteristic warm grey (#F0ECE0) of newsprint
+- FOLD LINES: Two horizontal fold lines cross the grid — subtle creases suggesting the newspaper has been folded (as it would be in a reader's hands or a detective's evidence bag)
+- INK QUALITY: The black squares and printed text have the slightly soft edges of newspaper offset printing — not laser-sharp but with the characteristic mild ink spread of newsprint
+- A COFFEE RING STAIN: In the upper-right corner, a circular brown stain (#B09870) from a coffee mug — the universal sign of a puzzle worked over breakfast
+
+PENCIL MARKS:
+
+The filled-in letters are in PENCIL, not pen:
+- Graphite grey (#404040) with slight variation in darkness (harder pressing = darker)
+- The handwriting is neat but human — consistent letterforms with natural variation
+- One letter has been ERASED and rewritten — a faint ghost of the wrong letter visible beneath the correct one, with eraser smudge marks
+- A small penciled note in the margin: "Check 38-A??" — the solver's uncertainty
+
+COLOR PALETTE — NEWSPAPER:
+
+- Newsprint off-white: #F0ECE0
+- Grid line grey: #808080
+- Black squares/text: #1A1A1A
+- Pencil graphite: #404040
+- Coffee stain: #B09870
+- THE RED SQUARE: #CC1A1A — the only color
+
+TEXT — NEWSPAPER AND PUZZLE:
+
+Title (positioned at 2-7% from top, in a newspaper header format):
+"THE CROSSWORD KILLER" — rendered as a NEWSPAPER HEADLINE — bold, condensed serif font (think Times New Roman Bold or a newspaper display face) in black (#1A1A1A). Large, spanning the full width, with the characteristic typographic weight of a front-page headline. The title IS the newspaper's headline — integrated into the newspaper page design.
+
+Below the headline, a thin horizontal rule, then: "A Puzzle Mystery" — in smaller serif italic, formatted as a newspaper subheadline.
+
+Author name (positioned at 92-95% from top, below the clues): "by EDGAR CROSS-OKAFOR" — in small serif, formatted as a newspaper byline: "By Edgar Cross-Okafor, Special Correspondent"
+
+OVERALL MOOD:
+
+Clever, cerebral, sinisterly playful — the feeling of solving a crossword puzzle and realizing that the clues are not wordplay but evidence, and the solution is not a phrase but a name. The crossword format is both familiar (everyone has done a crossword) and transformed (this crossword is a crime scene). The single red square is the visual hook — a tiny splash of blood in an ocean of black and white logic.
+
+THIS IS CROSSWORD PUZZLE AS BOOK COVER. Newsprint texture, penciled letters, numbered clues. The beauty is in the cleverness — a format everyone recognizes, weaponized into a mystery.

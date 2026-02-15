@@ -1,0 +1,61 @@
+THE LONG DARK BETWEEN STATIONS — A NOVEL
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Cosmic Horror / Existential Horror
+ART STYLE: Vast negative space composition — an almost entirely black cover with a single tiny element (a distant lit subway car) that emphasizes the overwhelming, crushing scale of the surrounding darkness. Inspired by the tradition of minimalist horror design where what you DON'T show is infinitely more terrifying than what you do. 95% pure black with a single point of warm light.
+
+---
+
+A masterfully restrained horror cover that is 95% ABSOLUTE BLACKNESS with a single, tiny, distant element that makes the darkness feel vast, alive, and hungry. The cover is dominated by negative space — an enormous field of pure black that represents not merely darkness but the VOID: the space between things where unknown entities might exist. The tiny element of light makes the darkness legible — without it, the cover would be a blank black rectangle. With it, the darkness becomes a PLACE, and the light becomes unbearably vulnerable.
+
+THE DARKNESS (95% of the image):
+
+The vast majority of the cover is pure black (#000000). NOT near-black, NOT dark grey, NOT textured darkness — ABSOLUTE, FLAT, FEATURELESS BLACK. The kind of black that a screen or a printed page can achieve at maximum density. This black is not a color — it is an absence. It represents the tunnel between subway stations: the long, lightless space underground where the train moves through rock and soil and whatever else exists in the deep earth.
+
+The black is not ENTIRELY featureless — in a narrow zone immediately surrounding the lit subway car (see below), the black lightens almost imperceptibly to an extremely dark grey (#080808 to #040404), suggesting the faintest reflection of light on tunnel walls or rails. This slight lightening serves two purposes: it proves the black is a space (not a printing error), and it suggests the presence of surfaces in the darkness — walls, ceiling, floor — that define a confined space. The lightening is so subtle it may not be visible on all screens or in all print conditions. That subtlety is intentional.
+
+In one area of the darkness — approximately 30% from the top, 70% from the left — an extremely faint shape is almost visible: a suggestion of something in the dark that is not the tunnel wall. This shape is rendered at approximately #030303 against the #000000 background — it is BARELY perceptible, visible only on calibrated screens at full brightness or in high-quality print. The shape is ambiguous: it could be a protruding rock formation, a maintenance alcove, or a figure standing motionless in the dark. The viewer will spend time staring into the blackness trying to determine if the shape is real or imagined. This is the cover's psychological hook — the suspicion that you are not alone in the dark.
+
+THE SUBWAY CAR (small, centered, approximately 60-65% from top):
+
+In the dead center of the black field, a tiny rectangle of warm light: a distant subway car seen from behind, moving away from the viewer deeper into the tunnel. The car is SMALL — approximately 4% of the image width and 3% of the image height — a tiny, fragile box of light in an ocean of black.
+
+The car is rendered with enough detail to be recognizable despite its small size:
+- The rear window and door of the subway car glow with warm interior fluorescent light (#FFE8C0) — the characteristic warm-cool white of subway car lighting
+- The rectangular shape of the car's rear end is visible: the illuminated rear window, the dark outline of the car body, the faint gleam of rail below
+- Through the tiny rear window, the faintest suggestion of the car's interior: the warm light of the passenger compartment, possibly the shadow-shapes of passengers inside, though at this scale these would be mere dark specks against the light
+- The car's headlights (actually taillights from this perspective) cast two tiny cones of red light (#CC2020) backward — small red dots that provide the only color accent in the entire image
+- Below the car, two thin, parallel lines of reflected light on the rails extend backward toward the viewer for a short distance before being swallowed by the darkness
+
+The subway car is the entire emotional content of the image: a small, moving container of light, warmth, and human life, surrounded on all sides by a darkness so vast and so absolute that the car seems not to be traveling through a tunnel but floating in empty space. The car is not approaching — it is LEAVING. Moving away. Taking its light with it. Leaving the viewer behind in the dark.
+
+COLOR PALETTE — DARKNESS AND A POINT OF LIGHT:
+
+- Absolute black: #000000 — 95% of the image
+- Near-black: #040404 to #080808 — barely perceptible tunnel surfaces
+- Hidden shape: #030303 — the almost-invisible something in the dark
+- Subway car warm light: #FFE8C0 — interior illumination
+- Taillight red: #CC2020 — two small red points
+- Rail reflection: #303030 — thin lines on the rail surface
+- Fluorescent hint: #E0E0D0 — the rear window glow
+
+TEXT — MINIMAL, FLOATING IN THE VOID:
+
+Title (positioned at 15-35% from top, centered in the black void):
+"THE LONG DARK" — in a thin, elegant sans-serif font (think Avenir Light or Futura Light) in a very dark grey (#1A1A1A) — NOT white, NOT light grey, but a grey so dark it is barely visible against the black background. The text is a whisper, not a shout. The viewer must look closely to read it — just as they must look closely to find the shape in the darkness. Medium-large, letter-spacing 0.3em. The wide letter-spacing makes each letter isolated, alone in the dark.
+"BETWEEN" — on the next line, same font, smaller, same dark grey, same wide spacing.
+"STATIONS" — on the next line, same size as "THE LONG DARK," same treatment.
+
+The title's near-invisibility is a deliberate design choice — the text exists in the darkness the same way the reader exists in the darkness: barely, vulnerably, hoping to be found.
+
+Subtitle (positioned at 37% from top): "a novel" — in the smallest possible type, in the same near-invisible dark grey (#1A1A1A), letter-spacing 0.4em. A whisper of a subtitle.
+
+Author name (positioned at 85-88% from top, centered below the subway car): "SOLOMON GREY-OKAFOR" — in thin sans-serif in dark grey (#1A1A1A), letter-spacing 0.3em. Nearly invisible. Nearly lost.
+
+OVERALL MOOD:
+
+Vast, isolating, suffocating — the feeling of standing alone in a subway tunnel after the last train has passed, watching its light diminish to a point and then to nothing, knowing that the darkness now belongs to you and to whatever else was already in it. The negative space design creates horror through absence — the cover shows almost NOTHING, and that nothing is the most terrifying thing in the entire collection.
+
+At thumbnail, the cover appears nearly solid black with a tiny warm dot — which itself is arresting and unusual on a bookshelf full of colorful covers. At full resolution, the tiny subway car detail, the barely-visible title, and the agonizing search for the shape in the darkness create an extended, uncomfortable viewing experience.
+
+THIS IS NEGATIVE SPACE HORROR. 95% absolute black. A single point of departing light. The beauty — the terror — is in the emptiness: the vast, featureless, possibly occupied darkness that the light cannot reach and the eye cannot penetrate.

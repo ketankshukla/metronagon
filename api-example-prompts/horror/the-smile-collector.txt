@@ -1,0 +1,83 @@
+THE SMILE COLLECTOR — A NOVEL OF DREAD
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Psychological Horror / Literary Horror
+ART STYLE: Vintage anatomical illustration gone wrong — the precise, clinical line-drawing style of 19th-century medical textbook plates (muscle diagrams, skeletal illustrations, surgical procedures) applied to something that should not exist. Pen and ink on aged cream paper, with the detached scientific precision of an anatomist documenting the impossible. Labeled with Latin terminology. Sepia-toned with faded red anatomical accents.
+
+---
+
+A profoundly unsettling book cover rendered in the precise, clinical style of 19th-century anatomical illustration — the tradition of detailed pen-and-ink medical plates found in Victorian surgical textbooks and anatomy atlases. The illustration depicts an impossible anatomical subject with the same detached, scientific precision that a real anatomist would apply to a normal dissection. The horror is in the TONE — the image treats something nightmarish with clinical, labeled, matter-of-fact scientific documentation, as though the impossible is simply another specimen to be catalogued.
+
+THE ANATOMICAL PLATE — A STUDY OF SMILES:
+
+The illustration is presented as a formal anatomical plate — a single page from a medical textbook, complete with figure numbers, labeled structures, and Latin terminology. The subject: a detailed anatomical study of a human face that has been modified to contain multiple mouths.
+
+THE PRIMARY FIGURE (center, 20-75% from top):
+
+A human head, shown in anterior (front-facing) view, rendered in the classic anatomical illustration style: precise pen-and-ink linework on aged cream paper, with the superficial tissue on one half of the face intact and the other half partially dissected to show underlying musculature. The rendering is BEAUTIFUL in its precision — every muscle fiber is individually drawn, every blood vessel traced with fine red ink lines, every bone edge clean and accurate.
+
+But the anatomy is WRONG. The face contains not one mouth but SEVEN:
+
+THE PRIMARY MOUTH is in its normal anatomical position — a normal human mouth with lips, teeth, and the orbicularis oris muscle labeled with clean leader lines and Latin text: "M. orbicularis oris (primary)."
+
+THE ADDITIONAL MOUTHS are positioned in anatomically impossible locations:
+- One on the forehead, oriented vertically, its lips thin and stretched, its musculature integrating seamlessly with the frontalis muscle. Labeled: "Os frontale secundarium."
+- One on each cheek, smaller, positioned where dimples would be, their circular lip muscles (labeled "M. orbicularis oris — accessory III and IV") integrating with the buccinator. These cheek-mouths are slightly open, showing small, perfectly formed teeth.
+- One on the chin, below the primary mouth, oriented upside-down, its muscles continuous with those of the primary mouth's lower lip. Labeled: "Os mentale inversus."
+- Two more on the neck, flanking the trachea, partially visible where the illustration extends below the jawline. These are the most disturbing — neck-mouths, gilled, their musculature drawn with the same precise beauty as any legitimate anatomical illustration.
+
+EVERY additional mouth is rendered with COMPLETE anatomical accuracy — as though these modifications were real and the illustrator is simply documenting them. Each mouth has properly drawn teeth, gums, a tongue visible in the slightly open ones, and correctly attached musculature that integrates with the surrounding facial anatomy. The dissected half of the face shows how the muscle systems of all seven mouths interconnect — a complex, impossible, but internally consistent network of oral muscles.
+
+THE DISSECTION DETAIL:
+
+The left half of the face is shown with the skin removed (the standard anatomical convention), revealing the underlying muscular structure in fine crosshatch shading. The muscles are drawn in the characteristic anatomical illustration technique: parallel hatching lines following the direction of muscle fibers, with denser hatching in the shadowed areas. The muscle tissue is tinted in a subtle faded red (#B07060) — the traditional anatomical illustration convention for muscle tissue, applied as a light watercolor wash over the ink linework.
+
+Bones visible in the dissection are tinted in pale cream-yellow (#E8D8B0). Nerves are rendered in fine yellow-gold lines (#C8A850). Blood vessels in red (arteries, #A04040) and blue (veins, #4050A0).
+
+SCIENTIFIC APPARATUS:
+
+The illustration includes the formal apparatus of an anatomical plate:
+- FIGURE NUMBER: "PLATE XLVII — Fig. 1" printed in small serif at the top of the image
+- TITLE: "Facies polystomatica — anterior view, partial dissection" in italic serif beneath the figure number (polystomatica = "many-mouthed" in pseudo-Latin)
+- LEADER LINES: Thin straight lines extending from specific anatomical structures to small circled reference numbers (1-24), with a corresponding legend that would appear on the facing page (not shown)
+- SCALE BAR: A small measurement scale in centimeters at the bottom of the figure
+- ARTIST CREDIT: "Del. et sculp. J.H. Blackwood, M.D., 1887" in tiny italic at the bottom (the traditional credit format for anatomical illustrators)
+
+THE PAPER:
+
+The background is aged anatomical textbook paper — a warm cream (#FFF0D8) that has yellowed and foxed with age. Foxing spots (small brown marks, #A08860) are scattered across the surface. The edges of the image show the slightly darkened margins of a bound book page. A very faint show-through of text from the reverse page is visible in the lightest areas — the characteristic bleed-through of old letterpress printing.
+
+PEN AND INK TECHNIQUE:
+
+The linework must be EXQUISITE — this is a master anatomical illustrator's work:
+- CONTOUR LINES: Clean, confident, varying in weight from hairline (distant structures) to bold (nearest structures)
+- CROSSHATCHING: Systematic parallel line sets creating tonal gradation — single hatching for light areas, double crosshatch for medium, triple for dark. The hatching follows the form of the surface it describes (following muscle fiber direction, wrapping around curved surfaces)
+- STIPPLING: Fine dot-work for the softest tonal transitions — skin texture, subtle shadowing
+- The overall quality suggests an engraved steel plate printed on a letterpress — the crisp, precise linework characteristic of intaglio printing
+
+COLOR PALETTE — ANATOMICAL ILLUSTRATION:
+
+- Aged cream paper: #FFF0D8
+- Ink black (linework): #1A1410 (warm black, not cold)
+- Muscle red wash: #B07060 (faded, muted)
+- Bone cream-yellow: #E8D8B0
+- Artery red: #A04040
+- Vein blue: #4050A0
+- Nerve gold: #C8A850
+- Foxing brown: #A08860
+
+TEXT — PERIOD-APPROPRIATE TYPESET:
+
+Title (positioned at 5-16% from top, above the anatomical figure number):
+"THE SMILE" — in a classical serif font (think Baskerville or Caslon — the typefaces of 18th-19th century publishing) in warm ink-black (#1A1410). Medium-large, letter-spacing 0.1em. The font matches the period of the anatomical illustration.
+"COLLECTOR" — on the next line, same font, same size, in the muted muscle-red (#B07060). The red text connects to the anatomical red of the dissection below.
+
+Subtitle (positioned at 18% from top): "A Novel of Dread" — in small italic serif in warm black (#1A1410), letter-spacing 0.1em.
+
+Author name (positioned at 90-93% from top, below the plate's scale bar): "DR. CORNELIUS VANE-OKAFOR" — in small serif in warm black (#1A1410), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Clinical horror — the most disturbing kind, where the monstrous is treated with scientific detachment. The anatomical illustration style creates horror through TONE rather than gore: the precise, labeled, matter-of-fact documentation of something impossible makes it feel more real than any dramatic horror illustration could. The seven mouths are horrifying not because they are rendered grotesquely but because they are rendered BEAUTIFULLY — with the same loving anatomical precision that a real illustrator would bring to a normal face.
+
+THIS IS ANATOMICAL ILLUSTRATION OF THE IMPOSSIBLE. Precise pen-and-ink, clinical labeling, scientific detachment applied to biological horror. The beauty is in the precision — and the precision is what makes it terrifying.

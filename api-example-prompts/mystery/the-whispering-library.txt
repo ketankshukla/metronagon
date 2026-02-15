@@ -1,0 +1,80 @@
+THE WHISPERING LIBRARY — A BIBLIOMYSTERY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Bibliomystery / Academic Mystery
+ART STYLE: Trompe l'oeil bookshelf — a photorealistic painting of a section of old library shelving, rendered so realistically it appears three-dimensional. Among the aged leather-bound books, one volume is pulled slightly forward, revealing a hidden compartment behind it. A folded note protrudes from between the pages of another book. The dust on the shelf has been recently disturbed. Hyperrealistic still-life painting.
+
+---
+
+A hyperrealistic book cover painted as a trompe l'oeil — a "trick of the eye" painting so realistic that the viewer momentarily believes they are looking at an actual section of old library shelving rather than a flat image. The painting depicts approximately two feet of a single library shelf, filled with aged leather-bound books of various sizes and colors, rendered with extraordinary material precision. Among the books, small details tell a mystery story: a book pulled slightly forward revealing a hollow compartment, a folded note, disturbed dust patterns, and a tiny object hidden between volumes.
+
+THE BOOKSHELF (filling the entire image):
+
+A horizontal section of a dark wooden library shelf viewed straight-on, filling the image from edge to edge. The shelf is old dark oak (#3A2810), its surface polished by centuries of use to a deep, warm sheen. The shelf has a slight sag in the center — bowed by the weight of books over decades. Above and below the main shelf, the edges of additional shelves are barely visible, establishing that this is one shelf in a larger bookcase.
+
+THE BOOKS — A COLLECTION OF AGED VOLUMES:
+
+Approximately 15-18 books stand upright on the shelf, packed tightly together. Each book is individually characterized:
+
+- A large FOLIO in dark burgundy leather (#4A1A1A) with gold-stamped spine text: "ARCHITECTURA CIVILIS — VOL. III" — the leather is cracked and dry, with the characteristic deterioration of old calfskin
+- A medium volume in deep forest green morocco (#1A3A20) with raised spine bands and a small gilt crest — well-preserved, clearly a valuable edition
+- A slim volume in faded blue cloth (#5A6A8A) with a paper spine label, slightly torn — a more modest book among its grander neighbors
+- A thick quarto in mottled brown calf (#6B4A30) with marbled page edges visible at the top — the characteristic acid-brown of 18th-century leather
+- A set of three matching volumes in dark navy (#1A1A3A) with identical gold spine decoration — a multi-volume work
+- Several more volumes in various states of age and grandeur, each one individual in size, color, binding material, and condition
+
+MATERIAL RENDERING — THE TROMPE L'OEIL QUALITY:
+
+Each book surface is rendered with obsessive material precision:
+- LEATHER: Visible grain pattern varying by type (smooth calfskin, pebbled morocco, rough pigskin). Surface wear: rubbing on spine edges where hands have gripped, scratches, small tears, dry cracking
+- GOLD STAMPING: Title text and decorative elements on spines rendered with the characteristic look of gold leaf tooling — slightly raised, slightly irregular, worn away in the most-handled areas to reveal the blind (ungilded) impression beneath
+- CLOTH: Where cloth bindings appear, the weave texture of bookcloth is visible — fine, regular, slightly faded along the spine
+- PAGE EDGES: The top edges of the pages are visible above each book — some gilt (gold leaf page edges, bright but tarnished), some marbled (the characteristic swirled patterns of book-edge marbling), some plain (aged cream to brown)
+- DUST: A fine layer of dust on the top edges of the books and on the shelf surface — rendered as a thin, slightly grey film that softens the surfaces beneath. The dust has been DISTURBED in specific locations (see below).
+
+THE MYSTERY ELEMENTS:
+
+SECRET COMPARTMENT: One book — the large burgundy folio — is pulled forward approximately two inches from the shelf line. Behind it, a HOLLOW is visible in the wall behind the bookshelf — a small rectangular compartment (approximately 6x4 inches) carved into the wall, its interior darker than the surrounding wood. Inside the compartment, barely visible in the shadow: a small velvet pouch (#1A1A3A) and what appears to be a folded document sealed with red wax (#8B1A1A). The compartment's edges are clean-cut — this was deliberately built, not accidental damage.
+
+THE NOTE: Between the pages of the green morocco volume, a small folded piece of paper protrudes — cream-colored, with a few words visible in faded brown ink. The visible text reads: "...the third shelf from..." — a fragment of directions, the rest hidden within the book.
+
+DISTURBED DUST: The dust on the shelf surface shows clear evidence of recent activity — swipe marks where books have been pulled out and replaced, fingerprints in the dust on the top edge of the burgundy folio, and a clean rectangle where a book (now missing?) once stood, its outline preserved in the surrounding dust.
+
+THE MISSING BOOK: A gap in the shelf — a space approximately 1.5 inches wide where a book should be but isn't. The books on either side have tilted slightly toward the gap. The shelf surface in the gap is clean (the missing book protected the wood from dust), and on this clean surface, a single small object: an old brass key (#B8A040), its bow ornate, its shaft dark with age.
+
+A BOOKMARK: From one of the navy volumes, a silk ribbon bookmark in faded red extends downward, its frayed end hanging over the shelf edge.
+
+LIGHTING:
+
+The scene is lit by warm, directional light from the upper-left — suggesting a reading lamp or window in a library. The light creates subtle shadows: each book casts a thin shadow on its neighbor to the right, the pulled-forward folio casts a longer shadow on the shelf surface, and the secret compartment's interior is in deep shadow. The warm light (#FFE0B0) gives the leather and wood surfaces a rich, golden quality.
+
+COLOR PALETTE — LIBRARY TONES:
+
+- Dark oak shelf: #3A2810
+- Burgundy leather: #4A1A1A
+- Green morocco: #1A3A20
+- Blue cloth: #5A6A8A
+- Brown calf: #6B4A30
+- Navy leather: #1A1A3A
+- Gold stamping: #D4AF37
+- Gilt edges: #C8A030
+- Warm lamp light: #FFE0B0
+- Dust grey: #A8A098
+- Brass key: #B8A040
+- Wax seal red: #8B1A1A
+
+TEXT — INTEGRATED INTO THE SHELF:
+
+Title: The title "THE WHISPERING LIBRARY" appears as though it is the SPINE TEXT of the central book on the shelf — gold-stamped on the spine of the green morocco volume. "THE WHISPERING" on the upper portion of the spine, "LIBRARY" on the lower portion, with a small decorative ornament between — exactly as a real book spine would be formatted. The text is in gold leaf (#D4AF37) with the characteristic slightly worn quality of old gold stamping.
+
+Subtitle: "A Bibliomystery" appears as smaller gold text below the title on the same spine. Same gold stamping treatment.
+
+Author name: "MARGUERITE ASHWORTH-OSEI" appears at the bottom of the same book's spine — in the position where the publisher's name would appear on a real book. Same gold stamping.
+
+This integrated-spine approach means the title IS one of the books on the shelf — the cover is a bookshelf, and the book you're holding is one of the books ON that shelf. A meta-literary design choice for a bibliomystery.
+
+OVERALL MOOD:
+
+Scholarly, atmospheric, quietly conspiratorial — the feeling of pulling a book from a library shelf and discovering that it conceals a secret that has waited decades to be found. The trompe l'oeil hyperrealism makes the mystery tangible — these are books you could touch, dust you could disturb, a key you could pick up.
+
+THIS IS TROMPE L'OEIL STILL-LIFE PAINTING. Hyperrealistic material rendering that tricks the eye into seeing three-dimensional objects on a flat surface. The beauty is in the materials — aged leather, worn gold, accumulated dust — and the mystery is in the details hidden among them.

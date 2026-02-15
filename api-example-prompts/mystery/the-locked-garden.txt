@@ -1,0 +1,83 @@
+THE LOCKED GARDEN — A DETECTIVE LINNAEUS MYSTERY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Cozy Mystery / Botanical Mystery
+ART STYLE: Vintage botanical crime scene — a beautiful, precise botanical illustration plate (in the tradition of 18th-century botanical art) depicting a garden of poisonous plants, each one labeled with its Latin name and toxicological properties. The illustration is rendered with scientific precision and artistic beauty, but the plants depicted are all deadly — and among the botanical specimens, small crime-scene details (a dropped key, a torn glove, a footprint) are hidden.
+
+---
+
+A clever, visually rich book cover rendered as a full-page botanical illustration plate — the kind of exquisite, scientifically precise plant illustration found in 18th and 19th-century herbarium publications and poison manuals. The illustration depicts a carefully arranged collection of POISONOUS PLANTS, each one rendered with the beauty and precision of the finest botanical art, labeled with Latin names and brief toxicological notes. Hidden among the botanical specimens, small objects tell a crime story — but they are rendered in the same precise, scientific style as the plants, as though they too are specimens to be catalogued.
+
+THE BOTANICAL ARRANGEMENT (filling 15-85% of the image):
+
+The illustration presents eight to ten poisonous plants arranged in a formal botanical plate composition — each plant shown complete (root, stem, leaves, flowers, and fruit/seed where applicable), each rendered with scientific precision and artistic beauty:
+
+ACONITUM NAPELLUS (Monkshood/Wolfsbane): A tall spike of deep violet-blue hooded flowers, rendered with visible petal venation and the characteristic helmet-shaped flower structure. The root system is shown in cross-section. Label: "Aconitum napellus — Radix: aconitine — lethal dose: 1-2mg"
+
+ATROPA BELLADONNA (Deadly Nightshade): A branch bearing glossy black berries and bell-shaped purple-brown flowers, with the characteristic ovate leaves. Label: "Atropa belladonna — Fructus: tropane alkaloids"
+
+DIGITALIS PURPUREA (Foxglove): A dramatic flowering spike with tubular purple flowers spotted inside — rendered with the precision to show the interior spotting pattern. Label: "Digitalis purpurea — Folium: cardiac glycosides"
+
+CONIUM MACULATUM (Poison Hemlock): Delicate white umbel flowers on a tall, purple-spotted stem — the spots rendered with exact fidelity. Label: "Conium maculatum — cf. death of Socrates"
+
+RICINUS COMMUNIS (Castor Bean): The large, palmate leaves and spiky seed pods, with one pod shown split open to reveal the beautifully patterned but deadly seeds. Label: "Ricinus communis — Semen: ricin"
+
+Additional plants may include: TAXUS BACCATA (Yew), NERIUM OLEANDER (Oleander), CONVALLARIA MAJALIS (Lily of the Valley) — each rendered with equal precision and beauty.
+
+THE HIDDEN CRIME ELEMENTS:
+
+Among the botanical specimens, rendered in the exact same scientific illustration style:
+
+- A SKELETON KEY lying among the roots of the Aconitum — drawn with the same precision as the root fibers, its iron shaft and ornate bow rendered as though it were another specimen. A leader line extends to a small label: "Clavis ferrea — found at the scene"
+
+- A TORN PIECE OF FABRIC caught on the thorns of a rose that borders the arrangement — a small triangle of dark cloth rendered with visible weave pattern. Label: "Textilis fragmentum — silk, black"
+
+- A SINGLE FOOTPRINT impressed in the soil at the base of the arrangement — rendered as a scientific diagram with measurement lines. Label: "Vestigium — size 9, right foot, leather sole"
+
+- A BROKEN TEACUP among the Belladonna roots — a fragment of fine china with a floral pattern, rendered with the same delicacy as the botanical specimens. Label: "Poculum fractum — residue: alkaloid"
+
+- A SMALL GLASS VIAL, empty, lying on its side among the Hemlock stems — rendered as a pharmaceutical specimen. Label: "Ampulla vitrea — trace: unknown compound"
+
+BOTANICAL ILLUSTRATION TECHNIQUE:
+
+- WATERCOLOR AND INK: The primary medium — fine pen-and-ink linework for structural details (veins, stems, root fibers) overlaid with translucent watercolor washes for color. The technique produces the characteristic look of botanical illustration: precise linework visible beneath soft, luminous color.
+- SCIENTIFIC ACCURACY: Every plant is botanically accurate — leaf shapes, flower structures, venation patterns, and growth habits are rendered correctly. A botanist could identify each species from the illustration alone.
+- WHITE PAPER BACKGROUND: Bright, clean white paper (#FFFFFF) — the traditional background for botanical plates, allowing the specimen colors to show at maximum vibrancy.
+- DISSECTION DETAILS: Several plants include "dissected" elements — a flower shown opened to reveal internal structures, a seed shown in cross-section — rendered in the botanical tradition of showing both the whole specimen and its anatomical details.
+- COLOR: Each plant's colors are accurate but rendered with the slightly heightened vibrancy of watercolor at its best — the violet of Aconitum, the glossy black of Belladonna berries, the purple-spotted foxglove bells.
+
+LABELS AND SCIENTIFIC APPARATUS:
+
+- Each plant has a small leader line extending to a label block with the Latin name in italic serif and the toxicological note in small roman serif
+- A plate number appears at the top: "PLATE XXIII — FLORA VENENATA" (Poisonous Flora)
+- A scale bar in centimeters appears at the bottom
+- The labels are rendered in warm brown-black ink (#2A1A10) in a small, precise serif font
+
+COLOR PALETTE — BOTANICAL WATERCOLOR:
+
+- Paper white: #FFFFFF — background
+- Aconitum violet-blue: #4A3A8B
+- Belladonna black berries: #1A1A20 with glossy highlights
+- Foxglove purple: #8A4A8A with interior spotting
+- Hemlock white: #F0F0E0 with green stems
+- Castor bean green: #3A6A30
+- Rose red (border): #CC3A3A
+- Warm ink brown: #2A1A10 — all text and fine linework
+- Root earth: #8B6B40
+- Leaf greens (varied): #2A5A20, #4A7A30, #6A8A40
+
+TEXT — SCIENTIFIC AND ELEGANT:
+
+Title (positioned at 3-14% from top, centered above the plate number):
+"THE LOCKED" — in an elegant serif (think Baskerville or Caslon) in warm ink-brown (#2A1A10). Medium-large, letter-spacing 0.1em. The font matches the scientific labeling, integrating with the botanical plate aesthetic.
+"GARDEN" — on the next line, same font, LARGER, in a deep botanical green (#2A5A20). The green connects to the living (and killing) plants below.
+
+Series line (positioned at 16% from top): "A Detective Linnaeus Mystery" — in small italic serif in warm brown (#2A1A10), letter-spacing 0.1em. "Linnaeus" — the father of botanical taxonomy — signals the botanical detective theme.
+
+Author name (positioned at 90-93% from top, below the scale bar): "PROFESSOR ROSE ASHWORTH-OKAFOR" — in small serif in warm brown (#2A1A10), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Elegant, deadly, intellectually playful — the feeling of examining a beautiful illustration and realizing, gradually, that every beautiful thing depicted can kill you, and that someone used one of them to do exactly that. The cozy mystery aesthetic (beautiful, orderly, intellectual) is perfectly served by the botanical plate format — it is a puzzle presented as art, a crime scene disguised as science.
+
+THIS IS BOTANICAL SCIENTIFIC ILLUSTRATION hiding a crime. Watercolor and ink, precise, labeled, beautiful. The beauty is genuine — these are exquisite plant renderings. The horror is in the knowledge: every petal, every berry, every root is a weapon.

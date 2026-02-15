@@ -1,0 +1,77 @@
+THE MIRROR SAINT — A BODY HORROR NOVEL
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Body Horror / Surreal Horror
+ART STYLE: Hyperrealistic oil painting in the Flemish tradition — the obsessive, jewel-like detail of Northern Renaissance masters applied to a single impossible object. A human face reflected in an antique mirror, but the reflection shows a different face — or the same face, transformed. The painting technique emphasizes glazed, luminous skin tones, the reflective surface of glass, and the uncanny precision that makes the impossible feel real.
+
+---
+
+A deeply unsettling book cover rendered as a hyperrealistic oil painting in the tradition of Flemish masters — the precise, luminous, jewel-like painting technique where multiple translucent glaze layers create skin that seems to glow from within and surfaces that have a depth beyond what flat paint should achieve. The subject is deceptively simple: a person looking into an antique hand mirror. But the reflection in the mirror does not match the person holding it — the reflection shows the same face, but CHANGED in subtle, deeply wrong ways that the viewer's brain registers before their conscious mind can identify.
+
+THE COMPOSITION — PERSON AND MIRROR:
+
+The image shows a figure from the chest up, holding an ornate antique hand mirror at arm's length, the mirror angled toward the viewer so we can see both the person's real face AND the mirror's reflection simultaneously.
+
+THE PERSON (occupying 40-90% from top, slightly left of center):
+
+A woman in her 30s, rendered with the luminous, obsessive detail of Flemish oil painting:
+- SKIN: Painted in multiple translucent glaze layers — warm undertones of cadmium red and yellow ochre glowing through cooler surface tones, creating the characteristic luminous, alive quality of Northern Renaissance flesh painting. Every pore, every fine line, every subtle color variation is visible. The skin is BEAUTIFUL — not idealized-smooth but real-beautiful, with the warmth and specificity of an actual human face.
+- FACE: Symmetrical, calm, with an expression of neutral composure — she is simply looking at her reflection. Dark eyes with visible iris detail (rendered in the Flemish manner — multiple layers of brown, amber, and gold glaze creating deep, luminous irises). Dark hair pulled back simply. The lighting is the classic Flemish three-quarter light from the upper left — creating gentle modeling shadows on the right side of the face, a bright highlight on the left cheekbone, and a subtle reflected light from below.
+- CLOTHING: A simple dark garment — deep burgundy or black — that disappears into the dark background. Rendered with just enough detail to establish the neckline and shoulders. A single piece of jewelry: a small gold cross on a thin chain, rendered with the Flemish obsession for material precision — the gold catches the light, each link of the chain individually visible.
+
+THE MIRROR:
+
+An antique hand mirror held in the figure's right hand — a beautiful object rendered with material precision:
+- FRAME: Ornate silver (tarnished, darkened with age) in a Baroque style — scrolling acanthus leaves, small cherub faces, and organic curves. The silver is rendered with the reflective, slightly matte quality of old sterling — not bright chrome but the warm, complex grey of aged precious metal.
+- GLASS: The mirror surface is the critical element — a slightly convex glass (as in real antique mirrors) that reflects the figure's face.
+
+THE REFLECTION — THE WRONGNESS:
+
+The reflection in the mirror shows the woman's face — but WRONG. The changes are subtle enough that a casual viewer might not immediately identify what is different, but disturbing enough that the subconscious registers that something is very, very off:
+
+- THE SMILE: The real face has a neutral, composed expression. The reflection is SMILING — a very slight smile, just the corners of the mouth turned up, but a smile that the real face is NOT making. The smile does not reach the reflection's eyes.
+- THE EYES: The reflection's eyes are looking in a slightly different direction from the real person's eyes. The real person looks at the mirror. The reflection looks at the VIEWER — directly, specifically, through the mirror and out of the painting. The eye contact from the reflection is the most unsettling element.
+- THE SYMMETRY: The reflection's face is more symmetrical than the real face — unnervingly so. Real human faces are slightly asymmetrical; the reflection has been "corrected" to perfect bilateral symmetry, creating an uncanny-valley effect where the face is technically more beautiful but reads as inhuman.
+- THE SKIN: The reflection's skin is subtly different in tone — slightly cooler, slightly more porcelain, as though the blood has receded. Not death-pale, but the faintest suggestion of something less alive.
+- THE CROSS: The gold cross pendant, reflected in the mirror, appears to be hanging UPSIDE DOWN — an inversion that might be explained by the mirror's physics but feels deliberately wrong.
+
+These differences are rendered with the same hyperrealistic precision as the real face — the smile is perfectly painted, the eye direction is carefully calculated, the symmetry is geometrically exact. The horror is not crude — it is precise, controlled, and all the more disturbing for its subtlety.
+
+THE BACKGROUND:
+
+Behind the figure, a dark, warm background in the Flemish tradition — deep brown-black (#1A1008) with the faintest suggestion of a domestic interior: the edge of a wooden panel, the gleam of another mirror or painting frame in the distance. The background is deliberately dark and minimal — all attention is directed to the two faces (real and reflected) and the mirror between them.
+
+PAINTING TECHNIQUE:
+
+- GLAZING: Multiple translucent layers of oil paint built up over a detailed underpainting — the technique that gives Flemish painting its unique luminous depth. Light passes through the upper glaze layers, reflects off the lighter underpainting, and returns through the glazes, creating color that seems to glow from within.
+- DETAIL: Obsessive, jewel-like detail in key areas — the iris of the eye, the texture of the mirror frame, the links of the gold chain. Less detail in secondary areas (clothing, background), creating a natural focal hierarchy.
+- BRUSHWORK: Invisible — no visible brushstrokes, only smooth, blended, perfect surfaces. This is the Flemish ideal of painting that conceals its own making.
+- LIGHT: Warm, directional, from the upper left — the classic studio light of Northern Renaissance painting. The light models form with gentle precision, creating soft shadows and bright highlights that give every surface three-dimensional conviction.
+
+COLOR PALETTE — FLEMISH MASTER:
+
+- Flesh warm: #E0B898 — lit skin areas
+- Flesh shadow: #A07050 — shadowed skin
+- Flesh cool (reflection): #D0B0A0 — the reflection's slightly cooler tone
+- Dark background: #1A1008 — warm, deep brownish-black
+- Mirror silver: #A0A098 — tarnished sterling
+- Gold chain: #C8A030 — jewelry, warm accent
+- Burgundy garment: #3A0A14
+- Eye brown-amber: #6B4A20
+- Lip warm: #B07060
+
+TEXT — CLASSICAL AND RESTRAINED:
+
+Title (positioned at 4-16% from top, centered over the dark upper background):
+"THE MIRROR" — in an elegant, classical serif font (think Garamond or Baskerville) in tarnished silver (#A0A098) — matching the mirror frame. Medium-large, letter-spacing 0.1em.
+"SAINT" — on the next line, same font, LARGER, in warm gold (#C8A030) — matching the cross pendant. The silver-to-gold shift mirrors the progression from cold mirror to warm faith.
+
+Subtitle (positioned at 18% from top): "A Body Horror Novel" — in small serif in dark warm grey (#605040), letter-spacing 0.2em.
+
+Author name (positioned at 91-94% from top): "HELENA VOSS-OKONKWO" — in serif capitals in tarnished silver (#A0A098), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Uncanny, intimate, slow-burning dread — the feeling of looking in a mirror and noticing, for the first time, that your reflection moved a fraction of a second too late. The Flemish painting technique makes the horror feel REAL — not fantasy-horror, not cartoon-horror, but the horror of a real face doing something a real face should not do, rendered with such precision that you cannot dismiss it as artistic license.
+
+THIS IS HYPERREALISTIC FLEMISH OIL PAINTING. Glazed, luminous, obsessively detailed. The beauty is museum-quality — and the horror is hidden inside the beauty, in the subtle wrongness of a reflection that has begun to have its own ideas.

@@ -1,0 +1,93 @@
+THE LOST EXPEDITION — A JOURNAL OF DISCOVERY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Exploration Adventure / Survival
+ART STYLE: Aged expedition journal page — the cover is designed to look like a page torn from an explorer's leather-bound field journal, complete with hand-drawn maps, watercolor specimen sketches, handwritten notes in faded ink, compass bearings, and stains from jungle humidity. Mixed media: pen and ink, watercolor washes, pencil sketches, and pressed botanical specimens on aged rag paper.
+
+---
+
+A richly textured book cover designed to look like a single page torn from an explorer's field journal — the kind of leather-bound notebook carried into uncharted territory, filled with observations, maps, sketches, and increasingly desperate notes as the expedition goes wrong. The page combines multiple media (pen and ink, watercolor, pencil, pressed specimens) in the organic, layered way a real journal accumulates entries over days and weeks in the field. The page tells a story through its contents — starting with careful, optimistic observations and ending with hurried, frightened notes.
+
+THE JOURNAL PAGE (the entire cover):
+
+The background is a single sheet of aged, heavy rag paper (#F0E0C8) — not modern white paper but the thick, slightly rough, warm-toned paper of a quality journal. The paper shows extensive aging and field damage:
+- WATER STAINS: Large, organic, irregular stains in warm brown (#B09868) where the journal got wet — jungle humidity, river crossings, rain. The stains have darker edges and lighter centers, the characteristic tide-mark of water damage on paper.
+- FOXING: Scattered brown spots (#A08860) of age and mold.
+- FOLD CREASES: The page has been folded — a single horizontal crease across the middle suggests the journal was bent in a pocket.
+- MUD SMEAR: A small smear of reddish-brown (#8B5A3A) near the bottom — dried mud from the expedition route.
+- A SMALL TEAR: The upper-right corner of the page is torn, with a small triangular piece missing, revealing the dark background behind.
+
+THE JOURNAL CONTENTS — LAYERED ENTRIES:
+
+HAND-DRAWN MAP (center, 30-65% from top):
+
+The page's dominant element is a hand-drawn map — a pen-and-ink cartographic sketch of an unmapped region:
+- A river system drawn in blue ink (#2A4A8B) — a main river with tributaries branching outward, the line weight varying (thicker for the main river, thinner for tributaries)
+- Terrain indicated by hand-drawn hatch marks: small parallel lines for jungle, stippling for marshland, crossed lines for mountainous areas
+- A dotted line in red ink (#8B2020) traces the expedition's route along the river and then overland — the route grows more erratic and less certain as it extends further from the starting point
+- Small crosses (×) along the route mark camp sites, with dates in tiny handwriting: "Camp 3 — 14 Aug," "Camp 7 — 22 Aug"
+- The final portion of the route ends abruptly with a question mark — the expedition entered territory they couldn't map
+- A compass rose in the upper-left corner of the map — hand-drawn, ornamental, with N/S/E/W marked
+- The map has been drawn over an earlier, erased pencil sketch — faint graphite lines visible beneath the ink
+
+WATERCOLOR SPECIMEN SKETCHES (upper portion, 15-30% from top):
+
+Two small watercolor illustrations of specimens found during the expedition:
+- A BUTTERFLY: Wings spread, rendered in careful watercolor — iridescent blue (#2060A0) with black wing margins and orange spots. A leader line extends to a handwritten label: "Morpho sp. nov.? — collected 18 Aug — extraordinary blue"
+- A PLANT: A flowering vine with unusual red (#A03030) trumpet-shaped flowers and dark green leaves. Label: "Genus unknown — locals call it 'devil's trumpet' — DO NOT TOUCH — sap causes blistering"
+
+Both specimens are rendered with the quick but accurate watercolor technique of a field naturalist — loose washes with precise ink outlines, beautiful but functional.
+
+HANDWRITTEN NOTES (scattered around the map and margins):
+
+Written in a flowing, educated hand using brown-black ink (#2A1A10) that has faded unevenly:
+
+EARLY ENTRIES (neat, calm handwriting):
+- "Day 12 — River navigable to the second cataract. Specimen collection excellent. Morale high."
+- "The forest here is unlike anything in the literature — canopy at 60m+, undergrowth sparse, visibility poor."
+
+LATER ENTRIES (handwriting becoming hurried, less neat):
+- "Day 19 — Lost the trail. Compass unreliable near the ridge. Something interfering with magnetic north."
+- "Three porters departed in the night. Cannot blame them."
+
+FINAL ENTRY (handwriting shaky, pressed hard into the paper):
+- Written sideways in the margin in a different ink (darker, suggesting a different pen, possibly the last one that worked): "Day 24 — If this journal is found, send word to the Royal Geographic Society. We went north from the black ridge. The city is REAL. God help us, it is real and it is not empty."
+
+PRESSED BOTANICAL SPECIMEN (lower-left, 70-85% from top):
+
+A real pressed leaf — a large, palmate tropical leaf that has been dried flat and attached to the page with small strips of paper tape. The leaf has dried to a warm brown-green (#5A6A3A), its veins and surface texture perfectly preserved. The leaf partially overlaps the lower portion of the map and one of the handwritten notes — it was pressed into the journal as a specimen and now obscures some of the text beneath it.
+
+COMPASS BEARINGS AND CALCULATIONS:
+
+In the right margin, a column of compass bearings and distance calculations in tiny, precise handwriting:
+- "NNW 342° — 4.7 km to ridge"
+- "NE 048° — 2.1 km to river fork"
+- "N 001° — ??? — compass spinning"
+The final bearing entry is followed by a small sketch of the compass needle — drawn with visible agitation, the needle depicted as pointing in multiple directions simultaneously.
+
+COLOR PALETTE — FIELD JOURNAL:
+
+- Aged paper: #F0E0C8
+- Brown-black ink: #2A1A10 — primary writing, map details
+- Blue ink: #2A4A8B — river, water features
+- Red ink: #8B2020 — route line, urgent annotations
+- Watercolor blue: #2060A0 — butterfly
+- Watercolor red: #A03030 — flower specimen
+- Watercolor green: #3A6A30 — plant leaves
+- Water stain: #B09868
+- Mud brown: #8B5A3A
+- Pressed leaf: #5A6A3A
+
+TEXT — INTEGRATED AS JOURNAL HEADER:
+
+Title: "THE LOST EXPEDITION" appears as a HEADING written at the very top of the journal page in the explorer's own handwriting — larger, more formal letters than the body text, in the same brown-black ink. The handwriting is careful and deliberate — this was the journal's title page entry. Below it, a thin hand-drawn horizontal line.
+
+Subtitle: "A Journal of Discovery" — written beneath the title line in smaller, italic handwriting. Same ink.
+
+Author name: At the very bottom of the page, in small print (not handwritten — typeset, as though added by the publisher who found the journal): "Transcribed from the journal of DR. ELEANOR VOSS-OKAFOR — Royal Geographic Society, 1893" — in tiny serif in warm brown (#6A4A2A).
+
+OVERALL MOOD:
+
+Adventurous, increasingly ominous, documentary — the feeling of holding a real artifact, a journal page that survived when its author may not have. The mixed-media journal aesthetic creates extraordinary texture and narrative density — every element (the map, the specimens, the notes, the stains) tells part of the story. The progression from calm scientific observation to desperate final entry mirrors the expedition's descent from discovery to disaster.
+
+THIS IS EXPLORER'S FIELD JOURNAL ART. Mixed media on aged paper — pen and ink, watercolor, pencil, pressed specimens, stains. The beauty is in the accumulation — layers of observation, annotation, and damage that transform a blank page into a record of discovery and loss.

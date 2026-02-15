@@ -1,0 +1,77 @@
+THE TEETH IN THE WALLS — A HAUNTED HOUSE NOVEL
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Gothic Horror / Haunted House
+ART STYLE: Decayed Victorian wallpaper pattern that conceals horror — the cover appears to be a sheet of old, peeling, water-stained Victorian floral wallpaper, but the pattern subtly incorporates teeth, eyes, and grasping fingers within its floral motifs. The horror is hidden in plain sight within the decorative pattern. Faded, yellowed, stained, with peeling edges revealing darkness beneath.
+
+---
+
+A deeply unsettling book cover that appears, at first glance, to be a simple sheet of old Victorian floral wallpaper — the kind of ornate, repeating botanical pattern found in 19th-century homes. But on closer inspection, the wallpaper pattern contains HORROR: human teeth embedded in the flower centers, eyes peering from between leaves, and grasping fingers woven into the vine tendrils. The effect is subliminal at thumbnail size and deeply disturbing at full resolution. The wallpaper is aged, water-stained, and peeling — revealing absolute darkness beneath the paper surface.
+
+THE WALLPAPER PATTERN:
+
+The entire cover surface is filled with a repeating Victorian wallpaper pattern — the classic William Morris-style botanical design with interlocking vines, large stylized flowers, and curving leaves arranged in a symmetrical, repeating grid. The pattern is rendered with period-authentic precision: the characteristic flat, decorative rendering of Victorian wallpaper design, where botanical forms are stylized into repeating ornamental motifs.
+
+THE BASE COLORS: The wallpaper has AGED — its original colors faded and shifted:
+- Original cream background now yellowed to a sickly warm tone (#E8D8B0)
+- Original green vines now faded to a dull olive (#6A7A50)
+- Original red/pink flowers now faded to a dusty mauve (#9A7A7A)
+- Original gold accents now darkened to a dirty amber (#A08850)
+
+THE HIDDEN HORROR ELEMENTS (embedded within the pattern):
+
+TEETH: In the center of each large flower motif — where the pistil or stamen cluster should be — a tight cluster of human teeth is rendered in the same flat, decorative style as the rest of the pattern. The teeth are stylized enough to blend with the wallpaper aesthetic but realistic enough to be immediately recognizable once seen: molars, incisors, and canines arranged in rosette patterns, their enamel rendered in the same faded cream as the wallpaper background, their roots in the same olive as the vines. At thumbnail, these read as flower centers. At full resolution, they are unmistakably teeth.
+
+EYES: Among the leaf clusters, pairs of eyes appear — not photorealistic eyes but eyes rendered in the flat, decorative wallpaper style: almond-shaped outlines in the vine-olive color, with iris circles in the flower-mauve and pupils in dark brown-black. The eyes are positioned where leaves naturally overlap, their shapes following the organic flow of the pattern. They look outward — at the viewer. Some are partially obscured by overlapping leaves, as though peering from behind the foliage. Approximately eight pairs of eyes are scattered through the visible pattern, enough to create the feeling of being watched from every direction.
+
+FINGERS: The vine tendrils that connect the flower motifs are not simply plant forms — they are long, thin fingers. The joints of knuckles are visible as subtle bumps in the vine lines. The fingertips curl around leaf edges with a grasping quality. Where vines branch, the branching point resembles the fork between fingers. Like the teeth and eyes, the fingers are stylized to match the wallpaper aesthetic — they are hidden in the pattern's visual language, visible only to those who look closely.
+
+AGING AND DECAY:
+
+The wallpaper shows extensive aging:
+- WATER STAINS: Large, irregular areas of darker discoloration (#A09070) where water has seeped through the wall behind — the stains follow gravity, flowing downward in organic drip patterns. The worst stain is in the upper-right, a dark bloom suggesting ongoing moisture intrusion.
+- FOXING: Small brown spots of mold or foxing (#8B7050) scattered across the surface — the characteristic aging marks of old paper in damp conditions.
+- FADING: The pattern is unevenly faded — areas near the (implied) window are lighter and more washed-out; areas in corners are darker and more saturated.
+- YELLOWING: The overall cream background has yellowed to varying degrees, with the most yellowed areas nearest the water stains.
+
+THE PEELING — REVEALING DARKNESS:
+
+In the lower-right corner and along the right edge (approximately 70-100% from top, 60-100% from left), the wallpaper is PEELING away from the wall. The paper curls outward, showing its back surface (plain, slightly grey paper stock). Behind the peeling wallpaper, the wall surface is visible — but it is NOT plaster or drywall. It is ABSOLUTE BLACKNESS (#050505) — a darkness so deep it suggests not a wall but a VOID behind the wallpaper. The darkness seems to have depth, to recede infinitely behind the thin paper barrier. The suggestion is clear: the wallpaper is not covering a wall; it is covering something else entirely. Something that lives in the darkness. Something with teeth.
+
+At the edge of the peeling section, where the wallpaper lifts away from the dark surface, a single detail: a tiny glint of light reflecting off something wet in the darkness — a tooth? A nail? An eye? The glint is small (#E0D0B0) and ambiguous, but it implies that the darkness behind the wallpaper is not empty.
+
+TEXTURE AND MATERIAL:
+
+The wallpaper surface shows the material qualities of old paper:
+- Slight relief where the pattern was printed — a barely perceptible raised quality to the printed areas
+- Fine surface cracks in the most aged areas — the paper itself beginning to disintegrate
+- A slight matte sheen overall — the dulled surface of paper that was once glossy
+- Where the paper peels, the torn edge shows the layered construction: printed surface, paper body, paste residue
+
+COLOR PALETTE — FADED VICTORIAN:
+
+- Yellowed cream: #E8D8B0 — background
+- Faded olive: #6A7A50 — vines, leaves, fingers
+- Dusty mauve: #9A7A7A — flowers, eye irises
+- Dirty amber: #A08850 — accents, gold elements
+- Water stain dark: #A09070 — damage areas
+- Foxing brown: #8B7050 — age spots
+- Tooth enamel: #E0D8C0 — teeth within flowers
+- Void black: #050505 — behind the peeling wallpaper
+- Paper back grey: #C0B8A8 — reverse of peeling paper
+
+TEXT — VICTORIAN SERIF, AGED:
+
+Title (positioned at 8-22% from top, centered within the wallpaper pattern):
+"THE TEETH" — in a Victorian display serif font (think Bodoni or a period-appropriate decorative serif) in dark olive (#3A4A28) — the same color as the darkest vine elements, so the text appears to be PART of the wallpaper pattern. The letters are large but integrated into the design — they could almost be a decorative text panel within the wallpaper's repeating pattern.
+"IN THE WALLS" — on the next line, same font, same integration, in dusty mauve (#7A5A5A). The mauve text blends with the flower colors, further embedding the title in the pattern.
+
+Subtitle (positioned at 24% from top): "A Haunted House Novel" — in small serif in dirty amber (#A08850), blending with the wallpaper's accent color. Letter-spacing 0.15em.
+
+Author name (positioned at 88-92% from top, near the peeling area): "EDITH BLACKMOOR-OSEI" — in small serif in dark olive (#3A4A28), letter-spacing 0.2em. The name appears on the intact portion of the wallpaper, just above where the peeling begins.
+
+OVERALL MOOD:
+
+Creeping, subliminal, domestic horror — the feeling of being in a room you've lived in for years and suddenly noticing that the wallpaper pattern contains faces. The horror is in the discovery — the slow realization that what you thought was merely decorative is watching you, that the walls of your house are not solid but thin paper over a void, and that something in the void has teeth.
+
+THIS IS HORROR HIDDEN IN PATTERN. Victorian wallpaper that conceals organic horror elements within its decorative motifs. The beauty — and the terror — is in the recognition: the moment when flowers become teeth, when vines become fingers, and when you realize the pattern has been watching you all along.

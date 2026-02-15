@@ -1,0 +1,71 @@
+THE DOLL WARD — A NOVEL OF ASYLUM HORROR
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Gothic Horror / Asylum Horror
+ART STYLE: Tinted daguerreotype photograph — the earliest form of photography, with the characteristic silver-on-copper plate surface, mirror-like reflectivity at certain angles, and the haunting, slightly blurred quality of very long exposure times. A single Victorian-era photograph of a porcelain doll on an asylum bed, rendered with the spectral, ghostly quality of 1850s photography where living subjects blur but objects remain sharp.
+
+---
+
+A haunting book cover rendered as an antique daguerreotype photograph — the earliest photographic process, produced by exposing a silver-coated copper plate to light. Daguerreotypes have a unique visual quality unlike any later photograph: the image exists ON the mirror-like silver surface, visible only at certain angles, giving the photograph an eerie, spectral quality where the image seems to float on metal rather than paper. The subject is a single porcelain doll propped upright on a narrow iron bed in what appears to be a Victorian asylum ward — an image that should be merely sad but becomes deeply disturbing through the daguerreotype's ghostly rendering.
+
+THE DAGUERREOTYPE SURFACE:
+
+The image has the characteristic properties of a real daguerreotype:
+- SILVER SURFACE: The entire image has the slightly metallic, mirror-like sheen of a polished silver plate — the lightest areas appear as bright, reflective silver (#C0C0B8), while the darkest areas appear as deep, dark silver-brown (#2A2010). The image exists IN the metal surface, not on top of it.
+- TINTING: The image has been hand-tinted (a common practice for daguerreotypes) — very subtle, delicate touches of color applied over the silver image: a faint pink (#D0A0A0) on the doll's cheeks, a pale blue (#A0B0C0) on the doll's dress, a slight warmth (#E0D0B0) in the highlights. The tinting is EXTREMELY subtle — more suggestion than color, like a memory of color rather than color itself.
+- CASE FRAME: The daguerreotype is presented in its traditional housing — a brass mat (a decorative metal frame, #B8A040) with an ornate stamped pattern surrounding the image in an oval opening. Outside the brass mat, a narrow strip of dark velvet (#1A0A14) is visible — the interior lining of the daguerreotype case. This framing-within-the-cover treatment makes the image feel like an artifact — a found object, a piece of evidence.
+
+THE SUBJECT — A DOLL ON AN ASYLUM BED:
+
+The daguerreotype depicts a narrow iron-frame bed — the institutional kind found in Victorian asylums and hospitals: thin mattress, white sheet (rendered in bright silver tones), iron headboard and footboard with simple vertical bars. The bed is positioned in a sparse room — bare walls of what appears to be whitewashed plaster (bright silver), a high window (a bright rectangle of overexposed light), and a bare floor (dark silver-brown).
+
+On the bed, propped against the thin pillow in a seated position, a PORCELAIN DOLL — approximately the size of a child, dressed in Victorian children's clothing:
+
+THE DOLL: Because the daguerreotype required very long exposure times (30-60 seconds), OBJECTS remain sharp while PEOPLE would blur. The doll is rendered with extraordinary, unsettling sharpness — every detail crisp and precise:
+- FACE: A classic porcelain doll face — smooth, white, slightly shiny porcelain with painted features: rosebud lips in faded red, arched eyebrows in dark brown, and GLASS EYES — open, staring, with the slightly too-large, slightly too-round quality of doll eyes. The glass eyes catch a highlight from the window, creating a bright point in each eye that reads as "life" but is merely reflection. The porcelain surface has a fine network of crazing — hairline cracks in the glaze that suggest age.
+- HAIR: Dark human hair (real hair was used in high-quality Victorian dolls) arranged in ringlet curls framing the porcelain face.
+- DRESS: A child's dress in pale blue (the subtle tinted area) with a white pinafore. The fabric is rendered with daguerreotype sharpness — every pleat, every lace edge, every button is visible and crisp.
+- HANDS: Porcelain hands resting on the sheet, fingers slightly curved, impossibly delicate and slightly too perfect.
+
+THE DISTURBING ELEMENTS:
+
+What transforms this from a quaint antique photograph into horror:
+
+- THE BED IS A PATIENT'S BED: This is clearly an institutional bed, not a child's bed or a nursery. The doll is in a place where PEOPLE are kept.
+- RESTRAINT MARKS: On the iron bed frame, leather restraint straps are visible — buckled to the bedframe's side rails, their loose ends hanging. The restraints are not fastened to the doll, but they are there, suggesting that the bed's previous (human) occupant required restraining.
+- THE WALL: Behind the bed, faint marks on the whitewashed wall — scratch marks? Writing? At daguerreotype resolution, the marks are ambiguous but suggestive. Five parallel lines (like fingernail scratches) are just barely visible.
+- THE SECOND SHAPE: In the far background, nearly lost in the daguerreotype's limited depth of field and the overexposed window light, a very faint, blurred shape is visible in the doorway — the ghostly smear of a person who moved during the long exposure. This shape is classic daguerreotype artifact: real people who couldn't hold still during the long exposure became ghosts in the image. The shape is too blurred to identify but is vaguely human — standing, watching the doll on the bed.
+
+DAGUERREOTYPE TECHNICAL QUALITIES:
+
+- LONG EXPOSURE EFFECTS: The stationary objects (doll, bed, walls) are razor-sharp. Anything that moved (the ghost in the doorway, a curtain that stirred) is a soft blur.
+- TONAL RANGE: Daguerreotypes have a unique tonal distribution — deep, rich mid-tones with bright, mirror-like highlights and dense, warm shadows. The tonal range is narrower than modern photography.
+- PLATE ARTIFACTS: At the edges of the image, the daguerreotype plate shows its physical nature: slight darkening, areas where the silver coating is thin or damaged, and the sharp edge where the image area meets the unexposed plate border.
+- OXIDATION: Small spots of tarnish or oxidation on the plate surface — dark spots where the silver has chemically degraded over 170+ years. These spots partially obscure portions of the image, adding to the sense of age and decay.
+
+COLOR PALETTE — DAGUERREOTYPE:
+
+- Bright silver: #C0C0B8 — highlights, reflective areas
+- Mid silver: #808078 — mid-tones, most of the image
+- Dark silver-brown: #2A2010 — shadows, deepest tones
+- Tint pink: #D0A0A0 at 20% opacity — doll's cheeks
+- Tint blue: #A0B0C0 at 15% opacity — doll's dress
+- Brass mat: #B8A040 — frame
+- Velvet dark: #1A0A14 — case lining
+- Tarnish: #4A3A20 — oxidation spots
+
+TEXT — PERIOD TYPOGRAPHY:
+
+Title (positioned outside the daguerreotype frame, at 5-15% from top, centered on the dark velvet area):
+"THE DOLL" — in a Victorian display serif (think Playfair Display or a period-appropriate Didone style) in brass gold (#B8A040) — matching the daguerreotype's brass mat frame. The letters have the quality of gold-stamped text on a leather case. Medium-large, letter-spacing 0.1em.
+"WARD" — on the next line, same font, LARGER, same brass gold. The word "WARD" carries institutional weight — hospital wards, asylum wards, wards of the court.
+
+Subtitle (positioned at 17% from top): "A Novel of Asylum Horror" — in small italic serif in silver (#808078), letter-spacing 0.15em.
+
+Author name (positioned at 88-92% from top, below the daguerreotype frame on the velvet): "VICTORIA ASHWORTH-OSEI" — in small serif capitals in brass gold (#B8A040), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Spectral, institutional, deeply wrong — the feeling of finding an antique photograph in a junk shop and realizing, as you tilt it in the light, that the subject is not what you first thought, and the blurred shape in the background is not what you want it to be. The daguerreotype medium transforms a simple image into an artifact with physical presence — a silver plate that has been holding this image for 170 years, and perhaps holding something else as well.
+
+THIS IS DAGUERREOTYPE PHOTOGRAPHY. Silver-on-copper, hand-tinted, long-exposure ghosting. The beauty is in the spectral, metallic quality — an image that exists on a mirror, seen differently at every angle, hiding as much as it shows.

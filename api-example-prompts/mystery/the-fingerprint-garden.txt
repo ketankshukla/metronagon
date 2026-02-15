@@ -1,0 +1,75 @@
+THE FINGERPRINT GARDEN — A FORENSIC MYSTERY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Forensic Mystery / Police Procedural
+ART STYLE: Giant fingerprint as landscape — a single, enormous fingerprint filling the entire cover, rendered in forensic detail, but within the whorls and ridges of the print, a miniature crime scene is hidden. The ridges of the fingerprint become garden paths, hedgerows, and walls when viewed closely. Dusting powder blue on dark background.
+
+---
+
+A visually inventive book cover built from a single, massive FINGERPRINT that fills the entire image — but the fingerprint is not merely a forensic pattern. When examined closely, the ridges and valleys of the fingerprint transform into a bird's-eye view of a formal garden with paths, hedgerows, and a central fountain — a garden that is also a crime scene. The dual-reading image (fingerprint at a distance, garden up close) is the cover's conceptual hook.
+
+THE FINGERPRINT (filling the entire image):
+
+A single, complete fingerprint — a right index finger, loop pattern — fills approximately 80% of the cover surface. The print is rendered with forensic accuracy: the characteristic ridge patterns (loops, whorls, and arches), the pore dots along each ridge, the bifurcations where ridges split, and the ridge endings that forensic examiners use for identification. The scale is enormous — each ridge is approximately 3-4% of the image width.
+
+THE PRINT IS RENDERED AS A FORENSIC LIFT — the characteristic appearance of a fingerprint dusted with forensic powder and lifted with tape:
+- The ridges are rendered in FORENSIC DUSTING POWDER BLUE (#4060A0) — the distinctive color of the magnetic powder used by crime scene technicians
+- The background (the valleys between ridges) is deep black (#050508) — the dark surface from which the print was lifted
+- The powder has the slightly granular, slightly uneven quality of real dusting powder — not perfectly smooth but with microscopic variations in density
+
+THE HIDDEN GARDEN (visible within the fingerprint ridges):
+
+The genius of the design: the fingerprint ridges, when examined closely, ARE a formal garden viewed from directly above:
+
+- THE RIDGES ARE HEDGEROWS: The blue fingerprint ridges, on close inspection, are composed of tiny, detailed hedge-top textures — the characteristic appearance of clipped boxwood or yew hedging seen from above. The blue color reads as both powder and moonlit foliage.
+- THE VALLEYS ARE PATHS: The dark spaces between ridges are gravel or stone paths winding through the hedge garden — the formal geometric paths of an English or French formal garden.
+- THE CORE (the center of the fingerprint whorl): At the center of the fingerprint pattern, where the ridges form their tightest spiral, a circular FOUNTAIN is visible — a round garden feature with a central jet, rendered in the same blue-on-black palette. Around the fountain, the path widens into a small courtyard.
+- THE DELTA (where ridge patterns diverge): At the fingerprint's delta point, where ridges split into different flow directions, a GARDEN GATE is visible — an arched opening in the hedgerow where paths diverge.
+
+CRIME SCENE ELEMENTS (hidden within the garden-print):
+
+Scattered through the garden/fingerprint, tiny crime scene details are visible at full resolution:
+- A tiny figure lying on one of the paths (between two hedge-ridges) — a body, face-down, rendered as a small dark shape with arms extended
+- Small numbered EVIDENCE MARKERS (the yellow tent-shaped markers used at crime scenes) placed at several locations — tiny yellow (#FFD040) triangles with numbers, the ONLY warm color elements in the image
+- A thin line of CRIME SCENE TAPE stretched across one path — tiny text reading "POLICE LINE DO NOT CROSS" visible at maximum zoom
+- A magnifying glass lying on a path — a tiny circular shape with a handle
+
+FORENSIC OVERLAY ELEMENTS:
+
+Overlaid on the fingerprint/garden image, forensic analysis markings:
+- RED CIRCLES (#CC2020) drawn around specific ridge details (minutiae) — the characteristic markup that a forensic examiner would make when analyzing a print. Each circle has a tiny number and an arrow pointing to the specific ridge feature (bifurcation, ending, dot).
+- These red circles also happen to circle the crime scene elements hidden in the garden — the forensic markup serves double duty as both fingerprint analysis and crime scene annotation.
+- A small comparison chart in the lower corner showing a "MATCH" between this print and a reference print, with corresponding minutiae points connected by thin lines.
+
+THE BACKGROUND:
+
+Outside the fingerprint, the background is deep, dark evidence-black (#050508) — the surface from which the print was lifted. In the margins around the print, forensic case information is printed in small, light blue (#6080A0) monospaced type:
+- "CASE #2024-FG-0091"
+- "EVIDENCE: Latent print, right index"
+- "LOCATION: Thornbury Manor — garden gate, interior surface"
+- "TECHNICIAN: Det. Linnaeus, CSI Unit 7"
+
+COLOR PALETTE — FORENSIC BLUE:
+
+- Dusting powder blue: #4060A0 — fingerprint ridges/hedgerows
+- Evidence black: #050508 — background, paths
+- Evidence marker yellow: #FFD040 — tiny markers (the only warm color)
+- Forensic markup red: #CC2020 — analysis circles
+- Case text blue: #6080A0 — marginal annotations
+- White highlights: #C0C8D0 — pore dots, powder highlights
+
+TEXT — FORENSIC REPORT:
+
+Title (positioned at 5-18% from top, centered above the fingerprint):
+"THE FINGERPRINT" — in a clean, precise sans-serif (think DIN or Roboto) in forensic blue (#4060A0). Medium-large, letter-spacing 0.15em. Clinical and precise.
+"GARDEN" — on the next line, same font, LARGER, in evidence marker yellow (#FFD040). The blue-to-yellow shift connects forensic analysis to the hidden garden within.
+
+Subtitle (positioned at 20% from top): "A Forensic Mystery" — in small monospaced font in light blue (#6080A0), letter-spacing 0.3em.
+
+Author name (positioned at 90-93% from top): "DETECTIVE IRIS VALE-OKAFOR" — in sans-serif in forensic blue (#4060A0), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Cerebral, meticulous, layered — the feeling of examining evidence under magnification and finding that the closer you look, the more you see, and what you see changes the meaning of everything else. The dual-image design (fingerprint/garden) mirrors the mystery genre itself: surface appearances that, when examined closely, reveal hidden truths.
+
+THIS IS FORENSIC ART AS OPTICAL ILLUSION. A fingerprint that is also a garden that is also a crime scene. The beauty is in the layering — three realities occupying the same image space, each revealed at a different viewing distance.

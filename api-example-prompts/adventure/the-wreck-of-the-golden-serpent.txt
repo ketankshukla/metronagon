@@ -1,0 +1,87 @@
+THE WRECK OF THE GOLDEN SERPENT — A DIVING ADVENTURE
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Treasure Hunting Adventure / Maritime
+ART STYLE: Split-level ocean photography — the cover split horizontally at the waterline, showing both above and below the surface simultaneously. Above: a dramatic tropical sky and distant island. Below: a sunken shipwreck on the ocean floor with a diver approaching. The characteristic visual of underwater split-shots where the camera is half-submerged, creating two worlds in one frame.
+
+---
+
+A stunning book cover using the split-level underwater photography technique — the camera positioned exactly at the ocean's surface line, capturing BOTH the world above the water and the world below in a single frame. The upper half shows a tropical sky with a distant volcanic island; the lower half reveals a coral-encrusted shipwreck on the sandy ocean floor with a scuba diver descending toward it. The waterline itself — visible as a distorted, refracted boundary across the center — is the image's most visually striking element.
+
+THE WATERLINE (center, approximately 45-50% from top):
+
+The horizontal line where air meets water crosses the image at approximately 45% from the top. This waterline is NOT a clean, straight line — it is rendered with the characteristic visual properties of a real split-level photograph:
+- MENISCUS: The water surface curves slightly upward where it meets the camera housing (implied), creating a slight bowl shape
+- WAVE RIPPLES: Small surface waves create an irregular, gently undulating boundary — not dramatic waves but the light chop of a calm tropical sea
+- REFRACTION: Objects below the waterline appear slightly magnified and shifted due to water's refractive index — the wreck below appears slightly larger and closer than it would if viewed from the same distance in air
+- SURFACE TEXTURE: The water surface catches the sunlight in bright, specular highlights — each small wave crest a flash of white against the blue
+
+THE WORLD ABOVE (0-45% from top):
+
+A tropical sky and seascape:
+- SKY: A warm, dramatic sky transitioning from deep cerulean blue (#1A5A8B) at the top to warm golden (#FFD080) near the horizon — late afternoon tropical light. Cumulus clouds in brilliant white with warm grey undersides.
+- ISLAND: In the distance (centered, approximately 30-40% from top), a small volcanic island — a dark, jungle-covered cone rising from the sea, with a thin wisp of cloud caught on its peak. The island is rendered with atmospheric perspective — slightly hazy, blue-shifted, establishing the tropical setting.
+- SEA SURFACE: The water surface visible above the waterline is deep tropical blue (#0A3A6A) with sunlight sparkles — a beautiful, inviting ocean surface that gives no hint of the treasure below.
+- A small BOAT is moored in the middle distance — a dive boat with a flag flying, establishing that an expedition is underway.
+
+THE WORLD BELOW (50-100% from top):
+
+The underwater world — a completely different visual environment from the world above:
+
+WATER COLOR: The underwater space is filled with clear tropical water in various shades of blue-green — bright turquoise (#20A0A0) near the surface where sunlight penetrates, deepening to darker blue (#0A4060) at the bottom. Visible sunbeams penetrate from above — diagonal shafts of bright, warm light that cut through the blue water, creating volumetric light rays.
+
+THE SHIPWRECK (center-bottom, 65-90% from top):
+
+A wooden sailing ship — a 17th or 18th-century galleon — lies on the sandy ocean floor, partially broken and heavily encrusted with marine growth:
+- The HULL is broken amidships, the bow section listing to port, the stern section relatively upright. The original wood is dark, waterlogged, and barely visible beneath decades of marine colonization.
+- CORAL GROWTH: The entire wreck is covered in coral — massive brain corals in warm brown and cream, branching staghorn corals in pale purple, and colorful sponges in bright orange (#E08030) and deep red (#A02020). The coral has transformed the wreck from a ruin into a living reef.
+- STRUCTURAL DETAILS: The ship's ribs are visible where the hull planking has rotted away — dark curved timbers like the skeleton of a whale. The stern section retains carved decorative elements — now coral-covered but still recognizable as ornamental scrollwork. A cannon protrudes from a gun port, green with verdigris.
+- The ship's NAME is faintly visible on the stern — "GOLDEN SERPENT" in carved letters, partially obscured by coral growth but legible.
+
+GOLD SCATTER: On the sandy bottom around the wreck, GLINTING OBJECTS — gold coins, a gold chain, the corner of a treasure chest protruding from the sand — catch the sunlight shafts and gleam with the warm yellow (#FFD040) of gold. These small points of warm gold against the cool blue water are the treasure the diver seeks.
+
+THE DIVER (center, approximately 60-70% from top):
+
+A scuba diver descending toward the wreck — rendered in mid-descent, body angled head-down, fins above. The diver wears a black wetsuit with a bright yellow (#FFD040) tank — matching the gold of the treasure, visually connecting the seeker to what they seek. Bubbles rise from the regulator in a stream of silver spheres that trail upward toward the surface. The diver carries an underwater light (off, in the bright ambient light) and a mesh collection bag. They are the link between the two worlds — descending from the upper world of sky and air into the lower world of wreck and treasure.
+
+MARINE LIFE:
+
+The water around the wreck teems with life:
+- A school of silver fish (#C0C8D0) swirls around the bow section
+- A sea turtle glides through the background
+- A barracuda hovers motionless near the stern
+- Small, colorful reef fish dart among the coral growth
+
+COLOR PALETTE — SPLIT WORLDS:
+
+ABOVE:
+- Sky cerulean: #1A5A8B
+- Sunset gold: #FFD080
+- Cloud white: #FFFFFF
+- Sea surface dark: #0A3A6A
+
+BELOW:
+- Shallow turquoise: #20A0A0
+- Deep blue: #0A4060
+- Sunbeam gold: #FFE080
+- Coral orange: #E08030
+- Coral red: #A02020
+- Sand beige: #D0B878
+- Gold treasure: #FFD040
+- Wreck dark wood: #2A1A10
+
+TEXT — ADVENTURE BOLD:
+
+Title (positioned at 3-16% from top, centered in the sky):
+"THE WRECK of the" — in a bold, slightly weathered serif (think Playfair Display Bold with subtle distressing) in warm gold (#FFD040). Medium size.
+"GOLDEN SERPENT" — on the next line, LARGER, same font, in deep sea blue (#0A3A6A). The gold-to-blue title mirrors the above/below split of the image.
+
+Subtitle (positioned at 18% from top): "A Diving Adventure" — in small sans-serif in warm gold (#FFD040), letter-spacing 0.2em.
+
+Author name (positioned at 92-95% from top, against the dark underwater bottom): "CAPTAIN ARIA BLACKWELL-OKAFOR" — in sans-serif in warm gold (#FFD040), letter-spacing 0.15em.
+
+OVERALL MOOD:
+
+Exciting, treasure-hungry, split between worlds — the feeling of floating at the surface of a tropical ocean, looking down through crystal-clear water at a shipwreck that has kept its golden secrets for centuries, and knowing that in thirty seconds you will be down there, hands in the sand, pulling coins from the dark.
+
+THIS IS SPLIT-LEVEL OCEAN PHOTOGRAPHY. Above and below the surface in a single frame. The beauty is in the duality — two complete worlds sharing one image, separated by a wavering line of light, connected by a diver and a dream of gold.

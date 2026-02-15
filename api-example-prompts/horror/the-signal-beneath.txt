@@ -1,0 +1,72 @@
+THE SIGNAL BENEATH — A DEEP SEA HORROR
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Deep Sea Horror / Lovecraftian
+ART STYLE: Abyssal bioluminescent darkness — a deep ocean scene rendered from the perspective of looking DOWN into an oceanic trench, where the only light comes from bioluminescent organisms and something enormous and geometric that glows from the deepest point. 90% crushing blackness with scattered points of alien biological light and one massive, wrong geometric shape far below.
+
+---
+
+A terrifying deep-sea book cover depicting the view DOWNWARD into an oceanic trench — the viewer is suspended above the abyss, looking into a depth that should be empty but is not. The image is dominated by the crushing blackness of the deep ocean — not the clean void of space but the thick, pressurized, living darkness of water so deep that sunlight has never reached it. Scattered through this darkness, bioluminescent organisms provide small, cold points of light — and far, far below, something GEOMETRIC glows with a light that has no biological explanation.
+
+THE ABYSS (the entire image):
+
+The composition is a downward-looking view — a vertical shaft of ocean depth. The upper portion of the image (0-15%) shows the faintest suggestion of lighter water above — a deep, dark blue (#0A1028) fading rapidly to absolute black, suggesting the viewer is already deep and looking deeper still. By 20% from the top, the blue is gone entirely, replaced by the pure black (#000000) of the hadal zone — the deepest, darkest layer of ocean.
+
+The trench walls are barely visible at the far left and right edges of the image — vertical surfaces of dark rock rendered in near-black (#0A0A10) with the faintest geological texture: ridges, ledges, and the suggestion of ancient sedimentary layers. The walls converge slightly toward the bottom of the image, creating a sense of narrowing depth — the trench gets tighter as it gets deeper.
+
+BIOLUMINESCENT ORGANISMS (scattered through the darkness):
+
+Small, cold points of biological light punctuate the blackness — the only natural light sources in the image:
+
+- JELLYFISH: Two or three deep-sea jellyfish at various depths, their bells faintly visible as translucent shapes in pale blue-white (#8090C0) bioluminescence. Their trailing tentacles extend downward as fine, glowing filaments. Each jellyfish is small — 2-3% of the image — and rendered with just enough detail to be recognizable as living things.
+
+- ANGLERFISH LURES: One or two tiny, bright points of warm yellow-green (#80C040) light — the bioluminescent lures of anglerfish, visible as isolated points with no visible body around them. The fish themselves are invisible in the dark — only their lures glow.
+
+- BACTERIAL MATS: On the trench walls, very faint patches of blue-green (#2060A0) bioluminescence where bacterial colonies grow — flat, irregular patches of dim light on the rock surface.
+
+- UNIDENTIFIABLE FLASHES: Deeper in the trench (60-80% from top), occasional brief flashes of light in various cold colors — the communication signals of unknown organisms, too deep and too distant to identify. These are rendered as small, bright, point-source lights with no visible source.
+
+THE SIGNAL — THE THING AT THE BOTTOM (centered, 75-90% from top):
+
+At the deepest visible point of the trench — far below the viewer, far below the bioluminescent organisms, in a depth that should be lifeless rock and sediment — SOMETHING glows.
+
+The shape is GEOMETRIC — not organic, not natural, not biological. It is a regular form: a complex polyhedron (a shape with multiple flat faces, like an icosahedron or a more complex geometric solid) approximately the size of a building, resting on or embedded in the trench floor far below. The shape emits light — a deep, pulsing amber-orange (#FF6020) that is completely unlike any bioluminescent organism. The light pulses slowly (the image captures it mid-pulse, at perhaps 70% brightness), and each pulse sends ripples of faint amber light outward through the water, illuminating the trench walls for a brief moment before the darkness swallows the light again.
+
+The geometric shape is rendered at a distance — it is far below the viewer, small in the image (perhaps 8% of the width), but its regularity and its WRONG color make it the most arresting element. Every other light in the image is cold (blue, green, white). This light is WARM (amber-orange), and warmth in the deep ocean is wrong. The shape's faces are visible as flat, angular surfaces catching its own light — each face a slightly different shade of amber as the light hits at different angles. The edges between faces are crisp and geometric — this is not a rock formation or a biological structure. This is manufactured. By something.
+
+Around the base of the geometric shape, the trench floor is faintly illuminated — and in that brief, amber-lit glimpse of the bottom, the sediment is disturbed. Trails and marks in the silt suggest that something has moved around the object. Something large.
+
+WATER EFFECTS:
+
+The image is not through clear air but through WATER — and the water has visual effects:
+- PARTICLES: Fine suspended particles (marine snow — the constant rain of organic debris in the deep ocean) are faintly visible as tiny specks catching the bioluminescent light sources. These particles confirm the medium is water, not air or space.
+- LIGHT SCATTER: Each light source has a soft halo caused by light scattering in the water — the bioluminescent organisms glow with soft, diffused edges rather than sharp points.
+- DEPTH HAZE: The deeper elements are slightly hazier and more blue-shifted than the nearer elements — the natural light absorption of deep water.
+
+COLOR PALETTE — ABYSSAL:
+
+- Absolute deep black: #000000 — the dominant tone, the abyss
+- Faintest water blue: #0A1028 — upper water, barely visible
+- Rock near-black: #0A0A10 — trench walls
+- Jellyfish pale blue: #8090C0 — bioluminescent bells
+- Anglerfish yellow-green: #80C040 — lure lights
+- Bacterial blue-green: #2060A0 — wall colonies
+- THE SIGNAL amber-orange: #FF6020 — the geometric shape, WRONG
+- Pulse light: #FF6020 at low opacity — rippling outward from the shape
+- Marine snow: #303040 — suspended particles
+
+TEXT — THIN AND LOST IN THE DARK:
+
+Title (positioned at 8-22% from top, centered in the dark upper water):
+"THE SIGNAL" — in a thin, precise sans-serif (think Futura Light or Avenir Light) in the cold jellyfish blue (#8090C0) — matching the natural bioluminescence. Medium-large, letter-spacing 0.25em. The cold blue text belongs in this environment.
+"BENEATH" — on the next line, same font, same size, in the WRONG amber-orange (#FF6020) — matching the geometric shape far below. The color shift from cold biological blue to warm alien amber mirrors the image's transition from known to unknown.
+
+Subtitle (positioned at 24% from top): "A Deep Sea Horror" — in very small, thin sans-serif in dark blue-grey (#304060), letter-spacing 0.3em. Barely visible against the darkness.
+
+Author name (positioned at 92-95% from top, just above the geometric shape): "CAPTAIN NEMO ABADI-OKAFOR" — in thin sans-serif in amber (#FF6020), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Crushing, awe-struck, primordially terrified — the feeling of looking down into a depth that should be empty and seeing GEOMETRY where only chaos and biology should exist. The deep ocean is already the most terrifying environment on Earth; adding a manufactured, glowing, wrong-colored object at its deepest point transforms natural awe into supernatural dread. The geometric shape asks the most terrifying question in horror: who made this, and where are they now?
+
+THIS IS ABYSSAL HORROR. Crushing darkness, cold bioluminescence, and one warm geometric impossibility at the bottom of the world. The beauty is in the contrast — tiny points of natural light that belong, and one massive point of unnatural light that absolutely does not.

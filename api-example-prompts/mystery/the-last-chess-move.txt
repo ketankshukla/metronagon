@@ -1,0 +1,80 @@
+THE LAST CHESS MOVE — A DETECTIVE ROMAN MYSTERY
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Classic Whodunit / Intellectual Mystery
+ART STYLE: Isometric 3D chess diagram — the entire cover is a top-down isometric view of a chessboard where the pieces are not chess pieces but miniature crime scene elements: tiny detective figures, a victim outlined in chalk, weapons, and suspects, all rendered in the clean, precise isometric projection style of architectural diagrams and strategy game art. Cool, precise, intellectual.
+
+---
+
+A brilliantly clever book cover that depicts an isometric top-down view of a chessboard — but instead of chess pieces, the board is populated with miniature crime scene elements rendered in the clean, precise style of isometric architectural illustration. The chessboard becomes a crime scene diagram: the squares become rooms, the pieces become people, and the positions tell a story of murder, investigation, and strategy. The rendering is crisp, geometric, and precisely projected — every element drawn in true isometric perspective where parallel lines remain parallel, creating the characteristic "3D diagram" look of strategy games and architectural plans.
+
+THE CHESSBOARD (filling 15-85% from top):
+
+An 8x8 chessboard viewed from a slightly elevated isometric angle — looking down at approximately 30 degrees from directly above. The board is rendered in isometric projection: the squares appear as parallelograms, creating a three-dimensional appearance while maintaining the geometric precision of a technical diagram.
+
+LIGHT SQUARES: Pale marble cream (#F0E8D0) with subtle stone veining
+DARK SQUARES: Deep charcoal grey (#2A2A2A) with a matte finish
+
+The board rests on a dark surface that extends to the edges of the image — deep navy (#0A0A1A), clean and flat.
+
+THE "PIECES" — MINIATURE CRIME SCENE ELEMENTS:
+
+Instead of traditional chess pieces, the board is populated with tiny, isometric-rendered elements that tell a murder mystery:
+
+THE KING (white, positioned on e1): A tiny miniature DETECTIVE figure — a man in a trench coat and fedora, rendered in clean isometric style at approximately 3% of image height. He stands on the square facing the center of the board, a magnifying glass in one hand. His colors are warm: tan trench coat (#C8A878), dark hat.
+
+THE QUEEN (black, positioned on d8): A tiny miniature SUSPECT figure — an elegant woman in a long dark dress, rendered in the same isometric style. She stands poised, one hand raised, her posture ambiguous between innocence and guilt. Deep crimson dress (#6A1A1A).
+
+THE VICTIM (positioned on d5, the center of the board): Not a standing figure but a CHALK OUTLINE — a small white outline of a human body drawn on the dark square, exactly as at a crime scene. This is the board's emotional center — the body around which all other pieces are positioned. Next to the chalk outline, a tiny numbered evidence marker (#FFD040 yellow triangle with the number "1").
+
+ROOKS (as buildings): Two miniature isometric BUILDINGS on the corner squares — tiny architectural models: one resembles a manor house (the crime scene location), the other resembles a police station. Clean geometric forms with tiny windows and doors.
+
+BISHOPS (as weapons): Tiny isometric objects on diagonal squares — a miniature revolver on one diagonal, a miniature candlestick on another. Classic whodunit murder weapons, rendered as precise little isometric objects casting tiny shadows.
+
+KNIGHTS (as vehicles): A miniature isometric police car (black and white with a tiny light bar) and a miniature dark sedan (the suspect's car) on their respective squares. Clean, geometric, toy-like.
+
+PAWNS (as evidence): Scattered across the front ranks, tiny isometric evidence items: a miniature envelope, a small key, a tiny photograph (just a white rectangle at this scale), a medicine bottle, a torn piece of paper, a pocket watch, a pair of glasses, and a small book. Eight items, one per pawn square, each one a clue in the mystery.
+
+ADDITIONAL CRIME SCENE DETAILS:
+
+- CRIME SCENE TAPE: Yellow (#FFD040) tape stretched between tiny stanchions on two adjacent squares, blocking off the victim's area
+- RED ARROW LINES: Thin red (#CC2020) directional arrows drawn on the board surface (like arrows on a crime scene diagram) showing the movements of suspects — dotted lines from the Queen's position toward the victim, solid lines from the Detective's position toward various evidence items
+- NUMBERED MARKERS: Small yellow evidence markers next to each pawn-evidence item, numbered 1-8
+- GRID REFERENCES: Along the board edges, chess notation labels (a-h horizontally, 1-8 vertically) rendered in small, clean sans-serif — serving as both chess coordinates and crime scene grid references
+
+ISOMETRIC RENDERING STYLE:
+
+- All elements are drawn in TRUE ISOMETRIC PROJECTION — no perspective convergence, all vertical lines remain vertical, all horizontal parallels remain parallel at 30-degree angles
+- Clean, crisp lines with consistent weight
+- Flat color fills with minimal shading — shadows rendered as a single flat darker tone beneath each object, projected to the lower-right
+- No texture — all surfaces are clean flat color, as in a technical diagram
+- Tiny but precise detail — each miniature element is small but clearly identifiable
+
+COLOR PALETTE — DIAGRAM CLEAN:
+
+- Board light: #F0E8D0 — light squares
+- Board dark: #2A2A2A — dark squares
+- Background navy: #0A0A1A — surrounding surface
+- Detective warm: #C8A878 — protagonist colors
+- Suspect crimson: #6A1A1A — antagonist colors
+- Evidence marker yellow: #FFD040 — markers, tape
+- Arrow red: #CC2020 — movement lines, accent
+- Chalk white: #FFFFFF — victim outline
+- Building grey: #808080 — architectural elements
+- Police black-white: #1A1A1A / #F0F0F0 — police car
+
+TEXT — PRECISE AND INTELLECTUAL:
+
+Title (positioned at 3-12% from top, centered above the board):
+"THE LAST" — in a clean, geometric sans-serif (think Futura or Avenir) in white (#FFFFFF). Medium-large, letter-spacing 0.2em. The clean, geometric font matches the isometric precision of the illustration.
+"CHESS MOVE" — on the next line, same font, LARGER, in evidence-marker yellow (#FFD040). The yellow connects to the crime scene elements on the board.
+
+Subtitle (positioned at 14% from top): "A Detective Roman Mystery" — in small sans-serif in cool grey (#808080), letter-spacing 0.2em.
+
+Author name (positioned at 90-93% from top): "KASPAROV VALE-OKAFOR" — in sans-serif in white (#FFFFFF), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Intellectual, strategic, precisely ordered — the feeling of examining a crime scene as a chess problem, where every piece's position has meaning and the solution requires seeing the pattern. The isometric chess-as-crime-scene metaphor is visually unique and intellectually satisfying — it appeals to readers who enjoy mysteries as puzzles, where logic and strategy are the detective's primary tools.
+
+THIS IS ISOMETRIC CRIME SCENE CHESS DIAGRAM. Clean geometric projection, miniature elements, strategic positioning. The beauty is in the precision — every tiny element placed with the deliberation of a chess move, every position meaningful, the entire board a puzzle waiting to be solved.
