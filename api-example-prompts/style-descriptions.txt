@@ -1,0 +1,517 @@
+BOOK COVER PROMPT STYLE DESCRIPTIONS
+=====================================
+A brief description of the art style and overall mood for each prompt.
+These descriptions give customers a general idea of each design without revealing full prompt details.
+
+Total Prompts: 110 across 12 genres
+
+
+═══════════════════════════════════════
+SCI-FI (11 prompts)
+═══════════════════════════════════════
+
+1. Neon Rain Protocol
+   Style: Hyper-glossy cyberpunk digital painting
+   Mood: Rain-soaked neon cityscape with a lone figure; dark, electric, and atmospheric
+
+2. Biomechanical Eden
+   Style: Biomechanical surrealism with organic-machine fusion
+   Mood: Alien botanical garden where flesh meets metal; beautiful and unsettling
+
+3. Cathedral of Stars
+   Style: Art Deco architectural illustration with cosmic scale
+   Mood: Monumental space station interior with geometric grandeur; awe-inspiring
+
+4. First Light
+   Style: Ethereal digital painting with soft luminous gradients
+   Mood: First sunrise on a new planet seen through a helmet visor; hopeful and vast
+
+5. Ghost in the Signal
+   Style: Abstract data visualization and particle effects
+   Mood: Digital consciousness dissolving into light streams; haunting and technological
+
+6. Green Machine
+   Style: Botanical watercolor meets technical illustration
+   Mood: Plants reclaiming abandoned technology; peaceful post-apocalyptic nature
+
+7. The Quantum Garden
+   Style: Fractal art with mathematical precision
+   Mood: Infinite recursive garden patterns; mesmerizing and mind-bending
+
+8. The Rust Prophet
+   Style: Matte painting with weathered, industrial textures
+   Mood: Lone prophet figure in a vast rusted wasteland; desolate and prophetic
+
+9. Orbital Dawn
+   Style: Retro-futurism poster art inspired by mid-century space illustration
+   Mood: Vintage optimism meets the grandeur of space; nostalgic and adventurous
+
+10. Tomorrow Belonged to Us
+    Style: Technical illustration with schematic precision
+    Mood: Detailed spacecraft cross-section as architectural blueprint; precise and cerebral
+
+11. Stardrift Seven
+    Style: Photorealistic space photography with cinematic lighting
+    Mood: Astronaut floating among asteroid debris; isolated and beautiful
+
+
+═══════════════════════════════════════
+FANTASY (12 prompts)
+═══════════════════════════════════════
+
+1. The Cartographer's Folly
+   Style: Illuminated manuscript with gold leaf and medieval detail
+   Mood: Ancient map that holds magical secrets; scholarly and mysterious
+
+2. The Garden of Forgotten Gods
+   Style: Pre-Raphaelite romantic realism with lush detail
+   Mood: Overgrown temple with crumbling statues; melancholic and sacred
+
+3. The Shrine Beneath the Tide
+   Style: Luminous underwater digital painting
+   Mood: Sunken temple glowing with bioluminescence; serene and otherworldly
+
+4. Dragonfire Summit
+   Style: Dynamic action concept art with cinematic lighting
+   Mood: Dragon and warrior clash on a mountain peak; explosive and epic
+
+5. The Bone Orchards
+   Style: Scratchboard illustration with fine white lines on black
+   Mood: Skeletal forest with ghostly atmosphere; dark and intricate
+
+6. The Desert of Burning Glass
+   Style: Photorealistic landscape with magical realism elements
+   Mood: Vast crystalline desert that warps reality; harsh and beautiful
+
+7. The Frost-Thorn Crown
+   Style: Paper-cut shadow box layered art
+   Mood: Ice palace with delicate paper-thin layers of depth; elegant and cold
+
+8. The Iron Covenant
+   Style: Dark, gritty concept art with forged metal textures
+   Mood: Battle-scarred warriors sealing a blood oath; intense and foreboding
+
+9. The Library of Unwritten Things
+   Style: Golden-age book illustration with warm, detailed ink work
+   Mood: Infinite library with floating books and light; wondrous and nostalgic
+
+10. The Paper Kingdoms
+    Style: Persian miniature painting with intricate patterning
+    Mood: Jewel-toned kingdoms with flat decorative perspective; ornate and magical
+
+11. The Stained Glass War
+    Style: Gothic stained glass window art with lead-line divisions
+    Mood: Battle scene in radiant colored glass; sacred and violent
+
+12. The Sunken Throne
+    Style: Underwater oil painting with dramatic depth
+    Mood: Drowned throne room with shafts of light from above; tragic and grand
+
+
+═══════════════════════════════════════
+ROMANCE (10 prompts)
+═══════════════════════════════════════
+
+1. The Paris Arrangement
+   Style: Soft-focus dreamy photography with warm bokeh
+   Mood: Parisian café at golden hour; intimate and longing
+
+2. The Duke's Wager
+   Style: Regency-era silhouette cameo on velvet
+   Mood: Two profiles facing each other with gold foil accents; elegant and classic
+
+3. Moonburn
+   Style: Moody double-exposure photography
+   Mood: Woman's portrait blended with moonlit forest; dreamlike and mysterious
+
+4. The Bookshop at the End of the Lane
+   Style: Charming flat-design digital illustration
+   Mood: Quaint English bookshop with warm pastel tones; cheerful and inviting
+
+5. His Dark Garden
+   Style: High-contrast black-and-white fine art photography with color accent
+   Mood: Single red rose against monochrome; dramatic and sensual
+
+6. The Highland Vow
+   Style: Moody atmospheric landscape oil painting
+   Mood: Dramatic Scottish Highlands with brooding storm and castle ruin; wild and passionate
+
+7. The Summer We Fell
+   Style: Impressionist beach painting with visible brushstrokes
+   Mood: Shimmering sunlight on sand and water; warm and nostalgic
+
+8. Enemies Like Us
+   Style: Bold split-diagonal graphic design
+   Mood: Fire versus ice — two clashing halves divided diagonally; tense and magnetic
+
+9. The Vineyard Letters
+   Style: Pressed flower botanical collage on aged paper
+   Mood: Dried flowers forming a decorative frame; vintage and sentimental
+
+10. Crown of Thorns and Roses
+    Style: Gold-embossed luxury design on jewel-toned velvet
+    Mood: Ornamental crest with debossed gold foil patterns; opulent and regal
+
+
+═══════════════════════════════════════
+CHILDREN'S (10 prompts)
+═══════════════════════════════════════
+
+1. Professor Paws and the Midnight Parade
+   Style: Whimsical watercolor with silver and moonlight tones
+   Mood: Magical nighttime animal parade; enchanting and playful
+
+2. Chalk World
+   Style: Chalk on blackboard illustration
+   Mood: Colorful chalk drawings that come to life on a blackboard; joyful and imaginative
+
+3. The Robot Who Learned to Dream
+   Style: Pixar-quality 3D rendered character art
+   Mood: Adorable robot in a cozy bedroom with luminous dream imagery; warm and heartfelt
+
+4. The Crayon Kingdom
+   Style: Crayon drawing on paper with visible strokes
+   Mood: Whimsical kingdom built from crayons; bold, colorful, and childlike
+
+5. The Very Hungry Cloud
+   Style: Torn paper collage art with layered textures
+   Mood: Fluffy cloud character eating weather elements; cheerful and tactile
+
+6. Captain Stardust and the Planet of Socks
+   Style: Retro cartoon illustration with bold outlines
+   Mood: Astronaut crash-landing on a planet of socks; silly and energetic
+
+7. The Felt Forest
+   Style: Felt and fabric craft illustration
+   Mood: Forest scene made from textured felt materials; soft and cozy
+
+8. The Blanket Fort Chronicles
+   Style: Mixed media — photorealism blended with watercolor fantasy
+   Mood: Real living room transforms into a fantasy castle; magical and relatable
+
+9. The Map to Everywhere
+   Style: Pop-up paper art with 3D paper engineering
+   Mood: Adventure scene emerging from an open book; exciting and dimensional
+
+10. When the Moon Fell into the Garden
+    Style: Soft digital painting with luminous internal lighting
+    Mood: Glowing moon in a nighttime garden; dreamy and gentle
+
+
+═══════════════════════════════════════
+THRILLERS (10 prompts)
+═══════════════════════════════════════
+
+1. Zero Hour
+   Style: High-contrast cinematic noir photography
+   Mood: Dark alleyway with a single figure and harsh shadows; tense and dangerous
+
+2. The Cold Room
+   Style: Grainy vintage Cold War surveillance photography
+   Mood: Fog-bound European street with a lone figure in an overcoat; paranoid and bleak
+
+3. The Rorschach Patient
+   Style: Rorschach inkblot symmetrical art
+   Mood: Symmetrical inkblot with hidden faces; psychological and clinical
+
+4. The Glitch Protocol
+   Style: Digital glitch art with pixel sorting and data corruption
+   Mood: Human face being destroyed by algorithmic artifacts; technological and invasive
+
+5. The Paper Trail
+   Style: Bold typography-dominant design with documentary photography
+   Mood: Massive black type with a torn redacted document; confrontational and urgent
+
+6. The Blood Clock
+   Style: Macro forensic evidence photography
+   Mood: Blood-spattered wristwatch under clinical flat lighting; chilling and precise
+
+7. The Informant
+   Style: Conspiracy evidence board collage with red string
+   Mood: Overlapping documents, photos, and sticky notes connected by red thread; paranoid and obsessive
+
+8. The Ninth Floor
+   Style: Suburban photography with deliberately wrong color processing
+   Mood: Normal house with one window glowing the wrong color; uncanny and dread-filled
+
+9. The Market Maker
+   Style: Financial data visualization as abstract art
+   Mood: Stock market crash rendered in neon candlestick charts on black; intense and vertiginous
+
+10. The Last Witness
+    Style: Courtroom charcoal and pastel sketch
+    Mood: Witness on the stand mid-testimony; tense, immediate, and human
+
+
+═══════════════════════════════════════
+HORROR (8 prompts)
+═══════════════════════════════════════
+
+1. The Teeth in the Walls
+   Style: Decayed Victorian wallpaper with hidden horror elements
+   Mood: Floral pattern concealing teeth, eyes, and fingers; creeping and subliminal
+
+2. The Smile Collector
+   Style: Victorian anatomical illustration of the impossible
+   Mood: Clinically precise drawing of a face with multiple mouths; disturbing and academic
+
+3. The House That Hunger Built
+   Style: Medieval woodcut print — black ink on cream paper
+   Mood: Farmhouse in a dead field with subtle wrongness; ancient and stark
+
+4. The Long Dark Between Stations
+   Style: Vast negative space — 95% pure black with a single point of light
+   Mood: Tiny departing subway car in absolute darkness; isolating and suffocating
+
+5. The Mirror Saint
+   Style: Hyperrealistic Flemish oil painting
+   Mood: Woman's reflection in an antique mirror that doesn't match reality; uncanny and intimate
+
+6. The Signal Beneath
+   Style: Abyssal bioluminescent deep ocean scene
+   Mood: Geometric shape glowing at the bottom of an oceanic trench; cosmic dread and awe
+
+7. The Doll Ward
+   Style: Tinted daguerreotype photograph from the 1850s
+   Mood: Porcelain doll on an asylum bed with a ghostly figure in the doorway; spectral and institutional
+
+8. The Congregation
+   Style: Inverted Byzantine Orthodox religious icon painting
+   Mood: Gold-leaf hieratic figures worshipping something wrong; sacred turned blasphemous
+
+
+═══════════════════════════════════════
+MYSTERY (8 prompts)
+═══════════════════════════════════════
+
+1. The Locked Garden
+   Style: Vintage botanical crime scene illustration
+   Mood: Beautiful poisonous plant plate with hidden crime-scene clues; elegant and deadly
+
+2. The Venice Cipher
+   Style: Renaissance painting interrupted by modern laser security grid
+   Mood: Venetian palazzo with an empty gilt frame and red laser beams; glamorous and tense
+
+3. The Crossword Killer
+   Style: Newspaper crossword puzzle as full-cover design
+   Mood: Crossword grid with ominous clues and one red square; clever and sinister
+
+4. The Jade Equation
+   Style: 1930s Shanghai Art Deco movie poster
+   Mood: Femme fatale in qipao with a neon Shanghai skyline; glamorous and dangerous
+
+5. The Fingerprint Garden
+   Style: Giant fingerprint as hidden-image landscape
+   Mood: Forensic fingerprint whose ridges form a garden crime scene; cerebral and layered
+
+6. The Whispering Library
+   Style: Trompe l'oeil hyperrealistic bookshelf painting
+   Mood: Old library shelf with a secret compartment and hidden clues; atmospheric and scholarly
+
+7. The Widow of Rue Morgue
+   Style: Art Nouveau poster with flowing organic borders
+   Mood: Woman in mourning dress framed by sinuous vines with a hidden dagger; elegant and secretive
+
+8. The Last Chess Move
+   Style: Isometric 3D chess diagram with crime scene elements
+   Mood: Chess pieces replaced by miniature detectives, suspects, and evidence; intellectual and strategic
+
+
+═══════════════════════════════════════
+ADVENTURE (8 prompts)
+═══════════════════════════════════════
+
+1. The Lost Expedition
+   Style: Aged explorer's field journal page with mixed media
+   Mood: Hand-drawn maps, watercolor specimens, and increasingly desperate notes; adventurous and ominous
+
+2. The Sky Pirates of Iron Bay
+   Style: Vintage steampunk travel poster in Art Deco style
+   Mood: Massive airship above a harbor city in bold flat colors; exciting and romantic
+
+3. The Deep Road
+   Style: Underground cave photography with headlamp illumination
+   Mood: Enormous cave chamber revealed by a single light source; awe-struck and claustrophobic
+
+4. The Silk Road Gambit
+   Style: Antique map illustration merging into cinematic landscape
+   Mood: Flat cartography dissolving into a painted desert caravan scene; epic and romantic
+
+5. The Summit of All Fears
+   Style: Extreme alpine photography with vertical composition
+   Mood: Tiny climbers on a massive ice wall against dark altitude sky; vertigo-inducing and heroic
+
+6. The Wreck of the Golden Serpent
+   Style: Split-level ocean photography — above and below the waterline
+   Mood: Tropical sky above, coral-encrusted shipwreck and gold below; exciting and treasure-hungry
+
+7. The Iron Horse Riders
+   Style: Spaghetti Western cinematic split-composition
+   Mood: Extreme close-up eyes above vast desert with distant riders; tense and sun-baked
+
+8. The Balloon Cartographer
+   Style: Technical cutaway illustration above watercolor landscape
+   Mood: Victorian hot air balloon diagram floating over a painted panorama; inventive and romantic
+
+
+═══════════════════════════════════════
+HISTORICAL FICTION (8 prompts)
+═══════════════════════════════════════
+
+1. The Last Supper at the Leaky Barrel
+   Style: Sepia-toned historical illustration with warm aging
+   Mood: Tavern gathering with rich period detail; convivial and nostalgic
+
+2. The Silk Weaver of Lyon
+   Style: Woven silk brocade textile as cover surface
+   Mood: Gold thread figurative scene on sapphire silk with fire in the background; sumptuous and tragic
+
+3. The Samurai Accountant
+   Style: Ukiyo-e Japanese woodblock print
+   Mood: Samurai at his accounts in flat, bold, traditional Japanese style; precise and culturally rich
+
+4. The Cartographer of Constantinople
+   Style: Byzantine mosaic with individual visible tesserae
+   Mood: Gold-leaf figure holding a map of Constantinople; luminous and imperially grand
+
+5. The Pharaoh's Architect
+   Style: Ancient Egyptian tomb painting with hieratic figures
+   Mood: Flat mineral-pigment figures in registers with hieroglyphs; ancient and ceremonial
+
+6. The Midwife of Venice
+   Style: Venetian Renaissance oil portrait with warm glazing
+   Mood: Woman holding herbs, lit by golden Venetian light; warm and quietly powerful
+
+7. The Jazz Age Prophet
+   Style: Art Deco meets Harlem Renaissance visual art
+   Mood: Geometric stylized figure with jazz-era metallic energy; electric and proud
+
+8. The Viking Widow
+   Style: Norse runestone carving with interlacing animal ornament
+   Mood: Carved serpents and a central female figure on weathered granite; ancient and powerful
+
+
+═══════════════════════════════════════
+LITERARY FICTION (10 prompts)
+═══════════════════════════════════════
+
+1. Still Water
+   Style: Atmospheric minimalist photography
+   Mood: Quiet, contemplative stillness with muted tones; meditative and understated
+
+2. The House of Infinite Stairs
+   Style: Surrealist architectural illustration
+   Mood: Impossible staircases in a dreamlike interior; disorienting and philosophical
+
+3. The Weight of Small Things
+   Style: Dutch Golden Age still-life oil painting
+   Mood: Kitchen table with unfinished meal, a letter, and wilting flower; quiet and heavy
+
+4. The Color of Forgetting
+   Style: Abstract expressionist color field painting
+   Mood: Warm rectangular color fading into cool darkness at edges; contemplative and melancholic
+
+5. The Translator
+   Style: Layered transparency typography in multiple scripts
+   Mood: Overlapping text in eight languages creating a dense palimpsest; intellectual and cosmopolitan
+
+6. The Beekeeper of Aleppo
+   Style: Unfinished watercolor dissolving into white paper
+   Mood: Vivid field of flowers fading at edges to bare paper; bittersweet and achingly beautiful
+
+7. The Glass Museum
+   Style: Photorealistic macro photography of glass interior
+   Mood: Magnified air bubbles and color swirls inside handblown glass; obsessive and otherworldly
+
+8. The Atlas of Invisible Cities
+   Style: Architectural blueprint of impossible structures
+   Mood: White-on-blue technical drawings of a city that defies physics; dreamy and precise
+
+9. The Orchard Keeper
+   Style: Contemplative landscape photography with painterly atmosphere
+   Mood: Gnarled apple tree in a misty dawn orchard; still, haunted, and deeply rooted
+
+10. The Geometry of Grief
+    Style: Mathematical compass-and-straightedge construction on graph paper
+    Mood: Archimedean spiral with annotations mixing math and emotion; precise and devastating
+
+
+═══════════════════════════════════════
+PHILOSOPHY & SELF-HELP (8 prompts)
+═══════════════════════════════════════
+
+1. The Stoic's Garden
+   Style: Classical marble bas-relief sculpture
+   Mood: Carved garden scene with olive tree and philosophical objects; timeless and contemplative
+
+2. The Art of Letting Go
+   Style: Zen sumi-e ink wash painting — minimal brushstrokes
+   Mood: Single branch releasing a leaf into vast white space; peaceful and liberating
+
+3. The Mountain Within
+   Style: Geometric low-poly digital art
+   Mood: Faceted mountain peak transitioning from cool base to warm summit; aspirational and modern
+
+4. The Quiet Revolution
+   Style: Negative space typography revealing nature photography
+   Mood: Bold letters cut from dark surface, showing calm lake beneath; empowering and calming
+
+5. The Compass of Purpose
+   Style: Vintage nautical compass technical illustration
+   Mood: Antique brass compass with custom cardinal directions; warm and directional
+
+6. The Unfinished Self
+   Style: Kintsugi macro photography — gold-repaired ceramics
+   Mood: Gold-filled cracks on warm clay surface; healing and beautifully broken
+
+7. The Ten Thousand Hours
+   Style: Premium editorial infographic data visualization
+   Mood: Elegant learning curve graph with milestone annotations; precise and motivational
+
+8. The Philosophy of Walking
+   Style: Single continuous line drawing — one unbroken stroke
+   Mood: Walking figure and landscape drawn without lifting the pen; contemplative and flowing
+
+
+═══════════════════════════════════════
+HUMOR & SATIRE (7 prompts)
+═══════════════════════════════════════
+
+1. Loud
+   Style: Bold typographic design with maximalist energy
+   Mood: Massive, aggressive text treatment dominating the cover; loud and confrontational
+
+2. The Middle Manager's Guide to the Apocalypse
+   Style: Corporate PowerPoint presentation slide
+   Mood: The end of the world as a quarterly business deliverable; deadpan and painfully recognizable
+
+3. Death by Committee
+   Style: Retro 1950s commercial illustration
+   Mood: Cheerful boardroom with sinister details; bright, optimistic, and secretly murderous
+
+4. The Cat's Guide to Human Ownership
+   Style: Victorian natural history encyclopedia illustration
+   Mood: Domestic cat rendered as a scientifically documented superior species; deadpan and authoritative
+
+5. Sorry I'm Late, I Didn't Want to Come
+   Style: Pop-art speech bubble in bold 1960s style
+   Mood: Massive yellow speech bubble with tiny figure hiding behind a plant; loud, funny, and relatable
+
+6. The Existential Dread of Brunch
+   Style: Flat-design editorial illustration
+   Mood: Bird's-eye brunch table with face-down figure; stylish, wry, and generationally specific
+
+7. A Brief History of Bad Decisions
+   Style: Passport stamps and travel sticker collage
+   Mood: Overlapping immigration stamps with humorous annotations; chaotic, worldly, and rueful
+
+
+═══════════════════════════════════════
+NOTES
+═══════════════════════════════════════
+
+- All prompts are designed for 1024 x 1536 pixel images in sRGB color profile
+- Each prompt file contains detailed specifications for art style, composition, color palette, typography, and mood
+- Prompts are designed for manual use with AI image generation tools
+- No two prompts share the same art style or visual approach
+- Styles range across: digital painting, oil painting, watercolor, photography, woodcut, mosaic, textile, sculpture, collage, technical illustration, infographic, calligraphy, and more
