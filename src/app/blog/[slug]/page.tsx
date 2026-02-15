@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowLeft, Calendar, Clock } from "lucide-react";
+import { ArrowLeft, Clock } from "lucide-react";
 
 const posts: Record<
   string,
   {
     title: string;
-    date: string;
     readTime: string;
     category: string;
     content: string;
@@ -15,7 +14,6 @@ const posts: Record<
 > = {
   "how-i-designed-12-consistent-covers-for-a-fantasy-series": {
     title: "How I Designed 12 Consistent Covers for a Fantasy Series",
-    date: "2026-02-13",
     readTime: "8 min read",
     category: "Cover Design",
     content: `Creating a single stunning book cover is one challenge. Creating twelve that all feel like they belong in the same universe — while each remaining distinct and compelling — is an entirely different problem.
@@ -63,7 +61,6 @@ This is exactly the process we use for client series branding at Metronagon.`,
   },
   "planning-a-5-book-non-fiction-series-from-a-single-topic": {
     title: "Planning a 5-Book Non-Fiction Series from a Single Topic",
-    date: "2026-02-10",
     readTime: "6 min read",
     category: "Series Planning",
     content: `Most non-fiction authors start with one book. They pour everything they know into it, publish, and move on. But the most successful non-fiction authors think in series — and the ones who plan their series before writing book one have a massive structural advantage.
@@ -113,7 +110,6 @@ This is the exact deliverable included in our Series Architecture packages.`,
   },
   "the-ai-powered-book-cover-pipeline": {
     title: "The AI-Powered Book Cover Pipeline: From Prompt to Print",
-    date: "2026-02-06",
     readTime: "10 min read",
     category: "Process",
     content: `The gap between "I generated a cool image with AI" and "I have a professional, print-ready book cover" is enormous. This post breaks down every step of the pipeline that turns a concept into a cover ready for Amazon, IngramSpark, or any print-on-demand service.
@@ -170,7 +166,6 @@ This is a production pipeline, not an experiment. Every step is repeatable, cons
   },
   "creating-30-character-portraits-with-consistent-style": {
     title: "Creating 30 Character Portraits with Consistent Style",
-    date: "2026-02-02",
     readTime: "7 min read",
     category: "Character Design",
     content: `When the Aztec Samurai Adventures series needed character portraits for 30 distinct characters, the challenge wasn't generating individual images — it was making all 30 look like they existed in the same world.
@@ -204,7 +199,6 @@ This character consistency system is the same one we apply to children's book il
   },
   "what-makes-a-book-cover-sell": {
     title: "What Makes a Book Cover Sell: Lessons from 22 Published Books",
-    date: "2026-01-28",
     readTime: "9 min read",
     category: "Cover Design",
     content: `After designing covers for 22 books across three series — spanning fantasy fiction, self-improvement non-fiction, and philosophical essays — certain patterns become impossible to ignore.
@@ -252,7 +246,6 @@ These principles guide every cover we create at Metronagon.`,
   },
   "building-a-childrens-picture-book-with-ai-illustration": {
     title: "Building a Children's Picture Book with AI Illustration",
-    date: "2026-01-22",
     readTime: "12 min read",
     category: "Children's Books",
     content: `Creating a 32-page children's picture book with AI illustration is one of the most complex projects in our pipeline. Unlike a single book cover, a picture book requires sustained character consistency, narrative visual flow, and production-quality output across every page.
@@ -302,9 +295,72 @@ The delivered package includes the assembled PDF, all individual page images, an
 
 This is the complete service offered in our Children's Picture Book packages.`,
   },
+  "designing-childrens-paperback-covers-that-stand-out": {
+    title: "Designing Children's Paperback Covers That Stand Out",
+    readTime: "8 min read",
+    category: "Children's Books",
+    content: `Children's paperback covers occupy a unique space in book design. Unlike adult fiction or non-fiction, a children's cover must simultaneously appeal to two completely different audiences: the child who wants to read the book, and the parent or teacher who decides to buy it.
+
+This dual-audience challenge makes children's cover design one of the most strategically demanding projects we take on.
+
+## The Dual-Audience Problem
+
+A children's cover must accomplish:
+
+1. **Attract the child** — bright colors, expressive characters, a sense of adventure or fun
+2. **Reassure the adult** — professional quality, age-appropriate content, clear genre signaling
+3. **Work as a thumbnail** — on Amazon, the cover is often viewed at 150px wide. It must pop at that size.
+4. **Stand out in a category** — children's books on Amazon are an incredibly crowded market
+
+## Color Psychology for Children's Covers
+
+Color choices for children's books follow different rules than adult books:
+
+- **Ages 0-3**: Primary colors (red, blue, yellow), high contrast, simple shapes
+- **Ages 4-7**: Bright, saturated palettes with warm tones. Think Pixar — vibrant but harmonious
+- **Ages 8-12**: More sophisticated palettes. Teal, coral, warm gold. Still colorful but less "baby"
+- **Young Adult crossover**: Darker, moodier palettes. Deep purple, midnight blue, forest green
+
+The palette must signal the correct age range instantly. A parent browsing Amazon can tell in half a second whether a cover is for a 3-year-old or a 10-year-old — and if you get it wrong, they scroll past.
+
+## Typography That Sells
+
+Children's book typography has its own conventions:
+
+- **Hand-drawn or playful fonts** for younger ages — but they must still be legible
+- **Bold, chunky letterforms** that read at thumbnail size
+- **Color in the title** — children's titles almost never use plain black or white text. Bright, multi-colored titles are the norm
+- **The author name is secondary** — unlike adult books where the author name can be the selling point, children's books sell on title and illustration
+
+## The Cover vs. The Picture Book
+
+This is the key distinction we offer at Metronagon:
+
+### Children's Paperback Cover (Standalone)
+A single front cover illustration designed for an ebook or paperback. This is the product if you already have your story written and illustrated (or plan to use text-only interiors). You need one powerful, eye-catching cover that sells the book.
+
+### 32-Page Illustrated Picture Book (Full Service)
+A complete picture book with consistent character illustrations on every page. This is an entirely different product — it includes story development, character design, 32 page illustrations, text placement, and a print-ready PDF.
+
+Both products start with the same prompt engineering pipeline, but the scope and deliverables are completely different.
+
+## The Production Process for Paperback Covers
+
+For a standalone children's cover:
+
+1. **Genre and age research** — study the top 50 covers in the target category on Amazon
+2. **Character and scene concept** — define the main character, the key scene, and the emotional tone
+3. **Prompt engineering** — craft a detailed prompt with specific art style, color palette, and composition
+4. **Generation and selection** — produce 6-8 variations, select top 3, refine the winner
+5. **Text overlay** — add title, subtitle, and author name with age-appropriate typography
+6. **Final delivery** — high-resolution files ready for Amazon KDP or print
+
+The result is a professional cover that competes with traditionally published children's books — at a fraction of the cost and timeline.
+
+This is exactly what's included in our Children's Ebook Cover packages at Metronagon.`,
+  },
   "designing-series-logos-that-anchor-a-brand": {
     title: "Designing Series Logos That Anchor a Brand",
-    date: "2026-01-18",
     readTime: "5 min read",
     category: "Branding",
     content: `A series logo is the single most important branding asset you create. It appears on every cover, every box set, every thumbnail, every social media post. It's the visual thread that ties everything together — and it needs to work at 16 pixels (favicon) and 1600 pixels (hero banner) with equal clarity.
@@ -653,6 +709,56 @@ const postGalleries: Record<string, GallerySection[]> = {
       ],
     },
   ],
+  "designing-childrens-paperback-covers-that-stand-out": [
+    {
+      title: "Children's Paperback Cover Examples",
+      caption:
+        "Standalone front cover designs for children's ebooks and paperbacks. Each cover uses a distinct art style while maintaining the vibrant, eye-catching qualities that children's books demand.",
+      layout: "covers",
+      images: [
+        {
+          src: "/examples/childrens/the-map-to-everywhere.png",
+          alt: "The Map to Everywhere — Paperback Cover",
+        },
+        {
+          src: "/examples/childrens/the-crayon-kingdom.png",
+          alt: "The Crayon Kingdom — Paperback Cover",
+        },
+        {
+          src: "/examples/childrens/the-blanket-fort-chronicles.png",
+          alt: "The Blanket Fort Chronicles — Paperback Cover",
+        },
+        {
+          src: "/examples/childrens/professor-paws-and-the-midnight-parade.png",
+          alt: "Professor Paws and the Midnight Parade — Paperback Cover",
+        },
+        {
+          src: "/examples/childrens/captain-stardust-and-the-planet-of-socks.png",
+          alt: "Captain Stardust and the Planet of Socks — Paperback Cover",
+        },
+      ],
+    },
+    {
+      title: "32-Page Illustrated Picture Book Covers",
+      caption:
+        "These covers are for full 32-page illustrated picture books — a completely different product from a standalone paperback cover. Each includes consistent character illustrations across every page.",
+      layout: "covers",
+      images: [
+        {
+          src: "/examples/childrens/when-the-moon-fell-into-the-garden.png",
+          alt: "When the Moon Fell into the Garden — Picture Book",
+        },
+        {
+          src: "/examples/childrens/the-very-hungry-cloud.png",
+          alt: "The Very Hungry Cloud — Picture Book",
+        },
+        {
+          src: "/examples/childrens/the-robot-who-learned-to-dream.png",
+          alt: "The Robot Who Learned to Dream — Picture Book",
+        },
+      ],
+    },
+  ],
   "designing-series-logos-that-anchor-a-brand": [
     {
       title: "Metronagon Media — Brand Logo",
@@ -806,14 +912,6 @@ export async function generateMetadata({
   };
 }
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-}
-
 export default async function BlogPost({
   params,
 }: {
@@ -862,10 +960,6 @@ export default async function BlogPost({
         </h1>
 
         <div className="mt-4 flex items-center gap-4 text-sm text-muted">
-          <span className="flex items-center gap-1.5">
-            <Calendar size={14} />
-            {formatDate(post.date)}
-          </span>
           <span className="flex items-center gap-1.5">
             <Clock size={14} />
             {post.readTime}

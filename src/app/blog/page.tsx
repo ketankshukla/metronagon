@@ -1,12 +1,8 @@
-import type { Metadata } from "next";
-import Link from "next/link";
-import { Calendar, Clock, ArrowRight } from "lucide-react";
+"use client";
 
-export const metadata: Metadata = {
-  title: "Blog — Metronagon",
-  description:
-    "Insights on book cover design, series branding, series architecture, and the AI-powered creative process.",
-};
+import Link from "next/link";
+import { useState } from "react";
+import { Clock, ArrowRight } from "lucide-react";
 
 const posts = [
   {
@@ -14,7 +10,6 @@ const posts = [
     title: "How I Designed 12 Consistent Covers for a Fantasy Series",
     excerpt:
       "A deep dive into the process of creating a cohesive visual identity across a 12-book fantasy series — from initial concept to final delivery. Covers the prompt engineering, style headers, and iteration process that ensures every book looks like it belongs in the same world.",
-    date: "2026-02-13",
     readTime: "8 min read",
     category: "Cover Design",
   },
@@ -23,7 +18,6 @@ const posts = [
     title: "Planning a 5-Book Non-Fiction Series from a Single Topic",
     excerpt:
       "Most non-fiction authors start with one book. But what if that one idea could become five? This post walks through the exact process of expanding a single subject into a structured, pedagogically progressive book series with clear arcs and reader progression.",
-    date: "2026-02-10",
     readTime: "6 min read",
     category: "Series Planning",
   },
@@ -32,7 +26,6 @@ const posts = [
     title: "The AI-Powered Book Cover Pipeline: From Prompt to Print",
     excerpt:
       "Behind every professional AI-generated book cover is a carefully engineered pipeline. This post breaks down the entire workflow — from initial prompt design and style headers to resolution scaling, text overlay, and print-ready CMYK conversion.",
-    date: "2026-02-06",
     readTime: "10 min read",
     category: "Process",
   },
@@ -41,7 +34,6 @@ const posts = [
     title: "Creating 30 Character Portraits with Consistent Style",
     excerpt:
       "Generating one great AI image is easy. Generating thirty that all look like they belong in the same universe? That requires systems. Here's how style headers, seed management, and iterative refinement produced a gallery of 30 distinct characters for one series.",
-    date: "2026-02-02",
     readTime: "7 min read",
     category: "Character Design",
   },
@@ -50,7 +42,6 @@ const posts = [
     title: "What Makes a Book Cover Sell: Lessons from 22 Published Books",
     excerpt:
       "After designing covers for 22 books across fiction and non-fiction, patterns emerge. This post distils the key principles — genre expectations, typography hierarchy, color psychology, and the critical role of thumbnail readability on Amazon.",
-    date: "2026-01-28",
     readTime: "9 min read",
     category: "Cover Design",
   },
@@ -59,8 +50,15 @@ const posts = [
     title: "Building a Children's Picture Book with AI Illustration",
     excerpt:
       "A complete walkthrough of creating a 32-page Pixar-style children's picture book using AI image generation. Covers story structure, character consistency across pages, illustration composition, and assembling the final print-ready PDF.",
-    date: "2026-01-22",
     readTime: "12 min read",
+    category: "Children's Books",
+  },
+  {
+    slug: "designing-childrens-paperback-covers-that-stand-out",
+    title: "Designing Children's Paperback Covers That Stand Out",
+    excerpt:
+      "Children's paperback covers face unique challenges — they must appeal to both the child and the parent, work as thumbnails on Amazon, and compete against thousands of other titles. This post covers the art direction, color psychology, and typography strategies for creating children's ebook covers that sell.",
+    readTime: "8 min read",
     category: "Children's Books",
   },
   {
@@ -68,7 +66,6 @@ const posts = [
     title: "Designing Series Logos That Anchor a Brand",
     excerpt:
       "A logo is the visual anchor of every series. This post showcases the logos created for three distinct book series — each designed to work at favicon scale and hero banner size while capturing the tone and identity of the series it represents.",
-    date: "2026-01-18",
     readTime: "5 min read",
     category: "Branding",
   },
@@ -84,15 +81,14 @@ const categories = [
   "Branding",
 ];
 
-function formatDate(dateStr: string) {
-  return new Date(dateStr).toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-}
-
 export default function BlogPage() {
+  const [activeCategory, setActiveCategory] = useState("All");
+
+  const filteredPosts =
+    activeCategory === "All"
+      ? posts
+      : posts.filter((p) => p.category === activeCategory);
+
   return (
     <>
       {/* Hero */}
@@ -111,17 +107,18 @@ export default function BlogPage() {
         </div>
       </section>
 
-      {/* Categories */}
-      <section className="border-b border-border">
-        <div className="mx-auto max-w-6xl px-6">
-          <div className="flex gap-2 overflow-x-auto py-4">
+      {/* Category Tabs — wrapping, big, yellow, consistent with examples page */}
+      <section className="border-y border-border bg-background">
+        <div className="mx-auto max-w-6xl px-6 py-6">
+          <div className="flex flex-wrap justify-center gap-2.5">
             {categories.map((cat) => (
               <button
                 key={cat}
-                className={`shrink-0 rounded-full px-4 py-1.5 text-xs font-medium transition-all ${
-                  cat === "All"
-                    ? "bg-gold text-background"
-                    : "border border-border text-muted hover:border-gold/30 hover:text-foreground"
+                onClick={() => setActiveCategory(cat)}
+                className={`rounded-lg px-5 py-2.5 text-sm font-semibold transition-all ${
+                  activeCategory === cat
+                    ? "bg-gold text-background shadow-lg shadow-gold/20"
+                    : "bg-surface-light border border-border text-muted hover:bg-gold/10 hover:border-gold/30 hover:text-gold"
                 }`}
               >
                 {cat}
@@ -135,11 +132,11 @@ export default function BlogPage() {
       <section className="py-16">
         <div className="mx-auto max-w-6xl px-6">
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {posts.map((post) => (
+            {filteredPosts.map((post) => (
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}`}
-                className="hover-gold-glow group flex flex-col rounded-2xl border border-border bg-surface-light p-8 transition-all hover:border-gold/20"
+                className="hover-gold-glow group flex flex-col rounded-2xl border border-border bg-surface-light p-6 sm:p-8 transition-all hover:border-gold/20"
               >
                 <div className="mb-4 inline-flex self-start rounded-full border border-gold/20 bg-gold/5 px-3 py-1">
                   <span className="text-xs font-medium text-gold">
@@ -153,16 +150,10 @@ export default function BlogPage() {
                   {post.excerpt}
                 </p>
                 <div className="mt-6 flex items-center justify-between">
-                  <div className="flex items-center gap-4 text-xs text-muted">
-                    <span className="flex items-center gap-1.5">
-                      <Calendar size={12} />
-                      {formatDate(post.date)}
-                    </span>
-                    <span className="flex items-center gap-1.5">
-                      <Clock size={12} />
-                      {post.readTime}
-                    </span>
-                  </div>
+                  <span className="flex items-center gap-1.5 text-xs text-muted">
+                    <Clock size={12} />
+                    {post.readTime}
+                  </span>
                   <ArrowRight
                     size={14}
                     className="text-muted transition-all group-hover:translate-x-1 group-hover:text-gold"
@@ -171,6 +162,12 @@ export default function BlogPage() {
               </Link>
             ))}
           </div>
+
+          {filteredPosts.length === 0 && (
+            <p className="py-12 text-center text-muted">
+              No posts in this category yet.
+            </p>
+          )}
         </div>
       </section>
 
