@@ -1,0 +1,59 @@
+TIKTOK UPLOAD GUIDE: VIDEO 03 — THE SERIES BRANDING STORY
+==========================================================
+
+VIDEO FILE: 03-video-script-series-branding (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open TikTok app and tap the + button at the bottom center
+2. Tap "Upload" (bottom right) and select the exported video file
+3. The video should be 9:16 portrait, 60 seconds — TikTok will accept this natively
+4. Trim if needed — ensure the video starts clean and ends on the logo
+5. Tap "Next" to proceed to the editing screen
+
+6. ADD SOUND: Set to "Original sound" — the video already has orchestral music baked in
+   Do NOT add a TikTok sound over the top
+
+7. ADD TEXT (optional on-screen text):
+   - Add a text overlay at the very start (first 1-2 seconds): "One cover is easy. A 12-book series? That's a system."
+   - Font: Bold, white or gold
+   - This is an educational hook — pattern interrupt
+
+8. ADD COVER IMAGE:
+   - Select a frame showing multiple Aztec covers in sequence (around 0:14-0:16) as the thumbnail
+   - The visual impact of the consistent series is the selling point
+
+9. Tap "Next" to go to the post screen
+
+POST DETAILS
+-------------
+
+DESCRIPTION (copy-paste this):
+Here's the difference between a book and a book series that sells. Any designer can make one cover. But what happens when you publish book 2? Book 3? That's where consistency becomes a system.
+
+#SeriesBranding #BookCoverDesign #IndieAuthor #BookTok #AuthorTips #SelfPublishing #BookSeries #BrandDesign #WritingCommunity #AuthorTok #BookMarketing #IndiePublishing #DesignTips #BookDesign #ConsistentBranding #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- WHO CAN VIEW: Everyone
+- ALLOW COMMENTS: On
+- ALLOW DUETS: On
+- ALLOW STITCHES: On
+- SAVE TO DEVICE: On
+- ADD TOPICS: Series Branding, Book Cover Design, Self Publishing, Author Tips, Indie Authors
+- SCHEDULE: Post 2-3 days after Video 02
+
+POSTING STRATEGY
+-----------------
+
+- This is Video 3 of 6 — the educational value video
+- This video teaches something — it has high save and share potential
+- The "Here's the difference" opening is a proven TikTok pattern interrupt
+- Encourage saves by adding a comment after posting: "Save this if you're planning a book series"
+- Reply to any authors asking about branding with: "DM us or visit metronagon.com"
+
+KEYWORDS FOR TIKTOK SEARCH:
+series branding, book series design, consistent book covers, author branding, indie publishing tips, book cover system, self publishing tips, book marketing

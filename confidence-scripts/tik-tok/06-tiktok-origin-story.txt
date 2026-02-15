@@ -1,0 +1,61 @@
+TIKTOK UPLOAD GUIDE: VIDEO 06 — THE ORIGIN STORY
+==================================================
+
+VIDEO FILE: 06-video-script-origin-story (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open TikTok app and tap the + button at the bottom center
+2. Tap "Upload" (bottom right) and select the exported video file
+3. The video should be 9:16 portrait, 60 seconds — TikTok will accept this natively
+4. Trim if needed — ensure the video starts clean and ends on the logo
+5. Tap "Next" to proceed to the editing screen
+
+6. ADD SOUND: Set to "Original sound" — the video already has emotional piano/orchestral music baked in
+   Do NOT add a TikTok sound over the top
+
+7. ADD TEXT (optional on-screen text):
+   - Add a text overlay at the very start (first 1-2 seconds): "We published 22 books. Then turned it into a business."
+   - Font: Bold, white or gold
+   - Story hooks perform extremely well on TikTok
+
+8. ADD COVER IMAGE:
+   - Select a frame showing the Metronagon logo reveal (around 0:42-0:44) as the thumbnail
+   - Or use a frame of the first Aztec book cover for visual impact
+
+9. Tap "Next" to go to the post screen
+
+POST DETAILS
+-------------
+
+DESCRIPTION (copy-paste this):
+We didn't start Metronagon to sell you something. We started it because we built something — and realized other authors needed it too. 22 books. 3 series. Every cover, every character, every visual element — built from scratch. The proof isn't a promise. It's a portfolio.
+
+#SmallBusiness #BuildInPublic #IndieAuthor #BookTok #Entrepreneur #CreativeBusiness #AIArt #SelfPublishing #AuthorTok #StartupStory #OriginStory #WritingCommunity #BookDesign #IndiePublishing #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- WHO CAN VIEW: Everyone
+- ALLOW COMMENTS: On
+- ALLOW DUETS: On
+- ALLOW STITCHES: On
+- SAVE TO DEVICE: On
+- ADD TOPICS: Small Business, Entrepreneurship, Self Publishing, Creative Business, Build in Public
+- SCHEDULE: Post 2-3 days after Video 05
+
+POSTING STRATEGY
+-----------------
+
+- This is Video 6 of 6 — the trust builder and brand story
+- Pin this as the SECOND pinned video on your profile (after Video 01)
+- This video crosses over into #SmallBusiness and #Entrepreneur audiences beyond just #BookTok
+- Story-based content gets higher shares and saves on TikTok
+- The emotional arc (reflective opening to confident close) keeps viewers watching to the end
+- Add a comment after posting: "22 books before we ever offered this as a service. That's the difference."
+- This video is your credibility anchor — reference it when people ask "why should I trust you?"
+
+KEYWORDS FOR TIKTOK SEARCH:
+small business story, build in public, indie author, creative business, self publishing, book cover design, entrepreneur, startup story, portfolio, AI art

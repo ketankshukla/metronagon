@@ -1,0 +1,279 @@
+METRONAGON SOCIAL MEDIA STRATEGY
+==================================
+
+Last Updated: February 2026
+
+SOCIAL MEDIA ACCOUNTS
+----------------------
+
+1. TikTok: @metronagon
+   - Primary audience: Young indie authors, BookTok community, aspiring self-publishers
+   - Content style: Fast-paced, visual-first, scroll-stopping hooks
+   - Best performing content: Portfolio showcases, before/after reveals, children's book pages
+
+2. YouTube: Metronagon YouTube Channel
+   - Primary audience: Established indie authors, self-publishers researching services
+   - Content style: YouTube Shorts (60s) + potential longer-form tutorials/walkthroughs
+   - Best performing content: Educational content, process reveals, full portfolio tours
+
+3. Facebook: Metronagon Facebook Page
+   - Primary audience: Older indie authors (35-55), parents, teachers, gift-givers
+   - Content style: Reels + longer-form posts with image carousels
+   - Best performing content: Children's book showcases, origin stories, educational tips
+
+4. X (Twitter): @metronagon
+   - Primary audience: Writing community, indie publishing professionals, AI art enthusiasts
+   - Content style: Short punchy text + video clips + image threads
+   - Best performing content: Portfolio images, industry insights, engagement threads
+
+
+BRAND IDENTITY
+---------------
+
+Brand Name: Metronagon Media
+Tagline: The Measure of Excellence (embedded in logo — do NOT use as separate text overlay)
+Website: metronagon.com
+Brand Colors: Gold (#d4af37) on deep black (#0a0a0a)
+Brand Voice: Confident, authoritative, earned — never salesy or desperate
+Avatar/Presenter: Haley (HeyGen AI avatar used across all video content)
+Music Direction: Orchestral, cinematic, building — Hans Zimmer / Thomas Bergersen energy
+
+Key Brand Messages:
+- "22 books. 3 series. The proof is the portfolio."
+- "Powered by AI, refined by craft."
+- "We built it for ourselves first, then offered it as a service."
+- "One partner, one vision, one delivery."
+- "The proof isn't a promise — it's a portfolio."
+
+What We NEVER Say in Videos:
+- Specific prices (drives people to the website instead)
+- "Cheap" or "affordable" (we are premium, not budget)
+- Apologies for using AI (we are confident about our pipeline)
+- Negative comparisons to specific competitors
+
+
+VIDEO CONTENT SERIES: CONFIDENCE SCRIPTS
+-----------------------------------------
+
+Six 60-second videos designed for cross-platform posting:
+
+Video 01: The Elevator Pitch
+  - Purpose: "What does Metronagon do?" — the definitive answer
+  - Best platforms: All platforms (this is the intro video)
+  - Pin on TikTok profile and use as YouTube channel intro
+
+Video 02: The Portfolio Showcase
+  - Purpose: Visual reel — let the work speak for itself
+  - Best platforms: TikTok, YouTube Shorts, Instagram Reels
+  - Highest viral potential due to rapid-fire visual portfolio
+
+Video 03: The Series Branding Story
+  - Purpose: Educational — why series consistency matters
+  - Best platforms: TikTok, YouTube Shorts
+  - High save/share potential because it teaches something
+
+Video 04: The Children's Book Magic
+  - Purpose: Showcase Pixar-quality children's book illustrations
+  - Best platforms: Facebook (parents/teachers), YouTube Shorts, Instagram Reels
+  - Best video for Facebook boosting — targets parents and gift-givers
+
+Video 05: The Full Pipeline Power
+  - Purpose: Business case — "why hire 5 freelancers when you need 1?"
+  - Best platforms: YouTube Shorts, Facebook
+  - High completion rate due to layered reveal structure
+
+Video 06: The Origin Story
+  - Purpose: Trust builder — credibility and brand narrative
+  - Best platforms: All platforms (most versatile)
+  - Crossover into #SmallBusiness and #Entrepreneur audiences
+
+
+POSTING SCHEDULE
+-----------------
+
+Week 1:
+  Monday    — Video 01 (Elevator Pitch) on ALL platforms
+  Thursday  — Video 02 (Portfolio Showcase) on ALL platforms
+
+Week 2:
+  Monday    — Video 03 (Series Branding) on ALL platforms
+  Thursday  — Video 04 (Children's Book) on ALL platforms
+
+Week 3:
+  Monday    — Video 05 (Full Pipeline) on ALL platforms
+  Thursday  — Video 06 (Origin Story) on ALL platforms
+
+Best Posting Times:
+  TikTok:   7-9 AM or 6-9 PM (user's timezone)
+  YouTube:  12-3 PM or 5-8 PM
+  Facebook: 9 AM-12 PM or 7-9 PM
+  X:        8-10 AM or 12-1 PM (lunchtime engagement)
+
+Post Order Matters:
+  1. TikTok first (fastest algorithm response)
+  2. YouTube Shorts second (slower but longer shelf life)
+  3. Facebook Reels third (best for boosting)
+  4. X last (text-first platform, video is supplementary)
+
+
+PLATFORM-SPECIFIC STRATEGIES
+------------------------------
+
+TIKTOK STRATEGY:
+  - Post 2-3 times per week minimum
+  - Use trending sounds ONLY if they complement the content (never override narration)
+  - Engage with #BookTok, #AuthorTok, #WritingCommunity daily
+  - Reply to every comment within the first hour of posting
+  - Pin Video 01 (Elevator Pitch) and Video 06 (Origin Story) to profile
+  - Use text overlays as scroll-stopping hooks on the first frame
+  - Follow and engage with indie authors, book reviewers, and writing coaches
+  - Stitch/Duet with popular BookTok creators when relevant
+  - TikTok SEO: Use keywords naturally in descriptions (TikTok search is growing)
+
+YOUTUBE STRATEGY:
+  - Create a playlist: "Metronagon Confidence Series" with all 6 Shorts
+  - YouTube Shorts have a longer shelf life than TikTok — they continue getting views for months
+  - Optimize titles for search (include keywords like "book cover design," "indie author")
+  - Descriptions should be detailed with links, service lists, and social media links
+  - Consider creating longer companion videos (2-5 min):
+    - Full 32-page children's book flip-through
+    - Behind the scenes: how the AI pipeline works
+    - Walkthrough of the Aztec series (all 12 covers)
+  - Enable all engagement features (comments, likes)
+  - Add end screens pointing to metronagon.com (when available for Shorts)
+
+FACEBOOK STRATEGY:
+  - Reels are the primary format — post all 6 videos as Reels
+  - Supplement with static image carousels (4-6 images from the portfolio)
+  - Share Reels to relevant Facebook groups:
+    - Indie author groups
+    - Self-publishing communities
+    - Book cover design appreciation groups
+    - Children's book author groups
+    - Small business / entrepreneur groups
+  - Facebook Ads/Boost strategy:
+    - Video 04 (Children's Book) is the #1 boost priority (parents are on Facebook)
+    - Video 01 (Elevator Pitch) is #2 (brand awareness)
+    - Start with $5-10 per boost, scale what works
+    - Target: Self-publishing, indie authors, book lovers, parents, teachers
+    - Age: 25-55
+    - Locations: United States, United Kingdom, Canada, Australia
+  - Create a "Featured Video" section on the page with Video 06 (Origin Story)
+  - Respond to every comment and message promptly
+
+X (TWITTER) STRATEGY:
+  - Post videos natively (upload directly, don't just share links)
+  - Supplement each video with a text thread breaking down the key message:
+    Example thread for Video 01:
+      Tweet 1: "What does Metronagon do? Here it is in 60 seconds." [video]
+      Tweet 2: "22 published books. 3 complete series. Every cover, portrait, and logo — built with the same pipeline we offer as a service."
+      Tweet 3: "Photorealistic fantasy covers. Cinematic character portraits. Cohesive series branding. Pixar-quality children's book illustrations."
+      Tweet 4: "The proof isn't a promise — it's a portfolio. metronagon.com"
+  - Engage with #WritingCommunity, #IndieAuthor, #SelfPublishing, #BookCoverDesign daily
+  - Retweet and reply to indie authors sharing their publishing journeys
+  - Share individual portfolio images as standalone tweets between video posts
+  - X is the best platform for direct engagement with potential clients
+  - Use polls: "Which matters more for a book series: consistent covers or a great series logo?"
+
+
+HASHTAG STRATEGY
+-----------------
+
+Core Hashtags (use on every post):
+  #Metronagon #BookCoverDesign #IndieAuthor #SelfPublishing #AIArt
+
+Rotating Hashtags (vary per post):
+  #BookTok #AuthorTok #WritingCommunity #BookDesign #IndiePublishing
+  #FantasyBooks #BookSeries #CoverDesign #BookMarketing #AuthorLife
+  #CreativeBusiness #ChildrensBook #PictureBook #KidLit #SeriesBranding
+  #SmallBusiness #BuildInPublic #Entrepreneur #StartupStory
+  #PhotorealisticArt #CinematicArt #FantasyArt #CoverReveal
+
+Platform-Specific Tags:
+  TikTok: #BookTok #AuthorTok (these are communities, not just tags)
+  YouTube: #Shorts (required for YouTube Shorts algorithm)
+  Facebook: Fewer hashtags needed — 5-8 is optimal
+  X: 2-3 hashtags max per tweet (X penalizes hashtag overuse)
+
+
+ENGAGEMENT RULES
+-----------------
+
+1. Reply to every comment within the first hour of posting (boosts algorithm on all platforms)
+2. Never ignore a question — even skeptical ones. Reply with confidence and warmth.
+3. When someone asks about pricing: "Check out metronagon.com for all our packages!"
+4. When someone asks "is this really AI?": "Yes — AI powered, human refined. That's our pipeline."
+5. When someone is skeptical: "We understand. That's why every image on our site is real, published work."
+6. Pin the best comment or your own comment that adds value
+7. Follow back indie authors and writing community accounts
+8. Like and comment on potential clients' content (genuine engagement, not spam)
+9. Share/retweet client testimonials when available
+10. Never argue with trolls — one professional response, then move on
+
+
+CONTENT CALENDAR (BEYOND THE 6 VIDEOS)
+----------------------------------------
+
+After the initial 6 Confidence Scripts are posted, continue with:
+
+Weekly Content Ideas:
+  - Monday: Portfolio image post (single stunning image with caption)
+  - Wednesday: Educational tip (series branding, cover design, publishing advice)
+  - Friday: Video content (repurpose Confidence Scripts clips or create new content)
+
+Monthly Content Ideas:
+  - Client spotlight / testimonial video
+  - Before/after series branding transformation
+  - "How we made this" process reveal
+  - New portfolio additions
+  - Industry insights or trends
+
+Evergreen Content (repost quarterly):
+  - Video 01 (Elevator Pitch) — always relevant
+  - Video 06 (Origin Story) — builds trust with new followers
+  - Children's book page carousels — consistently high engagement
+
+
+METRICS TO TRACK
+-----------------
+
+Weekly:
+  - Views per video (across all platforms)
+  - Engagement rate (likes + comments + shares / views)
+  - Profile visits (indicates curiosity about the brand)
+  - Website clicks from social (track in Google Analytics)
+
+Monthly:
+  - Follower growth per platform
+  - Best performing video (to inform future content)
+  - Best performing platform (to allocate more effort)
+  - DMs and inquiries received
+  - Conversions: social media visitor to website visitor to client inquiry
+
+Key Performance Indicators:
+  - TikTok: Views and completion rate (do people watch the whole 60 seconds?)
+  - YouTube: Click-through rate and average view duration
+  - Facebook: Shares and comments (Facebook rewards social interaction)
+  - X: Retweets, replies, and profile clicks
+
+
+COMPETITIVE POSITIONING
+-------------------------
+
+Metronagon is NOT:
+  - A cheap cover design service
+  - A template marketplace
+  - A solo freelancer who might disappear
+  - An AI tool that authors use themselves
+
+Metronagon IS:
+  - A premium, full-service creative studio
+  - Backed by a real, published portfolio of 22 books
+  - AI-powered but human-refined (the pipeline is the product)
+  - The only service that thinks in SERIES, not single covers
+  - Proven across 4 completely different genres
+
+When a competitor comes up in conversation:
+  - Never badmouth them
+  - Simply say: "Our portfolio speaks for itself. Check metronagon.com."
+  - The 22-book portfolio is the ultimate competitive advantage — no one else has built their proof this thoroughly

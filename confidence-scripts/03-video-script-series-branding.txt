@@ -13,16 +13,16 @@ VIDEO SPECIFICATIONS
 
 HEYGEN AVATAR SETTINGS
 
-  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Avatar: Haley
   Appearance time: 0:00-0:05 (opening) and 0:52-0:60 (closing)
   Attire: Dark blazer, premium minimal look
   Expression: Opening: "We're about to teach you something" — knowing, direct. Closing: confident, authoritative close
 
 HEYGEN VOICE SETTINGS
 
-  Voice style: Creative director explaining a concept — authoritative but educational, not preachy
+  Voice: Haley — creative director explaining a concept, authoritative but educational, not preachy
   Pace: ~150 words per minute — slightly faster during the series reveal section to match the building visual energy
-  Emphasis words: "twelve books," "same," "system," "three completely different," "we build series brands," "two-fifty"
+  Emphasis words: "twelve books," "same," "system," "three completely different," "we build series brands"
   Pauses: Brief pause after "looks amateur" (0:12), dramatic pause at 0:48-0:52 (logos landing)
   Tone shift: Slightly critical/concerned during "looks amateur" (0:05-0:12), then pride and confidence from 0:12 onward
 
@@ -354,7 +354,7 @@ SHOT 27 | 0:56 - 0:60 | IMAGE — Logo + URL
   Motion: Slow zoom in (2% over 4s), subtle gold glow on logo
   Transition In: 0.5s crossfade from avatar
   Transition Out: Hold through end of video
-  Narration: "Starting at two-fifty. Metronagon dot com."
+  Narration: "Metronagon dot com."
 
 =======================================================
 PLAIN NARRATION SCRIPT
@@ -371,4 +371,4 @@ A series logo that anchors the brand. A box set cover that sells all twelve as o
 
 Different genre? Different mood? Same precision. Self-improvement series — authoritative, clean, powerful. Philosophical essays — contemplative, restrained, intellectual. Three completely different visual languages — all built with the same pipeline.
 
-This is what we do. We don't design covers — we build series brands. Starting at two-fifty. Metronagon dot com.
+This is what we do. We don't design covers — we build series brands. Metronagon dot com.

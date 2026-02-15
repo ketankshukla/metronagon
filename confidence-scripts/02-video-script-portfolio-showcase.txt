@@ -13,14 +13,14 @@ VIDEO SPECIFICATIONS
 
 HEYGEN AVATAR SETTINGS
 
-  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Avatar: Haley
   Appearance time: Only 0:00-0:04 and 0:52-0:60 — the middle 48 seconds are voiceover only
   Attire: Dark blazer or black crew neck — clean, minimal
   Expression: Opening: inviting, "watch this" energy. Closing: confident, direct, "now you know" energy
 
 HEYGEN VOICE SETTINGS
 
-  Voice style: Cinematic narrator — deeper register, slightly slower pace, weight behind every word - use Haley character and voice.
+  Voice: Haley — cinematic narrator, deeper register, slightly slower pace, weight behind every word
   Pace: ~145 words per minute — slower than Script 01 because the images need room to breathe
   Emphasis words: "twenty-two books," "photorealistic," "cinematic," "world-building," "Pixar-quality," "every single page," "we created it"
   Pauses: 2-second pause at 0:04-0:07 (logo reveal), 1-second pause at 0:50-0:52 (logos landing)

@@ -1,0 +1,60 @@
+TIKTOK UPLOAD GUIDE: VIDEO 04 — THE CHILDREN'S BOOK MAGIC
+==========================================================
+
+VIDEO FILE: 04-video-script-childrens-book (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open TikTok app and tap the + button at the bottom center
+2. Tap "Upload" (bottom right) and select the exported video file
+3. The video should be 9:16 portrait, 60 seconds — TikTok will accept this natively
+4. Trim if needed — ensure the video starts clean and ends on the logo
+5. Tap "Next" to proceed to the editing screen
+
+6. ADD SOUND: Set to "Original sound" — the video already has warm orchestral music baked in
+   Do NOT add a TikTok sound over the top
+
+7. ADD TEXT (optional on-screen text):
+   - Add a text overlay at the very start (first 1-2 seconds): "AI made this children's book"
+   - Font: Bold, white or gold
+   - The disbelief hook drives curiosity taps
+
+8. ADD COVER IMAGE:
+   - Select a frame showing one of the vibrant children's book pages (around 0:06-0:10) as the thumbnail
+   - The colorful illustration will pop in the TikTok feed and attract taps
+
+9. Tap "Next" to go to the post screen
+
+POST DETAILS
+-------------
+
+DESCRIPTION (copy-paste this):
+Most people don't believe AI can create a children's picture book this good. 32 pages. Consistent characters on every single page. Same face, same proportions, page 1 through page 32. That's the hardest thing to achieve — and we've solved it.
+
+#ChildrensBook #PictureBook #BookTok #KidLit #AIIllustration #ChildrensAuthor #KidsBooks #BookDesign #AIArt #SelfPublishing #ChildrensIllustration #IndieAuthor #WritingCommunity #PictureBookArt #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- WHO CAN VIEW: Everyone
+- ALLOW COMMENTS: On
+- ALLOW DUETS: On
+- ALLOW STITCHES: On
+- SAVE TO DEVICE: On
+- ADD TOPICS: Children's Books, Picture Books, AI Illustration, Kids Books, Self Publishing
+- SCHEDULE: Post 2-3 days after Video 03
+
+POSTING STRATEGY
+-----------------
+
+- This is Video 4 of 6 — the "wow factor" video
+- The colorful illustrations create a strong visual contrast in the TikTok feed
+- This video will attract parents, teachers, and children's book authors
+- High potential for shares — parents share content about children's books
+- Add a comment after posting: "Yes, AI made every single page. And the characters are consistent throughout."
+- Reply to skeptics with warmth: "We were surprised too. Check out the full portfolio at metronagon.com"
+
+KEYWORDS FOR TIKTOK SEARCH:
+children's book illustration, AI illustration, picture book, kids books, children's author, self publishing, AI art, consistent characters, picture book art

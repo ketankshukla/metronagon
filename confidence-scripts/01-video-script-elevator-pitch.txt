@@ -13,16 +13,16 @@ VIDEO SPECIFICATIONS
 
 HEYGEN AVATAR SETTINGS
 
-  Avatar type: Professional male presenter (or custom Ketan avatar if available)
+  Avatar: Haley
   Attire: Dark blazer or black button-down shirt — premium, minimal
   Expression: Confident, steady eye contact, slight natural gestures
   Posture: Upright, shoulders back, commanding but approachable
 
 HEYGEN VOICE SETTINGS
 
-  Voice style: Deep, measured, conversational authority — NOT a yelling salesman
+  Voice: Haley — deep, measured, conversational authority — NOT a yelling salesman
   Pace: ~155 words per minute (the script is ~175 words, fits 60 seconds with natural pauses)
-  Emphasis words: "twenty-two," "three complete series," "same pipeline," "professional publishing house," "seventy-five dollars," "the measure of excellence"
+  Emphasis words: "twenty-two," "three complete series," "same pipeline," "professional publishing house," "the measure of excellence"
   Pauses: Brief pause after "refined by craft" (0:12), after "print-ready" (0:34), after "all real" (0:58)
 
 HEYGEN BACKGROUND
@@ -327,7 +327,7 @@ SHOT 24 | 0:46 - 0:52 | AVATAR — Pricing & Proof
   Motion: Static presenter, confident natural gestures
   Transition In: 0.5s crossfade from panoramic images to full-screen presenter
   Transition Out: 0.5s crossfade to Metronagon logo
-  Narration: "Covers start at seventy-five dollars. Full series pipelines go up to fifteen hundred. Everything is delivered in days, not weeks. The proof is the portfolio — twenty-two books, three series, all live, all real."
+  Narration: "Everything is delivered in days, not weeks. The proof is the portfolio — twenty-two books, three series, all live, all real. Visit us at Metronagon dot com."
 
 ----------------------------------------------------------------------
 SHOT 25 | 0:52 - 0:60 | IMAGE — Logo + URL
@@ -354,6 +354,6 @@ We're talking photorealistic fantasy covers. Cinematic character portraits. Cohe
 
 What makes us different? We don't just design a cover. We think in series. Logos, box sets, panoramic art, YouTube thumbnails, style guides — everything an author needs to look like a professional publishing house, not a solo operation.
 
-Covers start at seventy-five dollars. Full series pipelines go up to fifteen hundred. Everything is delivered in days, not weeks. The proof is the portfolio — twenty-two books, three series, all live, all real.
+Everything is delivered in days, not weeks. The proof is the portfolio — twenty-two books, three series, all live, all real. Visit us at Metronagon dot com.
 
 Metronagon dot com. The measure of excellence.

@@ -1,0 +1,64 @@
+YOUTUBE SHORTS UPLOAD GUIDE: VIDEO 01 — THE ELEVATOR PITCH
+============================================================
+
+VIDEO FILE: 01-video-script-elevator-pitch (exported from HeyGen)
+CHANNEL: Metronagon YouTube Channel
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Go to studio.youtube.com or open the YouTube Studio app
+2. Click the CREATE button (top right) and select "Upload videos"
+3. Drag and drop or select the exported video file
+4. The video must be 9:16 portrait and under 60 seconds — YouTube will automatically classify it as a Short
+
+DETAILS TAB
+------------
+
+TITLE (copy-paste this):
+22 Books. 3 Series. One Pipeline. | Metronagon
+
+DESCRIPTION (copy-paste this):
+At Metronagon Media, we create professional book covers, series branding, and complete publishing packages for authors — powered by AI, refined by craft.
+
+We built this business by doing it ourselves first. Twenty-two published books. Three complete series. Every single cover, every character portrait, every logo — created with the same pipeline we now offer as a service.
+
+Visit us: https://metronagon.com
+
+WHAT WE DO:
+- Photorealistic fantasy book covers
+- Cinematic character portraits
+- Cohesive series branding
+- Pixar-quality children's book illustrations
+- Complete publishing packages
+
+FOLLOW US:
+TikTok: @metronagon
+Facebook: Metronagon
+X: @metronagon
+
+#BookCoverDesign #IndieAuthor #SelfPublishing #BookCovers #AIArt #BookTok #AuthorLife #BookDesign #FantasyBooks #BookSeries #WritingCommunity #Metronagon #Shorts
+
+TAGS (add these in the tags field):
+book cover design, indie author, self publishing, book covers, AI art, book series, fantasy covers, author services, metronagon, book design, indie publishing, writing community, book marketing
+
+VISIBILITY TAB
+---------------
+
+- VISIBILITY: Public
+- SCHEDULE: Post between 12-3 PM or 5-8 PM for maximum reach
+- This should be the FIRST Short uploaded to establish the channel's content direction
+
+THUMBNAIL
+----------
+
+YouTube auto-generates thumbnails for Shorts. Select the frame showing one of the dramatic book covers (around 0:08-0:10) if given the option.
+
+POSTING STRATEGY
+-----------------
+
+- This is Short 1 of 6 — upload this first
+- Add it to a playlist called "Metronagon Confidence Series"
+- YouTube Shorts algorithm favors consistent posting — upload every 2-3 days
+- Engage with comments in the first 2 hours to boost the algorithm
+- If someone asks about pricing, reply: "Check out metronagon.com for all our packages!"

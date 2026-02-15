@@ -1,0 +1,60 @@
+TIKTOK UPLOAD GUIDE: VIDEO 05 — THE FULL PIPELINE POWER
+=========================================================
+
+VIDEO FILE: 05-video-script-full-pipeline (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open TikTok app and tap the + button at the bottom center
+2. Tap "Upload" (bottom right) and select the exported video file
+3. The video should be 9:16 portrait, 60 seconds — TikTok will accept this natively
+4. Trim if needed — ensure the video starts clean and ends on the logo
+5. Tap "Next" to proceed to the editing screen
+
+6. ADD SOUND: Set to "Original sound" — the video already has percussive orchestral music baked in
+   Do NOT add a TikTok sound over the top
+
+7. ADD TEXT (optional on-screen text):
+   - Add a text overlay at the very start (first 1-2 seconds): "5 layers. 1 pipeline. Everything your book needs."
+   - Font: Bold, white or gold
+   - The numbered list hook drives curiosity
+
+8. ADD COVER IMAGE:
+   - Select a frame showing the "THE FULL PIPELINE" gold text on black (around 0:36-0:38) as the thumbnail
+   - Or use a frame of one of the striking book covers
+
+9. Tap "Next" to go to the post screen
+
+POST DETAILS
+-------------
+
+DESCRIPTION (copy-paste this):
+Most authors hire 5 different freelancers to launch a series. You only need one. Covers. Branding. Series architecture. Character design. Children's books. One partner, one vision, one delivery. That's the Full Pipeline.
+
+#SelfPublishing #BookSeries #IndieAuthor #BookTok #BookCoverDesign #AuthorLife #WritingCommunity #BookMarketing #IndiePublishing #AuthorTok #BookDesign #FullService #CreativeBusiness #AIArt #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- WHO CAN VIEW: Everyone
+- ALLOW COMMENTS: On
+- ALLOW DUETS: On
+- ALLOW STITCHES: On
+- SAVE TO DEVICE: On
+- ADD TOPICS: Self Publishing, Book Series, Author Services, Indie Publishing, Book Design
+- SCHEDULE: Post 2-3 days after Video 04
+
+POSTING STRATEGY
+-----------------
+
+- This is Video 5 of 6 — the business case video
+- The layered structure makes this highly watchable — each layer reveal keeps viewers engaged
+- High completion rate potential because of the "what's the next layer?" curiosity
+- Target indie author groups by engaging with #WritingCommunity and #AuthorTok content
+- Add a comment after posting: "Which layer would help your book the most? Drop it below"
+- This drives engagement and helps identify potential customers
+
+KEYWORDS FOR TIKTOK SEARCH:
+self publishing services, book series launch, indie author services, book cover design, author branding, full service publishing, book design, writing community

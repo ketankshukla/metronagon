@@ -1,0 +1,53 @@
+FACEBOOK REELS UPLOAD GUIDE: VIDEO 05 — THE FULL PIPELINE POWER
+=================================================================
+
+VIDEO FILE: 05-video-script-full-pipeline (exported from HeyGen)
+PAGE: Metronagon Facebook Page
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Go to your Metronagon Facebook Page
+2. Click "Reels" or Create > Reel
+3. Click "Upload video" and select the exported video file
+4. Preview to ensure it plays correctly
+
+5. ADD MUSIC: Skip — video has percussive orchestral music baked in
+6. EDIT COVER: Select the "THE FULL PIPELINE" gold text frame (around 0:36-0:38) or a book cover
+
+POST DETAILS
+-------------
+
+CAPTION (copy-paste this):
+Most authors hire 5 different freelancers to launch a series. You only need one.
+
+Layer 1: Covers — photorealistic, genre-accurate, Amazon-ready
+Layer 2: Branding — series logos, style guides, visual identity systems
+Layer 3: Series Architecture — chapter outlines, continuity plans, cross-book arc design
+Layer 4: Character Design — photorealistic portraits with consistent style
+Layer 5: Children's Books — 32 illustrated pages, consistent characters, print-ready
+
+Stack them all together — that's the Full Pipeline. One partner, one vision, one delivery. No coordination headaches. No style mismatches.
+
+We've done it 3 times. 3 different genres. 3 complete series. 22 books. The proof isn't a promise — it's a portfolio.
+
+Visit metronagon.com to explore our Full Pipeline packages.
+
+#SelfPublishing #BookSeries #IndieAuthor #BookCoverDesign #AuthorLife #WritingCommunity #BookMarketing #IndiePublishing #BookDesign #FullService #CreativeBusiness #AIArt #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- AUDIENCE: Public
+- ALLOW SHARING: Yes
+- BOOST POST: Consider boosting targeting indie author groups and self-publishing communities
+
+POSTING STRATEGY
+-----------------
+
+- This is Reel 5 of 6 — post 2-3 days after Reel 04
+- The layered structure makes this informative and easy to follow
+- Facebook audiences appreciate structured, clear information
+- Share to indie author and self-publishing Facebook groups
+- The "you only need one" message resonates with overwhelmed self-publishers on Facebook
+- Pin a comment: "Which layer would help your book the most? Drop it below."

@@ -1,0 +1,61 @@
+TIKTOK UPLOAD GUIDE: VIDEO 01 — THE ELEVATOR PITCH
+====================================================
+
+VIDEO FILE: 01-video-script-elevator-pitch (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open TikTok app and tap the + button at the bottom center
+2. Tap "Upload" (bottom right) and select the exported video file
+3. The video should be 9:16 portrait, 60 seconds — TikTok will accept this natively
+4. Trim if needed — ensure the video starts clean and ends on the logo
+5. Tap "Next" to proceed to the editing screen
+
+6. ADD SOUND: Set to "Original sound" — the video already has orchestral music baked in
+   Do NOT add a TikTok sound over the top — it will clash with the narration
+
+7. ADD TEXT (optional on-screen text):
+   - Add a text overlay at the very start (first 1-2 seconds): "What does Metronagon do?"
+   - Font: Bold, white or gold
+   - This acts as a hook for scrollers
+
+8. ADD COVER IMAGE:
+   - Select a frame showing one of the book covers (around 0:08-0:10) as the cover thumbnail
+   - This is what people see before they tap — make it visually striking
+
+9. Tap "Next" to go to the post screen
+
+POST DETAILS
+-------------
+
+DESCRIPTION (copy-paste this):
+We create professional book covers, series branding, and complete publishing packages for authors — powered by AI, refined by craft. 22 books. 3 series. The proof is the portfolio.
+
+#BookTok #BookCoverDesign #IndieAuthor #AIArt #BookCovers #SelfPublishing #AuthorTok #BookDesign #IndiePublishing #WritingCommunity #BookMarketing #CoverDesign #FantasyBooks #BookSeries #AuthorLife #AIDesign #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- WHO CAN VIEW: Everyone
+- ALLOW COMMENTS: On
+- ALLOW DUETS: On
+- ALLOW STITCHES: On
+- SAVE TO DEVICE: On
+- DISCLOSE CONTENT: If required by TikTok, disclose as "Brand organic" (this is your own brand content)
+- ADD TOPICS: Book Cover Design, Self Publishing, Indie Authors, AI Art
+- ADD LOCATION: (optional — add your city if you want local reach)
+- SCHEDULE: Post between 7-9 AM or 6-9 PM in your timezone for maximum reach
+
+POSTING STRATEGY
+-----------------
+
+- This is Video 1 of 6 — post this FIRST as it introduces the brand
+- Pin this to your profile as the first pinned video
+- After posting, immediately go to your profile and tap the pin icon on this video
+- Reply to any comments within the first hour to boost engagement
+- If someone asks about pricing, reply: "Check out metronagon.com for all our packages!"
+
+KEYWORDS FOR TIKTOK SEARCH (use in description naturally):
+book cover design, indie author, self publishing, book covers, AI art, book series, fantasy covers, author services

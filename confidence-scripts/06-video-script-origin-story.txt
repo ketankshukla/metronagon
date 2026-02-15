@@ -13,14 +13,14 @@ VIDEO SPECIFICATIONS
 
 HEYGEN AVATAR SETTINGS
 
-  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Avatar: Haley
   Appearance time: 0:00-0:06 (opening), 0:44-0:55 (closing monologue) — more presenter time than other scripts
   Attire: Dark crew neck or blazer — premium but approachable
   Expression: Opening: reflective, genuine, "let us tell you something real." Closing: quiet power, absolute conviction, earned confidence
 
 HEYGEN VOICE SETTINGS
 
-  Voice style: Personal and reflective in the opening — lower volume, slower pace, like sharing something meaningful. Builds to confident authority by the close.
+  Voice: Haley — personal and reflective in the opening, lower volume, slower pace, like sharing something meaningful. Builds to confident authority by the close.
   Pace: Starts slower (~140 wpm for 0:00-0:06), accelerates to ~155 wpm through the middle, slows slightly for closing conviction
   Emphasis words: "we built something," "from scratch," "not outsourced, not templated — built," "same pipeline, same standard," "already done," "every cover is real," "the measure of excellence"
   Pauses: 1-second pause after "needed it too" (0:06), brief pause after "Built." (0:25), 1-second pause after "This is a service." (0:44), final pause before tagline (0:55)

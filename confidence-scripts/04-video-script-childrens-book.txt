@@ -13,16 +13,16 @@ VIDEO SPECIFICATIONS
 
 HEYGEN AVATAR SETTINGS
 
-  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Avatar: Haley
   Appearance time: 0:00-0:05 (opening) and 0:50-0:60 (closing)
   Attire: Dark crew neck or casual blazer — slightly warmer than the other scripts
   Expression: Opening: "you won't believe this" — slightly playful, inviting. Closing: warm, proud, genuine
 
 HEYGEN VOICE SETTINGS
 
-  Voice style: Warmer than the other scripts — still authoritative but with genuine enthusiasm and wonder
+  Voice: Haley — warmer than the other scripts, still authoritative but with genuine enthusiasm and wonder
   Pace: ~148 words per minute — the narration is slightly longer, so pace needs to be measured but natural
-  Emphasis words: "Pixar-quality," "every single page," "same face, same proportions," "hardest thing to achieve," "we've solved it," "five hundred dollars"
+  Emphasis words: "Pixar-quality," "every single page," "same face, same proportions," "hardest thing to achieve," "we've solved it"
   Pauses: Brief pause after "So let us just show you" (0:05), dramatic beat after "we've solved it" (0:33), pause at 0:48-0:50
   Tone: More emotional warmth than the other scripts — this is about creating something beautiful for someone's child
 
@@ -241,7 +241,7 @@ SHOT 14 | 0:50 - 0:55 | AVATAR — Closing Statement
   Motion: Static presenter, warm natural gestures
   Transition In: 0.5s crossfade from book cover — back to the dark intimate setting
   Transition Out: 0.5s crossfade to Metronagon logo
-  Narration: "Children's picture books. Starting at five hundred dollars. From concept to print-ready in five business days."
+  Narration: "Children's picture books. From concept to print-ready in five business days. Visit Metronagon dot com."
 
 ----------------------------------------------------------------------
 SHOT 15 | 0:55 - 0:60 | IMAGE — Logo + Call to Action
@@ -270,4 +270,4 @@ Story written. Pages illustrated. PDF assembled and print-ready. One complete pa
 
 And this isn't our only style. The same pipeline that creates children's illustrations also produces cinematic fantasy covers and photorealistic character portraits. The range is the proof.
 
-Children's picture books. Starting at five hundred dollars. From concept to print-ready in five business days. Metronagon dot com.
+Children's picture books. From concept to print-ready in five business days. Visit Metronagon dot com.

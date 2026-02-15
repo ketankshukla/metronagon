@@ -1,0 +1,68 @@
+FACEBOOK REELS UPLOAD GUIDE: VIDEO 01 — THE ELEVATOR PITCH
+============================================================
+
+VIDEO FILE: 01-video-script-elevator-pitch (exported from HeyGen)
+PAGE: Metronagon Facebook Page
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Go to your Metronagon Facebook Page
+2. Click "Reels" in the left sidebar (or click Create > Reel)
+3. Click "Upload video" and select the exported video file
+4. The video should be 9:16 portrait, 60 seconds — Facebook Reels accepts this natively
+5. Preview the video to ensure it plays correctly
+
+6. ADD MUSIC: Skip — the video already has orchestral music baked in
+   Do NOT add Facebook music over the top
+
+7. ADD TEXT/EFFECTS (optional):
+   - You can add a text overlay at the start: "What does Metronagon do?"
+   - Keep it clean and professional — avoid stickers or excessive effects
+
+8. EDIT COVER:
+   - Select a visually striking frame showing one of the book covers as the thumbnail
+   - This is what appears in the Reels tab on your page
+
+POST DETAILS
+-------------
+
+CAPTION (copy-paste this):
+At Metronagon Media, we create professional book covers, series branding, and complete publishing packages for authors — powered by AI, refined by craft.
+
+22 published books. 3 complete series. Every single cover, every character portrait, every logo — created with the same pipeline we now offer as a service.
+
+Photorealistic fantasy covers. Cinematic character portraits. Cohesive series branding. Pixar-quality children's book illustrations — 32 pages, consistent characters, assembled and print-ready.
+
+Everything is delivered in days, not weeks. The proof is the portfolio.
+
+Visit metronagon.com to see our full portfolio and explore our services.
+
+#BookCoverDesign #IndieAuthor #SelfPublishing #BookCovers #AIArt #BookDesign #FantasyBooks #BookSeries #WritingCommunity #AuthorLife #IndiePublishing #BookMarketing #CoverDesign #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- AUDIENCE: Public
+- ALLOW SHARING: Yes
+- FEELING/ACTIVITY: (optional) "feeling confident"
+- LOCATION: (optional) Add your city
+- TAG PRODUCTS: Not applicable
+- BOOST POST: Consider boosting with $5-10 to target:
+  Interests: Self-publishing, Indie authors, Book cover design, Writing, Fantasy books
+  Age: 25-55
+  Location: United States, United Kingdom, Canada, Australia
+
+POSTING STRATEGY
+-----------------
+
+- This is Reel 1 of 6 — post this first to introduce Metronagon on Facebook
+- Facebook Reels have lower competition than TikTok — your content stands out more
+- Post between 9 AM - 12 PM or 7 PM - 9 PM for maximum reach
+- Share the Reel to relevant Facebook groups:
+  - Indie author groups
+  - Self-publishing communities
+  - Book cover design groups
+  - Writing communities
+- Reply to every comment within the first hour
+- If someone asks about pricing, reply: "Check out metronagon.com for all our packages and pricing!"

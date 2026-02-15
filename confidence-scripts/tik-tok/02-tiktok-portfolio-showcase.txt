@@ -1,0 +1,59 @@
+TIKTOK UPLOAD GUIDE: VIDEO 02 — THE PORTFOLIO SHOWCASE
+=======================================================
+
+VIDEO FILE: 02-video-script-portfolio-showcase (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open TikTok app and tap the + button at the bottom center
+2. Tap "Upload" (bottom right) and select the exported video file
+3. The video should be 9:16 portrait, 60 seconds — TikTok will accept this natively
+4. Trim if needed — ensure the video starts clean and ends on the logo
+5. Tap "Next" to proceed to the editing screen
+
+6. ADD SOUND: Set to "Original sound" — the video already has epic orchestral music baked in
+   Do NOT add a TikTok sound over the top
+
+7. ADD TEXT (optional on-screen text):
+   - Add a text overlay at the very start (first 1-2 seconds): "22 books of experience in 60 seconds"
+   - Font: Bold, white or gold
+   - This is a scroll-stopper hook
+
+8. ADD COVER IMAGE:
+   - Select a frame showing one of the stunning Aztec book covers (around 0:08-0:12) as the thumbnail
+   - Choose the most visually dramatic cover for maximum tap-through
+
+9. Tap "Next" to go to the post screen
+
+POST DETAILS
+-------------
+
+DESCRIPTION (copy-paste this):
+Let us show you what 22 books of experience looks like. Every cover photorealistic. Every composition cinematic. This is not clip art — this is world-building.
+
+#BookTok #BookCoverDesign #IndieAuthor #FantasyArt #BookCovers #CoverReveal #AIArt #SelfPublishing #AuthorTok #BookDesign #FantasyBooks #CinematicArt #BookSeries #WritingCommunity #IndiePublishing #PhotorealisticArt #Metronagon
+
+ADDITIONAL SETTINGS
+--------------------
+
+- WHO CAN VIEW: Everyone
+- ALLOW COMMENTS: On
+- ALLOW DUETS: On
+- ALLOW STITCHES: On
+- SAVE TO DEVICE: On
+- ADD TOPICS: Book Cover Design, Fantasy Art, Self Publishing, AI Art, Indie Authors
+- SCHEDULE: Post 2-3 days after Video 01 — maintain a consistent posting rhythm
+
+POSTING STRATEGY
+-----------------
+
+- This is Video 2 of 6 — the visual showstopper
+- This video has the HIGHEST viral potential because of the rapid-fire visual portfolio
+- Do NOT pin this — keep Video 01 (Elevator Pitch) pinned as the intro
+- Reply to comments asking "how did you make these?" with: "AI + craft. Check metronagon.com"
+- If this video gets traction, consider boosting it with TikTok Promote ($5-20 budget)
+
+KEYWORDS FOR TIKTOK SEARCH:
+book cover design, fantasy book covers, photorealistic art, AI art, indie author services, book cover reveal, cinematic art, character portraits

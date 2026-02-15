@@ -13,16 +13,16 @@ VIDEO SPECIFICATIONS
 
 HEYGEN AVATAR SETTINGS
 
-  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Avatar: Haley
   Appearance time: 0:00-0:04 (opening) and 0:50-0:60 (closing)
   Attire: Dark blazer, sharp — this is the most "business" script of the six
   Expression: Opening: decisive, "listen up" energy. Closing: confident, commanding close
 
 HEYGEN VOICE SETTINGS
 
-  Voice style: Structured and precise — each layer delivered with clear articulation, like building blocks snapping together
+  Voice: Haley — structured and precise, each layer delivered with clear articulation, like building blocks snapping together
   Pace: ~160 words per minute — this script is information-dense, needs a slightly faster clip while maintaining clarity
-  Emphasis words: "one," "layer one/two/three/four/five," "Full Pipeline," "one partner, one vision, one delivery," "four hundred dollars," "delivered in days"
+  Emphasis words: "one," "layer one/two/three/four/five," "Full Pipeline," "one partner, one vision, one delivery," "delivered in days"
   Pauses: Very brief pauses between layers — just enough for the text overlay to land, then immediately into the next. Longer pause at 0:36 before "Stack them all together"
   Tone: Build energy with each layer — start controlled, end powerful
 
@@ -150,7 +150,7 @@ SHOT 03c | 0:08.6 - 0:10 | IMAGE — Layer 1: Aztec Book 09
   Motion: Slow zoom out (2% over 1.4s)
   Transition In: 0.3s dissolve
   Transition Out: 0.3s dissolve as next text label snaps in
-  Narration: "Starting at seventy-five dollars."
+  Narration: (beat — cover lingers as text label snaps in)
 
 ----------------------------------------------------------------------
 SHOT 04 | 0:10 - 0:12 | TEXT — Layer 2 Label
@@ -432,7 +432,7 @@ SHOT 16 | 0:50 - 0:55 | AVATAR — Closing Statement
   Motion: Static presenter, commanding posture, direct eye contact
   Transition In: 0.5s crossfade from logo to full-screen presenter
   Transition Out: 0.5s crossfade to Metronagon logo
-  Narration: "Full Pipeline packages start at four hundred dollars. Everything your series needs — delivered in days."
+  Narration: "Everything your series needs — delivered in days. Visit Metronagon dot com."
 
 ----------------------------------------------------------------------
 SHOT 17 | 0:55 - 0:60 | IMAGE — Logo + URL
@@ -453,7 +453,7 @@ PLAIN NARRATION SCRIPT
 
 Most authors hire five different freelancers to launch a series. You only need one.
 
-Layer one — covers. Photorealistic, genre-accurate, Amazon-ready. Three concepts, one polished final. Starting at seventy-five dollars.
+Layer one — covers. Photorealistic, genre-accurate, Amazon-ready. Three concepts, one polished final.
 
 Layer two — branding. Series logos, style guides, visual identity systems that make every book in your series unmistakably part of the same family.
 
@@ -467,4 +467,4 @@ Stack them all together — that's the Full Pipeline. Covers, branding, planning
 
 We've done it three times. Three different genres. Three complete series. Twenty-two books. The proof isn't a promise — it's a portfolio.
 
-Full Pipeline packages start at four hundred dollars. Everything your series needs — delivered in days. Metronagon dot com.
+Everything your series needs — delivered in days. Visit Metronagon dot com.
