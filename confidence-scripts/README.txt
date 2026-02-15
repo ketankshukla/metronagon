@@ -4,21 +4,21 @@ Metronagon Confidence Scripts
 
 Folder Structure
 
-Each script has 3 files + its own image folder:
+Each script is ONE unified file + its own image folder:
 
-  XX-script-name.txt              Full production document with image timing, visual direction, music cues, and narration
-  XX-script-name-heygen-metadata.txt   HeyGen-specific settings: avatar, voice, background, music, and image overlay instructions
-  XX-script-name-plain.txt        Clean narration text only — copy-paste directly into HeyGen's script field
-  XX-images/                      Folder containing ONLY the images that script uses — drag and drop the whole folder into HeyGen
+  XX-video-script-name.txt        Complete production document: HeyGen settings, shot-by-shot timeline with
+                                  precise transitions between AI avatar and images, music cues, and plain
+                                  narration script at the bottom for copy-paste into HeyGen
+  XX-images/                      Folder containing ONLY the images that script uses — drag and drop into HeyGen
 
 Scripts
 
-  01  The Elevator Pitch          In-person / All platforms       "What is Metronagon?" — the 60-second answer to anyone who asks
-  02  The Portfolio Showcase       TikTok / YouTube Shorts         Visual reel of book covers with cinematic narration
-  03  The Series Branding Story    TikTok / YouTube Shorts         How consistent branding transforms a book series
-  04  The Children's Book Magic    Facebook / YouTube Shorts       Pixar-quality children's book illustration showcase
-  05  The Full Pipeline            YouTube Shorts / Facebook       End-to-end "we do everything" power pitch
-  06  The Origin Story             All platforms                   Credibility pitch — 22 books, 3 series, the proof is the product
+  01-video-script-elevator-pitch.txt       In-person / All platforms       "What is Metronagon?" — the 60-second answer
+  02-video-script-portfolio-showcase.txt    TikTok / YouTube Shorts         Visual reel of book covers with cinematic narration
+  03-video-script-series-branding.txt       TikTok / YouTube Shorts         How consistent branding transforms a book series
+  04-video-script-childrens-book.txt        Facebook / YouTube Shorts       Pixar-quality children's book illustration showcase
+  05-video-script-full-pipeline.txt         YouTube Shorts / Facebook       End-to-end "we do everything" power pitch
+  06-video-script-origin-story.txt          All platforms                   Credibility pitch — 22 books, 3 series, proof is the product
 
 Per-Script Image Folders
 

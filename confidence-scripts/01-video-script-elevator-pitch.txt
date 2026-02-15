@@ -1,0 +1,254 @@
+METRONAGON VIDEO SCRIPT 01: THE ELEVATOR PITCH
+================================================
+
+VIDEO SPECIFICATIONS
+
+  Duration: 60 seconds
+  Aspect Ratio: 9:16 portrait (1080x1920)
+  Resolution: 1080p minimum
+  Frame Rate: 30fps
+  Platform: In-person delivery / All social platforms
+  Purpose: The definitive answer to "What does your business do?"
+  Tone: Confident, measured, authoritative — like a company that has already built the thing
+
+HEYGEN AVATAR SETTINGS
+
+  Avatar type: Professional male presenter (or custom Ketan avatar if available)
+  Attire: Dark blazer or black button-down shirt — premium, minimal
+  Expression: Confident, steady eye contact, slight natural gestures
+  Posture: Upright, shoulders back, commanding but approachable
+
+HEYGEN VOICE SETTINGS
+
+  Voice style: Deep, measured, conversational authority — NOT a yelling salesman
+  Pace: ~155 words per minute (the script is ~175 words, fits 60 seconds with natural pauses)
+  Emphasis words: "twenty-two," "three complete series," "same pipeline," "professional publishing house," "seventy-five dollars," "the measure of excellence"
+  Pauses: Brief pause after "refined by craft" (0:12), after "print-ready" (0:34), after "all real" (0:58)
+
+HEYGEN BACKGROUND
+
+  Type: Solid color with very subtle dark charcoal gradient
+  Color: Deep black (#0a0a0a)
+  Note: No distracting elements — the portfolio images ARE the visual interest
+
+HEYGEN CAPTIONS
+
+  Enable: Yes
+  Font color: Gold (#d4af37)
+  Background: Semi-transparent black (rgba(0,0,0,0.7))
+  Position: Bottom third
+  Style: Bold, clean sans-serif
+
+HEYGEN MUSIC
+
+  Category: "Cinematic" or "Inspirational"
+  Style: Building orchestral — starts with soft strings, adds brass and percussion at 0:22, reaches subtle crescendo at 0:46, resolves warmly at 0:52
+  Volume: 20-25% of narration volume throughout (narration must dominate)
+  Feel: The feeling of watching a prestige film trailer — gravitas without aggression
+  Reference: Hans Zimmer "Time" (Inception) at very low volume — that sweeping, building, emotional gravitas
+  Avoid: Any track with vocals, electronic beats, or ukulele
+
+PLATFORM NOTES
+
+  TikTok: Hashtags: #BookTok #BookCoverDesign #IndieAuthor #AIArt #BookCovers #SelfPublishing
+  YouTube Shorts: Title: "22 Books. 3 Series. One Pipeline." — Description includes link to metronagon.com
+  Instagram Reels: Use the "See more" CTA linking to metronagon.com
+  Facebook: Target indie author groups, self-publishing communities
+
+IMAGE FILES TO UPLOAD TO HEYGEN
+
+  Upload all images from the 01-images/ folder. Full list:
+  1.  metronagon-logo.png
+  2.  aztec-book01-cover.jpg
+  3.  aztec-book03-cover.jpg
+  4.  aztec-book05-cover.jpg
+  5.  aztec-book07-cover.jpg
+  6.  repetition-book01-cover.jpg
+  7.  repetition-book02-cover.jpg
+  8.  repetition-book03-cover.jpg
+  9.  repetition-book04-cover.jpg
+  10. repetition-book05-cover.jpg
+  11. reality-book01-cover.jpg
+  12. reality-book02-cover.jpg
+  13. reality-book03-cover.jpg
+  14. reality-book04-cover.jpg
+  15. reality-book05-cover.jpg
+  16. aztec-character-itzil.jpg
+  17. aztec-character-nightshade.jpg
+  18. aztec-character-neyla.jpg
+  19. aztec-character-miyako.jpg
+  20. childrens-page-01.jpg
+  21. childrens-page-08.jpg
+  22. childrens-page-16.jpg
+  23. childrens-page-24.jpg
+  24. aztec-series-logo.png
+  25. repetition-series-logo.png
+  26. reality-series-logo.png
+  27. aztec-complete-series.jpg
+  28. repetition-complete-series.jpg
+
+================================================
+SHOT-BY-SHOT PRODUCTION TIMELINE
+================================================
+
+Each shot specifies exactly what is on screen, the transition into and out of it,
+and what the narrator is saying. "AVATAR" means the AI presenter is visible.
+"IMAGE" means the avatar is hidden and a full-screen image is shown.
+"OVERLAY" means images appear alongside or over the avatar.
+
+----------------------------------------------------------------------
+SHOT 01 | 0:00 - 0:03 | IMAGE — Logo Reveal
+----------------------------------------------------------------------
+  On Screen: metronagon-logo.png — centered, 60% screen width, gold on black
+  Motion: Fade in from black over 0.5s, hold centered, subtle slow zoom in
+  Transition In: Fade from black
+  Transition Out: Logo shrinks to top-right corner over 0.5s as avatar fades in
+  Narration: (silence — let the logo breathe)
+
+----------------------------------------------------------------------
+SHOT 02 | 0:03 - 0:06 | AVATAR — Opening Statement
+----------------------------------------------------------------------
+  On Screen: AI presenter, direct to camera, dark background
+  Logo Position: metronagon-logo.png remains small in top-right corner
+  Motion: Static presenter, natural gestures
+  Transition In: Avatar fades in as logo shrinks to corner (0.5s crossfade)
+  Transition Out: Avatar slides left to 30% width as book covers cascade in from right
+  Narration: "At Metronagon Media, we create professional book covers, series branding, and complete publishing packages for authors —"
+
+----------------------------------------------------------------------
+SHOT 03 | 0:06 - 0:12 | OVERLAY — Aztec Covers Cascade
+----------------------------------------------------------------------
+  On Screen: Avatar remains visible at 30% width on the left side.
+             Book covers cascade in from the right edge, staggered 1.5s apart:
+             - 0:06.0 — aztec-book01-cover.jpg slides in from right
+             - 0:07.5 — aztec-book03-cover.jpg slides in, overlapping slightly
+             - 0:09.0 — aztec-book05-cover.jpg slides in
+             - 0:10.5 — aztec-book07-cover.jpg slides in
+             Each cover occupies ~25% screen width, arranged in a slight fan layout
+  Motion: Each cover has a subtle slow zoom in (Ken Burns effect, 2% over 6s)
+  Transition In: Covers slide in from right edge with 0.3s ease-in
+  Transition Out: All four covers dissolve out together over 0.5s
+  Narration: "— powered by AI, refined by craft. We built this business the only way we trust — by doing it ourselves first."
+
+----------------------------------------------------------------------
+SHOT 04 | 0:12 - 0:18 | IMAGE — Repetition Series
+----------------------------------------------------------------------
+  On Screen: Avatar hidden. Full-screen display of Repetition series covers:
+             repetition-book01-cover.jpg through repetition-book05-cover.jpg
+             All 5 arranged in a horizontal row, sliding in together from the left edge
+  Motion: Slow rightward pan across the row (parallax feel)
+  Transition In: 0.5s slide from left, all 5 covers enter as a unified row
+  Transition Out: 0.5s dissolve to next shot
+  Narration: "Twenty-two published books. Three complete series. Every single cover, every character portrait, every logo —"
+
+----------------------------------------------------------------------
+SHOT 05 | 0:18 - 0:22 | IMAGE — Reality Series
+----------------------------------------------------------------------
+  On Screen: Avatar hidden. Full-screen display of Reality series covers:
+             reality-book01-cover.jpg through reality-book05-cover.jpg
+             Arranged in a horizontal row
+  Motion: Gentle slow zoom out to reveal all 5 covers
+  Transition In: 0.5s dissolve from previous shot
+  Transition Out: 0.5s dissolve to next shot
+  Narration: "— created with the same pipeline we now offer as a service."
+
+----------------------------------------------------------------------
+SHOT 06 | 0:22 - 0:28 | IMAGE — Character Portraits Grid
+----------------------------------------------------------------------
+  On Screen: Avatar hidden. 2x2 grid of character portraits filling the screen:
+             Top-left:     aztec-character-itzil.jpg
+             Top-right:    aztec-character-nightshade.jpg
+             Bottom-left:  aztec-character-neyla.jpg
+             Bottom-right: aztec-character-miyako.jpg
+             Each portrait fills its quadrant with 2px dark gap between them
+  Motion: Portraits appear one at a time (0:22.0, 0:22.5, 0:23.0, 0:23.5),
+          then the whole grid has a very slow zoom in (1.5% over 4.5s)
+  Transition In: Each portrait fades in sequentially (0.3s fade each)
+  Transition Out: 0.5s dissolve to next shot
+  Narration: "We're talking photorealistic fantasy covers. Cinematic character portraits. Cohesive series branding that makes twelve books look like they belong on the same shelf."
+
+----------------------------------------------------------------------
+SHOT 07 | 0:28 - 0:34 | IMAGE — Children's Book Pages
+----------------------------------------------------------------------
+  On Screen: Avatar hidden. Children's book pages fan out from center:
+             childrens-page-01.jpg — center, largest
+             childrens-page-08.jpg — fanned slightly left
+             childrens-page-16.jpg — fanned slightly right
+             childrens-page-24.jpg — behind, peeking out
+             Arranged like a hand of cards, vibrant colors filling the screen
+  Motion: Slow gentle zoom in on the center page (2% over 6s)
+  Transition In: Pages fan out from center over 0.8s
+  Transition Out: 0.5s dissolve to next shot
+  Narration: "And Pixar-quality children's book illustrations — thirty-two pages, consistent characters, assembled and print-ready."
+
+----------------------------------------------------------------------
+SHOT 08 | 0:34 - 0:40 | IMAGE — Series Logos
+----------------------------------------------------------------------
+  On Screen: Avatar hidden. Three series logos arranged side by side, centered:
+             aztec-series-logo.png (left)
+             repetition-series-logo.png (center)
+             reality-series-logo.png (right)
+             Each logo at ~30% screen width, vertically centered with equal spacing
+  Motion: Static hold — let the branding speak
+  Transition In: Logos fade in one at a time, left to right, 0.5s apart (0:34.0, 0:34.5, 0:35.0)
+  Transition Out: 0.5s dissolve to next shot
+  Narration: "What makes us different? We don't just design a cover. We think in series. Logos, box sets, panoramic art, YouTube thumbnails, style guides —"
+
+----------------------------------------------------------------------
+SHOT 09 | 0:40 - 0:46 | IMAGE — Box Set Panoramics
+----------------------------------------------------------------------
+  On Screen: Avatar hidden. Two panoramic covers stacked vertically:
+             Top half:    aztec-complete-series.jpg
+             Bottom half: repetition-complete-series.jpg
+             Each fills its half of the screen width
+  Motion: Slow horizontal pan on each panoramic (opposite directions for visual interest)
+  Transition In: 0.5s dissolve from previous shot
+  Transition Out: 0.5s crossfade to avatar returning
+  Narration: "— everything an author needs to look like a professional publishing house, not a solo operation."
+
+----------------------------------------------------------------------
+SHOT 10 | 0:46 - 0:52 | AVATAR — Pricing & Proof
+----------------------------------------------------------------------
+  On Screen: AI presenter returns, full screen, direct eye contact, dark background
+  Motion: Static presenter, confident natural gestures
+  Transition In: 0.5s crossfade from panoramic images to full-screen presenter
+  Transition Out: Avatar fades out as Metronagon logo fades in (0.5s crossfade)
+  Narration: "Covers start at seventy-five dollars. Full series pipelines go up to fifteen hundred. Everything is delivered in days, not weeks. The proof is the portfolio — twenty-two books, three series, all live, all real."
+
+----------------------------------------------------------------------
+SHOT 11 | 0:52 - 0:58 | IMAGE — Logo with Tagline
+----------------------------------------------------------------------
+  On Screen: metronagon-logo.png — centered, 60% screen width
+             Below logo: text overlay "The Measure of Excellence" in gold (#d4af37)
+             Background: solid black
+  Motion: Slow zoom in (2% over 6s), subtle gold glow pulse on logo
+  Transition In: 0.5s crossfade from avatar
+  Transition Out: Hold, then add URL text overlay
+  Narration: (continuation from previous shot, finishing) — pause, then silence
+
+----------------------------------------------------------------------
+SHOT 12 | 0:58 - 0:60 | IMAGE — Call to Action
+----------------------------------------------------------------------
+  On Screen: Same as Shot 11, with additional text overlay:
+             "Metronagon.com" in large gold text, centered below the tagline
+  Motion: Text snaps in cleanly (no animation on text, just appear)
+  Transition In: URL text appears instantly at 0:58
+  Transition Out: Hold through end of video
+  Narration: "Metronagon dot com. The measure of excellence."
+
+================================================
+PLAIN NARRATION SCRIPT
+================================================
+(Copy-paste this entire block into HeyGen's script field)
+
+At Metronagon Media, we create professional book covers, series branding, and complete publishing packages for authors — powered by AI, refined by craft.
+
+We built this business the only way we trust — by doing it ourselves first. Twenty-two published books. Three complete series. Every single cover, every character portrait, every logo — created with the same pipeline we now offer as a service.
+
+We're talking photorealistic fantasy covers. Cinematic character portraits. Cohesive series branding that makes twelve books look like they belong on the same shelf. And Pixar-quality children's book illustrations — thirty-two pages, consistent characters, assembled and print-ready.
+
+What makes us different? We don't just design a cover. We think in series. Logos, box sets, panoramic art, YouTube thumbnails, style guides — everything an author needs to look like a professional publishing house, not a solo operation.
+
+Covers start at seventy-five dollars. Full series pipelines go up to fifteen hundred. Everything is delivered in days, not weeks. The proof is the portfolio — twenty-two books, three series, all live, all real.
+
+Metronagon dot com. The measure of excellence.

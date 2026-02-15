@@ -1,0 +1,344 @@
+METRONAGON VIDEO SCRIPT 02: THE PORTFOLIO SHOWCASE
+====================================================
+
+VIDEO SPECIFICATIONS
+
+  Duration: 60 seconds
+  Aspect Ratio: 9:16 portrait (1080x1920)
+  Resolution: 1080p minimum
+  Frame Rate: 30fps
+  Platform: TikTok / YouTube Shorts / Instagram Reels
+  Purpose: A visually-driven reel that lets the work speak — rapid-fire portfolio showcase designed to stop the scroll
+  Tone: Cinematic, awe-inspiring — like a movie trailer for a design studio
+
+HEYGEN AVATAR SETTINGS
+
+  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Appearance time: Only 0:00-0:04 and 0:52-0:60 — the middle 48 seconds are voiceover only
+  Attire: Dark blazer or black crew neck — clean, minimal
+  Expression: Opening: inviting, "watch this" energy. Closing: confident, direct, "now you know" energy
+
+HEYGEN VOICE SETTINGS
+
+  Voice style: Cinematic narrator — deeper register, slightly slower pace, weight behind every word
+  Pace: ~145 words per minute — slower than Script 01 because the images need room to breathe
+  Emphasis words: "twenty-two books," "photorealistic," "cinematic," "world-building," "Pixar-quality," "every single page," "we created it"
+  Pauses: 2-second pause at 0:04-0:07 (logo reveal), 1-second pause at 0:50-0:52 (logos landing)
+  Tone shift: Slightly more reverent/quiet during Reality series section (0:34-0:41), energized during children's book (0:41-0:50)
+
+HEYGEN BACKGROUND
+
+  Talking head sections: Solid deep black (#0a0a0a)
+  Image showcase sections: Images fill the entire screen — no background visible
+  Transition style: Smooth dissolves (0.5s) between images, NOT hard cuts
+
+HEYGEN CAPTIONS
+
+  Enable: Yes
+  Font color: Gold (#d4af37)
+  Background: Semi-transparent black
+  Position: Bottom center, slightly higher than default to avoid platform UI overlap
+  Size: Large — this is a visual-first video, captions should be bold
+
+HEYGEN MUSIC
+
+  Category: "Epic" or "Cinematic" category, or upload a custom royalty-free orchestral track
+  Style: Epic orchestral build — starts with a single piano note at 0:00, strings enter at 0:07, full orchestral swell from 0:18 to 0:48, then resolves to warm strings at 0:52
+  Volume: 30% during talking head (0:00-0:04, 0:52-0:56), 35-40% during image showcase (0:04-0:52) since there's no competing face-to-face visual
+  Key moments: Percussion hit at 0:07 (first cover reveal), brass swell at 0:18 (character portraits), emotional peak at 0:41 (children's book), resolution at 0:52
+  Reference: Audiomachine "Guardians at the Gate" at low volume — that building, sweeping orchestral energy
+  Requirement: The track must BUILD — start quiet, crescendo through the middle, resolve at the end
+
+PLATFORM NOTES
+
+  TikTok: Hashtags: #BookTok #BookCoverDesign #IndieAuthor #AIArt #BookCovers
+  YouTube Shorts: Title: "22 Books. 3 Series. One Pipeline." — Description includes link to metronagon.com
+  Instagram Reels: Use the "See more" CTA linking to metronagon.com
+
+IMAGE FILES TO UPLOAD TO HEYGEN
+
+  Upload all images from the 02-images/ folder. Full list:
+  1.  metronagon-logo.png
+  2.  aztec-book01-cover.jpg
+  3.  aztec-book02-cover.jpg
+  4.  aztec-book05-cover.jpg
+  5.  aztec-book08-cover.jpg
+  6.  aztec-book12-cover.jpg
+  7.  aztec-character-itzil.jpg
+  8.  aztec-character-nightshade.jpg
+  9.  aztec-character-volzentar.jpg
+  10. aztec-character-rainara.jpg
+  11. aztec-complete-series.jpg
+  12. repetition-book01-cover.jpg
+  13. repetition-book03-cover.jpg
+  14. repetition-complete-series.jpg
+  15. reality-book01-cover.jpg
+  16. reality-book04-cover.jpg
+  17. reality-complete-series.jpg
+  18. childrens-page-01.jpg
+  19. childrens-page-08.jpg
+  20. childrens-page-16.jpg
+  21. childrens-page-24.jpg
+  22. aztec-series-logo.png
+  23. repetition-series-logo.png
+  24. reality-series-logo.png
+
+====================================================
+SHOT-BY-SHOT PRODUCTION TIMELINE
+====================================================
+
+Each shot specifies exactly what is on screen, the transition into and out of it,
+and what the narrator is saying. "AVATAR" means the AI presenter is visible.
+"IMAGE" means the avatar is hidden and a full-screen image is shown.
+
+----------------------------------------------------------------------
+SHOT 01 | 0:00 - 0:04 | AVATAR — Opening Hook
+----------------------------------------------------------------------
+  On Screen: AI presenter, direct to camera, dark background (#0a0a0a)
+  Motion: Static presenter, slight lean forward for engagement
+  Transition In: Fade in from black over 0.3s
+  Transition Out: 0.5s crossfade — avatar dissolves as logo fades in
+  Narration: "Let us show you what twenty-two books of experience looks like."
+
+----------------------------------------------------------------------
+SHOT 02 | 0:04 - 0:07 | IMAGE — Logo Reveal
+----------------------------------------------------------------------
+  On Screen: metronagon-logo.png — centered, 60% screen width, gold on black
+  Motion: Slow zoom in (3% over 3s), subtle gold shimmer
+  Transition In: 0.5s crossfade from avatar
+  Transition Out: 0.5s dissolve to first book cover
+  Narration: (silence — 2-second beat, let the logo breathe)
+
+----------------------------------------------------------------------
+SHOT 03 | 0:07 - 0:10 | IMAGE — Aztec Book 1
+----------------------------------------------------------------------
+  On Screen: aztec-book01-cover.jpg — full screen, cover fills the 9:16 frame
+  Motion: Slow upward pan (image moves downward, revealing top to bottom, 5% over 3s)
+  Transition In: 0.5s dissolve from logo. MUSIC: percussion hit at 0:07
+  Transition Out: 0.4s dissolve to next cover
+  Narration: "Twelve-book fantasy series. Every cover photorealistic."
+
+----------------------------------------------------------------------
+SHOT 04 | 0:10 - 0:12 | IMAGE — Aztec Book 2
+----------------------------------------------------------------------
+  On Screen: aztec-book02-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 2s), centered on the cover art
+  Transition In: 0.4s dissolve from previous cover
+  Transition Out: 0.4s dissolve to next cover
+  Narration: "Every composition cinematic."
+
+----------------------------------------------------------------------
+SHOT 05 | 0:12 - 0:14 | IMAGE — Aztec Book 5
+----------------------------------------------------------------------
+  On Screen: aztec-book05-cover.jpg — full screen
+  Motion: Gentle left pan (3% horizontal drift over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Every single one designed to stop a reader mid-scroll"
+
+----------------------------------------------------------------------
+SHOT 06 | 0:14 - 0:16 | IMAGE — Aztec Book 8
+----------------------------------------------------------------------
+  On Screen: aztec-book08-cover.jpg — full screen
+  Motion: Slow zoom out (2% over 2s), revealing the full composition
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "and make them click."
+
+----------------------------------------------------------------------
+SHOT 07 | 0:16 - 0:18 | IMAGE — Aztec Book 12
+----------------------------------------------------------------------
+  On Screen: aztec-book12-cover.jpg — full screen
+  Motion: Slow upward pan (3% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.5s dissolve. MUSIC: brass swell begins at 0:18
+  Narration: (continuation, brief pause before next section)
+
+----------------------------------------------------------------------
+SHOT 08 | 0:18 - 0:20 | IMAGE — Itzil Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-itzil.jpg — full screen, portrait fills 9:16 frame naturally
+  Motion: Slow zoom in on face (3% over 2s), focus on detail and realism
+  Transition In: 0.5s dissolve from book cover
+  Transition Out: 0.4s dissolve
+  Narration: "Thirty character portraits. Each one unique."
+
+----------------------------------------------------------------------
+SHOT 09 | 0:20 - 0:22 | IMAGE — Nightshade Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-nightshade.jpg — full screen
+  Motion: Gentle right pan (3% horizontal over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Each one consistent with the world they inhabit."
+
+----------------------------------------------------------------------
+SHOT 10 | 0:22 - 0:23 | IMAGE — Volzentar Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-volzentar.jpg — full screen
+  Motion: Slow zoom in (2% over 1s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.3s dissolve (quicker pace)
+  Narration: "This is not clip art."
+
+----------------------------------------------------------------------
+SHOT 11 | 0:23 - 0:25 | IMAGE — Rainara Character Portrait
+----------------------------------------------------------------------
+  On Screen: aztec-character-rainara.jpg — full screen
+  Motion: Slow zoom out (2% over 2s), revealing the full portrait
+  Transition In: 0.3s dissolve
+  Transition Out: 0.5s dissolve to panoramic
+  Narration: "This is world-building."
+
+----------------------------------------------------------------------
+SHOT 12 | 0:25 - 0:27 | IMAGE — Aztec Complete Series Panoramic
+----------------------------------------------------------------------
+  On Screen: aztec-complete-series.jpg — full screen, letterboxed if needed to show the panoramic
+  Motion: Slow horizontal pan left to right across the full panoramic (10% over 2s)
+  Transition In: 0.5s dissolve from portrait
+  Transition Out: 0.5s dissolve
+  Narration: "Self-improvement series with authoritative branding."
+
+----------------------------------------------------------------------
+SHOT 13 | 0:27 - 0:30 | IMAGE — Repetition Book 1
+----------------------------------------------------------------------
+  On Screen: repetition-book01-cover.jpg — full screen
+  Motion: Slow zoom in (3% over 3s)
+  Transition In: 0.5s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Five books that look like they came from a publishing house"
+
+----------------------------------------------------------------------
+SHOT 14 | 0:30 - 0:32 | IMAGE — Repetition Book 3
+----------------------------------------------------------------------
+  On Screen: repetition-book03-cover.jpg — full screen
+  Motion: Gentle upward pan (3% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "with a fifty-person design team."
+
+----------------------------------------------------------------------
+SHOT 15 | 0:32 - 0:34 | IMAGE — Repetition Complete Series
+----------------------------------------------------------------------
+  On Screen: repetition-complete-series.jpg — full screen panoramic
+  Motion: Slow horizontal pan (8% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.5s dissolve
+  Narration: (brief beat, transition to next genre)
+
+----------------------------------------------------------------------
+SHOT 16 | 0:34 - 0:37 | IMAGE — Reality Book 1
+----------------------------------------------------------------------
+  On Screen: reality-book01-cover.jpg — full screen
+  Motion: Slow zoom in (2% over 3s), contemplative pace matching the quieter tone
+  Transition In: 0.5s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Philosophical essays with quiet, contemplative covers."
+  Voice note: Slightly more reverent, quieter delivery for this section
+
+----------------------------------------------------------------------
+SHOT 17 | 0:37 - 0:39 | IMAGE — Reality Book 4
+----------------------------------------------------------------------
+  On Screen: reality-book04-cover.jpg — full screen
+  Motion: Gentle pan (2% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Different genre. Different mood."
+
+----------------------------------------------------------------------
+SHOT 18 | 0:39 - 0:41 | IMAGE — Reality Complete Series
+----------------------------------------------------------------------
+  On Screen: reality-complete-series.jpg — full screen panoramic
+  Motion: Slow horizontal pan (8% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.5s dissolve. MUSIC: emotional peak begins at 0:41
+  Narration: "Same level of craft."
+
+----------------------------------------------------------------------
+SHOT 19 | 0:41 - 0:44 | IMAGE — Children's Page 01
+----------------------------------------------------------------------
+  On Screen: childrens-page-01.jpg — full screen, vibrant colors fill 9:16 frame
+  Motion: Slow zoom in (3% over 3s) — let the color and detail land
+  Transition In: 0.5s dissolve. Visual contrast: dark covers to bright illustration
+  Transition Out: 0.4s dissolve
+  Narration: "And Pixar-quality children's book illustrations."
+  Voice note: Energy picks back up — enthusiasm for this section
+
+----------------------------------------------------------------------
+SHOT 20 | 0:44 - 0:46 | IMAGE — Children's Page 08
+----------------------------------------------------------------------
+  On Screen: childrens-page-08.jpg — full screen
+  Motion: Gentle zoom (2% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Thirty-two pages. Consistent characters on every single page."
+
+----------------------------------------------------------------------
+SHOT 21 | 0:46 - 0:48 | IMAGE — Children's Page 16
+----------------------------------------------------------------------
+  On Screen: childrens-page-16.jpg — full screen
+  Motion: Slow pan (3% over 2s)
+  Transition In: 0.4s dissolve
+  Transition Out: 0.4s dissolve
+  Narration: "Assembled, formatted, print-ready."
+
+----------------------------------------------------------------------
+SHOT 22 | 0:48 - 0:50 | IMAGE — Children's Page 24
+----------------------------------------------------------------------
+  On Screen: childrens-page-24.jpg — full screen
+  Motion: Slow zoom out (2% over 2s) — pulling back to reveal the full page
+  Transition In: 0.4s dissolve
+  Transition Out: 0.5s dissolve to logos
+  Narration: (beat — visual pause)
+
+----------------------------------------------------------------------
+SHOT 23 | 0:50 - 0:52 | IMAGE — Three Series Logos
+----------------------------------------------------------------------
+  On Screen: Three logos arranged side by side, vertically centered:
+             aztec-series-logo.png (left, 30% width)
+             repetition-series-logo.png (center, 30% width)
+             reality-series-logo.png (right, 30% width)
+             Background: solid black
+  Motion: Static hold — let the branding land
+  Transition In: Logos fade in one at a time, left to right, 0.3s apart
+  Transition Out: 0.5s crossfade to avatar returning. MUSIC: resolves to warm strings
+  Narration: (1-second silence — let the logos land)
+
+----------------------------------------------------------------------
+SHOT 24 | 0:52 - 0:56 | AVATAR — Closing Statement
+----------------------------------------------------------------------
+  On Screen: AI presenter returns, full screen, direct to camera, dark background
+  Motion: Static presenter, confident direct eye contact
+  Transition In: 0.5s crossfade from logos to full-screen presenter
+  Transition Out: 0.5s crossfade to Metronagon logo
+  Narration: "Everything you just saw — we created it. And now we create it for you."
+
+----------------------------------------------------------------------
+SHOT 25 | 0:56 - 0:60 | IMAGE — Logo + Call to Action
+----------------------------------------------------------------------
+  On Screen: metronagon-logo.png — centered, 60% screen width
+             Text overlay below: "Metronagon.com" in large gold (#d4af37) text
+             Background: solid black
+  Motion: Slow zoom in (2% over 4s), subtle gold glow on logo
+  Transition In: 0.5s crossfade from avatar
+  Transition Out: Hold through end of video
+  Narration: "Metronagon dot com."
+
+====================================================
+PLAIN NARRATION SCRIPT
+====================================================
+(Copy-paste this entire block into HeyGen's script field)
+
+Let us show you what twenty-two books of experience looks like.
+
+Twelve-book fantasy series. Every cover photorealistic. Every composition cinematic. Every single one designed to stop a reader mid-scroll and make them click.
+
+Thirty character portraits. Each one unique. Each one consistent with the world they inhabit. This is not clip art. This is world-building.
+
+Self-improvement series with authoritative branding. Five books that look like they came from a publishing house with a fifty-person design team.
+
+Philosophical essays with quiet, contemplative covers. Different genre. Different mood. Same level of craft.
+
+And Pixar-quality children's book illustrations. Thirty-two pages. Consistent characters on every single page. Assembled, formatted, print-ready.
+
+Everything you just saw — we created it. And now we create it for you. Metronagon dot com.

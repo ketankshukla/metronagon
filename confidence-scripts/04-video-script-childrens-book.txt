@@ -1,0 +1,252 @@
+METRONAGON VIDEO SCRIPT 04: THE CHILDREN'S BOOK MAGIC
+=======================================================
+
+VIDEO SPECIFICATIONS
+
+  Duration: 60 seconds
+  Aspect Ratio: 9:16 portrait (1080x1920)
+  Resolution: 1080p minimum
+  Frame Rate: 30fps
+  Platform: Facebook / YouTube Shorts / Instagram Reels
+  Purpose: Showcase Pixar-quality children's book illustration capability — the "wow we didn't know AI could do that" moment
+  Tone: Warm, wonder-filled, but still professional — like a Pixar "making of" featurette narrator
+
+HEYGEN AVATAR SETTINGS
+
+  Avatar type: Professional male presenter (or custom Ketan avatar)
+  Appearance time: 0:00-0:05 (opening) and 0:50-0:60 (closing)
+  Attire: Dark crew neck or casual blazer — slightly warmer than the other scripts
+  Expression: Opening: "you won't believe this" — slightly playful, inviting. Closing: warm, proud, genuine
+
+HEYGEN VOICE SETTINGS
+
+  Voice style: Warmer than the other scripts — still authoritative but with genuine enthusiasm and wonder
+  Pace: ~148 words per minute — the narration is slightly longer, so pace needs to be measured but natural
+  Emphasis words: "Pixar-quality," "every single page," "same face, same proportions," "hardest thing to achieve," "we've solved it," "five hundred dollars"
+  Pauses: Brief pause after "So let us just show you" (0:05), dramatic beat after "we've solved it" (0:33), pause at 0:48-0:50
+  Tone: More emotional warmth than the other scripts — this is about creating something beautiful for someone's child
+
+HEYGEN BACKGROUND
+
+  Talking head sections: Solid deep black (#0a0a0a)
+  Image sections: Children's pages fill the entire screen — their vibrant colors ARE the background
+  Contrast note: The shift from dark presenter to colorful illustrations creates a powerful visual impact
+
+HEYGEN CAPTIONS
+
+  Enable: Yes
+  Font color: Gold (#d4af37)
+  Background: Semi-transparent black
+  Position: Bottom third
+  Note: During the colorful illustration pages, captions provide important contrast against the vibrant backgrounds
+
+HEYGEN MUSIC
+
+  Category: "Emotional" or "Inspirational Orchestral" — warm, NOT dark or intense
+  Style: Warm orchestral with a touch of whimsy — strings carry the melody, light woodwinds (flute, clarinet) add color, gentle harp arpeggios underneath. NOT childish or cartoonish — think Pixar's "Up" opening sequence score. Beautiful, emotional, refined.
+  Volume: 25% during talking head, 35% during illustration pages (the warmth of the music enhances the colorful visuals)
+  Key moments: Harp entrance at 0:05 (first page reveal), emotional string swell at 0:37 (montage grid), warm resolution at 0:50
+  Reference: Michael Giacchino "Married Life" (Up) at very low volume — that bittersweet warmth and wonder
+  Absolutely NOT: No music box tinkling, no nursery rhyme melodies, no generic "kids" music. This is premium children's illustration, not a toy commercial.
+
+PLATFORM NOTES
+
+  Facebook: This is the BEST script for Facebook — parents and grandparents are the audience. Target: parents, gift-givers, teachers
+  TikTok: Hashtags: #ChildrensBook #PictureBook #BookTok #KidLit #AIIllustration #ChildrensAuthor #KidsBooks
+  YouTube Shorts: Title: "AI-illustrated children's book. 32 pages. Every character consistent."
+  Instagram Reels: The colorful pages will pop in the Instagram feed — high engagement potential
+
+IMAGE FILES TO UPLOAD TO HEYGEN
+
+  Upload all images from the 04-images/ folder. Full list:
+  1.  metronagon-logo.png
+  2.  childrens-page-01.jpg
+  3.  childrens-page-04.jpg
+  4.  childrens-page-08.jpg
+  5.  childrens-page-12.jpg
+  6.  childrens-page-16.jpg
+  7.  childrens-page-20.jpg
+  8.  childrens-page-24.jpg
+  9.  childrens-page-28.jpg
+  10. aztec-character-itzil.jpg
+  11. aztec-character-neyla.jpg
+  12. aztec-book01-cover.jpg
+
+=======================================================
+SHOT-BY-SHOT PRODUCTION TIMELINE
+=======================================================
+
+Each shot specifies exactly what is on screen, the transition into and out of it,
+and what the narrator is saying. "AVATAR" means the AI presenter is visible.
+"IMAGE" means the avatar is hidden and a full-screen image is shown.
+
+----------------------------------------------------------------------
+SHOT 01 | 0:00 - 0:05 | AVATAR — Opening Hook
+----------------------------------------------------------------------
+  On Screen: AI presenter, warm expression, dark background (#0a0a0a)
+  Motion: Static presenter, slightly playful body language — inviting the viewer in
+  Transition In: Fade in from black over 0.3s
+  Transition Out: 0.5s crossfade — avatar dissolves as first children's page fades in
+             This is a dramatic visual shift: dark presenter to vibrant color
+  Narration: "Most people don't believe us when we tell them AI can create a children's picture book this good. So let us just show you."
+
+----------------------------------------------------------------------
+SHOT 02 | 0:05 - 0:09 | IMAGE — Children's Page 01
+----------------------------------------------------------------------
+  On Screen: childrens-page-01.jpg — full screen, vibrant colors fill entire 9:16 frame
+  Motion: Gentle slow zoom in (3% over 4s) — like leaning in to admire the art
+  Transition In: 0.5s crossfade from avatar. MUSIC: harp entrance at 0:05
+             The color explosion from dark-to-vibrant is the hook
+  Transition Out: 0.5s soft dissolve to next page
+  Narration: "Thirty-two pages. Every single one fully illustrated."
+
+----------------------------------------------------------------------
+SHOT 03 | 0:09 - 0:13 | IMAGE — Children's Page 04
+----------------------------------------------------------------------
+  On Screen: childrens-page-04.jpg — full screen
+  Motion: Soft rightward pan (4% horizontal drift over 4s) — like turning a page
+  Transition In: 0.5s soft dissolve from previous page
+  Transition Out: 0.5s soft dissolve
+  Narration: "Rich, vibrant, Pixar-quality artwork with consistent lighting,"
+
+----------------------------------------------------------------------
+SHOT 04 | 0:13 - 0:17 | IMAGE — Children's Page 08
+----------------------------------------------------------------------
+  On Screen: childrens-page-08.jpg — full screen
+  Motion: Slow zoom out (3% over 4s) — revealing the full composition
+  Transition In: 0.5s soft dissolve
+  Transition Out: 0.5s soft dissolve
+  Narration: "consistent color palettes, and a warmth that jumps off the page."
+
+----------------------------------------------------------------------
+SHOT 05 | 0:17 - 0:21 | IMAGE — Children's Page 12
+----------------------------------------------------------------------
+  On Screen: childrens-page-12.jpg — full screen
+  Motion: Gentle upward pan (3% vertical drift over 4s)
+  Transition In: 0.5s soft dissolve
+  Transition Out: 0.5s soft dissolve
+  Narration: "But here's what makes this truly difficult — and truly special."
+
+----------------------------------------------------------------------
+SHOT 06 | 0:21 - 0:25 | IMAGE — Children's Page 16
+----------------------------------------------------------------------
+  On Screen: childrens-page-16.jpg — full screen
+  Motion: Slow zoom in (3% over 4s) — focusing on character detail
+  Transition In: 0.5s soft dissolve
+  Transition Out: 0.5s soft dissolve
+  Narration: "The main character looks the same on every single page. Same face. Same proportions. Same outfit."
+
+----------------------------------------------------------------------
+SHOT 07 | 0:25 - 0:29 | IMAGE — Children's Page 20
+----------------------------------------------------------------------
+  On Screen: childrens-page-20.jpg — full screen
+  Motion: Soft leftward pan (3% horizontal over 4s) — variety in motion direction
+  Transition In: 0.5s soft dissolve
+  Transition Out: 0.5s soft dissolve
+  Narration: "Page one through page thirty-two."
+
+----------------------------------------------------------------------
+SHOT 08 | 0:29 - 0:33 | IMAGE — Children's Page 24
+----------------------------------------------------------------------
+  On Screen: childrens-page-24.jpg — full screen
+  Motion: Gentle zoom (2% over 4s)
+  Transition In: 0.5s soft dissolve
+  Transition Out: 0.5s soft dissolve
+  Narration: "That kind of character consistency is the hardest thing to achieve with AI —"
+
+----------------------------------------------------------------------
+SHOT 09 | 0:33 - 0:37 | IMAGE — Children's Page 28
+----------------------------------------------------------------------
+  On Screen: childrens-page-28.jpg — full screen
+  Motion: Slow zoom out (3% over 4s) — pulling back to reveal the full final page
+  Transition In: 0.5s soft dissolve
+  Transition Out: 0.5s dissolve to montage grid. MUSIC: emotional string swell at 0:37
+  Narration: "— and we've solved it. Story written. Pages illustrated. PDF assembled and print-ready."
+
+----------------------------------------------------------------------
+SHOT 10 | 0:37 - 0:40 | IMAGE — Four-Page Montage Grid
+----------------------------------------------------------------------
+  On Screen: 2x2 grid of children's pages filling the screen:
+             Top-left:     childrens-page-01.jpg
+             Top-right:    childrens-page-08.jpg
+             Bottom-left:  childrens-page-16.jpg
+             Bottom-right: childrens-page-24.jpg
+             2px dark gaps between quadrants, soft warm border glow
+  Motion: Static grid — let the consistency across four pages speak for itself
+  Transition In: 0.5s dissolve from single page to grid layout
+  Transition Out: 0.5s dissolve to side-by-side
+  Narration: "One complete package."
+
+----------------------------------------------------------------------
+SHOT 11 | 0:40 - 0:44 | IMAGE — Side-by-Side Consistency Proof
+----------------------------------------------------------------------
+  On Screen: Two pages side by side proving character consistency:
+             Left half:  childrens-page-01.jpg (first page)
+             Right half: childrens-page-28.jpg (last page)
+             Thin gold divider line between them
+  Motion: Left page slides in from left edge, right page slides in from right edge,
+          meeting in the center over 0.5s
+  Transition In: Slide from opposite sides (0.5s)
+  Transition Out: 0.5s dissolve to character portraits
+  Narration: "And this isn't our only style. The same pipeline that creates children's illustrations"
+
+----------------------------------------------------------------------
+SHOT 12 | 0:44 - 0:48 | IMAGE — Range Demonstration (Fantasy Portraits)
+----------------------------------------------------------------------
+  On Screen: Two images showing completely different style:
+             Left half:  aztec-character-itzil.jpg (cinematic fantasy portrait)
+             Right half: aztec-character-neyla.jpg (cinematic fantasy portrait)
+             This visually demonstrates range: children's illustration -> photorealistic fantasy
+  Motion: Quick dissolve in (0.3s), then slow zoom in (2% over 4s)
+  Transition In: 0.5s dissolve from children's pages — the style contrast is the point
+  Transition Out: 0.3s dissolve to book cover
+  Narration: "also produces cinematic fantasy covers and photorealistic character portraits."
+
+----------------------------------------------------------------------
+SHOT 13 | 0:48 - 0:50 | IMAGE — Aztec Book Cover (Versatility Proof)
+----------------------------------------------------------------------
+  On Screen: aztec-book01-cover.jpg — full screen
+  Motion: Quick zoom (2% over 2s) — brief, impactful
+  Transition In: 0.3s dissolve from character portraits
+  Transition Out: 0.5s crossfade to avatar returning
+  Narration: "The range is the proof."
+             (brief beat/pause at end)
+
+----------------------------------------------------------------------
+SHOT 14 | 0:50 - 0:55 | AVATAR — Closing Statement
+----------------------------------------------------------------------
+  On Screen: AI presenter returns, full screen, direct to camera, dark background
+             Genuine warmth in expression — this is about creating something beautiful
+  Motion: Static presenter, warm natural gestures
+  Transition In: 0.5s crossfade from book cover — back to the dark intimate setting
+  Transition Out: 0.5s crossfade to Metronagon logo
+  Narration: "Children's picture books. Starting at five hundred dollars. From concept to print-ready in five business days."
+
+----------------------------------------------------------------------
+SHOT 15 | 0:55 - 0:60 | IMAGE — Logo + Call to Action
+----------------------------------------------------------------------
+  On Screen: metronagon-logo.png — centered, 60% screen width
+             Text overlay below logo: "Children's Books from $500" in gold (#d4af37)
+             Text overlay below that: "Metronagon.com" in larger gold text
+             Background: solid black
+  Motion: Gold glow fade in (logo pulses with warm gold light), slow zoom in (2% over 5s)
+  Transition In: 0.5s crossfade from avatar
+  Transition Out: Hold through end of video
+  Narration: "Metronagon dot com."
+
+=======================================================
+PLAIN NARRATION SCRIPT
+=======================================================
+(Copy-paste this entire block into HeyGen's script field)
+
+Most people don't believe us when we tell them AI can create a children's picture book this good. So let us just show you.
+
+Thirty-two pages. Every single one fully illustrated. Rich, vibrant, Pixar-quality artwork with consistent lighting, consistent color palettes, and a warmth that jumps off the page.
+
+But here's what makes this truly difficult — and truly special. The main character looks the same on every single page. Same face. Same proportions. Same outfit. Page one through page thirty-two. That kind of character consistency is the hardest thing to achieve with AI — and we've solved it.
+
+Story written. Pages illustrated. PDF assembled and print-ready. One complete package.
+
+And this isn't our only style. The same pipeline that creates children's illustrations also produces cinematic fantasy covers and photorealistic character portraits. The range is the proof.
+
+Children's picture books. Starting at five hundred dollars. From concept to print-ready in five business days. Metronagon dot com.
