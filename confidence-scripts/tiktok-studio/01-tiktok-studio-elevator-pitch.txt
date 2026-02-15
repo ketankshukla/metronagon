@@ -1,0 +1,87 @@
+TIKTOK STUDIO DESKTOP UPLOAD GUIDE: VIDEO 01 — THE ELEVATOR PITCH
+===================================================================
+
+VIDEO FILE: 01-video-script-elevator-pitch (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+UPLOAD METHOD: TikTok Studio (Desktop — studio.tiktok.com)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open your browser and go to studio.tiktok.com
+2. Log in with your Metronagon TikTok account credentials
+3. Click the "Upload" button on the main dashboard (top right area)
+4. You will see the Upload page — drag and drop your exported video file onto the upload area,
+   or click "Select file" to browse your computer and select the video
+5. Wait for the video to fully upload — you will see a progress bar
+6. Once uploaded, TikTok Studio will show you a preview on the left and settings on the right
+
+VIDEO DETAILS (right side panel)
+---------------------------------
+
+CAPTION (copy-paste this entire block into the caption field):
+We create professional book covers, series branding, and complete publishing packages for authors — powered by AI, refined by craft. 22 books. 3 series. The proof is the portfolio. #BookTok #BookCoverDesign #IndieAuthor #AIArt #BookCovers #SelfPublishing #AuthorTok #BookDesign #IndiePublishing #WritingCommunity #BookMarketing #CoverDesign #FantasyBooks #BookSeries #AuthorLife #AIDesign #Metronagon
+
+COVER IMAGE:
+- Click "Edit cover" beneath the video preview
+- Use the slider to scrub to approximately 0:08-0:10 where one of the dramatic book covers is displayed
+- Select that frame as your cover — this is what people see in the feed before tapping
+- Click "Confirm" to save the cover selection
+
+WHO CAN VIEW THIS VIDEO:
+- Select "Everyone" from the dropdown
+
+ALLOW USERS TO:
+- Comment: ON
+- Duet: ON
+- Stitch: ON
+- Download: ON
+
+DISCLOSE VIDEO CONTENT:
+- If prompted, select "Your brand" — this is your own organic brand content
+- Turn on "Branded content" only if you are running this as a paid promotion
+
+SCHEDULE VIDEO:
+- If posting immediately, leave this off
+- If scheduling, toggle ON and set the date/time:
+  Recommended: Between 7-9 AM or 6-9 PM in your timezone for maximum reach
+  Best day: Monday (this is Video 1 — the series opener)
+
+SOUND SETTINGS:
+- The video already has orchestral music baked in from HeyGen
+- Do NOT add any additional TikTok sounds — it will clash with the narration
+- If TikTok Studio auto-detects and suggests music, decline or remove it
+
+ADD TOPICS:
+- Click "Add topics" and search for and add:
+  Book Cover Design
+  Self Publishing
+  Indie Authors
+  AI Art
+
+ADD LOCATION:
+- Optional — add your city if you want local reach
+
+CLICK "POST" (or "Schedule" if you set a time)
+- Your video will begin processing and go live within minutes
+
+AFTER POSTING — DESKTOP ACTIONS
+---------------------------------
+
+1. Go to your profile on TikTok Studio and verify the video is live
+2. PIN THIS VIDEO: Go to your profile, hover over the video, click the three dots (...),
+   and select "Pin to top" — this should be the first video visitors see on your profile
+3. Add a comment on your own video immediately:
+   "22 published books. 3 complete series. Every image on our site is real. metronagon.com"
+4. Monitor the Analytics tab in TikTok Studio for views, engagement, and traffic
+5. Reply to any comments within the first hour to boost the algorithm
+
+ANALYTICS TO WATCH (TikTok Studio > Analytics):
+- Video views (first 24 hours and first 7 days)
+- Average watch time (aim for 30+ seconds out of 60)
+- Completion rate (percentage who watched the full video)
+- Profile visits from this video
+- Comments and shares
+
+KEYWORDS FOR TIKTOK SEARCH (used naturally in the caption):
+book cover design, indie author, self publishing, book covers, AI art, book series, fantasy covers, author services

@@ -1,0 +1,85 @@
+TIKTOK STUDIO DESKTOP UPLOAD GUIDE: VIDEO 02 — THE PORTFOLIO SHOWCASE
+======================================================================
+
+VIDEO FILE: 02-video-script-portfolio-showcase (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+UPLOAD METHOD: TikTok Studio (Desktop — studio.tiktok.com)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open your browser and go to studio.tiktok.com
+2. Log in with your Metronagon TikTok account credentials
+3. Click the "Upload" button on the main dashboard
+4. Drag and drop your exported video file onto the upload area,
+   or click "Select file" to browse and select the video
+5. Wait for the video to fully upload (progress bar will show completion)
+6. Once uploaded, you will see a preview on the left and settings on the right
+
+VIDEO DETAILS (right side panel)
+---------------------------------
+
+CAPTION (copy-paste this entire block into the caption field):
+Let us show you what 22 books of experience looks like. Every cover photorealistic. Every composition cinematic. This is not clip art — this is world-building. #BookTok #BookCoverDesign #IndieAuthor #FantasyArt #BookCovers #CoverReveal #AIArt #SelfPublishing #AuthorTok #BookDesign #FantasyBooks #CinematicArt #BookSeries #WritingCommunity #IndiePublishing #PhotorealisticArt #Metronagon
+
+COVER IMAGE:
+- Click "Edit cover" beneath the video preview
+- Scrub to approximately 0:08-0:12 where one of the stunning Aztec book covers is displayed
+- Choose the most visually dramatic cover for maximum tap-through rate
+- Click "Confirm"
+
+WHO CAN VIEW THIS VIDEO:
+- Select "Everyone"
+
+ALLOW USERS TO:
+- Comment: ON
+- Duet: ON
+- Stitch: ON
+- Download: ON
+
+DISCLOSE VIDEO CONTENT:
+- Select "Your brand" if prompted
+
+SCHEDULE VIDEO:
+- Recommended: Post 2-3 days after Video 01 (Thursday if Video 01 was Monday)
+- Time: Between 7-9 AM or 6-9 PM in your timezone
+
+SOUND SETTINGS:
+- Video has epic orchestral music baked in from HeyGen
+- Do NOT add any additional TikTok sounds
+
+ADD TOPICS:
+- Book Cover Design
+- Fantasy Art
+- Self Publishing
+- AI Art
+- Indie Authors
+
+ADD LOCATION:
+- Optional
+
+CLICK "POST" (or "Schedule")
+
+AFTER POSTING — DESKTOP ACTIONS
+---------------------------------
+
+1. Verify the video is live on your profile
+2. Do NOT pin this video — keep Video 01 (Elevator Pitch) pinned as the profile intro
+3. Add a comment on your own video:
+   "Every single image was created with the same AI pipeline we offer as a service. metronagon.com"
+4. Monitor Analytics — this video has the HIGHEST viral potential of all 6 due to rapid-fire visuals
+5. Reply to comments within the first hour
+6. If this video gets traction (10K+ views in 24 hours), consider using TikTok Promote:
+   - Go to TikTok Studio > Promote
+   - Budget: $5-20
+   - Goal: "More video views" or "More profile visits"
+   - Audience: Auto (TikTok's algorithm is effective for Promote)
+
+ANALYTICS TO WATCH:
+- Video views (this should be your highest-performing video)
+- Average watch time (the fast-paced visuals should keep people watching)
+- Shares (visual portfolios get shared)
+- Profile visits and follows from this video
+
+KEYWORDS FOR TIKTOK SEARCH:
+book cover design, fantasy book covers, photorealistic art, AI art, indie author services, book cover reveal, cinematic art, character portraits

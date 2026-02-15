@@ -1,0 +1,81 @@
+TIKTOK STUDIO DESKTOP UPLOAD GUIDE: VIDEO 04 — THE CHILDREN'S BOOK MAGIC
+==========================================================================
+
+VIDEO FILE: 04-video-script-childrens-book (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+UPLOAD METHOD: TikTok Studio (Desktop — studio.tiktok.com)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open your browser and go to studio.tiktok.com
+2. Log in with your Metronagon TikTok account credentials
+3. Click the "Upload" button on the main dashboard
+4. Drag and drop your exported video file onto the upload area,
+   or click "Select file" to browse and select the video
+5. Wait for the video to fully upload
+6. Once uploaded, preview on the left, settings on the right
+
+VIDEO DETAILS (right side panel)
+---------------------------------
+
+CAPTION (copy-paste this entire block into the caption field):
+Most people don't believe AI can create a children's picture book this good. 32 pages. Consistent characters on every single page. Same face, same proportions, page 1 through page 32. That's the hardest thing to achieve — and we've solved it. #ChildrensBook #PictureBook #BookTok #KidLit #AIIllustration #ChildrensAuthor #KidsBooks #BookDesign #AIArt #SelfPublishing #ChildrensIllustration #IndieAuthor #WritingCommunity #PictureBookArt #Metronagon
+
+COVER IMAGE:
+- Click "Edit cover" beneath the video preview
+- Scrub to approximately 0:06-0:10 where one of the vibrant children's book pages is displayed
+- The colorful illustration will pop in the TikTok feed and attract taps
+- Click "Confirm"
+
+WHO CAN VIEW THIS VIDEO:
+- Select "Everyone"
+
+ALLOW USERS TO:
+- Comment: ON
+- Duet: ON
+- Stitch: ON
+- Download: ON
+
+DISCLOSE VIDEO CONTENT:
+- Select "Your brand" if prompted
+
+SCHEDULE VIDEO:
+- Recommended: Post 2-3 days after Video 03 (Week 2, Thursday)
+- Time: Between 7-9 AM or 6-9 PM in your timezone
+
+SOUND SETTINGS:
+- Video has warm orchestral music baked in from HeyGen
+- Do NOT add any additional TikTok sounds
+
+ADD TOPICS:
+- Children's Books
+- Picture Books
+- AI Illustration
+- Kids Books
+- Self Publishing
+
+ADD LOCATION:
+- Optional
+
+CLICK "POST" (or "Schedule")
+
+AFTER POSTING — DESKTOP ACTIONS
+---------------------------------
+
+1. Verify the video is live on your profile
+2. Add a comment on your own video:
+   "Yes, AI made every single page. And the characters are consistent throughout. metronagon.com"
+3. This video will attract parents, teachers, and children's book authors
+4. Reply to skeptics with warmth: "We were surprised too. Check the full portfolio at metronagon.com"
+5. Monitor Analytics — colorful content stops the scroll on TikTok
+6. Reply to comments within the first hour
+
+ANALYTICS TO WATCH:
+- Shares (parents share children's book content heavily)
+- Comments (expect "is this really AI?" reactions — reply to every one)
+- Average watch time (the vibrant pages should keep viewers engaged)
+- Profile visits from parents and children's book authors
+
+KEYWORDS FOR TIKTOK SEARCH:
+children's book illustration, AI illustration, picture book, kids books, children's author, self publishing, AI art, consistent characters, picture book art

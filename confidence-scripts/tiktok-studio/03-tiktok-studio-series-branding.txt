@@ -1,0 +1,80 @@
+TIKTOK STUDIO DESKTOP UPLOAD GUIDE: VIDEO 03 — THE SERIES BRANDING STORY
+==========================================================================
+
+VIDEO FILE: 03-video-script-series-branding (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+UPLOAD METHOD: TikTok Studio (Desktop — studio.tiktok.com)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open your browser and go to studio.tiktok.com
+2. Log in with your Metronagon TikTok account credentials
+3. Click the "Upload" button on the main dashboard
+4. Drag and drop your exported video file onto the upload area,
+   or click "Select file" to browse and select the video
+5. Wait for the video to fully upload
+6. Once uploaded, preview on the left, settings on the right
+
+VIDEO DETAILS (right side panel)
+---------------------------------
+
+CAPTION (copy-paste this entire block into the caption field):
+Here's the difference between a book and a book series that sells. Any designer can make one cover. But what happens when you publish book 2? Book 3? That's where consistency becomes a system. #SeriesBranding #BookCoverDesign #IndieAuthor #BookTok #AuthorTips #SelfPublishing #BookSeries #BrandDesign #WritingCommunity #AuthorTok #BookMarketing #IndiePublishing #DesignTips #BookDesign #ConsistentBranding #Metronagon
+
+COVER IMAGE:
+- Click "Edit cover" beneath the video preview
+- Scrub to approximately 0:14-0:16 where the Aztec series covers are displayed in sequence
+- The visual impact of the consistent series is the selling point — choose a striking cover frame
+- Click "Confirm"
+
+WHO CAN VIEW THIS VIDEO:
+- Select "Everyone"
+
+ALLOW USERS TO:
+- Comment: ON
+- Duet: ON
+- Stitch: ON
+- Download: ON
+
+DISCLOSE VIDEO CONTENT:
+- Select "Your brand" if prompted
+
+SCHEDULE VIDEO:
+- Recommended: Post 2-3 days after Video 02 (Week 2, Monday)
+- Time: Between 7-9 AM or 6-9 PM in your timezone
+
+SOUND SETTINGS:
+- Video has orchestral music baked in from HeyGen
+- Do NOT add any additional TikTok sounds
+
+ADD TOPICS:
+- Series Branding
+- Book Cover Design
+- Self Publishing
+- Author Tips
+- Indie Authors
+
+ADD LOCATION:
+- Optional
+
+CLICK "POST" (or "Schedule")
+
+AFTER POSTING — DESKTOP ACTIONS
+---------------------------------
+
+1. Verify the video is live on your profile
+2. Add a comment to encourage saves:
+   "Save this if you're planning a book series. Consistency is what separates amateur from professional."
+3. Reply to any authors asking about branding with: "DM us or visit metronagon.com"
+4. Monitor Analytics — educational content gets high save rates
+5. Reply to comments within the first hour
+
+ANALYTICS TO WATCH:
+- Saves (this is the key metric for educational content — saves boost algorithm)
+- Shares (people share tips with author friends)
+- Comments (educational content sparks discussion)
+- Profile visits from interested authors
+
+KEYWORDS FOR TIKTOK SEARCH:
+series branding, book series design, consistent book covers, author branding, indie publishing tips, book cover system, self publishing tips, book marketing

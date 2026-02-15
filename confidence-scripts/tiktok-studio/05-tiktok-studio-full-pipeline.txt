@@ -1,0 +1,80 @@
+TIKTOK STUDIO DESKTOP UPLOAD GUIDE: VIDEO 05 — THE FULL PIPELINE POWER
+========================================================================
+
+VIDEO FILE: 05-video-script-full-pipeline (exported from HeyGen)
+ACCOUNT: Metronagon TikTok (@metronagon)
+UPLOAD METHOD: TikTok Studio (Desktop — studio.tiktok.com)
+
+STEP-BY-STEP UPLOAD PROCEDURE
+------------------------------
+
+1. Open your browser and go to studio.tiktok.com
+2. Log in with your Metronagon TikTok account credentials
+3. Click the "Upload" button on the main dashboard
+4. Drag and drop your exported video file onto the upload area,
+   or click "Select file" to browse and select the video
+5. Wait for the video to fully upload
+6. Once uploaded, preview on the left, settings on the right
+
+VIDEO DETAILS (right side panel)
+---------------------------------
+
+CAPTION (copy-paste this entire block into the caption field):
+Most authors hire 5 different freelancers to launch a series. You only need one. Covers. Branding. Series architecture. Character design. Children's books. One partner, one vision, one delivery. That's the Full Pipeline. #SelfPublishing #BookSeries #IndieAuthor #BookTok #BookCoverDesign #AuthorLife #WritingCommunity #BookMarketing #IndiePublishing #AuthorTok #BookDesign #FullService #CreativeBusiness #AIArt #Metronagon
+
+COVER IMAGE:
+- Click "Edit cover" beneath the video preview
+- Scrub to approximately 0:36-0:38 where the "THE FULL PIPELINE" gold text on black is displayed
+- Alternatively, select a frame of one of the striking book covers
+- Click "Confirm"
+
+WHO CAN VIEW THIS VIDEO:
+- Select "Everyone"
+
+ALLOW USERS TO:
+- Comment: ON
+- Duet: ON
+- Stitch: ON
+- Download: ON
+
+DISCLOSE VIDEO CONTENT:
+- Select "Your brand" if prompted
+
+SCHEDULE VIDEO:
+- Recommended: Post 2-3 days after Video 04 (Week 3, Monday)
+- Time: Between 7-9 AM or 6-9 PM in your timezone
+
+SOUND SETTINGS:
+- Video has percussive orchestral music baked in from HeyGen
+- Do NOT add any additional TikTok sounds
+
+ADD TOPICS:
+- Self Publishing
+- Book Series
+- Author Services
+- Indie Publishing
+- Book Design
+
+ADD LOCATION:
+- Optional
+
+CLICK "POST" (or "Schedule")
+
+AFTER POSTING — DESKTOP ACTIONS
+---------------------------------
+
+1. Verify the video is live on your profile
+2. Add a comment to drive engagement:
+   "Which layer would help your book the most? Drop it below."
+3. This drives conversation and helps identify potential customers
+4. Reply to comments within the first hour
+5. Monitor Analytics — the layered structure keeps viewers watching for the next reveal
+
+ANALYTICS TO WATCH:
+- Completion rate (the "what's the next layer?" curiosity should keep people watching)
+- Comments (the engagement prompt should generate discussion)
+- Profile visits (this video converts curious viewers into profile visitors)
+- Website clicks if available in analytics
+
+KEYWORDS FOR TIKTOK SEARCH:
+self publishing services, book series launch, indie author services, book cover design, author branding, full service publishing, book design, writing community
