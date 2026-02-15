@@ -1,0 +1,72 @@
+THE TRANSLATOR — A NOVEL
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Literary Fiction / Immigration & Identity
+ART STYLE: Layered transparency typography — the cover is built entirely from overlapping, semi-transparent text in multiple languages and scripts, creating a dense palimpsest of words where meaning emerges from the overlap and obscuring of language upon language. No images — only text as visual art. Arabic, Mandarin, Cyrillic, Latin, Devanagari, and other scripts layered at varying opacities.
+
+---
+
+A visually dense, intellectually rich book cover built ENTIRELY from text — no images, no illustrations, no photographs. The cover surface is filled with overlapping layers of text in multiple languages and writing systems, each layer at a different opacity, creating a palimpsest where languages merge, obscure, and reveal each other. The effect is a visual metaphor for the translator's mind: a space where multiple languages coexist simultaneously, where meaning is always layered, and where no single language tells the complete truth.
+
+THE TEXT LAYERS (filling the entire image):
+
+The cover is composed of 8-10 overlapping layers of text, each in a different language and script, each at a different opacity, and each at a different scale and angle:
+
+LAYER 1 — ARABIC (largest, lowest opacity): Large Arabic calligraphic text — a passage of prose rendered in a flowing Naskh or Thuluth script — fills the background at approximately 15% opacity in warm brown (#6A4A2A). The text flows right-to-left, the characteristic elegant curves and dots of Arabic script creating a warm, organic base layer. The text is large — each line approximately 8% of image height.
+
+LAYER 2 — MANDARIN CHINESE (medium, medium opacity): Chinese characters in a traditional calligraphic style (regular script or semi-cursive) overlaid at approximately 25% opacity in deep blue (#1A3A6A). The characters are arranged in traditional vertical columns, reading top-to-bottom, right-to-left. The geometric precision of Chinese characters contrasts with the flowing Arabic beneath.
+
+LAYER 3 — CYRILLIC/RUSSIAN (medium-small, higher opacity): Russian text in a clean serif typeface overlaid at approximately 30% opacity in cool grey (#5A5A6A). The text runs horizontally, left-to-right, at a slight angle (rotated approximately 5 degrees clockwise).
+
+LAYER 4 — DEVANAGARI/HINDI (medium, low opacity): Hindi text in Devanagari script at approximately 20% opacity in warm ochre (#A08040). The characteristic horizontal headline (shirorekha) connecting the tops of letters creates strong horizontal bands.
+
+LAYER 5 — LATIN/ENGLISH (the "surface" layer, highest opacity): English text — fragments of what appears to be the novel itself — at approximately 50% opacity in near-black (#1A1A1A). This is the most readable layer, positioned as the "top" of the palimpsest. The text is in a clean serif font (Garamond or similar), arranged in standard left-to-right paragraphs. Fragments are readable: "...she carried three languages in her mouth and none of them was home..." "...the word for loneliness in Arabic has no equivalent in English, only approximations, and each approximation loses something essential..."
+
+LAYER 6 — JAPANESE (small, medium opacity): Japanese text mixing kanji and hiragana at approximately 25% opacity in muted green (#4A6A4A). Vertical columns.
+
+LAYER 7 — GREEK (small, low opacity): Classical Greek text at approximately 15% opacity in pale warm (#B0A090). Suggesting the philosophical roots of translation.
+
+LAYER 8 — AMHARIC/ETHIOPIC (medium, low opacity): Ge'ez script at approximately 18% opacity in warm red-brown (#8B4A30). The distinctive fidel characters add a completely different visual rhythm.
+
+THE VISUAL EFFECT:
+
+Where layers OVERLAP, the colors and forms merge — creating zones of varying density, color, and legibility:
+- In the densest areas (where 4-5 layers overlap), the text becomes nearly abstract — a rich, dark, complex texture of overlapping strokes and characters from different writing systems, creating patterns that are simultaneously meaningless (no single language is fully readable) and deeply meaningful (ALL languages are present).
+- In sparser areas (where only 1-2 layers are visible), individual scripts become more legible, their distinct visual qualities apparent.
+- The English layer (Layer 5) is the most consistently readable — but it is ALWAYS partially obscured by the other languages beneath and above it, visually demonstrating that English is just one language among many, never the complete picture.
+
+THE COLOR EFFECT:
+
+The overlapping semi-transparent colors create a rich, complex background tone — not any single color but a warm, dark, layered tone (approximately #3A3028 in the densest areas) that is the visual equivalent of a room where many conversations happen simultaneously. Lighter areas (where fewer layers overlap) show warmer, more varied colors.
+
+THE NEGATIVE SPACE:
+
+A small area near the center of the image (approximately 45-55% from top, 30-70% from left) is slightly LESS dense than the surrounding text — not empty, but with fewer overlapping layers, creating a slightly lighter zone that the eye naturally goes to. In this lighter zone, the English text fragment "...she carried three languages in her mouth and none of them was home..." is the most readable passage on the entire cover.
+
+COLOR PALETTE — LANGUAGE COLORS:
+
+- Arabic warm brown: #6A4A2A at 15% opacity
+- Chinese deep blue: #1A3A6A at 25% opacity
+- Russian cool grey: #5A5A6A at 30% opacity
+- Hindi warm ochre: #A08040 at 20% opacity
+- English near-black: #1A1A1A at 50% opacity
+- Japanese muted green: #4A6A4A at 25% opacity
+- Greek pale warm: #B0A090 at 15% opacity
+- Amharic red-brown: #8B4A30 at 18% opacity
+- Paper ground: #FFF8E8 (visible through the thinnest areas)
+
+TEXT — THE TITLE EMERGES FROM THE LAYERS:
+
+Title (positioned at 15-30% from top, centered):
+"THE" — in clean, bold serif in pure black (#000000) at 100% opacity — FULLY OPAQUE, cutting through all the translucent text layers beneath. The solid black stands out starkly against the semi-transparent text field. Small.
+"TRANSLATOR" — on the next line, same bold serif, LARGER, same 100% opacity black. The title is the ONLY fully opaque element on the cover — it represents clarity achieved through the translator's work: the one clear signal in the noise of overlapping languages.
+
+Subtitle (positioned at 32% from top): "a novel" — in small serif at 100% opacity in pure black, all lowercase, letter-spacing 0.3em.
+
+Author name (positioned at 85-88% from top): "FARAH BLACKWELL-OKAFOR" — in bold serif at 100% opacity in pure black, letter-spacing 0.2em. Like the title, the author name cuts clearly through the translucent text layers.
+
+OVERALL MOOD:
+
+Intellectual, layered, cosmopolitan — the feeling of sitting in a café where six conversations in six languages happen at adjacent tables, and you understand fragments of each but none completely. The typographic palimpsest creates a visual experience of translation itself: the overlay of meaning upon meaning, the impossibility of perfect equivalence, and the beauty that emerges from the attempt.
+
+THIS IS TYPOGRAPHY AS VISUAL ART. No images — only overlapping, semi-transparent text in eight writing systems. The beauty is in the density — the rich, layered texture of human language rendered as visual pattern, where every script has its own visual rhythm and all of them, together, create something more complex and more beautiful than any single language alone.

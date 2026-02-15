@@ -1,0 +1,75 @@
+THE MOUNTAIN WITHIN — FINDING STRENGTH IN STILLNESS
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Self-Help / Resilience & Meditation
+ART STYLE: Geometric low-poly mountain — a single mountain peak rendered in the low-polygon 3D style where surfaces are broken into flat triangular facets, each a slightly different shade. The geometric simplification transforms a natural form into something crystalline and abstract. Cool blues and purples at the base, warm golds and whites at the summit. Clean, modern, digital-native aesthetic.
+
+---
+
+A clean, modern, visually striking book cover depicting a single mountain peak rendered in the low-polygon (low-poly) digital art style — a technique where three-dimensional surfaces are broken into flat triangular facets, each filled with a single flat color. The result transforms the organic form of a mountain into a geometric, crystalline structure that is both natural and abstract. The mountain rises from the bottom of the image to approximately 60% of the way up, set against a gradient sky. The style is deliberately modern and digital — this is not a painting or a photograph but a design-forward digital artwork that signals contemporary self-help.
+
+THE MOUNTAIN (center, filling 35-95% from top):
+
+A single mountain peak rendered in approximately 200-300 triangular facets — each triangle a flat, solid color with no gradient or texture within it. The triangles fit together like a mosaic, their edges creating a faceted, gemstone-like surface:
+
+THE GEOMETRY: Each facet is a triangle of varying size — larger triangles on flatter surfaces (the mountain's slopes), smaller triangles where the surface curves or has more detail (the ridgeline, the summit). The triangles share edges precisely — no gaps, no overlaps — creating a continuous surface. The faceted quality transforms the mountain from an organic landform into a geometric sculpture.
+
+THE COLOR GRADIENT (bottom to top): The mountain's facets follow a deliberate color gradient from cool base tones to warm summit tones, representing the journey from struggle to triumph:
+
+BASE (85-95% from top): Deep, cool tones — dark slate blue (#1A2A3A) and deep purple (#2A1A3A). These facets are large and shadowed — the mountain's base in darkness, the starting point of difficulty.
+
+LOWER SLOPES (65-85% from top): Cool blues and blue-greys — (#2A4A5A), (#3A5A6A), (#4A6A7A). The facets here transition from dark to medium tones. Each adjacent facet is a slightly different shade, creating the characteristic low-poly sparkle.
+
+MID-SLOPES (50-65% from top): The transition zone — cool blue-greens (#4A7A8A) blending with warmer tones. Some facets begin to show warm amber (#8A7A4A) where the "sun" hits exposed faces.
+
+UPPER SLOPES (38-50% from top): Warm tones dominate — golden amber (#C0A050), warm sand (#D0B868), and bright gold (#E0C878). The facets catch the light, each one a slightly different warm tone. The mountain is climbing into the light.
+
+SUMMIT (35-38% from top): The peak — a small cluster of the brightest facets in warm white-gold (#F0E8D0) and bright white (#FFFFFF). The summit facets are the smallest and most numerous, creating fine geometric detail at the apex. The peak catches full light — it is the brightest point on the mountain.
+
+SNOW: Several facets near the summit are rendered in pure white (#FFFFFF) and pale blue-white (#E0F0FF) — snow that caps the peak. The snow facets are slightly brighter than the surrounding warm facets, adding contrast at the summit.
+
+THE SKY (0-40% from top):
+
+Behind the mountain, a gradient sky — NOT low-poly but smoothly graduated, creating a contrast between the faceted mountain and the smooth sky:
+- Deep dark blue (#0A1028) at the very top — near-space darkness
+- Transitioning through cool blue (#1A3A5A) and then warm tones
+- Near the horizon (around the mountain's upper slopes), warm amber-gold (#FFD080) — suggesting sunrise or sunset
+- The smooth sky gradient makes the geometric mountain stand out with extra visual impact
+
+SUBTLE STARS: In the dark upper sky, a few tiny point-source stars — simple white dots that add depth to the darkness above.
+
+LOW-POLY TECHNIQUE:
+
+- FLAT FACETS: Each triangle is a single, completely flat color — no gradients, no textures, no effects within any individual facet
+- EDGE VISIBILITY: The edges between facets are visible as very thin lines where adjacent colors meet — this edge definition creates the characteristic low-poly look
+- CONSISTENT LIGHTING: All facets are lit by a single light source from the upper right — facets angled toward the light are brighter, facets angled away are darker. This consistent directional lighting is what makes the flat facets read as a three-dimensional surface.
+- COLOR STEPPING: Adjacent facets differ by a small but visible color step — creating the characteristic shimmering quality where the eye reads many flat colors as a continuous surface
+
+COLOR PALETTE — MOUNTAIN GRADIENT:
+
+- Base dark slate: #1A2A3A
+- Base purple: #2A1A3A
+- Lower cool blue: #2A4A5A → #4A6A7A
+- Mid blue-green: #4A7A8A
+- Mid warm amber: #8A7A4A
+- Upper warm gold: #C0A050 → #E0C878
+- Summit bright: #F0E8D0
+- Snow white: #FFFFFF
+- Sky dark: #0A1028
+- Horizon amber: #FFD080
+
+TEXT — CLEAN AND MODERN:
+
+Title (positioned at 5-18% from top, centered in the dark upper sky):
+"THE MOUNTAIN" — in a clean, geometric sans-serif (think Montserrat, Poppins, or Raleway — the fonts of modern self-help design) in white (#FFFFFF). Large, letter-spacing 0.15em. Clean, strong, modern.
+"WITHIN" — on the next line, same font, same size, in warm summit gold (#E0C878). The white-to-gold shift mirrors the mountain's base-to-summit color journey.
+
+Subtitle (positioned at 20% from top): "Finding Strength in Stillness" — in small, light sans-serif in pale blue (#8090A0), letter-spacing 0.2em.
+
+Author name (positioned at 92-95% from top, against the dark mountain base): "DR. ANANDA VALE-OKAFOR" — in sans-serif in cool blue (#4A6A7A), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Aspirational, calm, strong — the feeling of looking at a mountain and knowing that you can climb it, that the path from the dark base to the bright summit is difficult but clear. The low-poly style modernizes the mountain metaphor — it signals contemporary self-help rather than traditional philosophy, and the geometric simplification suggests that complex challenges can be broken into manageable facets.
+
+THIS IS LOW-POLY DIGITAL ART. Flat triangular facets, geometric simplification, gradient color from cool darkness to warm light. The beauty is in the crystalline clarity — a mountain reduced to its geometric essence, each facet a step on the climb.

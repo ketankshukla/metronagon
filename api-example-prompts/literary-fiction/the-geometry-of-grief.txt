@@ -1,0 +1,75 @@
+THE GEOMETRY OF GRIEF — A NOVEL
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Literary Fiction / Grief & Mathematics
+ART STYLE: Mathematical diagram as emotional landscape — the cover is a precise geometric construction (compass-and-straightedge diagram) rendered on graph paper, but the geometric forms (circles, spirals, tangent lines) are arranged to create an image that reads as both a mathematical proof and an emotional state. The Archimedean spiral at the center evokes both mathematical beauty and the inward-turning nature of grief. Pencil on blue graph paper.
+
+---
+
+A intellectually beautiful book cover rendered as a geometric construction on graph paper — the precise, compass-and-straightedge diagram tradition of classical mathematics. The construction depicts a series of interlocking geometric forms (circles, spirals, tangent lines, and arcs) that, when viewed as a whole, create a visual experience of contraction and expansion — the tightening spiral of grief and the expanding circles of healing. The rendering is technically precise but emotionally charged — mathematics as a language for feelings that words cannot express.
+
+THE GRAPH PAPER:
+
+The entire background is blue graph paper — the classic engineering/mathematics paper with a fine blue (#A0C0E0) grid on white (#FFFFFF). The grid is precisely rendered: major gridlines every 10 units in slightly heavier blue, minor gridlines every unit in lighter blue. The paper has the slight texture of quality graph paper — smooth but not glossy. A few characteristics of real used paper: very slight yellowing at the edges, a tiny fold crease in one corner.
+
+THE GEOMETRIC CONSTRUCTION (filling 15-85% of the image):
+
+A complex geometric figure drawn in sharp pencil (#2A2A2A graphite) on the grid:
+
+THE PRIMARY SPIRAL: At the center of the construction, an Archimedean spiral — the mathematically precise spiral where each revolution is equally spaced from the last. The spiral begins at a single point near the center of the image and winds outward in clean, precise revolutions. The spiral makes approximately six full turns, expanding from a tight center point to a diameter of approximately 60% of the image width. The spiral is drawn with a pencil line of consistent weight — the clean, precise line of a compass-drawn curve on paper.
+
+The spiral is the cover's emotional center — the visual metaphor for grief's inward-turning nature, its repetitive circling, and its gradual, almost imperceptible expansion outward as healing begins.
+
+CONCENTRIC CIRCLES: Surrounding the spiral, a series of concentric circles — six or seven of them — drawn at varying radii from the spiral's center point. The circles are the characteristic construction circles of geometric proof: some are drawn with the compass (clean, precise arcs), some are full circles, and some are partial arcs used as construction aids. The largest circle nearly touches the edges of the image.
+
+TANGENT LINES: Straight lines drawn tangent to the circles and spiral at specific points — ruler-straight, extending to the edges of the construction. These tangent lines create angles and intersections that give the overall construction its architectural quality. Some tangent lines are extended with dashed lines (the convention for construction lines — lines used in the proof but not part of the final figure).
+
+CONSTRUCTION MARKS: The marks of the geometric construction process itself:
+- Small compass point-holes where the compass point was placed — tiny dimples in the paper at the center of each circle
+- Faint, erased construction lines — ghost marks of earlier attempts, partially rubbed out but still visible as pale grey
+- Small arcs drawn to mark specific angles — the quarter-circles used to transfer angles in compass-and-straightedge construction
+- Hash marks on certain line segments indicating equal lengths
+
+THE GOLDEN RATIO: Hidden within the construction, the golden ratio (φ = 1.618...) appears — the proportion that connects mathematics to beauty. Certain rectangles formed by the construction lines have golden-ratio proportions, and the spiral's expansion rate follows the golden spiral. Small annotations in precise handwriting mark these ratios: "φ" with an arrow to the relevant proportion.
+
+ANNOTATIONS AND LABELS:
+
+In precise, small handwriting (mechanical pencil, the characteristic neat hand of a mathematician):
+- Letters label key points: A, B, C, D... following the convention of geometric proofs
+- Small equations annotate certain relationships: "AB = BC × φ," "∠AOB = 137.5°" (the golden angle)
+- A partial proof text in the margin: "Let the radius of grief be r₁. As t → ∞, the spiral expands such that r = r₁ + aθ, where a represents the rate of healing..." — mathematics that is also poetry
+- The date in the lower margin: a specific date written and then CROSSED OUT and replaced with another date, then that crossed out and replaced with "every day"
+
+THE EMOTIONAL ELEMENT:
+
+One area of the construction shows a BREAK — where the precise pencil line of the spiral was interrupted. At approximately the third revolution, the spiral line stops abruptly, as though the hand drawing it could not continue. A small gap. Then the line resumes, slightly offset — not perfectly continuing the mathematical curve but close. This single imperfection in the otherwise perfect construction is the cover's most human moment: the point where the mathematics of grief was overwhelmed by the grief itself.
+
+Near this break, a small water stain on the graph paper — a circular mark (#D0C8B8) approximately 3% of image width. A tear drop on a math problem.
+
+COLOR PALETTE — GRAPH PAPER AND PENCIL:
+
+- Grid blue (major): #A0C0E0
+- Grid blue (minor): #C0D8E8
+- Paper white: #FFFFFF
+- Pencil graphite: #2A2A2A — primary construction lines
+- Light pencil: #6A6A6A — construction aids, lighter annotations
+- Erased ghost: #B0B0B0 — partially erased marks
+- Compass point dimple: #808080
+- Water stain: #D0C8B8
+- Annotation ink: #2A2A2A (same as pencil, slightly different mark quality)
+
+TEXT — MATHEMATICAL PRECISION:
+
+Title (positioned at 3-16% from top, centered on the graph paper above the construction):
+"THE GEOMETRY" — in a clean, precise serif font (think Computer Modern — the LaTeX default font, the typeface of mathematical publishing) in graphite dark (#2A2A2A). Medium-large, letter-spacing 0.1em. The font choice directly references mathematical typesetting.
+"of GRIEF" — on the next line, same mathematical serif, same size, same graphite tone. The title is formatted as a mathematical paper title — precise, unflinching, clinical. The word "GRIEF" in mathematical typography creates the cover's core tension: an emotional word in an analytical format.
+
+Subtitle (positioned at 18% from top): "a novel" — in small mathematical serif in pencil grey (#6A6A6A), all lowercase, letter-spacing 0.3em.
+
+Author name (positioned at 88-92% from top, below the construction): "PROFESSOR ELEANOR OSEI-THORNTON" — in mathematical serif in graphite (#2A2A2A), letter-spacing 0.2em.
+
+OVERALL MOOD:
+
+Precise, controlled, quietly devastating — the feeling of trying to make sense of loss by applying the only language you trust (mathematics) and discovering that even the most precise language breaks down in the face of certain truths. The geometric construction on graph paper creates a cover that looks like a page from a mathematics textbook — and that clinical appearance makes the emotional elements (the break in the spiral, the tear stain, the margin note about healing) exponentially more powerful.
+
+THIS IS MATHEMATICAL GEOMETRY AS EMOTIONAL EXPRESSION. Compass-and-straightedge on graph paper, precise annotations, the golden spiral. The beauty is in the precision that almost-but-not-quite contains the grief — the single break in the line, the water stain on the proof, the equation that substitutes θ for time and r for the radius of loss.

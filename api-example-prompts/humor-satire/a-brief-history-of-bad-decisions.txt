@@ -1,0 +1,102 @@
+A BRIEF HISTORY OF BAD DECISIONS — A MEMOIR
+TYPE: Paperback Front Cover
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Humor / Memoir
+ART STYLE: Passport stamps and travel stickers collage — the entire cover is a collage of overlapping passport stamps, visa stickers, airline baggage tags, hotel labels, and immigration stamps from around the world, arranged chaotically on the inside cover of a worn passport. Each stamp represents a different bad decision (a different country, a different disaster). The aesthetic of a well-traveled passport that has seen too much, combined with the scrapbook energy of a life lived impulsively.
+
+---
+
+A chaotic, colorful, densely layered book cover designed to look like the inside pages of a WELL-USED PASSPORT — covered in overlapping entry stamps, visa stickers, airline tags, and immigration marks from dozens of countries. But each stamp, instead of standard immigration text, contains humorous text referencing a bad decision made in that location. The overall effect is a visual autobiography told through bureaucratic stamps — each one a different country, a different ink color, a different disaster, all layered on the worn pages of a passport that has been through too much.
+
+THE PASSPORT PAGE BACKGROUND:
+
+The background is the interior pages of a passport — the off-white (#E8E0D0) security-printed pages with the characteristic anti-forgery pattern: a very faint, repeating geometric watermark pattern (tiny eagles, stars, or geometric shapes in very pale blue-grey #D8D4D0) printed across the surface. The pages show wear: slightly yellowed at the edges, fold creases from the passport being sat on in back pockets, and a few small stains (coffee, wine, mystery substances).
+
+THE STAMPS AND STICKERS (filling 10-90% of the image):
+
+Approximately 20-25 overlapping stamps, stickers, and marks cover the passport pages, each in a different style and color:
+
+ENTRY/EXIT STAMPS (circular, rectangular, and oval ink stamps):
+
+- PARIS, FRANCE (oval stamp in blue ink #1A3A8B): "RÉPUBLIQUE FRANÇAISE — ENTRÉE — FELL IN LOVE IN 24 HOURS — REGRETTED IN 48" with a date and small official-looking number
+
+- BANGKOK, THAILAND (rectangular stamp in red ink #CC2020): "KINGDOM OF THAILAND — IMMIGRATION — GOT A TATTOO I CAN'T READ — IT PROBABLY SAYS 'SOUP'" with ornamental Thai-inspired border
+
+- REYKJAVIK, ICELAND (circular stamp in dark blue #0A1A3A): "ENTERED ICELAND — LEFT DIGNITY AT THE BORDER — SEE ATTACHED INCIDENT REPORT"
+
+- TOKYO, JAPAN (square stamp in vermillion #CC3A1A): Japanese-style official stamp with "KARAOKE INCIDENT — DURATION: 14 HOURS — NO FURTHER COMMENT"
+
+- RIO DE JANEIRO, BRAZIL (triangular stamp in green #1A6A3A): "REPÚBLICA FEDERATIVA DO BRASIL — CARNIVAL ENTRY PERMIT — LOST: WALLET, SHOES, SENSE OF SELF"
+
+- AMSTERDAM, NETHERLANDS (rectangular stamp in orange #E08030): "KONINKRIJK DER NEDERLANDEN — RENTED A BICYCLE — ENDED UP IN BELGIUM"
+
+- CAIRO, EGYPT (oval stamp in gold/brown #A08040): "ARAB REPUBLIC OF EGYPT — RODE A CAMEL — CAMEL DID NOT CONSENT — INCIDENT #447"
+
+- SYDNEY, AUSTRALIA (circular stamp in deep red #8B1A1A): "AUSTRALIAN BORDER FORCE — ENTRY GRANTED — SPIDER ENCOUNTER: YES — SCREAMING: ALSO YES"
+
+Each stamp is rendered with the characteristic qualities of real passport stamps:
+- INK VARIATION: Some stamps are clearly inked, others are faded (insufficient ink on the stamp pad), some are smudged (the passport was closed before the ink dried)
+- OVERLAPPING: Stamps overlap each other — some partially obscured by later stamps, creating the characteristic layered archaeology of a well-used passport
+- ANGLE VARIATION: Each stamp is applied at a different angle — immigration officers never stamp straight
+- INK COLORS: Red, blue, purple, green, orange, black — the full range of immigration stamp inks
+
+VISA STICKERS (larger, rectangular, printed):
+
+Two or three full visa stickers — the larger, printed stickers that some countries attach to passport pages:
+- A visa sticker in the style of a Schengen visa — portrait photo area (containing a small, obviously hungover photo of the book's protagonist), printed text, holographic security strip — with the occupation field reading "PROFESSIONAL BAD DECISION MAKER"
+- A visa sticker with "DURATION OF STAY: UNTIL ASKED TO LEAVE" and a stamped "EXPIRED" across it in red
+
+AIRLINE BAGGAGE TAGS:
+
+Two or three small airline baggage tags (the adhesive kind) stuck to the page:
+- "LHR → NRT — SEAT 42F — LOST BAGGAGE (AGAIN)" in the barcode-and-text format of real baggage tags
+- "JFK → CDG — GATE CHANGE: YES — MISSED FLIGHT: ALSO YES"
+
+HOTEL STICKERS:
+
+One or two small vintage-style hotel labels:
+- "GRAND HOTEL CATASTROPHE — ISTANBUL — EST. 1923 — 'WHERE EVERY STAY IS AN ADVENTURE (WHETHER YOU WANT IT OR NOT)'"
+
+ADDITIONAL DETAILS:
+
+- A small COFFEE RING STAIN overlapping several stamps — brown (#A08860), circular
+- A PHONE NUMBER scrawled in pen on the page margin — with a note: "DON'T CALL — TRUST ME"
+- A BOARDING PASS corner tucked into the page — just the edge visible, showing a departure city and an arrival city that make no geographic sense
+- A tiny STICKER of a national flag, placed upside down
+
+STAMP RENDERING:
+
+Each stamp is rendered with material authenticity:
+- Rubber stamp ink: slightly uneven coverage, slightly fuzzy edges where ink spread
+- Printed stickers: crisp text, slightly peeling corners, holographic elements suggested by small rainbow-hued areas
+- Handwritten annotations: blue and black ballpoint pen notes in margins
+- The stamps use various typefaces: some serif, some sans-serif, some typewriter-style — matching the bureaucratic traditions of different countries
+
+COLOR PALETTE — PASSPORT AND INK:
+
+- Passport page: #E8E0D0
+- Security print: #D8D4D0
+- Blue ink: #1A3A8B
+- Red ink: #CC2020
+- Vermillion ink: #CC3A1A
+- Green ink: #1A6A3A
+- Orange ink: #E08030
+- Purple ink: #5A2A6A
+- Brown ink: #6A4A2A
+- Coffee stain: #A08860
+- Visa sticker white: #F0ECE8
+- Ballpoint pen blue: #1A2A5A
+
+TEXT — PASSPORT TYPOGRAPHY:
+
+Title: "A BRIEF HISTORY OF BAD DECISIONS" is rendered as the LARGEST STAMP on the page — a massive rectangular rubber stamp impression in vivid red ink (#CC2020), positioned at 15-35% from top, angled slightly (about 5 degrees clockwise). The stamp has a double-line rectangular border and the text in bold, slightly distorted stamped serif — the characteristic look of a large rubber stamp pressed with uneven pressure. "A BRIEF HISTORY" on the first line, "of BAD DECISIONS" on the second line, larger and bolder. Below the text, a small "CLASSIFIED" marking and a fake serial number.
+
+Subtitle: "A Memoir" — handwritten in ballpoint pen (#1A2A5A) below the title stamp, with an arrow pointing to it — as though someone annotated the stamp.
+
+Author name: "PASSPORT HOLDER: FELIX THORNTON-OKAFOR" — printed in the format of a passport's personal details page, positioned at 85-90% from top — the typewriter-style font of passport biodata pages.
+
+OVERALL MOOD:
+
+Chaotic, worldly, ruefully funny — the feeling of flipping through your passport after a year of impulsive travel and realizing that every stamp represents not just a place you went but a decision you probably shouldn't have made. The passport collage aesthetic transforms a memoir cover into a visual document of a life lived at full speed with insufficient planning — every stamp is a story, and every story ends with a lesson learned the hard way.
+
+THIS IS PASSPORT STAMP AND TRAVEL STICKER COLLAGE. Overlapping ink stamps, visa stickers, baggage tags, and handwritten notes on worn passport pages. The beauty is in the chaos — a lifetime of travel and terrible judgment reduced to bureaucratic marks on paper.
