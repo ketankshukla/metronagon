@@ -15,23 +15,23 @@ This is a NARRATIVE script. It follows a chronological journey — from writing 
 
 IMAGE SEQUENCE & TIMING
 
-  Timestamp     Visual                                                        Image File                                                              Motion
-  0:00-0:06     Presenter, direct to camera, dark background, contemplative   (talking head)                                                          Static
-  0:06-0:09     Aztec Book 1 cover — the first book, the beginning            portfolio/aztec/covers/book1-cover.jpg                                  Slow fade in, gentle zoom
-  0:09-0:12     Aztec Books 1-4, side by side — the series growing            portfolio/aztec/covers/book1-cover.jpg through book4-cover.jpg           Slide in from right
-  0:12-0:16     All 12 Aztec covers — the full shelf revealed                 All 12 Aztec covers                                                    Slow zoom out to reveal all
-  0:16-0:19     Itzil character portrait — the first character                 portfolio/aztec/characters/01-Itzil.jpg                                 Slow zoom in
-  0:19-0:22     Character grid — Itzil, Nightshade, Neyla, Volzentar, etc.    Multiple character portraits                                            Grid appear one by one
-  0:22-0:25     Aztec series logo — the brand crystallizing                   portfolio/aztec/series-logo.png                                         Fade in, centered
-  0:25-0:28     Repetition series — all 5 covers + logo                       portfolio/repetition/book1-5 + series-logo.png                          Quick elegant cascade
-  0:28-0:31     Reality series — all 5 covers + logo                          portfolio/reality/book1-5 + series-logo.png                             Quick elegant cascade
-  0:31-0:35     Children's book pages — 01, 12, 24                            portfolio/childrens/page-01.jpg, page-12, page-24                       Soft dissolve sequence
-  0:35-0:38     Panoramic: Aztec complete series landscape                    portfolio/aztec/box-sets/complete-series-cover-landscape.jpg             Slow horizontal pan
-  0:38-0:41     YouTube thumbnails side by side                               portfolio/repetition/youtube-thumbnail.jpg + reality/youtube-thumbnail   Slide in together
-  0:41-0:44     Metronagon logo — the business born                           portfolio/logo.png                                                      Dramatic fade in, slow zoom
-  0:44-0:52     Presenter returns, full screen, direct eye contact            (talking head)                                                          Static
-  0:52-0:55     Quick montage flash: cover, character, children's, logo       Various                                                                 Quick dissolve
-  0:55-0:60     Metronagon logo + "Metronagon.com" + "The Measure of Excellence"   portfolio/logo.png                                                Gold glow, hold
+  Timestamp     Visual                                                        Image File                                                                    Motion
+  0:00-0:06     Presenter, direct to camera, dark background, contemplative   (talking head)                                                                Static
+  0:06-0:09     Aztec Book 1 cover — the first book, the beginning            aztec-book01-cover.jpg                                                        Slow fade in, gentle zoom
+  0:09-0:12     Aztec Books 1-4, side by side — the series growing            aztec-book01 through aztec-book04-cover.jpg                                   Slide in from right
+  0:12-0:16     All 12 Aztec covers — the full shelf revealed                 aztec-book01 through aztec-book12-cover.jpg                                   Slow zoom out to reveal all
+  0:16-0:19     Itzil character portrait — the first character                 aztec-character-itzil.jpg                                                     Slow zoom in
+  0:19-0:22     Character grid — Itzil, Nightshade, Neyla, Volzentar, etc.    aztec-character-itzil/nightshade/neyla/volzentar/miyako/rainara.jpg            Grid appear one by one
+  0:22-0:25     Aztec series logo — the brand crystallizing                   aztec-series-logo.png                                                         Fade in, centered
+  0:25-0:28     Repetition series — all 5 covers + logo                       repetition-book01 through 05-cover.jpg + repetition-series-logo.png            Quick elegant cascade
+  0:28-0:31     Reality series — all 5 covers + logo                          reality-book01 through 05-cover.jpg + reality-series-logo.png                  Quick elegant cascade
+  0:31-0:35     Children's book pages — 01, 12, 24                            childrens-page-01.jpg, childrens-page-12.jpg, childrens-page-24.jpg            Soft dissolve sequence
+  0:35-0:38     Panoramic: Aztec complete series                              aztec-complete-series.jpg                                                      Slow horizontal pan
+  0:38-0:41     YouTube thumbnails side by side                               repetition-youtube-thumbnail.jpg + reality-youtube-thumbnail.jpg               Slide in together
+  0:41-0:44     Metronagon logo — the business born                           metronagon-logo.png                                                            Dramatic fade in, slow zoom
+  0:44-0:52     Presenter returns, full screen, direct eye contact            (talking head)                                                                Static
+  0:52-0:55     Quick montage flash: cover, character, children's, logo       aztec-book05-cover.jpg, aztec-character-itzil.jpg, childrens-page-16.jpg       Quick dissolve
+  0:55-0:60     Metronagon logo + "Metronagon.com" + "The Measure of Excellence"   metronagon-logo.png                                                      Gold glow, hold
 
 ---
 

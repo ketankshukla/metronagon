@@ -15,22 +15,22 @@ This script is the most emotionally warm of all six. The children's book pages s
 
 IMAGE SEQUENCE & TIMING
 
-  Timestamp     Visual                                                        Image File                                                              Motion
-  0:00-0:05     Presenter, warm expression, dark background                   (talking head)                                                          Static
-  0:05-0:09     Children's page 01 — full screen, vibrant colors              portfolio/childrens/page-01.jpg                                         Gentle slow zoom in
-  0:09-0:13     Children's page 04                                            portfolio/childrens/page-04.jpg                                         Soft rightward pan
-  0:13-0:17     Children's page 08                                            portfolio/childrens/page-08.jpg                                         Slow zoom out
-  0:17-0:21     Children's page 12                                            portfolio/childrens/page-12.jpg                                         Gentle upward pan
-  0:21-0:25     Children's page 16                                            portfolio/childrens/page-16.jpg                                         Slow zoom in
-  0:25-0:29     Children's page 20                                            portfolio/childrens/page-20.jpg                                         Soft leftward pan
-  0:29-0:33     Children's page 24                                            portfolio/childrens/page-24.jpg                                         Gentle zoom
-  0:33-0:37     Children's page 28                                            portfolio/childrens/page-28.jpg                                         Slow zoom out to reveal full page
-  0:37-0:40     Quick montage: pages 01, 08, 16, 24 in a 2x2 grid            All four pages                                                         Static grid, soft border glow
-  0:40-0:44     Side-by-side: page 01 next to page 28 — consistency proof     portfolio/childrens/page-01.jpg + page-28.jpg                           Slide in from opposite sides
-  0:44-0:48     Aztec character portraits for contrast — showing range        portfolio/aztec/characters/01-Itzil.jpg + 07-Neyla.jpg                  Quick dissolve
-  0:48-0:50     Aztec Book 1 cover for contrast — showing versatility         portfolio/aztec/covers/book1-cover.jpg                                  Quick zoom
-  0:50-0:55     Presenter returns, direct to camera, genuine warmth           (talking head)                                                          Static
-  0:55-0:60     Metronagon logo + "Metronagon.com" + "Children's Books from $500"   portfolio/logo.png                                               Gold glow fade in
+  Timestamp     Visual                                                        Image File                                              Motion
+  0:00-0:05     Presenter, warm expression, dark background                   (talking head)                                          Static
+  0:05-0:09     Children's page 01 — full screen, vibrant colors              childrens-page-01.jpg                                   Gentle slow zoom in
+  0:09-0:13     Children's page 04                                            childrens-page-04.jpg                                   Soft rightward pan
+  0:13-0:17     Children's page 08                                            childrens-page-08.jpg                                   Slow zoom out
+  0:17-0:21     Children's page 12                                            childrens-page-12.jpg                                   Gentle upward pan
+  0:21-0:25     Children's page 16                                            childrens-page-16.jpg                                   Slow zoom in
+  0:25-0:29     Children's page 20                                            childrens-page-20.jpg                                   Soft leftward pan
+  0:29-0:33     Children's page 24                                            childrens-page-24.jpg                                   Gentle zoom
+  0:33-0:37     Children's page 28                                            childrens-page-28.jpg                                   Slow zoom out to reveal full page
+  0:37-0:40     Quick montage: pages 01, 08, 16, 24 in a 2x2 grid            All four childrens-page files                            Static grid, soft border glow
+  0:40-0:44     Side-by-side: page 01 next to page 28 — consistency proof     childrens-page-01.jpg + childrens-page-28.jpg            Slide in from opposite sides
+  0:44-0:48     Aztec character portraits for contrast — showing range        aztec-character-itzil.jpg + aztec-character-neyla.jpg    Quick dissolve
+  0:48-0:50     Aztec Book 1 cover for contrast — showing versatility         aztec-book01-cover.jpg                                  Quick zoom
+  0:50-0:55     Presenter returns, direct to camera, genuine warmth           (talking head)                                          Static
+  0:55-0:60     Metronagon logo + "Metronagon.com" + "Children's Books from $500"   metronagon-logo.png                                Gold glow fade in
 
 ---
 

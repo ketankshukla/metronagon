@@ -24,26 +24,26 @@ BACKGROUND
 IMAGE OVERLAYS (Upload to HeyGen)
 
 Children's Book Pages (0:05-0:40)
-  1. public/portfolio/childrens/page-01.jpg
-  2. public/portfolio/childrens/page-04.jpg
-  3. public/portfolio/childrens/page-08.jpg
-  4. public/portfolio/childrens/page-12.jpg
-  5. public/portfolio/childrens/page-16.jpg
-  6. public/portfolio/childrens/page-20.jpg
-  7. public/portfolio/childrens/page-24.jpg
-  8. public/portfolio/childrens/page-28.jpg
+  1. childrens-page-01.jpg
+  2. childrens-page-04.jpg
+  3. childrens-page-08.jpg
+  4. childrens-page-12.jpg
+  5. childrens-page-16.jpg
+  6. childrens-page-20.jpg
+  7. childrens-page-24.jpg
+  8. childrens-page-28.jpg
 
 Consistency Proof (0:40-0:44)
-  9.  public/portfolio/childrens/page-01.jpg — left side
-  10. public/portfolio/childrens/page-28.jpg — right side
+  9.  childrens-page-01.jpg — left side
+  10. childrens-page-28.jpg — right side
 
 Range Demonstration (0:44-0:50)
-  11. public/portfolio/aztec/characters/01-Itzil.jpg
-  12. public/portfolio/aztec/characters/07-Neyla.jpg
-  13. public/portfolio/aztec/covers/book1-cover.jpg
+  11. aztec-character-itzil.jpg
+  12. aztec-character-neyla.jpg
+  13. aztec-book01-cover.jpg
 
 Closing (0:55-0:60)
-  14. public/portfolio/logo.png
+  14. metronagon-logo.png
 
 MUSIC
 
@@ -61,8 +61,7 @@ CAPTIONS
 
 EXPORT SETTINGS
 
-  - Primary: 9:16 (1080x1920) for TikTok / Shorts / Reels
-  - Secondary: 16:9 (1920x1080) for Facebook / YouTube
+  - Aspect ratio: 9:16 portrait (1080x1920)
   - Resolution: 1080p
 
 PLATFORM-SPECIFIC NOTES

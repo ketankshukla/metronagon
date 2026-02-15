@@ -24,27 +24,27 @@ IMAGE OVERLAYS (Upload to HeyGen)
 
 Upload these images to HeyGen's media library and set them as overlays at the timestamps specified in the main script:
 
-  1.  public/portfolio/logo.png — 0:00-0:03, centered, 60% screen width
-  2.  public/portfolio/aztec/covers/book1-cover.jpg — 0:06-0:12, right side
-  3.  public/portfolio/aztec/covers/book3-cover.jpg — 0:06-0:12, right side (staggered)
-  4.  public/portfolio/aztec/covers/book5-cover.jpg — 0:06-0:12, right side (staggered)
-  5.  public/portfolio/aztec/covers/book7-cover.jpg — 0:06-0:12, right side (staggered)
-  6.  public/portfolio/repetition/book1-cover.jpg through book5-cover.jpg — 0:12-0:18, left side
-  7.  public/portfolio/reality/book1-cover.jpg through book5-cover.jpg — 0:18-0:22
-  8.  public/portfolio/aztec/characters/01-Itzil.jpg — 0:22-0:28, grid layout
-  9.  public/portfolio/aztec/characters/05-Nightshade.jpg — 0:22-0:28, grid layout
-  10. public/portfolio/aztec/characters/07-Neyla.jpg — 0:22-0:28, grid layout
-  11. public/portfolio/aztec/characters/09-Miyako.jpg — 0:22-0:28, grid layout
-  12. public/portfolio/childrens/page-01.jpg — 0:28-0:34
-  13. public/portfolio/childrens/page-08.jpg — 0:28-0:34
-  14. public/portfolio/childrens/page-16.jpg — 0:28-0:34
-  15. public/portfolio/childrens/page-24.jpg — 0:28-0:34
-  16. public/portfolio/aztec/series-logo.png — 0:34-0:40
-  17. public/portfolio/repetition/series-logo.png — 0:34-0:40
-  18. public/portfolio/reality/series-logo.png — 0:34-0:40
-  19. public/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg — 0:40-0:46
-  20. public/portfolio/repetition/complete-series-cover-landscape.jpg — 0:40-0:46
-  21. public/portfolio/logo.png — 0:52-0:60, centered with tagline text
+  1.  metronagon-logo.png — 0:00-0:03, centered, 60% screen width
+  2.  aztec-book01-cover.jpg — 0:06-0:12, right side
+  3.  aztec-book03-cover.jpg — 0:06-0:12, right side (staggered)
+  4.  aztec-book05-cover.jpg — 0:06-0:12, right side (staggered)
+  5.  aztec-book07-cover.jpg — 0:06-0:12, right side (staggered)
+  6.  repetition-book01-cover.jpg through repetition-book05-cover.jpg — 0:12-0:18, left side
+  7.  reality-book01-cover.jpg through reality-book05-cover.jpg — 0:18-0:22
+  8.  aztec-character-itzil.jpg — 0:22-0:28, grid layout
+  9.  aztec-character-nightshade.jpg — 0:22-0:28, grid layout
+  10. aztec-character-neyla.jpg — 0:22-0:28, grid layout
+  11. aztec-character-miyako.jpg — 0:22-0:28, grid layout
+  12. childrens-page-01.jpg — 0:28-0:34
+  13. childrens-page-08.jpg — 0:28-0:34
+  14. childrens-page-16.jpg — 0:28-0:34
+  15. childrens-page-24.jpg — 0:28-0:34
+  16. aztec-series-logo.png — 0:34-0:40
+  17. repetition-series-logo.png — 0:34-0:40
+  18. reality-series-logo.png — 0:34-0:40
+  19. aztec-complete-series.jpg — 0:40-0:46
+  20. repetition-complete-series.jpg — 0:40-0:46
+  21. metronagon-logo.png — 0:52-0:60, centered with tagline text
 
 MUSIC
 
@@ -62,7 +62,5 @@ CAPTIONS
 
 EXPORT SETTINGS
 
-  - Aspect ratio — TikTok/Shorts: 9:16 (1080x1920)
-  - Aspect ratio — YouTube/Facebook: 16:9 (1920x1080)
+  - Aspect ratio: 9:16 portrait (1080x1920)
   - Resolution: 1080p minimum
-  - Export both versions from the same script

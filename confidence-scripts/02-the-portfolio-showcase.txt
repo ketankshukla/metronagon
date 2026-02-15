@@ -15,32 +15,32 @@ This is an IMAGE-FORWARD script. The presenter appears only at the opening and c
 
 IMAGE SEQUENCE & TIMING
 
-  Timestamp     Visual                                                        Image File                                                              Motion
-  0:00-0:04     Presenter, direct to camera, dark background                  (talking head)                                                          Static
-  0:04-0:07     Metronagon logo, gold on black, dramatic reveal               portfolio/logo.png                                                      Slow zoom in
-  0:07-0:10     Aztec Book 1 cover — full screen                              portfolio/aztec/covers/book1-cover.jpg                                  Slow upward pan
-  0:10-0:12     Aztec Book 2 cover                                            portfolio/aztec/covers/book2-cover.jpg                                  Slow zoom in
-  0:12-0:14     Aztec Book 5 cover                                            portfolio/aztec/covers/book5-cover.jpg                                  Gentle left pan
-  0:14-0:16     Aztec Book 8 cover                                            portfolio/aztec/covers/book8-cover.jpg                                  Slow zoom out
-  0:16-0:18     Aztec Book 12 cover                                           portfolio/aztec/covers/book12-cover.jpg                                 Slow upward pan
-  0:18-0:20     Itzil character portrait — full screen                        portfolio/aztec/characters/01-Itzil.jpg                                 Slow zoom in on face
-  0:20-0:22     Nightshade character portrait                                 portfolio/aztec/characters/05-Nightshade.jpg                            Gentle right pan
-  0:22-0:23     Volzentar character portrait                                  portfolio/aztec/characters/03-Volzentar.jpg                             Slow zoom in
-  0:23-0:25     Rainara character portrait                                    portfolio/aztec/characters/14-Rainara.jpg                               Slow zoom out
-  0:25-0:27     Aztec complete series panoramic                               portfolio/aztec/box-sets/complete-series-cover-landscape.jpg             Slow horizontal pan left to right
-  0:27-0:30     Repetition Book 1 cover                                       portfolio/repetition/book1-cover.jpg                                    Slow zoom in
-  0:30-0:32     Repetition Book 3 cover                                       portfolio/repetition/book3-cover.jpg                                    Gentle upward pan
-  0:32-0:34     Repetition complete series landscape                          portfolio/repetition/complete-series-cover-landscape.jpg                 Slow horizontal pan
-  0:34-0:37     Reality Book 1 cover                                          portfolio/reality/book1-cover.jpg                                       Slow zoom in
-  0:37-0:39     Reality Book 4 cover                                          portfolio/reality/book4-cover.jpg                                       Gentle pan
-  0:39-0:41     Reality complete series landscape                             portfolio/reality/complete-series-cover-landscape.jpg                    Slow horizontal pan
-  0:41-0:44     Children's page 01                                            portfolio/childrens/page-01.jpg                                         Slow zoom in
-  0:44-0:46     Children's page 08                                            portfolio/childrens/page-08.jpg                                         Gentle zoom
-  0:46-0:48     Children's page 16                                            portfolio/childrens/page-16.jpg                                         Slow pan
-  0:48-0:50     Children's page 24                                            portfolio/childrens/page-24.jpg                                         Slow zoom out
-  0:50-0:52     All three series logos side by side                           portfolio/aztec/series-logo.png + repetition + reality                  Fade in sequence
-  0:52-0:56     Presenter returns, direct to camera                           (talking head)                                                          Static
-  0:56-0:60     Metronagon logo + "Metronagon.com" text overlay               portfolio/logo.png                                                      Slow zoom in, gold glow
+  Timestamp     Visual                                                        Image File                                    Motion
+  0:00-0:04     Presenter, direct to camera, dark background                  (talking head)                                Static
+  0:04-0:07     Metronagon logo, gold on black, dramatic reveal               metronagon-logo.png                           Slow zoom in
+  0:07-0:10     Aztec Book 1 cover — full screen                              aztec-book01-cover.jpg                        Slow upward pan
+  0:10-0:12     Aztec Book 2 cover                                            aztec-book02-cover.jpg                        Slow zoom in
+  0:12-0:14     Aztec Book 5 cover                                            aztec-book05-cover.jpg                        Gentle left pan
+  0:14-0:16     Aztec Book 8 cover                                            aztec-book08-cover.jpg                        Slow zoom out
+  0:16-0:18     Aztec Book 12 cover                                           aztec-book12-cover.jpg                        Slow upward pan
+  0:18-0:20     Itzil character portrait — full screen                        aztec-character-itzil.jpg                     Slow zoom in on face
+  0:20-0:22     Nightshade character portrait                                 aztec-character-nightshade.jpg                Gentle right pan
+  0:22-0:23     Volzentar character portrait                                  aztec-character-volzentar.jpg                 Slow zoom in
+  0:23-0:25     Rainara character portrait                                    aztec-character-rainara.jpg                   Slow zoom out
+  0:25-0:27     Aztec complete series panoramic                               aztec-complete-series.jpg                     Slow horizontal pan left to right
+  0:27-0:30     Repetition Book 1 cover                                       repetition-book01-cover.jpg                   Slow zoom in
+  0:30-0:32     Repetition Book 3 cover                                       repetition-book03-cover.jpg                   Gentle upward pan
+  0:32-0:34     Repetition complete series                                    repetition-complete-series.jpg                Slow horizontal pan
+  0:34-0:37     Reality Book 1 cover                                          reality-book01-cover.jpg                      Slow zoom in
+  0:37-0:39     Reality Book 4 cover                                          reality-book04-cover.jpg                      Gentle pan
+  0:39-0:41     Reality complete series                                       reality-complete-series.jpg                   Slow horizontal pan
+  0:41-0:44     Children's page 01                                            childrens-page-01.jpg                         Slow zoom in
+  0:44-0:46     Children's page 08                                            childrens-page-08.jpg                         Gentle zoom
+  0:46-0:48     Children's page 16                                            childrens-page-16.jpg                         Slow pan
+  0:48-0:50     Children's page 24                                            childrens-page-24.jpg                         Slow zoom out
+  0:50-0:52     All three series logos side by side                           aztec-series-logo.png + repetition + reality  Fade in sequence
+  0:52-0:56     Presenter returns, direct to camera                           (talking head)                                Static
+  0:56-0:60     Metronagon logo + "Metronagon.com" text overlay               metronagon-logo.png                           Slow zoom in, gold glow
 
 ---
 

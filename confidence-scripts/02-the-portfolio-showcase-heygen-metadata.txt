@@ -26,42 +26,42 @@ IMAGE OVERLAYS (Upload to HeyGen)
 Upload ALL of the following to HeyGen's media library. Set each as a full-screen background image at the specified timestamp:
 
 Aztec Covers (0:07-0:18)
-  1. public/portfolio/aztec/covers/book1-cover.jpg
-  2. public/portfolio/aztec/covers/book2-cover.jpg
-  3. public/portfolio/aztec/covers/book5-cover.jpg
-  4. public/portfolio/aztec/covers/book8-cover.jpg
-  5. public/portfolio/aztec/covers/book12-cover.jpg
+  1. aztec-book01-cover.jpg
+  2. aztec-book02-cover.jpg
+  3. aztec-book05-cover.jpg
+  4. aztec-book08-cover.jpg
+  5. aztec-book12-cover.jpg
 
 Character Portraits (0:18-0:25)
-  6. public/portfolio/aztec/characters/01-Itzil.jpg
-  7. public/portfolio/aztec/characters/05-Nightshade.jpg
-  8. public/portfolio/aztec/characters/03-Volzentar.jpg
-  9. public/portfolio/aztec/characters/14-Rainara.jpg
+  6. aztec-character-itzil.jpg
+  7. aztec-character-nightshade.jpg
+  8. aztec-character-volzentar.jpg
+  9. aztec-character-rainara.jpg
 
 Panoramics & Repetition (0:25-0:34)
-  10. public/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg
-  11. public/portfolio/repetition/book1-cover.jpg
-  12. public/portfolio/repetition/book3-cover.jpg
-  13. public/portfolio/repetition/complete-series-cover-landscape.jpg
+  10. aztec-complete-series.jpg
+  11. repetition-book01-cover.jpg
+  12. repetition-book03-cover.jpg
+  13. repetition-complete-series.jpg
 
 Reality Series (0:34-0:41)
-  14. public/portfolio/reality/book1-cover.jpg
-  15. public/portfolio/reality/book4-cover.jpg
-  16. public/portfolio/reality/complete-series-cover-landscape.jpg
+  14. reality-book01-cover.jpg
+  15. reality-book04-cover.jpg
+  16. reality-complete-series.jpg
 
 Children's Book (0:41-0:50)
-  17. public/portfolio/childrens/page-01.jpg
-  18. public/portfolio/childrens/page-08.jpg
-  19. public/portfolio/childrens/page-16.jpg
-  20. public/portfolio/childrens/page-24.jpg
+  17. childrens-page-01.jpg
+  18. childrens-page-08.jpg
+  19. childrens-page-16.jpg
+  20. childrens-page-24.jpg
 
 Logos (0:50-0:52)
-  21. public/portfolio/aztec/series-logo.png
-  22. public/portfolio/repetition/series-logo.png
-  23. public/portfolio/reality/series-logo.png
+  21. aztec-series-logo.png
+  22. repetition-series-logo.png
+  23. reality-series-logo.png
 
 Closing (0:56-0:60)
-  24. public/portfolio/logo.png
+  24. metronagon-logo.png
 
 MUSIC
 
@@ -79,8 +79,7 @@ CAPTIONS
 
 EXPORT SETTINGS
 
-  - Primary format: 9:16 (1080x1920) for TikTok / YouTube Shorts / Instagram Reels
-  - Secondary format: 16:9 (1920x1080) for YouTube / Facebook
+  - Aspect ratio: 9:16 portrait (1080x1920)
   - Resolution: 1080p
   - Frame rate: 30fps minimum
 

@@ -15,24 +15,24 @@ This script is structured as a STACK — each service layer is introduced visual
 
 IMAGE SEQUENCE & TIMING
 
-  Timestamp     Visual                                                        Image File                                                              Motion
-  0:00-0:04     Presenter, direct to camera, confident stance                 (talking head)                                                          Static
-  0:04-0:06     Text overlay: "LAYER 1: COVERS" gold on black                (text graphic)                                                          Snap in
-  0:06-0:10     Aztec Book 1, Book 5, Book 9 — three covers side by side     portfolio/aztec/covers/book1-cover.jpg, book5, book9                    Slide in from bottom
-  0:10-0:12     Text overlay: "LAYER 2: BRANDING" gold on black              (text graphic)                                                          Snap in
-  0:12-0:16     Three series logos side by side                               portfolio/aztec + repetition + reality series-logo.png                   Fade in sequence
-  0:16-0:18     Text overlay: "LAYER 3: SERIES ARCHITECTURE"                 (text graphic)                                                          Snap in
-  0:18-0:22     Box set panoramic — Aztec complete series                     portfolio/aztec/box-sets/complete-series-cover-landscape.jpg             Slow horizontal pan
-  0:22-0:24     Text overlay: "LAYER 4: CHARACTER DESIGN"                    (text graphic)                                                          Snap in
-  0:24-0:30     Character portrait grid — 6 characters                        portfolio/aztec/characters/ (Itzil, Volzentar, Nightshade, Neyla, Miyako, Sethara)   Grid build, one at a time
-  0:30-0:32     Text overlay: "LAYER 5: CHILDREN'S BOOKS"                    (text graphic)                                                          Snap in
-  0:32-0:36     Children's pages montage — 01, 08, 16, 24                    portfolio/childrens/page-01.jpg, page-08, page-16, page-24              Quick dissolve cascade
-  0:36-0:38     Text overlay: "THE FULL PIPELINE" in larger gold text         (text graphic)                                                          Scale up with impact
-  0:38-0:44     Visual stack: all layers compressed into one frame            Multiple images composited                                               Slow zoom out
-  0:44-0:48     Repetition series: all 5 covers + logo + box set             portfolio/repetition/ (all assets)                                       Quick cascade
-  0:48-0:50     Reality series: same treatment, quick proof of a third        portfolio/reality/ (covers + logo)                                       Quick cascade
-  0:50-0:55     Presenter returns, direct to camera                           (talking head)                                                          Static
-  0:55-0:60     Metronagon logo + "Metronagon.com" + "Full Pipeline from $400"   portfolio/logo.png                                                  Gold glow
+  Timestamp     Visual                                                        Image File                                                                        Motion
+  0:00-0:04     Presenter, direct to camera, confident stance                 (talking head)                                                                    Static
+  0:04-0:06     Text overlay: "LAYER 1: COVERS" gold on black                (text graphic)                                                                    Snap in
+  0:06-0:10     Aztec Book 1, Book 5, Book 9 — three covers side by side     aztec-book01-cover.jpg, aztec-book05-cover.jpg, aztec-book09-cover.jpg            Slide in from bottom
+  0:10-0:12     Text overlay: "LAYER 2: BRANDING" gold on black              (text graphic)                                                                    Snap in
+  0:12-0:16     Three series logos side by side                               aztec-series-logo.png, repetition-series-logo.png, reality-series-logo.png        Fade in sequence
+  0:16-0:18     Text overlay: "LAYER 3: SERIES ARCHITECTURE"                 (text graphic)                                                                    Snap in
+  0:18-0:22     Box set panoramic — Aztec complete series                     aztec-complete-series.jpg                                                         Slow horizontal pan
+  0:22-0:24     Text overlay: "LAYER 4: CHARACTER DESIGN"                    (text graphic)                                                                    Snap in
+  0:24-0:30     Character portrait grid — 6 characters                        aztec-character-itzil/volzentar/nightshade/neyla/miyako/sethara.jpg               Grid build, one at a time
+  0:30-0:32     Text overlay: "LAYER 5: CHILDREN'S BOOKS"                    (text graphic)                                                                    Snap in
+  0:32-0:36     Children's pages montage — 01, 08, 16, 24                    childrens-page-01.jpg, childrens-page-08.jpg, childrens-page-16.jpg, childrens-page-24.jpg   Quick dissolve cascade
+  0:36-0:38     Text overlay: "THE FULL PIPELINE" in larger gold text         (text graphic)                                                                    Scale up with impact
+  0:38-0:44     Visual stack: all layers compressed into one frame            Multiple images composited                                                         Slow zoom out
+  0:44-0:48     Repetition series: all 5 covers + logo + complete series     repetition-book01 through 05 + repetition-series-logo.png + repetition-complete-series.jpg   Quick cascade
+  0:48-0:50     Reality series: same treatment, quick proof of a third        reality-book01/03/05-cover.jpg + reality-series-logo.png                          Quick cascade
+  0:50-0:55     Presenter returns, direct to camera                           (talking head)                                                                    Static
+  0:55-0:60     Metronagon logo + "Metronagon.com" + "Full Pipeline from $400"   metronagon-logo.png                                                           Gold glow
 
 ---
 

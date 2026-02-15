@@ -21,33 +21,33 @@ Scripts
 
 Portfolio Images Available
 
-All images are in public/portfolio/ relative to the project root.
+All images are in the images/ subfolder. Upload these directly to HeyGen — filenames are self-descriptive.
 
 Metronagon Brand
-  - logo.png — Main Metronagon logo emblem
-  - metronagon-logo.png — Alternative logo
-  - ketan-shukla.jpeg — Author/founder photo
+  - metronagon-logo.png — Main Metronagon logo emblem
+  - metronagon-founder-ketan.jpeg — Founder photo
 
 Aztec Samurai Adventures (12-book fantasy series)
-  - aztec/covers/book1-cover.jpg through book12-cover.jpg — All 12 covers
-  - aztec/characters/01-Itzil.jpg, 03-Volzentar.jpg, 05-Nightshade.jpg, 07-Neyla.jpg, 09-Miyako.jpg, 14-Rainara.jpg, 22-Relicara.jpg, 30-Sethara.jpg — 8 character portraits
-  - aztec/series-logo.png — Series logo
-  - aztec/box-sets/box-set-1-landscape.jpg, box-set-2-landscape.jpg, complete-series-cover-landscape.jpg — Box set covers
+  - aztec-book01-cover.jpg through aztec-book12-cover.jpg — All 12 covers
+  - aztec-character-itzil.jpg, aztec-character-volzentar.jpg, aztec-character-nightshade.jpg, aztec-character-neyla.jpg, aztec-character-miyako.jpg, aztec-character-rainara.jpg, aztec-character-relicara.jpg, aztec-character-sethara.jpg — 8 character portraits
+  - aztec-series-logo.png — Series logo
+  - aztec-complete-series.jpg — Complete series cover
+  - aztec-boxset-1.jpg, aztec-boxset-2.jpg — Box set covers
 
 Repetition: Mother of Mastery (5-book self-improvement series)
-  - repetition/book1-cover.jpg through book5-cover.jpg — All 5 covers
-  - repetition/series-logo.png — Series logo
-  - repetition/complete-series-cover-landscape.jpg — Box set cover
-  - repetition/youtube-thumbnail.jpg — YouTube thumbnail
+  - repetition-book01-cover.jpg through repetition-book05-cover.jpg — All 5 covers
+  - repetition-series-logo.png — Series logo
+  - repetition-complete-series.jpg — Complete series cover
+  - repetition-youtube-thumbnail.jpg — YouTube thumbnail
 
 Reality Without Belief (5-book essay series)
-  - reality/book1-cover.jpg through reality/book5-cover.jpg — All 5 covers
-  - reality/series-logo.png — Series logo
-  - reality/complete-series-cover-landscape.jpg — Box set cover
-  - reality/youtube-thumbnail.jpg — YouTube thumbnail
+  - reality-book01-cover.jpg through reality-book05-cover.jpg — All 5 covers
+  - reality-series-logo.png — Series logo
+  - reality-complete-series.jpg — Complete series cover
+  - reality-youtube-thumbnail.jpg — YouTube thumbnail
 
 Children's Book — Ixchel and the Stolen Sun
-  - childrens/page-01.jpg through page-28.jpg (pages 01, 04, 08, 12, 16, 20, 24, 28)
+  - childrens-page-01.jpg through childrens-page-28.jpg (pages 01, 04, 08, 12, 16, 20, 24, 28)
 
 Music Direction (All Scripts)
 
@@ -61,5 +61,5 @@ HeyGen General Settings
   - Avatar: Professional male presenter or your own custom avatar
   - Voice: Deep, confident, measured pace — think movie trailer narrator but conversational
   - Background: Solid dark (#0a0a0a) or subtle dark gradient
-  - Aspect ratio: 9:16 for TikTok/Shorts, 16:9 for YouTube/Facebook
+  - Aspect ratio: 9:16 portrait (1080x1920) — all videos
   - Captions: Enable auto-captions with gold (#d4af37) text on dark background

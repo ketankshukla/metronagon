@@ -24,44 +24,44 @@ BACKGROUND
 IMAGE OVERLAYS (Upload to HeyGen)
 
 The Beginning (0:06-0:16)
-  1. public/portfolio/aztec/covers/book1-cover.jpg
-  2. public/portfolio/aztec/covers/book2-cover.jpg
-  3. public/portfolio/aztec/covers/book3-cover.jpg
-  4. public/portfolio/aztec/covers/book4-cover.jpg
-  5. All 12 Aztec covers (book1-cover.jpg through book12-cover.jpg)
+  1. aztec-book01-cover.jpg
+  2. aztec-book02-cover.jpg
+  3. aztec-book03-cover.jpg
+  4. aztec-book04-cover.jpg
+  5. aztec-book01-cover.jpg through aztec-book12-cover.jpg (all 12)
 
 Characters & Brand (0:16-0:25)
-  6.  public/portfolio/aztec/characters/01-Itzil.jpg
-  7.  public/portfolio/aztec/characters/05-Nightshade.jpg
-  8.  public/portfolio/aztec/characters/07-Neyla.jpg
-  9.  public/portfolio/aztec/characters/03-Volzentar.jpg
-  10. public/portfolio/aztec/characters/09-Miyako.jpg
-  11. public/portfolio/aztec/characters/14-Rainara.jpg
-  12. public/portfolio/aztec/series-logo.png
+  6.  aztec-character-itzil.jpg
+  7.  aztec-character-nightshade.jpg
+  8.  aztec-character-neyla.jpg
+  9.  aztec-character-volzentar.jpg
+  10. aztec-character-miyako.jpg
+  11. aztec-character-rainara.jpg
+  12. aztec-series-logo.png
 
 Expanding Range (0:25-0:35)
-  13. public/portfolio/repetition/book1-cover.jpg through book5-cover.jpg
-  14. public/portfolio/repetition/series-logo.png
-  15. public/portfolio/reality/book1-cover.jpg through book5-cover.jpg
-  16. public/portfolio/reality/series-logo.png
-  17. public/portfolio/childrens/page-01.jpg
-  18. public/portfolio/childrens/page-12.jpg
-  19. public/portfolio/childrens/page-24.jpg
+  13. repetition-book01-cover.jpg through repetition-book05-cover.jpg
+  14. repetition-series-logo.png
+  15. reality-book01-cover.jpg through reality-book05-cover.jpg
+  16. reality-series-logo.png
+  17. childrens-page-01.jpg
+  18. childrens-page-12.jpg
+  19. childrens-page-24.jpg
 
 The Scope (0:35-0:44)
-  20. public/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg
-  21. public/portfolio/repetition/youtube-thumbnail.jpg
-  22. public/portfolio/reality/youtube-thumbnail.jpg
-  23. public/portfolio/logo.png
+  20. aztec-complete-series.jpg
+  21. repetition-youtube-thumbnail.jpg
+  22. reality-youtube-thumbnail.jpg
+  23. metronagon-logo.png
 
 Quick Montage (0:52-0:55)
-  24. public/portfolio/aztec/covers/book5-cover.jpg
-  25. public/portfolio/aztec/characters/01-Itzil.jpg
-  26. public/portfolio/childrens/page-16.jpg
-  27. public/portfolio/logo.png
+  24. aztec-book05-cover.jpg
+  25. aztec-character-itzil.jpg
+  26. childrens-page-16.jpg
+  27. metronagon-logo.png
 
 Closing (0:55-0:60)
-  28. public/portfolio/logo.png
+  28. metronagon-logo.png
 
 MUSIC
 
@@ -80,8 +80,7 @@ CAPTIONS
 
 EXPORT SETTINGS
 
-  - Primary: 9:16 (1080x1920) for TikTok / Shorts / Reels
-  - Secondary: 16:9 (1920x1080) for YouTube / Facebook
+  - Aspect ratio: 9:16 portrait (1080x1920)
   - Resolution: 1080p
 
 PLATFORM-SPECIFIC NOTES

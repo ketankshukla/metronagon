@@ -15,23 +15,23 @@ This script uses a BEFORE/AFTER transformation concept. The first half emphasize
 
 IMAGE SEQUENCE & TIMING
 
-  Timestamp     Visual                                                        Image File                                                              Motion
-  0:00-0:05     Presenter, direct to camera, dark background                  (talking head)                                                          Static
-  0:05-0:08     Text overlay on black: "ONE COVER vs. A SERIES" in gold       (text graphic)                                                          Fade in
-  0:08-0:12     Single Aztec Book 1 cover, alone, centered                    portfolio/aztec/covers/book1-cover.jpg                                  Slow zoom in
-  0:12-0:18     Books 1-4 slide in side by side, perfectly matched            portfolio/aztec/covers/book1-4-cover.jpg                                Slide in from right, one by one
-  0:18-0:24     Books 5-8 join, forming a wider shelf                         portfolio/aztec/covers/book5-8-cover.jpg                                Continue sliding in
-  0:24-0:28     All 12 books visible — the complete Aztec shelf               All 12 Aztec covers                                                    Slow zoom out to reveal all
-  0:28-0:31     Aztec series logo appears above the shelf                     portfolio/aztec/series-logo.png                                         Fade in from above
-  0:31-0:34     Aztec box set panoramic — the whole series as one product     portfolio/aztec/box-sets/complete-series-cover-landscape.jpg             Slow horizontal pan
-  0:34-0:38     Quick transition — Repetition series, all 5 covers in a row   portfolio/repetition/book1-cover.jpg through book5-cover.jpg            Slide in together
-  0:38-0:40     Repetition series logo above                                  portfolio/repetition/series-logo.png                                    Fade in
-  0:40-0:42     Repetition box set panoramic                                  portfolio/repetition/complete-series-cover-landscape.jpg                 Slow pan
-  0:42-0:46     Reality series — 5 covers + logo, same treatment              portfolio/reality/book1-cover.jpg through book5-cover.jpg + logo        Slide + fade
-  0:46-0:48     Reality box set panoramic                                     portfolio/reality/complete-series-cover-landscape.jpg                    Slow pan
-  0:48-0:52     Split screen: all three series logos side by side             portfolio/aztec + repetition + reality series-logo.png                   Fade in together
-  0:52-0:56     Presenter returns, direct to camera                           (talking head)                                                          Static
-  0:56-0:60     Metronagon logo + "Metronagon.com" + "Series Branding from $250"   portfolio/logo.png                                                Slow zoom, gold glow
+  Timestamp     Visual                                                        Image File                                              Motion
+  0:00-0:05     Presenter, direct to camera, dark background                  (talking head)                                          Static
+  0:05-0:08     Text overlay on black: "ONE COVER vs. A SERIES" in gold       (text graphic)                                          Fade in
+  0:08-0:12     Single Aztec Book 1 cover, alone, centered                    aztec-book01-cover.jpg                                  Slow zoom in
+  0:12-0:18     Books 1-4 slide in side by side, perfectly matched            aztec-book01 through aztec-book04-cover.jpg              Slide in from right, one by one
+  0:18-0:24     Books 5-8 join, forming a wider shelf                         aztec-book05 through aztec-book08-cover.jpg              Continue sliding in
+  0:24-0:28     All 12 books visible — the complete Aztec shelf               aztec-book01 through aztec-book12-cover.jpg              Slow zoom out to reveal all
+  0:28-0:31     Aztec series logo appears above the shelf                     aztec-series-logo.png                                   Fade in from above
+  0:31-0:34     Aztec box set panoramic — the whole series as one product     aztec-complete-series.jpg                                Slow horizontal pan
+  0:34-0:38     Quick transition — Repetition series, all 5 covers in a row   repetition-book01 through repetition-book05-cover.jpg    Slide in together
+  0:38-0:40     Repetition series logo above                                  repetition-series-logo.png                               Fade in
+  0:40-0:42     Repetition box set panoramic                                  repetition-complete-series.jpg                            Slow pan
+  0:42-0:46     Reality series — 5 covers + logo, same treatment              reality-book01 through reality-book05-cover.jpg + logo   Slide + fade
+  0:46-0:48     Reality box set panoramic                                     reality-complete-series.jpg                               Slow pan
+  0:48-0:52     Split screen: all three series logos side by side             aztec-series-logo.png + repetition + reality              Fade in together
+  0:52-0:56     Presenter returns, direct to camera                           (talking head)                                          Static
+  0:56-0:60     Metronagon logo + "Metronagon.com" + "Series Branding from $250"   metronagon-logo.png                                Slow zoom, gold glow
 
 ---
 
