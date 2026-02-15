@@ -1,0 +1,46 @@
+COVER 01: NEON EXODUS — SIGNALS FROM THE VOID
+TYPE: Ebook Front Cover (Amazon Kindle + Apple iBooks)
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Science Fiction / Cyberpunk
+
+---
+
+A breathtaking ultra-high-resolution photorealistic book cover rendered at 1024x1536 pixels in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and neon light diffusion. This must look like a $200-million Hollywood sci-fi movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — LONE FIGURE IN A NEON-DRENCHED MEGACITY:
+
+A striking young woman of East Asian descent in her late 20s, positioned in the lower-center of the image, facing slightly to the left with her chin tilted upward, gazing toward a massive holographic signal beacon pulsing in the sky above the city. She stands on the edge of a rain-slicked rooftop, her silhouette partially backlit by cascading neon signs in electric magenta, cyan, and deep violet. She wears a fitted tactical jacket of dark graphite-black synthetic material with luminous cyan circuit-trace piping running along the seams and collar — the piping pulses faintly with light, as though powered by embedded tech. Beneath the jacket, a high-collared bodysuit of matte black with subtle hexagonal mesh texture. Her left arm is cybernetic from the elbow down — polished gunmetal chrome with exposed micro-servos at the wrist joint, cyan LED indicator lights glowing at each knuckle. She holds a compact data-slate in her cybernetic hand, its screen projecting a faint holographic star map into the rain.
+
+FACE — PHOTOREALISTIC DETAIL:
+
+Her face is rendered with magazine-cover photorealism. Porcelain-fair skin with a warm undertone, flawless but real — visible pores across her nose bridge, a faint scar running through her left eyebrow from a past mission. Her eyes are large and intensely focused — dark brown irises with a ring of artificial cyan bioluminescence around the pupil (cybernetic enhancement), creating an otherworldly gaze. Sharp cheekbones catch the magenta neon from the left and cyan from the right, creating a split-color lighting effect across her face. Her lips are naturally pigmented, slightly parted in concentration. Her hair is jet black, cut in an asymmetric bob — shorter on the right, longer on the left where it falls past her jaw, the ends tipped with electric blue that glows under the neon light. Rain droplets cling to individual strands of hair and her eyelashes, each droplet reflecting the surrounding neon like tiny prisms.
+
+BACKGROUND — CYBERPUNK MEGACITY AT NIGHT:
+
+Behind her and stretching into a vertigo-inducing depth, a massive vertical cityscape rises — towers of dark steel and glass stretching impossibly high, every surface covered in holographic advertisements, neon kanji signage, and scrolling data-feeds in magenta, cyan, gold, and white. Flying vehicles streak between the towers, their headlights leaving long-exposure light trails in the rain. Far above, partially obscured by clouds and rain, a colossal holographic beacon pulses — a sphere of white-blue light broadcasting a signal pattern, the central mystery of the story. The beacon casts god-rays downward through the rain and smog, creating dramatic shafts of blue-white light that cut through the neon haze. Rain falls heavily throughout the scene — each raindrop catching and refracting the surrounding neon colors, creating a shimmering curtain of prismatic light. Puddles on the rooftop reflect the entire cityscape in distorted, rippling mirror images.
+
+ATMOSPHERIC EFFECTS:
+
+Dense atmospheric haze and smog between the buildings creates visible depth layers — near objects are sharp and saturated, distant towers fade into a warm magenta-violet haze. Volumetric neon light bleeds through the rain and fog in soft, colorful halos around every light source. Steam rises from rooftop vents, catching the cyan light from below. The overall color palette is dominated by electric magenta, deep cyan, violet-purple, with accents of warm amber from distant windows and cold white from the beacon above.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+The woman's face must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Her face occupies roughly the 55%-75% vertical zone of the image. The top 40% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements — sky, buildings, beacon, rain. Absolutely NO part of her face, hair, or body may enter the top 35% of the image.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+Line 1 (exactly 3% from top): "A SIGNAL FROM THE VOID NOVEL" — small elegant sans-serif font, centered horizontally, cyan color (#00E5FF), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK ONE" — sans-serif font, centered, white color, letter-spacing 0.2em, approximately 12pt equivalent. Flanked by thin horizontal cyan lines extending outward.
+
+Lines 3-4 (title block, exactly 10-22% from top): "NEON EXODUS" — large, bold sans-serif font, centered, white with a subtle cyan glow and faint neon-flicker effect. "NEON" slightly larger than "EXODUS." Arranged as two lines. The letters have a subtle holographic quality — faint prismatic color shifts at the edges.
+
+Line 5 (exactly 26% from top): "Signals from the Void" — smaller italic sans-serif, centered, light cyan/white color with a soft glow.
+
+Line 6 (exactly 92% from top): "ELENA VASQUEZ" — large sans-serif font, centered, white with generous letter-spacing 0.2em. Clean and modern.
+
+OVERALL MOOD AND QUALITY:
+
+Atmospheric, moody, noir — the feeling of standing at the edge of a mystery that spans galaxies, rendered through the lens of rain-soaked neon streets. The dominant palette is electric magenta, deep cyan, and violet with stark white accents. The image should evoke Blade Runner meets Mass Effect — intimate human drama against an impossibly vast technological backdrop. Stunning at thumbnail size (neon colors pop) and breathtaking at full resolution (every raindrop, every circuit trace, every reflection detailed).
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO soft edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise.

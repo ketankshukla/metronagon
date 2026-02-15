@@ -116,6 +116,200 @@ Post Order Matters:
   4. X last (text-first platform, video is supplementary)
 
 
+WHY 2-3 DAYS BETWEEN VIDEOS (POSTING CADENCE LOGIC)
+------------------------------------------------------
+
+The Monday/Thursday rhythm (2-3 days apart) is not arbitrary. It is based on how
+social media algorithms evaluate and distribute content. Here is the reasoning:
+
+1. ALGORITHM EVALUATION WINDOW
+   Every platform (TikTok, YouTube, Facebook) evaluates a new video's performance
+   within the first 24-48 hours. The algorithm measures:
+   - Completion rate (did people watch the full 60 seconds?)
+   - Engagement rate (likes, comments, shares, saves relative to views)
+   - Profile visits (did the video drive curiosity about your account?)
+   If you post a second video before the first one finishes its evaluation window,
+   the algorithm splits its distribution budget between both videos. Neither gets
+   full attention. By waiting 2-3 days, each video gets its own clean evaluation
+   window with the algorithm's full push behind it.
+
+2. AUDIENCE FATIGUE PREVENTION
+   Posting daily burns out your audience. Followers see too much of you and start
+   scrolling past. The 2-3 day gap creates anticipation — "I wonder what they'll
+   post next" — without the "they're posting again?" fatigue. This is especially
+   important for a brand account vs. a personal creator account. Brands that post
+   daily feel desperate. Brands that post consistently feel intentional.
+
+3. ENGAGEMENT DECAY CURVE
+   Comments and engagement on a video typically peak in the first 6-12 hours, then
+   taper off over 48-72 hours. By posting your next video when engagement on the
+   previous one has naturally declined, you create a fresh spike of activity on your
+   profile. The algorithm sees consistent activity rather than one burst followed by
+   silence. This creates a "staircase" pattern of engagement: spike, sustain, spike,
+   sustain — which platforms reward with broader distribution.
+
+4. CROSS-PLATFORM STAGGERING
+   When you post on Monday, you have Monday afternoon/evening for TikTok engagement,
+   Tuesday for YouTube pickup, Wednesday for Facebook group sharing. By Thursday,
+   you've extracted maximum value from Video A across all platforms, and you're ready
+   to launch Video B into a fresh cycle. If you posted A and B on the same day, you'd
+   be splitting your own attention across two sets of comments on four platforms.
+
+5. WHY MONDAY AND THURSDAY SPECIFICALLY
+   - Monday: People return to routines after the weekend. Social media usage spikes
+     during commutes and lunch breaks. Content posted Monday gets strong initial
+     traction from the "back to work" browsing pattern.
+   - Thursday: Engagement builds toward the weekend. People are winding down from work
+     and spending more time on social media. Thursday content often carries momentum
+     into Friday and Saturday viewing.
+   - This avoids Tuesday/Wednesday (mid-week slump) and Friday-Sunday (weekend chaos
+     where content gets buried under entertainment and personal posts).
+
+6. THREE-WEEK ARC
+   Six videos over three weeks creates a complete narrative arc:
+   - Week 1: Introduction (who we are, what we've built)
+   - Week 2: Proof (deep dives into specific capabilities)
+   - Week 3: Trust (full offering + origin story)
+   Anyone who follows you in Week 1 experiences a structured journey over 3 weeks
+   that builds from curiosity to confidence to trust. This is storytelling applied
+   to a posting schedule.
+
+7. SCALING BEYOND 6 VIDEOS
+   Once the initial 6-video Confidence Series is complete, the posting cadence shifts:
+   - Phase 1 (Weeks 1-3): 2 videos/week (Confidence Series — establishing the brand)
+   - Phase 2 (Weeks 4-8): 3 videos/week (Mon/Wed/Fri — expanding the portfolio showcase)
+   - Phase 3 (Weeks 9+): 5-7 videos/week (daily or near-daily — volume strategy)
+   The cadence accelerates as your audience grows and the algorithm has more data
+   about who engages with your content, enabling better targeting with each new video.
+
+
+FUTURE CONTENT STRATEGY: SCALING TO 500+ VIDEOS
+-------------------------------------------------
+
+The initial 6 Confidence Scripts establish the Metronagon brand. To scale to 500+
+videos, the content needs to diversify far beyond the current portfolio. The key
+principle: every video needs its own unique visual assets (book covers, logos,
+banners, character art) so the content never feels repetitive.
+
+CONTENT CATEGORIES FOR 500+ VIDEOS:
+
+Category 1: INDIVIDUAL COVER SPOTLIGHTS (150+ videos)
+  Format: 15-30 second close-up showcase of a single book cover
+  Structure: Dark screen > cover fades in > slow zoom > key details highlighted > CTA
+  Narration: 2-3 sentences about the design choices, genre, or technique
+  Visual assets needed: 150+ unique book covers across all genres
+  Genres to cover:
+    - Epic fantasy (dark, cinematic, warriors, magic)
+    - Sci-fi (neon, futuristic, space, cyberpunk)
+    - Romance (warm, soft lighting, couples, emotional)
+    - Thriller/mystery (shadows, tension, urban, noir)
+    - Horror (dark, atmospheric, unsettling, gothic)
+    - Literary fiction (minimalist, elegant, typography-focused)
+    - Historical fiction (period-accurate, rich textures, muted tones)
+    - Self-help/business (clean, bold, authoritative, modern)
+    - Memoir/biography (portrait-focused, personal, intimate)
+    - Young adult (vibrant, dynamic, character-driven)
+    - Children's (colorful, whimsical, warm, illustrated)
+    - Poetry (artistic, abstract, emotional, ethereal)
+    - Cookbook/lifestyle (bright, appetizing, lifestyle imagery)
+    - True crime (gritty, documentary feel, evidence textures)
+    - Spiritual/wellness (serene, light, natural elements)
+  Why this works: Each cover is its own content piece. A fantasy reader sees a fantasy
+  cover and thinks "I need that for MY book." Volume creates discoverability.
+
+Category 2: GENRE COMPARISON REELS (50+ videos)
+  Format: 30-60 second side-by-side or sequential comparison
+  Structure: "Same author, two genres" or "Same technique, three results"
+  Examples:
+    - "Fantasy vs. Sci-fi: same pipeline, different worlds"
+    - "Dark romance vs. sweet romance: how color palette changes everything"
+    - "Thriller covers: what makes a reader pick it up?"
+  Visual assets needed: Pairs/groups of covers in contrasting genres
+
+Category 3: BEFORE/AFTER TRANSFORMATIONS (40+ videos)
+  Format: 15-30 seconds showing a basic concept evolving into a polished cover
+  Structure: Simple sketch/concept > intermediate > final polished cover
+  Narration: "This is what happens when you think in design systems"
+  Visual assets needed: Cover progressions (3 stages per video)
+
+Category 4: SERIES SHOWCASE REELS (30+ videos)
+  Format: 30-60 seconds showing a complete book series (3-12 covers)
+  Structure: Covers revealed one by one, building the visual family
+  Narration: Focus on consistency, branding, and the "shelf presence" effect
+  Visual assets needed: 30+ complete mini-series (3-6 books each) across genres
+  Series concepts:
+    - Urban fantasy detective series (5 books)
+    - Space opera trilogy
+    - Cozy mystery series (8 books)
+    - Dark academia series (4 books)
+    - Paranormal romance series (6 books)
+    - Business leadership series (5 books)
+    - Historical mystery series (4 books)
+    - Post-apocalyptic survival series (6 books)
+    - Romantic comedy series (4 books)
+    - Psychological thriller series (5 books)
+
+Category 5: LOGO AND BRANDING SPOTLIGHTS (40+ videos)
+  Format: 15-30 seconds showcasing a series logo or author brand
+  Structure: Logo reveal with animation description, context about the brand
+  Visual assets needed: 40+ unique series logos and author brand marks
+  (TO BE CREATED LATER — logos and banners phase)
+
+Category 6: CHILDREN'S BOOK PAGE REVEALS (50+ videos)
+  Format: 15-30 seconds showing individual illustrated pages
+  Structure: Page fade-in > slow zoom into details > character close-up
+  Visual assets needed: 50+ unique children's book pages across different stories
+  (TO BE CREATED LATER — children's illustration phase)
+
+Category 7: LANDSCAPE AND BANNER ART (40+ videos)
+  Format: 15-30 seconds showcasing panoramic art, box set covers, YouTube banners
+  Visual assets needed: 40+ landscape/banner images
+  (TO BE CREATED LATER — landscape and banner phase)
+
+Category 8: EDUCATIONAL TIPS (50+ videos)
+  Format: 30-60 seconds teaching a design concept
+  Examples:
+    - "Why your book cover colors matter more than you think"
+    - "The 3-second rule: what readers see first on a cover"
+    - "Typography on book covers: the mistakes everyone makes"
+    - "How to make 12 books look like one series"
+    - "Why your ebook cover needs to work at thumbnail size"
+  Visual assets needed: Mix of existing covers + simple graphic examples
+
+Category 9: TESTIMONIAL AND CASE STUDY VIDEOS (30+ videos)
+  Format: 30-60 seconds featuring client work or portfolio deep-dives
+  Structure: Client brief > process > result > reaction
+  Visual assets needed: Client covers (as they come in) + portfolio examples
+
+Category 10: TREND AND CULTURE VIDEOS (20+ videos)
+  Format: 30-60 seconds commenting on design trends, publishing industry, AI art
+  Examples:
+    - "2026 book cover trends: what's working right now"
+    - "AI art in publishing: why quality matters more than speed"
+    - "The most common cover design mistake indie authors make"
+  Visual assets needed: Minimal — mostly talking head with occasional examples
+
+ASSET GENERATION PRIORITY ORDER:
+  Phase 1 (NOW): Book covers — 10 example covers across diverse genres
+  Phase 2 (NEXT): More book covers — expand to 50+ across all categories
+  Phase 3: Series sets — groups of 3-6 matching covers per series
+  Phase 4: Logos and brand marks for fictional series
+  Phase 5: Landscape/panoramic art and banners
+  Phase 6: Children's book illustrated pages
+  Phase 7: Character portraits across genres
+
+VOLUME POSTING STRATEGY (AFTER INITIAL 6 VIDEOS):
+  Weeks 4-8:   3 videos/week (Mon/Wed/Fri) — Individual Cover Spotlights
+  Weeks 9-12:  5 videos/week (weekdays) — Mix of covers + educational tips
+  Weeks 13-20: 7 videos/week (daily) — Full category rotation
+  Weeks 21+:   7-10 videos/week — Multiple daily posts on TikTok, daily on others
+
+At 7 videos/week, reaching 500 videos takes approximately 70 weeks (16 months).
+At 10 videos/week, it takes approximately 50 weeks (12 months).
+The key is that EVERY video needs unique, high-quality visual assets — which is
+why the image generation pipeline must be built and scaled BEFORE the scripts.
+
+
 PLATFORM-SPECIFIC STRATEGIES
 ------------------------------
 

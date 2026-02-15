@@ -1,0 +1,44 @@
+COVER 05: HOLLOWFIELD — WHERE THE DEAD STILL WHISPER
+TYPE: Ebook Front Cover (Amazon Kindle + Apple iBooks)
+DIMENSIONS: 1024 x 1536 pixels, sRGB color profile
+GENRE: Gothic Horror / Supernatural
+
+---
+
+A breathtaking ultra-high-resolution photorealistic book cover rendered at 1024x1536 pixels in sharp cinematic digital style with dramatic moonlight, volumetric fog, and oppressive atmospheric tension. This must look like the poster for a prestige horror film — beautiful but deeply unsettling, every shadow hiding something, every detail contributing to creeping dread. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — AN ABANDONED VICTORIAN MANOR ON A MOONLIT HILL:
+
+The primary subject is not a person but a building — a massive, decaying Victorian Gothic manor house positioned in the lower-center of the image, sitting atop a barren hill. The manor is three stories of crumbling grandeur — dark grey stone walls streaked with black water stains and patches of dead ivy. The architecture is elaborate and menacing — pointed gable roofs with missing slate tiles, ornate but corroded iron finials, a round tower on the right side with a conical roof and narrow windows like watching eyes. The front facade features a grand entrance with a heavy oak door — slightly ajar, revealing absolute darkness within. Above the door, a massive cracked stained-glass window in deep violet and sickly amber depicts an angel with its face deliberately scratched away. Every window in the manor is dark except one — a single window on the third floor, far left, glows with a faint, pulsing amber light. No source for the light is visible. No one should be in there.
+
+In the foreground, a rusted wrought-iron gate stands open — one gate hanging from a single hinge at an unnatural angle. Beyond the gate, a cracked stone path leads uphill through an overgrown graveyard — tilting headstones, some broken, some sunken into the earth at disturbing angles. Dead trees flank the path — leafless, their branches twisted into shapes that almost look like reaching hands. A single raven perches on the nearest headstone, rendered in photorealistic detail — glossy black feathers, one beady eye catching the moonlight.
+
+BACKGROUND — OPPRESSIVE MOONLIT SKY:
+
+The sky is the upper half of the image and is extraordinary — a massive full moon dominates the upper-center, rendered in sharp photorealistic detail showing actual lunar surface features (craters, maria, highlands). The moon is slightly yellowed — a harvest moon — and is partially obscured by thin, wispy clouds that streak across its face like reaching fingers. The moonlight is cold and blue-white, casting sharp shadows of the manor and trees across the graveyard. The sky around the moon transitions from deep midnight blue near the horizon to true black at the top edges. A few stars are visible in the clear patches between clouds. To the left of the manor, the distant treeline of a dark forest is visible — solid black against the dark blue sky, an impenetrable wall of shadow. Low-lying fog blankets the ground around the base of the hill, pooling between the gravestones like a slow-moving white river, obscuring the lower portions of the headstones and the base of the dead trees.
+
+ATMOSPHERIC EFFECTS:
+
+Fog is the dominant atmospheric element — dense ground-level fog that swirls around the gravestones and the base of the manor, with tendrils of mist rising and curling like beckoning fingers. The moonlight creates volumetric shafts where it passes through gaps in the clouds, illuminating patches of fog with an eerie blue-white glow. A faint greenish bioluminescence emanates from the ground near the oldest, most sunken graves — could be swamp gas, could be something else. The overall palette is midnight blue, cold grey, bone white, and sickly amber — with the dominant tonal range being desaturated and cold. The single warm light in the third-floor window is the only true warmth in the scene, and it feels wrong rather than welcoming.
+
+CRITICAL COMPOSITION RULE — BUILDING PLACEMENT:
+
+The manor occupies roughly the 45%-85% vertical zone. The top 35% contains only sky, moon, clouds, and the very tips of the manor's roofline. The text zone is completely clear.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+Line 1 (exactly 3% from top): "A SUPERNATURAL THRILLER" — small sans-serif font, centered, pale sickly amber color (#C4A265), letter-spacing 0.2em, approximately 14pt. The letters have a faint, unsettling flicker quality.
+
+Lines 2-3 (title block, exactly 8-20% from top): "HOLLOWFIELD" — massive, bold serif font (Cinzel style), centered, bone white with a faint cold blue glow and subtle cracking texture within the letters — as if the text itself is ancient and decaying. Single word, dominating the upper portion.
+
+Decorative line (exactly 22% from top): A thin horizontal line in pale grey that looks like a crack spreading across the image, with tiny branching fractures at the center.
+
+Line 4 (exactly 24% from top): "Where the Dead Still Whisper" — smaller italic serif, centered, pale grey with a ghostly translucency effect.
+
+Line 5 (exactly 92% from top): "MARGARET HOLLOWAY" — large serif font, centered, bone white, letter-spacing 0.15em. Cold and stark.
+
+OVERALL MOOD:
+
+Dread, isolation, the uncanny — the feeling of driving past a house at night and seeing a light in the window of a building that has been abandoned for decades. The cover should make a horror reader feel simultaneously repelled and drawn in. The restraint is what makes it terrifying — no monsters, no blood, no screaming faces. Just a house, a light, and the certainty that something is watching. At thumbnail size, the moon-manor silhouette creates instant atmosphere.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, cold, and deeply unsettling.
