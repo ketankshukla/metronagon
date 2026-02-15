@@ -438,25 +438,16 @@ const childrensData = {
   pictureBooks: {
     label: "32-Page Illustrated Picture Books",
     description:
-      "Full 32-page children's picture books with consistent illustrated characters on every page. Pixar/Disney-inspired art style, complete story with text and illustrations, delivered as a print-ready PDF.",
+      "A complete 32-page children's picture book with consistent illustrated characters on every page. Pixar/Disney-inspired art style, full story with text and illustrations, delivered as a print-ready PDF. Below is a sample of pages from one of our picture books — Ixchel and the Stolen Sun.",
     images: [
-      {
-        src: "/examples/childrens/when-the-moon-fell-into-the-garden.png",
-        title: "When the Moon Fell into the Garden",
-      },
-      {
-        src: "/examples/childrens/the-very-hungry-cloud.png",
-        title: "The Very Hungry Cloud",
-      },
-      {
-        src: "/examples/childrens/the-robot-who-learned-to-dream.png",
-        title: "The Robot Who Learned to Dream",
-      },
-      {
-        src: "/examples/childrens/the-felt-forest.png",
-        title: "The Felt Forest",
-      },
-      { src: "/examples/childrens/chalk-world.png", title: "Chalk World" },
+      { src: "/portfolio/childrens/page-01.jpg", title: "Front Cover" },
+      { src: "/portfolio/childrens/page-04.jpg", title: "Page 4" },
+      { src: "/portfolio/childrens/page-08.jpg", title: "Page 8" },
+      { src: "/portfolio/childrens/page-12.jpg", title: "Page 12" },
+      { src: "/portfolio/childrens/page-16.jpg", title: "Page 16" },
+      { src: "/portfolio/childrens/page-20.jpg", title: "Page 20" },
+      { src: "/portfolio/childrens/page-24.jpg", title: "Page 24" },
+      { src: "/portfolio/childrens/page-28.jpg", title: "Back Cover" },
     ] as CoverImage[],
   },
   paperbackCovers: {
@@ -484,6 +475,23 @@ const childrensData = {
         src: "/examples/childrens/captain-stardust-and-the-planet-of-socks.png",
         title: "Captain Stardust and the Planet of Socks",
       },
+      {
+        src: "/examples/childrens/when-the-moon-fell-into-the-garden.png",
+        title: "When the Moon Fell into the Garden",
+      },
+      {
+        src: "/examples/childrens/the-very-hungry-cloud.png",
+        title: "The Very Hungry Cloud",
+      },
+      {
+        src: "/examples/childrens/the-robot-who-learned-to-dream.png",
+        title: "The Robot Who Learned to Dream",
+      },
+      {
+        src: "/examples/childrens/the-felt-forest.png",
+        title: "The Felt Forest",
+      },
+      { src: "/examples/childrens/chalk-world.png", title: "Chalk World" },
     ] as CoverImage[],
   },
 };
@@ -615,7 +623,7 @@ export default function ExamplesPage() {
                   <p className="text-xs text-muted">
                     {childrensData.pictureBooks.images.length +
                       childrensData.paperbackCovers.images.length}{" "}
-                    covers &mdash; two product types
+                    images &mdash; two product types
                   </p>
                 </div>
               </div>
@@ -630,19 +638,19 @@ export default function ExamplesPage() {
                     {childrensData.pictureBooks.description}
                   </p>
                 </div>
-                <div className="mt-4 grid grid-cols-2 gap-3 sm:gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                <div className="mt-4 grid grid-cols-2 gap-3 sm:gap-4 sm:grid-cols-3 md:grid-cols-4">
                   {childrensData.pictureBooks.images.map((image) => (
                     <button
                       key={image.src}
                       onClick={() => setLightboxImage(image)}
                       className="group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover:shadow-lg hover:shadow-gold/10 hover:-translate-y-1"
                     >
-                      <div className="aspect-[2/3] relative">
+                      <div className="aspect-square relative">
                         <Image
                           src={image.src}
                           alt={image.title}
                           fill
-                          sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 20vw"
+                          sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
                           className="object-cover transition-transform duration-300 group-hover:scale-105"
                         />
                       </div>
@@ -737,7 +745,13 @@ export default function ExamplesPage() {
             >
               Close <X size={16} />
             </button>
-            <div className="relative aspect-[2/3] w-full overflow-hidden rounded-xl border border-white/10">
+            <div
+              className={`relative w-full overflow-hidden rounded-xl border border-white/10 ${
+                lightboxImage.src.includes("/portfolio/childrens/")
+                  ? "aspect-square"
+                  : "aspect-[2/3]"
+              }`}
+            >
               <Image
                 src={lightboxImage.src}
                 alt={lightboxImage.title}
