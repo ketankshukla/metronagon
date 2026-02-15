@@ -10,12 +10,15 @@ import {
   Award,
   Users,
   Sparkles,
+  Target,
+  Zap,
+  Shield,
 } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "About — Metronagon",
   description:
-    "The story behind Metronagon. 22 published books, 3 complete series, and a proven AI-powered creative pipeline built for authors and publishers.",
+    "The story behind Metronagon. 22 published books, 3 complete series, and a proven creative pipeline built for authors and publishers.",
 };
 
 const milestones = [
@@ -58,15 +61,15 @@ const timeline = [
   },
   {
     phase: "The Visual Layer",
-    title: "AI-Powered Cover Design",
+    title: "Professional Cover Design",
     description:
-      "Every book needed a cover. Rather than outsource to generic designers, the covers were generated using a custom AI-powered pipeline — prompt engineering, style headers, iterative refinement. The result: dozens of professional covers with consistent series branding.",
+      "Every book needed a cover. Rather than outsource to generic designers, we built a custom creative pipeline — style guides, iterative refinement, and meticulous attention to detail. The result: dozens of professional covers with consistent series branding.",
   },
   {
     phase: "The System",
     title: "Production Pipeline",
     description:
-      "Individual skills became a repeatable system. Prompt libraries, style guides, generation scripts, post-processing workflows. What started as manual experimentation became a production pipeline capable of delivering professional results reliably and at speed.",
+      "Individual skills became a repeatable system. Style libraries, visual guides, post-processing workflows. What started as manual experimentation became a production pipeline capable of delivering professional results reliably and at speed.",
   },
   {
     phase: "The Business",
@@ -106,14 +109,13 @@ export default function AboutPage() {
         <div className="relative mx-auto max-w-6xl px-6 pb-16 pt-24 md:pt-32">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
-              About{" "}
-              <span className="gold-gradient-text">Metronagon</span>
+              About <span className="gold-gradient-text">Metronagon</span>
             </h1>
             <p className="mt-6 text-lg leading-relaxed text-muted">
-              Metronagon exists because building a complete book series —
-              from concept to covers to branding — shouldn&apos;t require a
-              dozen different freelancers and months of coordination. We built
-              the pipeline for ourselves first. Now we offer it to you.
+              Metronagon exists because building a complete book series — from
+              concept to covers to branding — shouldn&apos;t require a dozen
+              different freelancers and months of coordination. We built the
+              pipeline for ourselves first. Now we offer it to you.
             </p>
           </div>
         </div>
@@ -219,8 +221,65 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Values */}
+      {/* Why Metronagon */}
       <section className="py-24 md:py-32">
+        <div className="mx-auto max-w-6xl px-6">
+          <div className="mb-16 text-center">
+            <h2 className="text-3xl font-bold tracking-tight md:text-4xl">
+              Why <span className="gold-gradient-text">Metronagon</span>
+            </h2>
+            <p className="mx-auto mt-4 max-w-lg text-muted">
+              Not just covers. A complete creative production pipeline built on
+              real experience.
+            </p>
+          </div>
+
+          <div className="grid gap-8 md:grid-cols-3">
+            <div className="rounded-2xl border border-border bg-surface-light p-8">
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+                <Target size={22} className="text-gold" />
+              </div>
+              <h3 className="mt-5 text-lg font-semibold">
+                Proven Track Record
+              </h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                22 published books across 3 complete series. Every cover, every
+                brand, every character portrait — created with the same pipeline
+                we use for your project.
+              </p>
+            </div>
+
+            <div className="rounded-2xl border border-border bg-surface-light p-8">
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+                <Zap size={22} className="text-gold" />
+              </div>
+              <h3 className="mt-5 text-lg font-semibold">Professional Speed</h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                Our production systems — style guides, refined workflows, and
+                proven creative processes — deliver professional results faster
+                than traditional design, without sacrificing quality.
+              </p>
+            </div>
+
+            <div className="rounded-2xl border border-border bg-surface-light p-8">
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+                <Shield size={22} className="text-gold" />
+              </div>
+              <h3 className="mt-5 text-lg font-semibold">
+                End-to-End Pipeline
+              </h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                Most creators do one thing. We do it all — series planning,
+                cover design, branding, children&apos;s illustration. One
+                partner for your entire publishing vision.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Values */}
+      <section className="border-y border-border bg-surface py-24 md:py-32">
         <div className="mx-auto max-w-6xl px-6">
           <h2 className="mb-16 text-center text-3xl font-bold tracking-tight md:text-4xl">
             How We <span className="gold-gradient-text">Work</span>
@@ -308,8 +367,7 @@ export default function AboutPage() {
       <section className="py-24 md:py-32">
         <div className="mx-auto max-w-2xl px-6 text-center">
           <h2 className="text-3xl font-bold tracking-tight md:text-4xl">
-            Ready to Work{" "}
-            <span className="gold-gradient-text">Together</span>?
+            Ready to Work <span className="gold-gradient-text">Together</span>?
           </h2>
           <p className="mt-4 text-muted">
             The same pipeline that produced 22 books and 3 complete series is

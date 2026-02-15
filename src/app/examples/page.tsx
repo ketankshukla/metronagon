@@ -438,7 +438,7 @@ const childrensData = {
   pictureBooks: {
     label: "32-Page Illustrated Picture Books",
     description:
-      "Full 32-page children's picture books with consistent AI-illustrated characters on every page. Pixar/Disney-inspired art style, complete story with text and illustrations, delivered as a print-ready PDF.",
+      "Full 32-page children's picture books with consistent illustrated characters on every page. Pixar/Disney-inspired art style, complete story with text and illustrations, delivered as a print-ready PDF.",
     images: [
       {
         src: "/examples/childrens/when-the-moon-fell-into-the-garden.png",
@@ -524,9 +524,9 @@ export default function ExamplesPage() {
               Book Cover <span className="gold-gradient-text">Gallery</span>
             </h1>
             <p className="mx-auto mt-4 max-w-xl text-lg leading-relaxed text-muted">
-              Browse {totalImages} AI-generated book covers across 12 genres.
-              Every cover was created using our prompt engineering pipeline —
-              the same system we use for client projects.
+              Browse {totalImages} professionally designed book covers across 12
+              genres. Every cover was created using our proven creative pipeline
+              — the same process we use for client projects.
             </p>
           </div>
         </div>
@@ -705,7 +705,7 @@ export default function ExamplesPage() {
               <span className="gold-gradient-text">These</span>?
             </h2>
             <p className="mx-auto mt-4 max-w-lg text-muted">
-              Every cover in this gallery was created using our AI-powered
+              Every cover in this gallery was created using our proven creative
               pipeline. Choose a package and let us create something stunning
               for your book.
             </p>

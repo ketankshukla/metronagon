@@ -46,7 +46,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Typography",
         items: [
-          "Font style preference — Serif (classic), sans-serif (modern), script (elegant), or display (bold/decorative)? Or say \"your call\"",
+          'Font style preference — Serif (classic), sans-serif (modern), script (elegant), or display (bold/decorative)? Or say "your call"',
         ],
       },
       {
@@ -96,7 +96,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Typography",
         items: [
-          "Font style preference — Or \"your call\"",
+          'Font style preference — Or "your call"',
           "Any specific text beyond title and author? (e.g., tagline, series name, bestseller badge)",
         ],
       },
@@ -154,14 +154,16 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Logo & Typography",
         items: [
-          "Series logo direction — Any ideas, or \"your call\"?",
+          'Series logo direction — Any ideas, or "your call"?',
           "Author name (exactly as it should appear on all covers)",
-          "Font style preference — Or \"your call\"",
+          'Font style preference — Or "your call"',
         ],
       },
       {
         heading: "Publishing Platform",
-        items: ["Where will this be published? (Amazon KDP, IngramSpark, other?)"],
+        items: [
+          "Where will this be published? (Amazon KDP, IngramSpark, other?)",
+        ],
       },
     ],
   },
@@ -213,7 +215,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Logo, Thumbnail & Typography",
         items: [
-          "Series logo direction — Any ideas, or \"your call\"?",
+          'Series logo direction — Any ideas, or "your call"?',
           "YouTube thumbnail purpose — What will it be used for?",
           "Author name (exactly as it should appear)",
           "Font style preference",
@@ -254,7 +256,7 @@ const packageData: Record<string, PackageInfo> = {
           "Book title (and subtitle, if any)",
           "Brief description (2–3 sentences)",
           "Key visual element or scene",
-          "Emotional position (e.g., \"darkest book,\" \"triumphant finale\")",
+          'Emotional position (e.g., "darkest book," "triumphant finale")',
         ],
       },
       {
@@ -457,7 +459,7 @@ const packageData: Record<string, PackageInfo> = {
           "Pacing preference",
           "Emotional tone",
           "Themes the series should explore",
-          "Do you envision sub-arcs? (e.g., books 1–3 = \"origin arc\")",
+          'Do you envision sub-arcs? (e.g., books 1–3 = "origin arc")',
           "Multiple POV characters? Who and when do they enter?",
           "Long-term mysteries or secrets revealed across the series?",
         ],
@@ -478,7 +480,7 @@ const packageData: Record<string, PackageInfo> = {
     delivery: "5 business days",
     deliverables: [
       "Story writing or adaptation",
-      "32 AI-illustrated pages",
+      "32 fully illustrated pages",
       "Assembled PDF + individual page files",
       "1 round of revisions",
     ],
@@ -499,7 +501,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Visual Direction",
         items: [
-          "Art style — Pixar/Disney-inspired, watercolor, flat illustration, or other? (Or \"your call\")",
+          'Art style — Pixar/Disney-inspired, watercolor, flat illustration, or other? (Or "your call")',
           "Color palette — Bright, soft pastels, warm earth tones, or specific colors?",
           "Reference books or art — Children's books whose illustration style you admire",
         ],
@@ -514,7 +516,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Special Pages",
         items: [
-          "Dedication page text (e.g., \"For my little adventurer, Emma\")",
+          'Dedication page text (e.g., "For my little adventurer, Emma")',
           "Any special requests? (Hidden details, inside jokes, a specific scene)",
         ],
       },
@@ -522,7 +524,7 @@ const packageData: Record<string, PackageInfo> = {
         heading: "Publishing Platform",
         items: [
           "Where will this be published? (Amazon KDP, IngramSpark, personal copies?)",
-          "Trim size preference — Standard is 8.5\" × 8.5\" square",
+          'Trim size preference — Standard is 8.5" × 8.5" square',
         ],
       },
     ],
@@ -533,7 +535,7 @@ const packageData: Record<string, PackageInfo> = {
     deliverables: [
       "Story writing or adaptation",
       "Custom character design system (reference sheet)",
-      "32 AI-illustrated pages (multiple generation passes)",
+      "32 fully illustrated pages (multiple refinement passes)",
       "Print-ready formatted PDF",
       "Individual page files + story text document",
       "2 rounds of revisions",
@@ -556,7 +558,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Visual Direction",
         items: [
-          "Art style preference (or \"your call\")",
+          'Art style preference (or "your call")',
           "Color palette",
           "Reference books or art — List 3–5",
           "Visual details that matter — Specific objects, animals, or elements that must appear",
@@ -573,7 +575,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Print Details",
         items: [
-          "Trim size — 8.5\"×8.5\" square, 8\"×10\" portrait, or 10\"×8\" landscape?",
+          'Trim size — 8.5"×8.5" square, 8"×10" portrait, or 10"×8" landscape?',
           "Print-on-demand service — Amazon KDP Print, IngramSpark, other?",
           "Hardcover or softcover?",
           "ISBN — Do you have one, or using Amazon-assigned?",
@@ -652,17 +654,14 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Logo & Typography",
         items: [
-          "Series logo direction — Any ideas, or \"your call\"?",
+          'Series logo direction — Any ideas, or "your call"?',
           "Author name (exactly as it should appear)",
           "Font style preference",
         ],
       },
       {
         heading: "Publishing",
-        items: [
-          "Where will this be published?",
-          "Target book length?",
-        ],
+        items: ["Where will this be published?", "Target book length?"],
       },
     ],
   },
@@ -723,10 +722,7 @@ const packageData: Record<string, PackageInfo> = {
       },
       {
         heading: "Reference Covers",
-        items: [
-          "3–5 covers or series you admire",
-          "Covers you DON'T like",
-        ],
+        items: ["3–5 covers or series you admire", "Covers you DON'T like"],
       },
       {
         heading: "Logo, Thumbnail & Typography",
@@ -810,10 +806,7 @@ const packageData: Record<string, PackageInfo> = {
       },
       {
         heading: "Reference Covers",
-        items: [
-          "5+ covers or series you admire",
-          "Covers you DON'T like",
-        ],
+        items: ["5+ covers or series you admire", "Covers you DON'T like"],
       },
       {
         heading: "Logo, Panoramic, Portrait & Thumbnail",

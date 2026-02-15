@@ -33,6 +33,12 @@ export default function Header() {
             Examples
           </Link>
           <Link
+            href="/testimonials"
+            className="text-sm font-medium text-muted transition-colors hover:text-foreground"
+          >
+            Testimonials
+          </Link>
+          <Link
             href="/blog"
             className="text-sm font-medium text-muted transition-colors hover:text-foreground"
           >
@@ -76,6 +82,13 @@ export default function Header() {
               className="rounded-lg px-4 py-3 text-sm font-medium text-muted transition-colors hover:bg-surface-lighter hover:text-foreground"
             >
               Examples
+            </Link>
+            <Link
+              href="/testimonials"
+              onClick={() => setMobileOpen(false)}
+              className="rounded-lg px-4 py-3 text-sm font-medium text-muted transition-colors hover:bg-surface-lighter hover:text-foreground"
+            >
+              Testimonials
             </Link>
             <Link
               href="/blog"

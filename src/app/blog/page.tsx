@@ -7,9 +7,9 @@ import { Clock, ArrowRight } from "lucide-react";
 const posts = [
   {
     slug: "how-i-designed-12-consistent-covers-for-a-fantasy-series",
-    title: "How I Designed 12 Consistent Covers for a Fantasy Series",
+    title: "How We Designed 12 Consistent Covers for a Fantasy Series",
     excerpt:
-      "A deep dive into the process of creating a cohesive visual identity across a 12-book fantasy series — from initial concept to final delivery. Covers the prompt engineering, style headers, and iteration process that ensures every book looks like it belongs in the same world.",
+      "A deep dive into the process of creating a cohesive visual identity across a 12-book fantasy series — from initial concept to final delivery. Covers the style system, creative direction, and iteration process that ensures every book looks like it belongs in the same world.",
     readTime: "8 min read",
     category: "Cover Design",
   },
@@ -23,9 +23,9 @@ const posts = [
   },
   {
     slug: "the-ai-powered-book-cover-pipeline",
-    title: "The AI-Powered Book Cover Pipeline: From Prompt to Print",
+    title: "The Book Cover Pipeline: From Concept to Print",
     excerpt:
-      "Behind every professional AI-generated book cover is a carefully engineered pipeline. This post breaks down the entire workflow — from initial prompt design and style headers to resolution scaling, text overlay, and print-ready CMYK conversion.",
+      "Behind every professional book cover is a carefully engineered pipeline. This post breaks down the entire workflow — from initial concept development and creative direction to resolution scaling, text overlay, and print-ready CMYK conversion.",
     readTime: "10 min read",
     category: "Process",
   },
@@ -33,7 +33,7 @@ const posts = [
     slug: "creating-30-character-portraits-with-consistent-style",
     title: "Creating 30 Character Portraits with Consistent Style",
     excerpt:
-      "Generating one great AI image is easy. Generating thirty that all look like they belong in the same universe? That requires systems. Here's how style headers, seed management, and iterative refinement produced a gallery of 30 distinct characters for one series.",
+      "Creating one great image is straightforward. Creating thirty that all look like they belong in the same universe? That requires systems. Here's how style anchoring, character sheets, and iterative refinement produced a gallery of 30 distinct characters for one series.",
     readTime: "7 min read",
     category: "Character Design",
   },
@@ -47,9 +47,9 @@ const posts = [
   },
   {
     slug: "building-a-childrens-picture-book-with-ai-illustration",
-    title: "Building a Children's Picture Book with AI Illustration",
+    title: "Building a Children's Picture Book with Professional Illustration",
     excerpt:
-      "A complete walkthrough of creating a 32-page Pixar-style children's picture book using AI image generation. Covers story structure, character consistency across pages, illustration composition, and assembling the final print-ready PDF.",
+      "A complete walkthrough of creating a 32-page Pixar-style children's picture book. Covers story structure, character consistency across pages, illustration composition, and assembling the final print-ready PDF.",
     readTime: "12 min read",
     category: "Children's Books",
   },

@@ -83,17 +83,17 @@ const coverPackages = [
       {
         title: "Premium photorealistic style",
         detail:
-          "Advanced prompt engineering with custom style headers for a cinematic, gallery-quality result — the same system used for our published 22-book portfolio",
+          "Premium cinematic style with custom visual direction for a gallery-quality result — the same system used for our published 22-book portfolio",
       },
       {
         title: "3 concept variations",
         detail:
-          "Three distinct visual directions, each using the premium style header for maximum visual impact and genre accuracy",
+          "Three distinct visual directions, each using the premium style guide for maximum visual impact and genre accuracy",
       },
       {
         title: "1 final polished cover",
         detail:
-          "The winning concept receives extended refinement — multiple generation passes, advanced post-processing, and meticulous typography",
+          "The winning concept receives extended refinement — multiple creative passes, advanced post-processing, and meticulous typography",
       },
       {
         title: "2 rounds of revisions",
@@ -130,7 +130,7 @@ const brandingPackages = [
       {
         title: "3 consistent ebook covers",
         detail:
-          "Three covers built from a shared style header ensuring color palette, typography, lighting direction, and composition remain visually unified",
+          "Three covers built from a shared style guide ensuring color palette, typography, lighting direction, and composition remain visually unified",
       },
       {
         title: "1 box set cover",
@@ -140,7 +140,7 @@ const brandingPackages = [
       {
         title: "Style guide document",
         detail:
-          "PDF documenting fonts, hex colors, composition rules, and prompt parameters so future covers or marketing materials maintain perfect consistency",
+          "PDF documenting fonts, hex colors, composition rules, and visual guidelines so future covers or marketing materials maintain perfect consistency",
       },
     ],
   },
@@ -160,7 +160,7 @@ const brandingPackages = [
       {
         title: "5 consistent ebook covers",
         detail:
-          "Five covers sharing a unified style header — consistent color grading, typography, lighting, and composition across the entire series",
+          "Five covers sharing a unified style guide — consistent color grading, typography, lighting, and composition across the entire series",
       },
       {
         title: "Box set cover",
@@ -175,7 +175,7 @@ const brandingPackages = [
       {
         title: "Style guide document",
         detail:
-          "Comprehensive PDF with all visual specifications: colors, fonts, composition rules, prompt parameters, and usage guidelines",
+          "Comprehensive PDF with all visual specifications: colors, fonts, composition rules, visual guidelines, and usage guidelines",
       },
     ],
   },
@@ -194,7 +194,7 @@ const brandingPackages = [
       {
         title: "All ebook covers (8+)",
         detail:
-          "Every book in the series receives a cover built from the same style header — whether it's 8, 10, or 12 books, every cover looks like it belongs",
+          "Every book in the series receives a cover built from the same style guide — whether it's 8, 10, or 12 books, every cover looks like it belongs",
       },
       {
         title: "Box set cover",
@@ -214,12 +214,12 @@ const brandingPackages = [
       {
         title: "Author portrait",
         detail:
-          "AI-generated author portrait rendered in the series' visual style — for author pages, social profiles, and book back matter",
+          "Professional author portrait rendered in the series' visual style — for author pages, social profiles, and book back matter",
       },
       {
         title: "Complete style guide",
         detail:
-          "Comprehensive document covering every visual decision: colors, fonts, composition rules, prompt parameters, character descriptions, and expansion guidelines",
+          "Comprehensive document covering every visual decision: colors, fonts, composition rules, visual guidelines, character descriptions, and expansion guidelines",
       },
     ],
   },
@@ -357,7 +357,7 @@ const childrensPackages = [
     price: "$500",
     delivery: "5 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
-    description: "Complete 32-page AI-illustrated picture book.",
+    description: "Complete 32-page illustrated picture book.",
     features: [
       {
         title: "Story writing or adaptation",
@@ -365,9 +365,9 @@ const childrensPackages = [
           "Original story creation or adaptation of your concept into a picture-book-friendly structure with age-appropriate language and pacing",
       },
       {
-        title: "32 AI-illustrated pages",
+        title: "32 fully illustrated pages",
         detail:
-          "Every page receives a full-color AI-generated illustration using a consistent art style — Pixar/Disney-inspired aesthetic or your preferred direction",
+          "Every page receives a full-color illustration using a consistent art style — Pixar/Disney-inspired aesthetic or your preferred direction",
       },
       {
         title: "Consistent character design",
@@ -406,9 +406,9 @@ const childrensPackages = [
           "Original story creation or adaptation with enhanced narrative structure, vocabulary calibration, and pedagogical consideration for the target age group",
       },
       {
-        title: "32 AI-illustrated pages",
+        title: "32 fully illustrated pages",
         detail:
-          "Full-color illustrations on every page with premium quality — multiple generation passes per page to ensure the highest visual standard",
+          "Full-color illustrations on every page with premium quality — multiple refinement passes per page to ensure the highest visual standard",
       },
       {
         title: "Custom character design system",
@@ -460,7 +460,7 @@ const pipelinePackages = [
       {
         title: "3 ebook covers",
         detail:
-          "Three visually consistent covers built from a shared style header, each at 1600×2400, 300 DPI, Amazon KDP-ready",
+          "Three visually consistent covers built from a shared style guide, each at 1600×2400, 300 DPI, Amazon KDP-ready",
       },
       {
         title: "Series logo",
@@ -500,7 +500,7 @@ const pipelinePackages = [
       {
         title: "5 ebook covers",
         detail:
-          "Five unified covers with shared style header — consistent color, typography, lighting, and composition across the entire series",
+          "Five unified covers with shared style guide — consistent color, typography, lighting, and composition across the entire series",
       },
       {
         title: "Full series branding",
@@ -544,7 +544,7 @@ const pipelinePackages = [
       {
         title: "All ebook covers",
         detail:
-          "Every book receives a cover from the same style header — whether 8, 10, or 12+ books, every cover is visually unified and genre-accurate",
+          "Every book receives a cover from the same style guide — whether 8, 10, or 12+ books, every cover is visually unified and genre-accurate",
       },
       {
         title: "Complete branding package",
@@ -722,7 +722,7 @@ function PackageCard({
         className={`mt-8 flex items-center justify-center gap-2 rounded-lg px-6 py-3 text-sm font-semibold transition-all ${
           popular
             ? "bg-gold text-background hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
-            : "border border-border text-foreground hover:border-gold/30 hover:text-gold"
+            : "bg-gold text-background hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
         }`}
       >
         {priceId ? `Get Started — ${price}` : "Get Started"}
@@ -760,7 +760,7 @@ export default function ServicesPage() {
             <div>
               <h2 className="text-2xl font-bold">Ebook Cover Design</h2>
               <p className="text-sm text-muted">
-                AI-generated covers, photorealistic or stylised, Amazon-ready
+                Professional covers, photorealistic or stylised, Amazon-ready
               </p>
             </div>
           </div>
@@ -836,7 +836,7 @@ export default function ServicesPage() {
                 Children&apos;s Picture Books
               </h2>
               <p className="text-sm text-muted">
-                32-page AI-illustrated books from concept to print-ready PDF
+                32-page illustrated books from concept to print-ready PDF
               </p>
             </div>
           </div>
@@ -954,6 +954,65 @@ export default function ServicesPage() {
                 month.
               </p>
               <p className="mt-3 text-sm font-bold text-gold">$150/quarter</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* How It Works */}
+      <section className="border-t border-border bg-surface py-24 md:py-32">
+        <div className="mx-auto max-w-6xl px-6">
+          <div className="mb-16 text-center">
+            <h2 className="text-3xl font-bold tracking-tight md:text-4xl">
+              How It <span className="gold-gradient-text">Works</span>
+            </h2>
+            <p className="mx-auto mt-4 max-w-lg text-muted">
+              Simple, transparent, professional. Pay first, receive excellence.
+            </p>
+          </div>
+
+          <div className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border md:grid-cols-4">
+            <div className="bg-surface-light p-8">
+              <div className="text-xs font-bold uppercase tracking-widest text-gold">
+                Step 01
+              </div>
+              <h3 className="mt-3 text-lg font-semibold">
+                Choose Your Package
+              </h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                Browse our services, select the package that fits your project,
+                and pay securely through Stripe.
+              </p>
+            </div>
+            <div className="bg-surface-light p-8">
+              <div className="text-xs font-bold uppercase tracking-widest text-gold">
+                Step 02
+              </div>
+              <h3 className="mt-3 text-lg font-semibold">Share Your Vision</h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                Tell us about your book, series, or project. Share your
+                concepts, references, and creative direction.
+              </p>
+            </div>
+            <div className="bg-surface-light p-8">
+              <div className="text-xs font-bold uppercase tracking-widest text-gold">
+                Step 03
+              </div>
+              <h3 className="mt-3 text-lg font-semibold">We Create</h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                Using our proven creative pipeline, we craft your covers,
+                branding, or series plan to the highest standard.
+              </p>
+            </div>
+            <div className="bg-surface-light p-8">
+              <div className="text-xs font-bold uppercase tracking-widest text-gold">
+                Step 04
+              </div>
+              <h3 className="mt-3 text-lg font-semibold">You Receive</h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">
+                High-resolution files delivered via Google Drive or ZIP. Ready
+                for Amazon, print, or any platform.
+              </p>
             </div>
           </div>
         </div>

@@ -96,9 +96,7 @@ export default function ThankYouContent() {
 
           {session?.productName && (
             <p className="mx-auto mt-4 text-xl font-medium">
-              <span className="gold-gradient-text">
-                {session.productName}
-              </span>
+              <span className="gold-gradient-text">{session.productName}</span>
               {session.amountTotal ? (
                 <span className="ml-2 text-muted">
                   — {formatAmount(session.amountTotal, session.currency)}
@@ -132,7 +130,8 @@ export default function ThankYouContent() {
                 <div>
                   <p className="font-medium">Send us your project details</p>
                   <p className="mt-0.5 text-sm text-muted">
-                    Review the requirements below and reply to our email with your answers
+                    Review the requirements below and reply to our email with
+                    your answers
                   </p>
                 </div>
               </div>
@@ -141,7 +140,9 @@ export default function ThankYouContent() {
                   2
                 </div>
                 <div>
-                  <p className="font-medium">We begin working on your project</p>
+                  <p className="font-medium">
+                    We begin working on your project
+                  </p>
                   <p className="mt-0.5 text-sm text-muted">
                     Once we receive your details, production begins immediately
                   </p>
@@ -152,7 +153,9 @@ export default function ThankYouContent() {
                   3
                 </div>
                 <div>
-                  <p className="font-medium">Delivery via Google Drive or ZIP</p>
+                  <p className="font-medium">
+                    Delivery via Google Drive or ZIP
+                  </p>
                   <p className="mt-0.5 text-sm text-muted">
                     {packageInfo
                       ? `Your deliverables will be ready within ${packageInfo.delivery}`
@@ -211,13 +214,12 @@ export default function ThankYouContent() {
           <div className="mx-auto mt-12 max-w-2xl">
             <div className="mb-6 flex items-center gap-3">
               <ClipboardList size={22} className="text-gold" />
-              <h2 className="text-xl font-bold">
-                What We Need From You
-              </h2>
+              <h2 className="text-xl font-bold">What We Need From You</h2>
             </div>
             <p className="mb-8 text-sm text-muted">
-              Please reply to the email you&apos;ll receive from us with answers to
-              the following. The more detail you provide, the better the result.
+              Please reply to the email you&apos;ll receive from us with answers
+              to the following. The more detail you provide, the better the
+              result.
             </p>
 
             <div className="space-y-6">
@@ -260,9 +262,10 @@ export default function ThankYouContent() {
                     You&apos;ll receive this same checklist via email
                   </p>
                   <p className="mt-1 text-sm text-muted">
-                    We&apos;ll send you an email with all these requirements so you
-                    can reply at your convenience. Just hit reply and paste your
-                    answers — or attach any files, references, or notes you have.
+                    We&apos;ll send you an email with all these requirements so
+                    you can reply at your convenience. Just hit reply and paste
+                    your answers — or attach any files, references, or notes you
+                    have.
                   </p>
                 </div>
               </div>
@@ -288,7 +291,7 @@ export default function ThankYouContent() {
         <div className="mt-12 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
           <Link
             href="/services"
-            className="inline-flex items-center gap-2 rounded-lg border border-border px-6 py-3 text-sm font-semibold text-foreground transition-all hover:border-gold/30 hover:text-gold"
+            className="inline-flex items-center gap-2 rounded-lg bg-gold px-6 py-3 text-sm font-semibold text-background transition-all hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
           >
             Browse More Services
           </Link>

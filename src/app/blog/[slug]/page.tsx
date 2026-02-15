@@ -13,7 +13,7 @@ const posts: Record<
   }
 > = {
   "how-i-designed-12-consistent-covers-for-a-fantasy-series": {
-    title: "How I Designed 12 Consistent Covers for a Fantasy Series",
+    title: "How We Designed 12 Consistent Covers for a Fantasy Series",
     readTime: "8 min read",
     category: "Cover Design",
     content: `Creating a single stunning book cover is one challenge. Creating twelve that all feel like they belong in the same universe — while each remaining distinct and compelling — is an entirely different problem.
@@ -29,9 +29,9 @@ Every cover in a series needs to accomplish two things simultaneously:
 
 These goals are in tension. Too much consistency and the covers blur together. Too much variety and the series identity is lost.
 
-## The Style Header System
+## The Style Guide System
 
-The solution is what I call a **style header** — a reusable prompt prefix that defines the visual DNA of the series. It locks in:
+The solution is what we call a **style guide** — a reusable creative brief that defines the visual DNA of the series. It locks in:
 
 - Art style (photorealistic cinematic, in this case)
 - Color palette (deep blacks, warm golds, crimson accents)
@@ -39,15 +39,15 @@ The solution is what I call a **style header** — a reusable prompt prefix that
 - Compositional rules (character placement, background depth)
 - Lighting direction (dramatic side-lighting with rim highlights)
 
-Every cover prompt starts with this identical header. Only the character, scene, and title change.
+Every cover starts with this identical guide. Only the character, scene, and title change.
 
 ## The Iteration Process
 
 For each book cover:
 
-1. Generate 6-8 initial concepts using the style header + book-specific details
+1. Create 6-8 initial concepts using the style guide + book-specific details
 2. Select the 3 strongest concepts
-3. Refine the chosen 3 with adjusted prompts (composition tweaks, expression changes, element repositioning)
+3. Refine the chosen 3 with targeted adjustments (composition tweaks, expression changes, element repositioning)
 4. Choose the final winner
 5. Post-process: resolution scaling, text overlay, final adjustments
 
@@ -109,23 +109,23 @@ The final series architecture document includes:
 This is the exact deliverable included in our Series Architecture packages.`,
   },
   "the-ai-powered-book-cover-pipeline": {
-    title: "The AI-Powered Book Cover Pipeline: From Prompt to Print",
+    title: "The Book Cover Pipeline: From Concept to Print",
     readTime: "10 min read",
     category: "Process",
-    content: `The gap between "I generated a cool image with AI" and "I have a professional, print-ready book cover" is enormous. This post breaks down every step of the pipeline that turns a concept into a cover ready for Amazon, IngramSpark, or any print-on-demand service.
+    content: `The gap between a rough concept and a professional, print-ready book cover is enormous. This post breaks down every step of the pipeline that turns a concept into a cover ready for Amazon, IngramSpark, or any print-on-demand service.
 
 ## Step 1: Concept Development
 
-Before any image generation happens, the concept needs to be solid:
+Before any design work begins, the concept needs to be solid:
 
 - **Genre research**: What do the top-selling covers in this genre look like?
 - **Competitive analysis**: What visual patterns does the target reader expect?
 - **Differentiation**: How does this cover stand out while still signaling the correct genre?
 - **Element selection**: Character, scene, objects, mood, color palette
 
-## Step 2: Prompt Engineering
+## Step 2: Creative Direction
 
-The prompt is everything. A professional cover prompt includes:
+The creative brief is everything. A professional cover brief includes:
 
 - **Style direction**: Photorealistic, illustrated, minimalist, etc.
 - **Composition**: Where is the focal point? What's the visual hierarchy?
@@ -134,21 +134,21 @@ The prompt is everything. A professional cover prompt includes:
 - **Text avoidance zones**: Areas that must remain clear for title/author placement
 - **Resolution and format**: 1600×2400 for ebook, 300 DPI
 
-## Step 3: Generation & Selection
+## Step 3: Design & Selection
 
-Generate multiple variations. Never settle for the first output. The process is:
+We produce multiple variations. Never settle for the first output. The process is:
 
-1. Generate 6-8 variations
+1. Create 6-8 variations
 2. Evaluate against genre expectations and composition rules
 3. Select top 3 candidates
-4. Refine with targeted prompt adjustments
+4. Refine with targeted adjustments
 5. Final selection
 
 ## Step 4: Post-Processing
 
-The raw AI output is never the final cover. Post-processing includes:
+The raw output is never the final cover. Post-processing includes:
 
-- **Resolution scaling**: AI outputs are often not at print resolution
+- **Resolution scaling**: Ensuring every file meets print resolution standards
 - **Text overlay**: Title, subtitle, author name, series identifier
 - **Color correction**: Ensuring the palette is consistent and print-safe
 - **Edge cleanup**: Removing artifacts, refining details
@@ -162,17 +162,17 @@ The client receives:
 - The final polished cover with text overlay
 - Files ready for upload to Amazon KDP or any platform
 
-This is a production pipeline, not an experiment. Every step is repeatable, consistent, and fast.`,
+This is a production pipeline, not an experiment. Every step is repeatable, consistent, and professionally executed.`,
   },
   "creating-30-character-portraits-with-consistent-style": {
     title: "Creating 30 Character Portraits with Consistent Style",
     readTime: "7 min read",
     category: "Character Design",
-    content: `When the Aztec Samurai Adventures series needed character portraits for 30 distinct characters, the challenge wasn't generating individual images — it was making all 30 look like they existed in the same world.
+    content: `When the Aztec Samurai Adventures series needed character portraits for 30 distinct characters, the challenge wasn't creating individual images — it was making all 30 look like they existed in the same world.
 
 ## The Consistency Problem
 
-AI image generation is inherently variable. The same prompt can produce wildly different results across generations. For a character gallery, this is a fundamental problem:
+Creative production is inherently variable. The same brief can produce wildly different results across iterations. For a character gallery, this is a fundamental problem:
 
 - Characters must have distinct features but shared artistic style
 - Lighting, color grading, and composition must feel unified
@@ -182,20 +182,20 @@ AI image generation is inherently variable. The same prompt can produce wildly d
 
 The approach uses three layers of consistency:
 
-### Layer 1: The Master Style Header
-A detailed prompt prefix that defines the artistic DNA — rendering style, lighting setup, background treatment, and color palette. Every character portrait starts with this same header.
+### Layer 1: The Master Style Guide
+A detailed creative brief that defines the artistic DNA — rendering style, lighting setup, background treatment, and color palette. Every character portrait starts with this same guide.
 
 ### Layer 2: Character-Specific Parameters
-Each character gets a defined set of physical attributes, clothing, and distinguishing features. These are documented in a character sheet and referenced consistently across every generation.
+Each character gets a defined set of physical attributes, clothing, and distinguishing features. These are documented in a character sheet and referenced consistently across every iteration.
 
 ### Layer 3: Post-Processing Pipeline
-After generation, every portrait goes through the same post-processing workflow — color grading, contrast adjustment, and cropping to a standard format. This final pass smooths out any remaining inconsistencies.
+After creation, every portrait goes through the same post-processing workflow — color grading, contrast adjustment, and cropping to a standard format. This final pass smooths out any remaining inconsistencies.
 
 ## The Result
 
 30 character portraits that feel like they were illustrated by the same artist for the same project. Each character is immediately recognizable and distinct, but the visual language ties them all together.
 
-This character consistency system is the same one we apply to children's book illustrations — where maintaining the same character appearance across 32 pages is critical.`,
+This character consistency system is the same one we apply to children’s book illustrations — where maintaining the same character appearance across 32 pages is critical.`,
   },
   "what-makes-a-book-cover-sell": {
     title: "What Makes a Book Cover Sell: Lessons from 22 Published Books",
@@ -245,10 +245,10 @@ When a reader sees 5 covers that clearly belong together, the implicit message i
 These principles guide every cover we create at Metronagon.`,
   },
   "building-a-childrens-picture-book-with-ai-illustration": {
-    title: "Building a Children's Picture Book with AI Illustration",
+    title: "Building a Children’s Picture Book with Professional Illustration",
     readTime: "12 min read",
     category: "Children's Books",
-    content: `Creating a 32-page children's picture book with AI illustration is one of the most complex projects in our pipeline. Unlike a single book cover, a picture book requires sustained character consistency, narrative visual flow, and production-quality output across every page.
+    content: `Creating a 32-page children’s picture book is one of the most complex projects in our pipeline. Unlike a single book cover, a picture book requires sustained character consistency, narrative visual flow, and production-quality output across every page.
 
 ## The Story Foundation
 
@@ -266,17 +266,17 @@ Each page gets one key illustration and one block of text. The text should be 2-
 
 This is the hardest part. The main character must look the same on every single page. Our approach:
 
-1. **Character sheet**: Generate a reference image of the character from multiple angles
-2. **Style header**: Lock in the art style (we typically use a Pixar/Disney-inspired aesthetic)
+1. **Character sheet**: Create a reference image of the character from multiple angles
+2. **Style guide**: Lock in the art style (we typically use a Pixar/Disney-inspired aesthetic)
 3. **Feature anchoring**: Define the 5-6 most distinctive features (hair color, eye color, clothing, body proportions, etc.)
-4. **Consistency testing**: Generate 10 test images and evaluate consistency before starting pages
+4. **Consistency testing**: Produce 10 test images and evaluate consistency before starting pages
 
 ## Page-by-Page Production
 
 Each page follows this workflow:
 
 1. Write the scene description based on the story outline
-2. Generate 3-4 variations with the character in the correct scene
+2. Create 3-4 variations with the character in the correct scene
 3. Select the best variation
 4. Refine with targeted adjustments if needed
 5. Post-process for color consistency and text placement
@@ -342,7 +342,7 @@ A single front cover illustration designed for an ebook or paperback. This is th
 ### 32-Page Illustrated Picture Book (Full Service)
 A complete picture book with consistent character illustrations on every page. This is an entirely different product — it includes story development, character design, 32 page illustrations, text placement, and a print-ready PDF.
 
-Both products start with the same prompt engineering pipeline, but the scope and deliverables are completely different.
+Both products start with the same creative pipeline, but the scope and deliverables are completely different.
 
 ## The Production Process for Paperback Covers
 
@@ -350,8 +350,8 @@ For a standalone children's cover:
 
 1. **Genre and age research** — study the top 50 covers in the target category on Amazon
 2. **Character and scene concept** — define the main character, the key scene, and the emotional tone
-3. **Prompt engineering** — craft a detailed prompt with specific art style, color palette, and composition
-4. **Generation and selection** — produce 6-8 variations, select top 3, refine the winner
+3. **Creative direction** — craft a detailed brief with specific art style, color palette, and composition
+4. **Design and selection** — produce 6-8 variations, select top 3, refine the winner
 5. **Text overlay** — add title, subtitle, and author name with age-appropriate typography
 6. **Final delivery** — high-resolution files ready for Amazon KDP or print
 
@@ -424,7 +424,7 @@ const postGalleries: Record<string, GallerySection[]> = {
     {
       title: "Aztec Samurai Adventures — Selected Covers",
       caption:
-        "6 of the 12 covers from the series. Notice the consistent lighting, color palette, and compositional style across every cover — each built from the same style header.",
+        "6 of the 12 covers from the series. Notice the consistent lighting, color palette, and compositional style across every cover — each built from the same style guide.",
       layout: "covers",
       images: [
         {
@@ -540,7 +540,7 @@ const postGalleries: Record<string, GallerySection[]> = {
     {
       title: "Pipeline Output — Three Different Series, One System",
       caption:
-        "The same AI-powered pipeline produced all three series below. Fantasy fiction, self-improvement, and philosophy — each with its own visual language, all built on the same production system.",
+        "The same creative pipeline produced all three series below. Fantasy fiction, self-improvement, and philosophy — each with its own visual language, all built on the same production system.",
       layout: "covers",
       images: [
         {
@@ -572,7 +572,7 @@ const postGalleries: Record<string, GallerySection[]> = {
     {
       title: "From Single Covers to Complete Branding",
       caption:
-        "Box sets, panoramic covers, and series logos — all generated from the same pipeline that produces individual covers.",
+        "Box sets, panoramic covers, and series logos — all created from the same pipeline that produces individual covers.",
       layout: "landscape",
       images: [
         {
@@ -671,7 +671,7 @@ const postGalleries: Record<string, GallerySection[]> = {
     {
       title: "Ixchel and the Stolen Sun — Selected Pages",
       caption:
-        "Pages from a 32-page AI-illustrated children's picture book. Notice the consistent character design, vibrant color palette, and Pixar-inspired art style maintained across every page.",
+        "Pages from a 32-page professionally illustrated children\u2019s picture book. Notice the consistent character design, vibrant color palette, and Pixar-inspired art style maintained across every page.",
       layout: "pages",
       images: [
         {
