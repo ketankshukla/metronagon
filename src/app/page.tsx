@@ -14,9 +14,9 @@ export default function Home() {
               <Image
                 src="/portfolio/logo.png"
                 alt="Metronagon Media — The Measure of Excellence"
-                width={280}
-                height={280}
-                className="mx-auto h-48 w-48 md:h-64 md:w-64 object-contain drop-shadow-2xl"
+                width={600}
+                height={600}
+                className="mx-auto w-full max-w-md md:max-w-lg object-contain drop-shadow-2xl"
                 priority
               />
             </div>
