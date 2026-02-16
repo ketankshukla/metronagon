@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Metronagon Media
+
+Professional book cover design, series branding, series architecture, and children's book illustration for authors and publishers.
+
+## Tech Stack
+
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS
+- **Fonts:** Geist Sans & Geist Mono
+- **Payments:** Stripe (embedded checkout)
+- **Hosting:** Vercel
+- **Image Protection:** Custom client-side protection against right-click, drag, and save
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repo
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Copy `env.local.example` to `.env.local` and fill in your Stripe test keys (see [STRIPE-SETUP.md](./STRIPE-SETUP.md))
+4. Run the dev server:
+   ```bash
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Project Structure
+
+```
+src/
+├── app/
+│   ├── api/checkout/         # Stripe API routes
+│   ├── about/                # About page
+│   ├── blog/                 # Blog listing and posts
+│   ├── checkout/             # Embedded Stripe checkout page
+│   ├── examples/             # Cover gallery (12 genres + children's)
+│   ├── services/             # Packages & pricing
+│   ├── testimonials/         # Client testimonials
+│   ├── thank-you/            # Post-purchase confirmation
+│   ├── layout.tsx            # Root layout
+│   └── page.tsx              # Homepage
+├── components/
+│   ├── Header.tsx            # Navigation header
+│   ├── Footer.tsx            # Site footer
+│   └── ImageProtection.tsx   # Global image theft protection
+public/
+├── portfolio/                # Portfolio images (book pages, logos)
+└── examples/                 # Example cover images by genre
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deployment
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The site deploys automatically via GitHub → Vercel on every push to `master`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Site           | Domain                       | Purpose                                |
+| -------------- | ---------------------------- | -------------------------------------- |
+| **Production** | `metronagon.com`             | Live site with real Stripe payments    |
+| **Test**       | `metronagon.ketanshukla.com` | Test site with Stripe sandbox payments |
 
-## Learn More
+Both Vercel projects are linked to the same GitHub repo. A single push to `master` deploys to both.
 
-To learn more about Next.js, take a look at the following resources:
+## Documentation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **[STRIPE-SETUP.md](./STRIPE-SETUP.md)** — Complete guide to Stripe test/production setup, environment variables, and adding new products
