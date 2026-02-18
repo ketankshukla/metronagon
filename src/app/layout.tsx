@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ImageProtection from "@/components/ImageProtection";
@@ -47,6 +48,7 @@ export default function RootLayout({
         <Header />
         <main className="min-h-screen pt-16">{children}</main>
         <Footer />
+        <Analytics />
       </body>
     </html>
   );

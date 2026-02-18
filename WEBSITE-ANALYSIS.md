@@ -30,13 +30,16 @@ All 4 testimonials are from Ketan Shukla about his own work. While the work is r
 
 **Status:** Both suggestions implemented. Page rewritten as Portfolio Case Studies with 4 honest case studies (Aztec 12-book series, Repetition 5-book series, Reality 5-book series, Children's picture book). Nav labels updated to "Case Studies" in Header and Footer. Commits: `14fcbb7`, `20058be`, `147e290`.
 
-### 2.2 No Analytics
+### 2.2 No Analytics -- DONE
+
 There is zero tracking on the site — no Google Analytics, no Vercel Analytics, no Plausible, nothing. You cannot measure traffic, conversion rates, or which pages/packages attract attention. You're flying blind.
 
 **Suggestions:**
 1. Add Vercel Analytics (free on Hobby plan, one line of code)
 2. Or add Plausible (privacy-friendly, ~$9/month)
 3. At minimum track: page views, traffic sources, and checkout conversion rates
+
+**Status:** Vercel Analytics installed (`@vercel/analytics`) and added to root layout. Tracks page views, traffic sources, and top pages automatically on Vercel deployment.
 
 ### 2.3 No Email Capture / Lead Generation
 The only way a visitor can interact is by purchasing a package. There's no email signup, no newsletter, no lead magnet, no free resource download. Most visitors won't buy on first visit — you need a way to capture them for follow-up.
@@ -223,7 +226,7 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 ## Summary of Highest-Impact Changes (Ranked)
 
 1. **Fix the testimonials** — reframe as case studies or remove until you have real clients -- DONE
-2. **Add analytics** — you can't improve what you can't measure
+2. **Add analytics** — you can't improve what you can't measure -- DONE
 3. **Add email capture** — most visitors won't buy on first visit
 4. **Simplify the package structure** — 4 categories, 9 packages for launch
 5. **Audit Full Pipeline pricing** — the Standard tier costs more than buying separately
