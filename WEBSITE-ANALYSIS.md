@@ -20,12 +20,15 @@ Metronagon Media is a book cover design and publishing services business owned b
 
 ## Part 2: Critical Issues to Address
 
-### 2.1 Testimonials Are Self-Referential
+### 2.1 Testimonials Are Self-Referential -- DONE
+
 All 4 testimonials are from Ketan Shukla about his own work. While the work is real, having the business owner as the only testimonial source undermines credibility. A potential client will notice immediately that the reviewer and the service provider are the same person.
 
 **Suggestions:**
 1. Remove the testimonials page entirely until you have real client testimonials, OR
 2. Reframe the page as "Portfolio Case Studies" — describe the same projects but as case studies ("Here's how we built a 12-book fantasy series brand") rather than fake third-party reviews. This is honest and still demonstrates competence.
+
+**Status:** Both suggestions implemented. Page rewritten as Portfolio Case Studies with 4 honest case studies (Aztec 12-book series, Repetition 5-book series, Reality 5-book series, Children's picture book). Nav labels updated to "Case Studies" in Header and Footer. Commits: `14fcbb7`, `20058be`, `147e290`.
 
 ### 2.2 No Analytics
 There is zero tracking on the site — no Google Analytics, no Vercel Analytics, no Plausible, nothing. You cannot measure traffic, conversion rates, or which pages/packages attract attention. You're flying blind.
@@ -219,7 +222,7 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 
 ## Summary of Highest-Impact Changes (Ranked)
 
-1. **Fix the testimonials** — reframe as case studies or remove until you have real clients
+1. **Fix the testimonials** — reframe as case studies or remove until you have real clients -- DONE
 2. **Add analytics** — you can't improve what you can't measure
 3. **Add email capture** — most visitors won't buy on first visit
 4. **Simplify the package structure** — 4 categories, 9 packages for launch
@@ -229,6 +232,18 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 8. **Make contact info prominent** — not everyone is ready to buy immediately
 9. **Raise cover design prices slightly** — your portfolio supports $99-$175, not $75-$150
 10. **Move Updates & Revisions off the main services page** — reduce cognitive load for new visitors
+
+---
+
+## Aztec Series Logo Background Fix -- DONE
+
+**File:** `src/app/testimonials/page.tsx`
+
+**Problem:** Logo container used `bg-surface-light` (#111111) and referenced wrong file (`series-logo.jpg` with gold-ish background).
+
+**Fixes applied:**
+1. Changed container background from `bg-surface-light` to `bg-black` (commit `20058be`)
+2. Changed image source from `series-logo.jpg` to `series-logo.png` (the correct original with black background, matching the blog page) (commit `147e290`)
 
 ---
 
