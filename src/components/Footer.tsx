@@ -16,8 +16,8 @@ export default function Footer() {
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted">
               The Measure of Excellence. Professional book cover design, series
-              branding, series architecture, and children&apos;s book
-              illustration for authors and publishers.
+              branding, and children&apos;s book illustration for authors and
+              publishers.
             </p>
           </div>
 
@@ -40,14 +40,6 @@ export default function Footer() {
                   className="text-sm text-muted transition-colors hover:text-foreground"
                 >
                   Series Branding
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/services#architecture"
-                  className="text-sm text-muted transition-colors hover:text-foreground"
-                >
-                  Series Architecture
                 </Link>
               </li>
               <li>
