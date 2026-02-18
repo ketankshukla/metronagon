@@ -177,7 +177,7 @@ export default function CaseStudiesPage() {
                     <p className="mb-2 text-xs font-medium uppercase tracking-widest text-muted">
                       Series Logo
                     </p>
-                    <div className="overflow-hidden rounded-lg border border-border bg-surface-light p-4">
+                    <div className="overflow-hidden rounded-lg border border-border bg-black p-4">
                       <Image
                         src={cs.logoImage}
                         alt={`${cs.project} — series logo`}
