@@ -30,7 +30,7 @@ const caseStudies = [
       "/portfolio/aztec/covers/book3-cover.jpg",
       "/portfolio/aztec/covers/book4-cover.jpg",
     ],
-    logoImage: "/portfolio/aztec/series-logo.jpg",
+    logoImage: "/portfolio/aztec/series-logo.png",
     highlight: "12 covers, 1 visual identity",
   },
   {
