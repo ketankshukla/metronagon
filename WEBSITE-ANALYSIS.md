@@ -86,45 +86,57 @@ The only contact information (`hello@metronagon.com`) appears once, at the very 
 
 This is the core of your request. Here's a critical analysis of the current package structure and specific suggestions for refinement.
 
-### 3.1 Overall Package Structure Assessment
+### 3.1 Overall Package Structure Assessment -- DONE
 
 **Current state:** 5 service categories x 2-3 tiers each = 13 main packages, plus 11 revision items, 2 add-ons, and 1 retainer = 27 total Stripe products.
 
 **Problem:** Too many choices for a new business with no client base yet. The paradox of choice applies here — a first-time visitor seeing 13 packages across 5 categories may feel overwhelmed. For a business just starting out, this is a lot of complexity to manage and explain.
 
+**Status:** Restructured to 4 categories, 9 main packages. Series Architecture removed as standalone. Updates & Revisions collapsed into accordion. Commit: `5f80a8e`.
+
 ### 3.2 Specific Package Issues
 
-#### 3.2.1 Ebook Cover Design — Pricing May Be Too Low
+#### 3.2.1 Ebook Cover Design — Pricing May Be Too Low -- DONE
 1. $75 for a standard cover and $150 for premium is competitive but potentially undervalues your work. Your portfolio quality is significantly above what $75 cover designers typically deliver. On Reedsy, professional AI-assisted cover designers charge $200-$500+.
 2. **Suggestion:** Consider raising Standard to $99-$125 and Premium to $200-$250. Your portfolio justifies it, and higher prices actually signal quality to authors who have been burned by cheap Fiverr covers. You can always run a "launch discount" to soften the transition.
 
-#### 3.2.2 Series Architecture & Planning — May Confuse the Target Audience
+**Status:** Standard raised to $99, Premium raised to $175. User needs to update Stripe products to match.
+
+#### 3.2.2 Series Architecture & Planning — May Confuse the Target Audience -- DONE
 1. This service (chapter outlines, continuity plans, book descriptions) is fundamentally different from cover design. It's a writing/planning service, not a visual design service. Mixing it with cover design may dilute your brand positioning as a visual creative studio.
 2. Authors who need series planning typically work with developmental editors or book coaches, not cover designers.
 3. **Suggestion A:** Remove it as a standalone offering and only include it in the Full Pipeline packages — this reduces your service categories from 5 to 4 and makes the Full Pipeline more compelling as the "everything" option.
 4. **Suggestion B:** If you keep it standalone, make it very clear on the services page that this is a planning/content service, not a design service.
+
+**Status:** Removed as standalone. Series planning is now only available through Full Pipeline packages. Footer link updated.
 
 #### 3.2.3 Children's Picture Books — Pricing Gap is Large
 1. Standard ($500) to Premium ($1,000) is a 100% jump. The main differences are character design sheets, print-ready formatting, and an extra revision round.
 2. **Suggestion A:** Add a middle tier around $700-$750 that includes print-ready formatting but not the full character design system.
 3. **Suggestion B:** Adjust the Standard to include print-ready formatting (since most children's book authors want print) and raise it to $600, making the gap smaller.
 
-#### 3.2.4 Full Pipeline — Overlap Creates Confusion
+#### 3.2.4 Full Pipeline — Overlap Creates Confusion -- DONE
 1. The Full Pipeline packages are positioned as "everything combined" but the savings vs. buying individual packages aren't clearly communicated. A potential client has to do mental math to figure out if the pipeline is a good deal.
 2. **Critical issue:** Full Pipeline Standard ($900) costs MORE than buying Series Architecture Medium ($400) + Series Branding Standard ($450) = $850 separately. There's no incentive to buy the bundle.
 3. **Suggestion A:** Add a "Save X%" or "Save $X" badge to each Full Pipeline tier showing the discount vs. buying separately.
 4. **Suggestion B:** Lower the pipeline prices to be clearly below the sum-of-parts. For example: Starter $400 (saves $50), Standard $750-$800 (saves $50-$100), Premium $1,300-$1,400 (saves $100-$250).
 5. **Suggestion C:** Or increase the individual service prices so the pipeline savings are real at the current pipeline price.
 
-#### 3.2.5 Updates & Revisions — Too Granular for the Services Page
+**Status:** Fixed. Starter $425 (Save $50), Standard $800 (Save $75), Premium $1,400 (Save $200). Green "Save $X" badges added to all Full Pipeline cards.
+
+#### 3.2.5 Updates & Revisions — Too Granular for the Services Page -- DONE
 1. 11 separate revision/update line items on the main services page is excessive. Most of these are relevant only to existing clients.
 2. **Suggestion A:** Move the Updates & Revisions section to a separate "For Existing Clients" page.
 3. **Suggestion B:** Collapse it behind an expandable/accordion section on the services page.
 4. New visitors don't need to see "Children's Book — Page Edits ($25/page)" on their first visit. Keep the main services page focused on new client acquisition.
 
-#### 3.2.6 Series Expansion Retainer — Needs Better Positioning
+**Status:** Collapsed into expandable accordion. Hidden by default, click to expand. Label changed to "Already a client? Purchase updates to existing work."
+
+#### 3.2.6 Series Expansion Retainer — Needs Better Positioning -- DONE
 1. $150/quarter for up to 1 cover per month (3 per quarter) is an excellent deal — that's $50/cover vs. $75-$85 individually. But it's listed as a small add-on at the bottom of the page.
 2. **Suggestion:** Give it more prominence, perhaps as a callout box after the Series Branding section: "Publishing regularly? Lock in covers at $50 each with our quarterly retainer."
+
+**Status:** Retainer card now has gold border highlight (border-gold/30 bg-gold/[0.03]) and updated copy: "Publishing regularly? Lock in covers at $50 each."
 
 ### 3.3 Recommended Simplified Package Structure for Launch
 
@@ -228,13 +240,13 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 1. **Fix the testimonials** — reframe as case studies or remove until you have real clients -- DONE
 2. **Add analytics** — you can't improve what you can't measure -- DONE
 3. **Add email capture** — most visitors won't buy on first visit
-4. **Simplify the package structure** — 4 categories, 9 packages for launch
-5. **Audit Full Pipeline pricing** — the Standard tier costs more than buying separately
+4. **Simplify the package structure** — 4 categories, 9 packages for launch -- DONE
+5. **Audit Full Pipeline pricing** — the Standard tier costs more than buying separately -- DONE
 6. **Add SEO essentials** — OG tags, sitemap, structured data
 7. **Add social links to footer** — connect your pre-built social content to the site
 8. **Make contact info prominent** — not everyone is ready to buy immediately
-9. **Raise cover design prices slightly** — your portfolio supports $99-$175, not $75-$150
-10. **Move Updates & Revisions off the main services page** — reduce cognitive load for new visitors
+9. **Raise cover design prices slightly** — your portfolio supports $99-$175, not $75-$150 -- DONE
+10. **Move Updates & Revisions off the main services page** — reduce cognitive load for new visitors -- DONE
 
 ---
 
