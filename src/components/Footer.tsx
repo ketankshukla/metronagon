@@ -87,7 +87,7 @@ export default function Footer() {
                   href="/testimonials"
                   className="text-sm text-muted transition-colors hover:text-foreground"
                 >
-                  Testimonials
+                  Case Studies
                 </Link>
               </li>
               <li>

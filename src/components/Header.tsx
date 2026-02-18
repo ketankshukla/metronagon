@@ -36,7 +36,7 @@ export default function Header() {
             href="/testimonials"
             className="text-sm font-medium text-muted transition-colors hover:text-foreground"
           >
-            Testimonials
+            Case Studies
           </Link>
           <Link
             href="/blog"
@@ -88,7 +88,7 @@ export default function Header() {
               onClick={() => setMobileOpen(false)}
               className="rounded-lg px-4 py-3 text-sm font-medium text-muted transition-colors hover:bg-surface-lighter hover:text-foreground"
             >
-              Testimonials
+              Case Studies
             </Link>
             <Link
               href="/blog"
