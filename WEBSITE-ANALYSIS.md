@@ -116,10 +116,12 @@ This is the core of your request. Here's a critical analysis of the current pack
 
 **Status:** Removed as standalone. Series planning is now only available through Full Pipeline packages. Footer link updated.
 
-#### 3.2.3 Children's Picture Books — Pricing Gap is Large
+#### 3.2.3 Children's Picture Books — Pricing Gap is Large -- DONE
 1. Standard ($500) to Premium ($1,000) is a 100% jump. The main differences are character design sheets, print-ready formatting, and an extra revision round.
 2. **Suggestion A:** Add a middle tier around $700-$750 that includes print-ready formatting but not the full character design system.
 3. **Suggestion B:** Adjust the Standard to include print-ready formatting (since most children's book authors want print) and raise it to $600, making the gap smaller.
+
+**Status:** Added Plus tier at $750 between Standard ($500) and Premium ($1,000). Plus includes print-ready formatting, 2 revision rounds, and enhanced illustrations. Premium retains exclusive character design system and story text document. Grid updated to 3-column layout.
 
 #### 3.2.4 Full Pipeline — Overlap Creates Confusion -- DONE
 1. The Full Pipeline packages are positioned as "everything combined" but the savings vs. buying individual packages aren't clearly communicated. A potential client has to do mental math to figure out if the pipeline is a good deal.
