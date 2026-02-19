@@ -89,6 +89,12 @@ export default function RootLayout({
                     "Series Branding",
                     "Children's Book Illustration",
                   ],
+                  sameAs: [
+                    "https://x.com/metronagon",
+                    "https://www.facebook.com/metronagon/",
+                    "https://www.youtube.com/@metronagon",
+                    "https://www.tiktok.com/@metronagon",
+                  ],
                 },
                 {
                   "@type": "WebSite",
