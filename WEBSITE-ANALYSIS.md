@@ -49,12 +49,14 @@ The only way a visitor can interact is by purchasing a package. There's no email
 2. Create a lead magnet — "Free PDF: 7 Cover Design Mistakes That Kill Book Sales" would work well given your blog content
 3. Place the signup CTA on the homepage and at the end of blog posts
 
-### 2.4 No Social Proof Links
+### 2.4 No Social Proof Links -- DONE
 The footer and header have no links to social media profiles (X/Twitter, Instagram, Pinterest, TikTok, YouTube). The social content is pre-built in the repo but there's no way for site visitors to find your social presence.
 
 **Suggestions:**
 1. Add social media icons to the footer linking to your active profiles
 2. Prioritize X, Instagram, Pinterest, and YouTube (whichever are active)
+
+**Status:** X, Facebook, YouTube, TikTok icons added to footer with correct links. JSON-LD sameAs updated with all 4 social URLs. Commit: `b33dd83`.
 
 ### 2.5 Missing SEO Essentials -- DONE
 
@@ -257,7 +259,7 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 4. **Simplify the package structure** — 4 categories, 9 packages for launch -- DONE
 5. **Audit Full Pipeline pricing** — the Standard tier costs more than buying separately -- DONE
 6. **Add SEO essentials** — OG tags, sitemap, structured data -- DONE
-7. **Add social links to footer** — connect your pre-built social content to the site
+7. **Add social links to footer** — connect your pre-built social content to the site -- DONE
 8. **Make contact info prominent** — not everyone is ready to buy immediately -- DONE
 9. **Raise cover design prices slightly** — your portfolio supports $99-$175, not $75-$150 -- DONE
 10. **Move Updates & Revisions off the main services page** — reduce cognitive load for new visitors -- DONE
