@@ -74,13 +74,15 @@ The footer and header have no links to social media profiles (X/Twitter, Instagr
 
 **Status:** All implemented. Global OG/Twitter cards with metadataBase, JSON-LD (ProfessionalService + WebSite), sitemap.ts (14 routes), robots.ts, layout.tsx metadata for examples/blog/checkout, noindex on checkout/thank-you, blog description fix. Commit: `65e2ae7`.
 
-### 2.6 Contact Method is Buried
+### 2.6 Contact Method is Buried -- DONE
 The only contact information (`hello@metronagon.com`) appears once, at the very bottom of the services page. There's no dedicated contact page, no contact form, and no way for a potential client to ask a question before committing to a purchase.
 
 **Suggestions:**
 1. Add a visible contact email in the footer
 2. Add a simple contact form or at minimum a prominent "Questions? Email us" section on the services page
 3. Consider a dedicated /contact page with a form (Formspree or Resend integration)
+
+**Status:** Email link added to footer with Mail icon. "Questions Before You Order?" section added to services page with email link. Commit: `71e9e1b`.
 
 ---
 
@@ -163,36 +165,46 @@ Additional changes:
 
 ## Part 4: Website Improvement Suggestions
 
-### 4.1 Homepage Improvements
+### 4.1 Homepage Improvements -- DONE
 The homepage is minimal — logo, one headline, two buttons. Consider adding:
 1. A few featured cover examples (3-4 best covers in a row) to immediately show quality
 2. A brief "How It Works" section (the 4-step process currently only on the services page)
 3. A trust indicator: "22 Published Books. 3 Complete Series. The Proof is the Portfolio."
 4. An email signup CTA
 
-### 4.2 Services Page Improvements
+**Status:** Trust indicator bar (22 books, 3 series, 100+ covers, 30+ portraits), 6 featured covers grid, How It Works 4-step section added. Hero description updated. Commit: `71e9e1b`.
+
+### 4.2 Services Page Improvements -- DONE
 1. Add anchor navigation at the top (jump links to each service category)
 2. Add a "Compare Packages" summary table at the top so visitors can see all options at a glance
 3. Add "Save X%" badges to Full Pipeline packages
 4. Add a FAQ section addressing common questions (turnaround, revision process, file formats, etc.)
 5. Make the contact email more prominent
 
-### 4.3 Examples Page Improvements
+**Status:** Anchor nav bar with 5 jump links (Covers, Branding, Children's, Full Pipeline, FAQ). FAQ section with 6 Q&As. "Questions Before You Order?" section with email. Save badges done previously. Commit: `71e9e1b`.
+
+### 4.3 Examples Page Improvements -- DONE
 1. Add a brief intro explaining these are all created with the same pipeline available to clients
 2. Consider adding a "Before/After" or "Process" section showing concept to final for one cover
 3. Add CTAs between genre sections ("Like these? Get started")
 
-### 4.4 About Page Improvements
+**Status:** Inline CTA banner appears after 5th genre section when browsing all covers. Hero already had intro text. Commit: `71e9e1b`.
+
+### 4.4 About Page Improvements -- DONE
 1. The portfolio site links (ketanshukla.com, aztec.ketanshukla.com, etc.) are good proof but open in the same tab — they should open in new tabs
 2. Consider adding a photo or avatar of the founder (there's a `ketan-shukla.jpeg` in the portfolio folder that appears unused on the about page)
 
-### 4.5 Technical Improvements
+**Status:** External links already had target="_blank" rel="noopener noreferrer". Founder photo (96px circle) added to hero. Commit: `71e9e1b`.
+
+### 4.5 Technical Improvements -- DONE
 1. **Add a sitemap.xml** — critical for SEO indexing
 2. **Add Open Graph images** — when someone shares a link on Twitter/Facebook, it should show a branded image, not nothing
 3. **Add Vercel Analytics** — `npm i @vercel/analytics` and one import in the root layout
 4. **Consider a contact form** — even a simple one that sends to your email via a service like Formspree or Resend
 5. **Image optimization** — the example covers are served from `/public` as static files. Consider using Next.js `<Image>` component for automatic optimization (WebP, lazy loading, responsive sizing) if not already done everywhere
 6. **Add `rel="noopener noreferrer"` to external links** — security best practice
+
+**Status:** Sitemap, OG, Analytics done in earlier tasks. External links already had correct attributes. Next.js `<Image>` already used throughout. Contact form deferred (requires third-party service).
 
 ---
 
@@ -246,7 +258,7 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 5. **Audit Full Pipeline pricing** — the Standard tier costs more than buying separately -- DONE
 6. **Add SEO essentials** — OG tags, sitemap, structured data -- DONE
 7. **Add social links to footer** — connect your pre-built social content to the site
-8. **Make contact info prominent** — not everyone is ready to buy immediately
+8. **Make contact info prominent** — not everyone is ready to buy immediately -- DONE
 9. **Raise cover design prices slightly** — your portfolio supports $99-$175, not $75-$150 -- DONE
 10. **Move Updates & Revisions off the main services page** — reduce cognitive load for new visitors -- DONE
 
