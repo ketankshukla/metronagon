@@ -52,7 +52,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Publishing Platform",
         items: [
-          "Where will this be published? (Amazon KDP, IngramSpark, other?)",
+          "Where will this be published? (Amazon Kindle, KDP Print Paperback, or KDP Print Hardcover?)",
         ],
       },
     ],
@@ -103,7 +103,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Publishing Platform",
         items: [
-          "Where will this be published? (Amazon KDP, IngramSpark, other?)",
+          "Where will this be published? (Amazon Kindle, KDP Print Paperback, or KDP Print Hardcover?)",
         ],
       },
     ],
@@ -162,7 +162,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Publishing Platform",
         items: [
-          "Where will this be published? (Amazon KDP, IngramSpark, other?)",
+          "Where will this be published? (Amazon Kindle, KDP Print Paperback, or KDP Print Hardcover?)",
         ],
       },
     ],
@@ -523,7 +523,7 @@ const packageData: Record<string, PackageInfo> = {
       {
         heading: "Publishing Platform",
         items: [
-          "Where will this be published? (Amazon KDP, IngramSpark, personal copies?)",
+          "Where will this be published? (Amazon Kindle Kids, KDP Print Paperback, or KDP Print Hardcover?)",
           'Trim size preference — Standard is 8.5" × 8.5" square',
         ],
       },
@@ -576,7 +576,7 @@ const packageData: Record<string, PackageInfo> = {
         heading: "Print Details",
         items: [
           'Trim size — 8.5"×8.5" square, 8"×10" portrait, or 10"×8" landscape?',
-          "Print-on-demand service — Amazon KDP Print, IngramSpark, other?",
+          "Print format — KDP Print Paperback or KDP Print Hardcover?",
           "Hardcover or softcover?",
           "ISBN — Do you have one, or using Amazon-assigned?",
         ],

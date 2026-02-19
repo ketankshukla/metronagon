@@ -1,4 +1,5 @@
 # Children's Picture Book — Standard
+
 **Price: $500 | Delivery: 5 Business Days**
 
 ---
@@ -37,22 +38,22 @@ I've done this from start to finish with a complete published picture book. If y
 
 ## Package Details
 
-| Feature | Detail |
-|---------|--------|
-| **Story** | Original writing or concept adaptation |
-| **Pages** | 32 full-color illustrated pages |
-| **Style** | Pixar/Disney-inspired or preferred direction |
-| **Character consistency** | Visual anchoring system across all 32 pages |
-| **Assembled PDF** | Complete, ordered, digital-ready |
-| **Individual files** | All 32 illustrations, high-res |
-| **Revisions** | 1 round |
-| **Delivery** | 5 business days |
+| Feature                   | Detail                                       |
+| ------------------------- | -------------------------------------------- |
+| **Story**                 | Original writing or concept adaptation       |
+| **Pages**                 | 32 full-color illustrated pages              |
+| **Style**                 | Pixar/Disney-inspired or preferred direction |
+| **Character consistency** | Visual anchoring system across all 32 pages  |
+| **Assembled PDF**         | Complete, ordered, digital-ready             |
+| **Individual files**      | All 32 illustrations, high-res               |
+| **Revisions**             | 1 round                                      |
+| **Delivery**              | 5 business days                              |
 
 ---
 
 ## When to Recommend This Package
 
-- Author publishing a children's book for digital distribution (Kindle Kids, PDF, Google Play Books)
+- Author publishing a children's book for digital distribution (Amazon Kindle Kids Edition)
 - Author who wants to see a complete proof before committing to print production
 - Gift-book creators, educators, family legacy projects (personalized books for children)
 - Authors testing the children's book market before investing in premium print production

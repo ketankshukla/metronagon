@@ -35,7 +35,7 @@ const coverPackages = [
       {
         title: "1600\u00d72400, 300 DPI",
         detail:
-          "Amazon KDP-ready dimensions optimized for retina screens and print-on-demand services like IngramSpark",
+          "Amazon KDP-ready dimensions optimized for Kindle, KDP Print Paperback, and KDP Print Hardcover",
       },
       {
         title: "Photorealistic or stylised",
@@ -229,7 +229,8 @@ const childrensPackages = [
     price: "$500",
     delivery: "5 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
-    description: "Complete 32-page illustrated picture book for digital distribution.",
+    description:
+      "Complete 32-page illustrated picture book for digital distribution.",
     features: [
       {
         title: "Story writing or adaptation",
@@ -290,7 +291,7 @@ const childrensPackages = [
       {
         title: "Print-ready formatting",
         detail:
-          "Book formatted to exact print-on-demand specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for IngramSpark or KDP Print",
+          "Book formatted to exact Amazon KDP Print specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for KDP Print Paperback and Hardcover",
       },
       {
         title: "Assembled PDF",
@@ -335,7 +336,7 @@ const childrensPackages = [
       {
         title: "Print-ready formatting",
         detail:
-          "Book formatted to exact print-on-demand specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for services like IngramSpark or KDP Print",
+          "Book formatted to exact Amazon KDP Print specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for KDP Print Paperback and Hardcover",
       },
       {
         title: "Assembled PDF",
@@ -979,7 +980,7 @@ export default function ServicesPage() {
             {[
               {
                 q: "What file formats do I receive?",
-                a: "High-resolution PNG and JPG files at 1600\u00d72400, 300 DPI \u2014 ready for Amazon KDP, IngramSpark, or any publishing platform. Children\u2019s books include assembled PDFs.",
+                a: "High-resolution PNG and JPG files at 1600\u00d72400, 300 DPI \u2014 ready for Amazon KDP Kindle, Paperback, and Hardcover. Children\u2019s books include assembled PDFs.",
               },
               {
                 q: "How long does delivery take?",

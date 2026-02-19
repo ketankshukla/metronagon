@@ -1,4 +1,5 @@
 # Children's Picture Book — Premium
+
 **Price: $1,000 | Delivery: 7 Business Days**
 
 ---
@@ -21,7 +22,7 @@ The solution is a formal character design system built before a single story pag
 
 **32 fully illustrated pages** at premium quality — multiple refinement passes per illustration. The highest visual standard in the Metronagon children's book suite.
 
-**Print-ready formatting** to IngramSpark and KDP Print specifications — bleed, margins, gutter, CMYK color profile, all page specifications exactly to printer requirements.
+**Print-ready formatting** to Amazon KDP Print specifications — bleed, margins, gutter, CMYK color profile, all page specifications exactly to Amazon's requirements.
 
 **A complete assembled PDF** — full book in print order, cover to back cover.
 
@@ -47,17 +48,17 @@ I built the Ixchel and the Stolen Sun picture book — a 32-page story featuring
 
 ## Package Details
 
-| Feature | Detail |
-|---------|--------|
-| **Story** | Original writing/adaptation — enhanced narrative, age-calibrated vocabulary |
-| **Character design system** | Front view, side view, expressions, clothing details, scale reference |
-| **Pages** | 32 full-color illustrated pages (premium quality, multiple refinement passes) |
-| **Print-ready formatting** | Full spec: bleed, margins, gutter, CMYK — IngramSpark + KDP Print |
-| **Assembled PDF** | Complete book in print order |
-| **Individual files** | All 32 illustrations + cover art, high-res |
-| **Story text document** | Complete page-by-page story text, delivered separately |
-| **Revisions** | 2 rounds |
-| **Delivery** | 7 business days |
+| Feature                     | Detail                                                                        |
+| --------------------------- | ----------------------------------------------------------------------------- |
+| **Story**                   | Original writing/adaptation — enhanced narrative, age-calibrated vocabulary   |
+| **Character design system** | Front view, side view, expressions, clothing details, scale reference         |
+| **Pages**                   | 32 full-color illustrated pages (premium quality, multiple refinement passes) |
+| **Print-ready formatting**  | Full spec: bleed, margins, gutter, CMYK — Amazon KDP Print                    |
+| **Assembled PDF**           | Complete book in print order                                                  |
+| **Individual files**        | All 32 illustrations + cover art, high-res                                    |
+| **Story text document**     | Complete page-by-page story text, delivered separately                        |
+| **Revisions**               | 2 rounds                                                                      |
+| **Delivery**                | 7 business days                                                               |
 
 ---
 

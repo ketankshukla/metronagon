@@ -28,14 +28,14 @@ Audiobook covers are typically displayed at sizes much smaller than ebook covers
 
 ## Pricing
 
-| Service | Price | Delivery |
-|---------|-------|----------|
-| **Audiobook Cover Adaptation** — existing cover adapted to square ACX format | $75 per book | 1 business day |
-| **Audiobook Cover — New Design** — original square composition matching series visual language | $150 per book | 2–3 business days |
-| **Series Audiobook Pack** — all 3 covers adapted | $175 | 2 business days |
-| **Series Audiobook Pack** — all 5 covers adapted | $275 | 3 business days |
-| **Series Audiobook Pack** — 8+ covers adapted | $450 | 4–5 business days |
-| **Audiobook + Ebook Bundle** — both formats from one project | +$60 per book (add to ebook price) | same delivery window |
+| Service                                                                                        | Price                              | Delivery             |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------- |
+| **Audiobook Cover Adaptation** — existing cover adapted to square ACX format                   | $75 per book                       | 1 business day       |
+| **Audiobook Cover — New Design** — original square composition matching series visual language | $150 per book                      | 2–3 business days    |
+| **Series Audiobook Pack** — all 3 covers adapted                                               | $175                               | 2 business days      |
+| **Series Audiobook Pack** — all 5 covers adapted                                               | $275                               | 3 business days      |
+| **Series Audiobook Pack** — 8+ covers adapted                                                  | $450                               | 4–5 business days    |
+| **Audiobook + Ebook Bundle** — both formats from one project                                   | +$60 per book (add to ebook price) | same delivery window |
 
 ---
 
@@ -44,5 +44,5 @@ Audiobook covers are typically displayed at sizes much smaller than ebook covers
 - Audiobook cover adaptation is one of the highest-margin services by time — adapting an existing cover you designed takes 30–60 minutes of actual work; price reflects the value of the end product, not the time
 - ACX also has a separate audiobook narration marketplace; some authors ask about narration. That's not your service — focus on the visual side only
 - For authors who haven't recorded their audiobook yet but plan to, the cover is often the last thing they think about — positioning it as something to prepare in advance (before ACX submission) helps move the timeline forward
-- Authors distributing through FindawayVoices / Spotify for Podcasters / Libro.fm in addition to Audible may need the same square cover file for all platforms — the ACX spec is the standard to use regardless of platform
+- ACX/Audible is Amazon's audiobook marketplace — positioning your audiobook there places it directly on Amazon and Audible, which are the dominant audiobook discovery platforms. The ACX cover spec is the standard to design to.
 - Mention that you've been through the publishing process yourself with multiple books — even if you haven't produced an audiobook version, your understanding of the full publishing workflow positions you credibly

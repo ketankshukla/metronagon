@@ -112,7 +112,7 @@ This is the exact deliverable included in our Series Architecture packages.`,
     title: "The Book Cover Pipeline: From Concept to Print",
     readTime: "10 min read",
     category: "Process",
-    content: `The gap between a rough concept and a professional, print-ready book cover is enormous. This post breaks down every step of the pipeline that turns a concept into a cover ready for Amazon, IngramSpark, or any print-on-demand service.
+    content: `The gap between a rough concept and a professional, print-ready book cover is enormous. This post breaks down every step of the pipeline that turns a concept into a cover ready for Amazon KDP — Kindle, Paperback, and Hardcover.
 
 ## Step 1: Concept Development
 

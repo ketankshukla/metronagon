@@ -1,4 +1,5 @@
 # Cover Design — Standard
+
 **Price: $99 | Delivery: 2 Business Days**
 
 ---
@@ -14,6 +15,7 @@ You'll receive **three fully realized concept variations** — not thumbnail ske
 The entire process takes **2 business days** from the moment you send me your brief.
 
 **What "photorealistic or stylized" means in practice:**
+
 - **Photorealistic** — cinematic, atmospheric covers that look like a major publisher produced them. Think: dramatic lighting, realistic character rendering, environment detail. Works exceptionally well for thriller, fantasy, historical fiction, and literary fiction.
 - **Stylized** — illustrated or graphic design-forward covers that lean into art direction over realism. Works well for romance, cozy mystery, young adult, self-help, and non-fiction.
 
@@ -30,16 +32,16 @@ I've designed covers for 22 published books across three complete series. Every 
 
 ## Package Details
 
-| Feature | Detail |
-|---------|--------|
-| **Concept variations** | 3 fully realized cover concepts |
-| **Final delivery** | 1 polished cover |
-| **Revisions** | 1 round |
-| **Resolution** | 1600×2400, 300 DPI |
-| **Formats** | High-res PNG + JPG |
-| **Style options** | Photorealistic or stylized |
-| **Delivery** | 2 business days |
-| **Use** | Amazon KDP-ready, IngramSpark-compatible |
+| Feature                | Detail                                           |
+| ---------------------- | ------------------------------------------------ |
+| **Concept variations** | 3 fully realized cover concepts                  |
+| **Final delivery**     | 1 polished cover                                 |
+| **Revisions**          | 1 round                                          |
+| **Resolution**         | 1600×2400, 300 DPI                               |
+| **Formats**            | High-res PNG + JPG                               |
+| **Style options**      | Photorealistic or stylized                       |
+| **Delivery**           | 2 business days                                  |
+| **Use**                | Amazon KDP-ready — Kindle, Paperback & Hardcover |
 
 ---
 
