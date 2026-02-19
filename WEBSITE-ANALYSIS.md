@@ -56,7 +56,7 @@ The footer and header have no links to social media profiles (X/Twitter, Instagr
 1. Add social media icons to the footer linking to your active profiles
 2. Prioritize X, Instagram, Pinterest, and YouTube (whichever are active)
 
-### 2.5 Missing SEO Essentials
+### 2.5 Missing SEO Essentials -- DONE
 
 1. No Open Graph tags (social sharing will show generic text/no image)
 2. No Twitter Card meta tags
@@ -71,6 +71,8 @@ The footer and header have no links to social media profiles (X/Twitter, Instagr
 3. Add JSON-LD structured data for your services
 4. Add a robots.txt file
 5. Add unique meta descriptions to Examples, Blog, and Checkout pages
+
+**Status:** All implemented. Global OG/Twitter cards with metadataBase, JSON-LD (ProfessionalService + WebSite), sitemap.ts (14 routes), robots.ts, layout.tsx metadata for examples/blog/checkout, noindex on checkout/thank-you, blog description fix. Commit: `65e2ae7`.
 
 ### 2.6 Contact Method is Buried
 The only contact information (`hello@metronagon.com`) appears once, at the very bottom of the services page. There's no dedicated contact page, no contact form, and no way for a potential client to ask a question before committing to a purchase.
@@ -242,7 +244,7 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 3. **Add email capture** — most visitors won't buy on first visit
 4. **Simplify the package structure** — 4 categories, 9 packages for launch -- DONE
 5. **Audit Full Pipeline pricing** — the Standard tier costs more than buying separately -- DONE
-6. **Add SEO essentials** — OG tags, sitemap, structured data
+6. **Add SEO essentials** — OG tags, sitemap, structured data -- DONE
 7. **Add social links to footer** — connect your pre-built social content to the site
 8. **Make contact info prominent** — not everyone is ready to buy immediately
 9. **Raise cover design prices slightly** — your portfolio supports $99-$175, not $75-$150 -- DONE
