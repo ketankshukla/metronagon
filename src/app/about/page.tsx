@@ -134,7 +134,7 @@ export default function AboutPage() {
       {/* Stats */}
       <section className="border-y border-border bg-surface">
         <div className="mx-auto max-w-6xl px-6 py-16">
-          <div className="grid gap-8 md:grid-cols-4">
+          <div className="grid grid-cols-2 gap-8 md:grid-cols-4">
             {milestones.map((m) => (
               <div key={m.label} className="text-center">
                 <div className="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
@@ -244,7 +244,7 @@ export default function AboutPage() {
             </p>
           </div>
 
-          <div className="grid gap-8 md:grid-cols-3">
+          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             <div className="rounded-2xl border border-border bg-surface-light p-8">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
                 <Target size={22} className="text-gold" />
@@ -294,7 +294,7 @@ export default function AboutPage() {
           <h2 className="mb-16 text-center text-3xl font-bold tracking-tight md:text-4xl">
             How We <span className="gold-gradient-text">Work</span>
           </h2>
-          <div className="grid gap-8 md:grid-cols-3">
+          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {values.map((v) => (
               <div
                 key={v.title}

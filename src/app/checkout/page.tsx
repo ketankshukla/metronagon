@@ -63,7 +63,7 @@ function CheckoutForm() {
           alt="Metronagon Media"
           width={500}
           height={500}
-          className="mb-6 rounded-2xl"
+          className="mb-6 w-full max-w-xs rounded-2xl sm:max-w-sm"
           priority
         />
         {productName && (

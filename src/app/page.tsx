@@ -150,7 +150,7 @@ export default function Home() {
               delivery.
             </p>
           </div>
-          <div className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border md:grid-cols-4">
+          <div className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2 md:grid-cols-4">
             {[
               {
                 step: "01",

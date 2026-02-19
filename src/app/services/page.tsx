@@ -603,14 +603,18 @@ function PackageCard({
           : "border-border bg-surface-light"
       }`}
     >
-      {popular && (
-        <div className="absolute -top-3 left-8 rounded-full bg-gold px-3 py-1 text-xs font-semibold text-background">
-          Most Popular
-        </div>
-      )}
-      {savings && (
-        <div className="absolute -top-3 right-8 rounded-full bg-emerald-600 px-3 py-1 text-xs font-semibold text-white">
-          {savings}
+      {(popular || savings) && (
+        <div className="absolute -top-3 left-6 right-6 flex flex-wrap items-center gap-2">
+          {popular && (
+            <span className="rounded-full bg-gold px-3 py-1 text-xs font-semibold text-background">
+              Most Popular
+            </span>
+          )}
+          {savings && (
+            <span className="ml-auto rounded-full bg-emerald-600 px-3 py-1 text-xs font-semibold text-white">
+              {savings}
+            </span>
+          )}
         </div>
       )}
       <div>
@@ -683,7 +687,7 @@ function UpdatesAccordion() {
           />
         </button>
         {isOpen && (
-          <div className="mt-10 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {updates.map((item) => (
               <div
                 key={item.name}
@@ -768,7 +772,7 @@ export default function ServicesPage() {
               </p>
             </div>
           </div>
-          <div className="grid gap-6 md:grid-cols-2">
+          <div className="grid gap-6 sm:grid-cols-2">
             {coverPackages.map((pkg) => (
               <PackageCard key={pkg.name} {...pkg} />
             ))}
@@ -793,7 +797,7 @@ export default function ServicesPage() {
               </p>
             </div>
           </div>
-          <div className="grid gap-6 md:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {brandingPackages.map((pkg) => (
               <PackageCard key={pkg.name} {...pkg} />
             ))}
@@ -820,7 +824,7 @@ export default function ServicesPage() {
               </p>
             </div>
           </div>
-          <div className="grid gap-6 md:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {childrensPackages.map((pkg) => (
               <PackageCard key={pkg.name} {...pkg} />
             ))}
@@ -846,7 +850,7 @@ export default function ServicesPage() {
               </p>
             </div>
           </div>
-          <div className="grid gap-6 md:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {pipelinePackages.map((pkg) => (
               <PackageCard key={pkg.name} {...pkg} />
             ))}
@@ -868,7 +872,7 @@ export default function ServicesPage() {
               <h2 className="text-2xl font-bold">Add-ons</h2>
             </div>
           </div>
-          <div className="grid gap-6 md:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             <div className="rounded-xl border border-border bg-surface-light p-6">
               <Clock size={20} className="text-gold" />
               <h3 className="mt-3 text-sm font-semibold">
@@ -917,7 +921,7 @@ export default function ServicesPage() {
             </p>
           </div>
 
-          <div className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border md:grid-cols-4">
+          <div className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2 md:grid-cols-4">
             <div className="bg-surface-light p-8">
               <div className="text-xs font-bold uppercase tracking-widest text-gold">
                 Step 01
