@@ -15,6 +15,7 @@ import {
   Zap,
   CalendarDays,
   ChevronDown,
+  Mail,
 } from "lucide-react";
 
 interface Feature {
@@ -671,7 +672,7 @@ export default function ServicesPage() {
       {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(212,175,55,0.06),transparent_60%)]" />
-        <div className="relative mx-auto max-w-6xl px-6 pb-16 pt-24 md:pt-32">
+        <div className="relative mx-auto max-w-6xl px-6 pb-12 pt-24 md:pt-32">
           <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
               Services & <span className="gold-gradient-text">Pricing</span>
@@ -680,6 +681,30 @@ export default function ServicesPage() {
               Choose your package, pay securely, and we begin immediately. Every
               price is final &mdash; no hidden fees, no surprises.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Anchor Nav */}
+      <section className="border-y border-border bg-surface">
+        <div className="mx-auto max-w-6xl px-6 py-4">
+          <div className="flex flex-wrap justify-center gap-3">
+            {[
+              { href: "#covers", icon: Palette, label: "Covers" },
+              { href: "#branding", icon: Layers, label: "Branding" },
+              { href: "#childrens", icon: Baby, label: "Children's" },
+              { href: "#pipeline", icon: Rocket, label: "Full Pipeline" },
+              { href: "#faq", icon: ChevronDown, label: "FAQ" },
+            ].map((item) => (
+              <a
+                key={item.href}
+                href={item.href}
+                className="flex items-center gap-2 rounded-lg border border-border bg-surface-light px-4 py-2 text-sm font-medium text-muted transition-all hover:border-gold/30 hover:text-gold"
+              >
+                <item.icon size={14} />
+                {item.label}
+              </a>
+            ))}
           </div>
         </div>
       </section>
@@ -894,8 +919,77 @@ export default function ServicesPage() {
         </div>
       </section>
 
+      {/* FAQ */}
+      <section id="faq" className="scroll-mt-20 border-t border-border py-16">
+        <div className="mx-auto max-w-3xl px-6">
+          <h2 className="mb-10 text-center text-3xl font-bold tracking-tight">
+            Frequently Asked{" "}
+            <span className="gold-gradient-text">Questions</span>
+          </h2>
+          <div className="space-y-6">
+            {[
+              {
+                q: "What file formats do I receive?",
+                a: "High-resolution PNG and JPG files at 1600\u00d72400, 300 DPI \u2014 ready for Amazon KDP, IngramSpark, or any publishing platform. Children\u2019s books include assembled PDFs.",
+              },
+              {
+                q: "How long does delivery take?",
+                a: "Standard covers: 2 business days. Series branding: 3\u20137 days depending on tier. Children\u2019s books: 5\u20137 days. Full Pipeline: 5\u201310 days. Need it faster? Add the 48-hour Rush Fee.",
+              },
+              {
+                q: "What if I\u2019m not happy with the concepts?",
+                a: "Every package includes at least 1 round of revisions (Premium tiers get 2). Revisions cover colors, typography, layout, composition \u2014 anything within the scope of your package.",
+              },
+              {
+                q: "Can I expand my series later?",
+                a: "Absolutely. The Series Expansion Retainer ($150/quarter) locks in covers at $50 each. Or purchase individual Add New Book Cover updates ($85) anytime.",
+              },
+              {
+                q: "Do you design print/paperback covers?",
+                a: "Our standard deliverables are ebook covers. For full print wraps (spine + back cover), contact us at hello@metronagon.com for a custom quote.",
+              },
+              {
+                q: "How do revisions work?",
+                a: "After you receive your concepts, you tell us what to change \u2014 colors, text, composition, style. We make the adjustments and deliver the updated files, typically within 1 business day.",
+              },
+            ].map((item) => (
+              <div
+                key={item.q}
+                className="rounded-xl border border-border bg-surface-light p-6"
+              >
+                <h3 className="text-sm font-semibold">{item.q}</h3>
+                <p className="mt-2 text-sm leading-relaxed text-muted">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Questions */}
+      <section className="border-t border-border bg-surface py-16">
+        <div className="mx-auto max-w-2xl px-6 text-center">
+          <h2 className="text-2xl font-bold tracking-tight">
+            Questions Before You{" "}
+            <span className="gold-gradient-text">Order</span>?
+          </h2>
+          <p className="mt-3 text-muted">
+            Not sure which package is right? Need a custom quote? Just ask
+            &mdash; we respond within 24 hours.
+          </p>
+          <a
+            href="mailto:hello@metronagon.com"
+            className="mt-6 inline-flex items-center gap-2 text-lg font-semibold text-gold transition-colors hover:text-gold-light"
+          >
+            <Mail size={18} />
+            hello@metronagon.com
+          </a>
+        </div>
+      </section>
+
       {/* Contact / CTA */}
-      <section id="contact" className="border-t border-border bg-surface py-24">
+      <section id="contact" className="border-t border-border py-24">
         <div className="mx-auto max-w-2xl px-6 text-center">
           <h2 className="text-3xl font-bold tracking-tight">
             Ready to <span className="gold-gradient-text">Get Started</span>?

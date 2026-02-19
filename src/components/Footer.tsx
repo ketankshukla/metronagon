@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Mail } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -19,6 +20,13 @@ export default function Footer() {
               branding, and children&apos;s book illustration for authors and
               publishers.
             </p>
+            <a
+              href="mailto:hello@metronagon.com"
+              className="mt-4 inline-flex items-center gap-2 text-sm text-gold transition-colors hover:text-gold-light"
+            >
+              <Mail size={14} />
+              hello@metronagon.com
+            </a>
           </div>
 
           <div>

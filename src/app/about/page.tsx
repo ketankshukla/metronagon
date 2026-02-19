@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import {
   ArrowRight,
@@ -108,6 +109,15 @@ export default function AboutPage() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(212,175,55,0.06),transparent_60%)]" />
         <div className="relative mx-auto max-w-6xl px-6 pb-16 pt-24 md:pt-32">
           <div className="mx-auto max-w-3xl text-center">
+            <div className="mx-auto mb-6 h-24 w-24 overflow-hidden rounded-full border-2 border-gold/30">
+              <Image
+                src="/portfolio/ketan-shukla.jpeg"
+                alt="Ketan Shukla — Founder, Metronagon Media"
+                width={96}
+                height={96}
+                className="h-full w-full object-cover"
+              />
+            </div>
             <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
               About <span className="gold-gradient-text">Metronagon</span>
             </h1>

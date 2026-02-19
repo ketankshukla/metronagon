@@ -1,8 +1,9 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
-import { Sparkles, BookOpen, BookImage, X } from "lucide-react";
+import { Sparkles, BookOpen, BookImage, X, ArrowRight } from "lucide-react";
 
 type CoverImage = { src: string; title: string };
 
@@ -590,47 +591,69 @@ export default function ExamplesPage() {
       <section className="py-16 md:py-24">
         <div className="mx-auto max-w-6xl px-6">
           {/* Standard genre sections */}
-          {filteredGenres.map((genre) => (
-            <div key={genre.id} className="mb-20 last:mb-0">
-              <div className="mb-8 flex items-center gap-3">
-                <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
-                  <BookOpen size={18} className="text-gold" />
+          {filteredGenres.map((genre, idx) => (
+            <div key={genre.id}>
+              <div className="mb-20">
+                <div className="mb-8 flex items-center gap-3">
+                  <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+                    <BookOpen size={18} className="text-gold" />
+                  </div>
+                  <div>
+                    <h2 className="text-2xl font-bold tracking-tight">
+                      {genre.label}
+                    </h2>
+                    <p className="text-xs text-muted">
+                      {genre.images.length} cover
+                      {genre.images.length !== 1 ? "s" : ""}
+                    </p>
+                  </div>
                 </div>
-                <div>
-                  <h2 className="text-2xl font-bold tracking-tight">
-                    {genre.label}
-                  </h2>
-                  <p className="text-xs text-muted">
-                    {genre.images.length} cover
-                    {genre.images.length !== 1 ? "s" : ""}
-                  </p>
+
+                <div className="grid grid-cols-2 gap-3 sm:gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+                  {genre.images.map((image) => (
+                    <button
+                      key={image.src}
+                      onClick={() => setLightboxImage(image)}
+                      className="group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover:shadow-lg hover:shadow-gold/10 hover:-translate-y-1"
+                    >
+                      <div className="aspect-[2/3] relative">
+                        <Image
+                          src={image.src}
+                          alt={image.title}
+                          fill
+                          sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 20vw"
+                          className="object-cover transition-transform duration-300 group-hover:scale-105"
+                        />
+                      </div>
+                      <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-3 pt-8">
+                        <p className="text-xs font-medium text-white leading-tight">
+                          {image.title}
+                        </p>
+                      </div>
+                    </button>
+                  ))}
                 </div>
               </div>
 
-              <div className="grid grid-cols-2 gap-3 sm:gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-                {genre.images.map((image) => (
-                  <button
-                    key={image.src}
-                    onClick={() => setLightboxImage(image)}
-                    className="group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover:shadow-lg hover:shadow-gold/10 hover:-translate-y-1"
+              {/* Inline CTA after 5th genre section */}
+              {showAll && idx === 4 && (
+                <div className="mb-20 rounded-2xl border border-gold/20 bg-gold/[0.03] px-8 py-10 text-center">
+                  <h3 className="text-xl font-bold">
+                    Like what you see?
+                  </h3>
+                  <p className="mx-auto mt-2 max-w-md text-sm text-muted">
+                    Every cover in this gallery was created with our proven
+                    pipeline. Get the same quality for your book.
+                  </p>
+                  <Link
+                    href="/services"
+                    className="mt-5 inline-flex items-center gap-2 rounded-lg bg-gold px-6 py-2.5 text-sm font-semibold text-background transition-all hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
                   >
-                    <div className="aspect-[2/3] relative">
-                      <Image
-                        src={image.src}
-                        alt={image.title}
-                        fill
-                        sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 20vw"
-                        className="object-cover transition-transform duration-300 group-hover:scale-105"
-                      />
-                    </div>
-                    <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-3 pt-8">
-                      <p className="text-xs font-medium text-white leading-tight">
-                        {image.title}
-                      </p>
-                    </div>
-                  </button>
-                ))}
-              </div>
+                    View Packages & Pricing
+                    <ArrowRight size={14} />
+                  </Link>
+                </div>
+              )}
             </div>
           ))}
 
