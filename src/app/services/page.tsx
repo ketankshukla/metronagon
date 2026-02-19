@@ -229,7 +229,7 @@ const childrensPackages = [
     price: "$500",
     delivery: "5 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
-    description: "Complete 32-page illustrated picture book.",
+    description: "Complete 32-page illustrated picture book for digital distribution.",
     features: [
       {
         title: "Story writing or adaptation",
@@ -264,13 +264,58 @@ const childrensPackages = [
     ],
   },
   {
+    name: "Plus",
+    price: "$750",
+    delivery: "6 business days",
+    popular: true,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PLUS,
+    description:
+      "Print-ready picture book with enhanced illustrations and 2 revision rounds.",
+    features: [
+      {
+        title: "Story writing or adaptation",
+        detail:
+          "Original story creation or adaptation with enhanced narrative structure and vocabulary calibration for the target age group",
+      },
+      {
+        title: "32 fully illustrated pages",
+        detail:
+          "Full-color illustrations on every page with enhanced quality \u2014 additional refinement passes per page for a polished result",
+      },
+      {
+        title: "Consistent character design",
+        detail:
+          "Main characters maintain the same appearance, proportions, and clothing across all 32 pages using style anchoring and reference sheets",
+      },
+      {
+        title: "Print-ready formatting",
+        detail:
+          "Book formatted to exact print-on-demand specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for IngramSpark or KDP Print",
+      },
+      {
+        title: "Assembled PDF",
+        detail:
+          "Complete print-ready PDF with all pages, front cover, title page, copyright page, and back cover assembled in correct order",
+      },
+      {
+        title: "Individual page image files",
+        detail:
+          "All 32 illustrations plus cover art delivered as separate high-resolution files for marketing, social media, or alternative layouts",
+      },
+      {
+        title: "2 rounds of revisions",
+        detail:
+          "Two full revision cycles \u2014 adjust illustrations, text, layout, character expressions, backgrounds, or any visual element across both rounds",
+      },
+    ],
+  },
+  {
     name: "Premium",
     price: "$1,000",
     delivery: "7 business days",
-    popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PREMIUM,
     description:
-      "Premium picture book with custom character design and print-ready formatting.",
+      "Premium picture book with custom character design system and full print package.",
     features: [
       {
         title: "Story writing or adaptation",
@@ -775,7 +820,7 @@ export default function ServicesPage() {
               </p>
             </div>
           </div>
-          <div className="grid gap-6 md:grid-cols-2">
+          <div className="grid gap-6 md:grid-cols-3">
             {childrensPackages.map((pkg) => (
               <PackageCard key={pkg.name} {...pkg} />
             ))}
