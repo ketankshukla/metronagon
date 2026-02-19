@@ -652,7 +652,7 @@ function PackageCard({
         href={checkoutHref}
         className="mt-8 flex items-center justify-center gap-2 rounded-lg bg-gold px-6 py-3 text-sm font-semibold text-background transition-all hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
       >
-        {priceId ? `Get Started \u2014 ${price}` : "Get Started"}
+        Get Started &mdash; {price}
       </Link>
     </div>
   );
