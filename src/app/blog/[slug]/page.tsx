@@ -906,9 +906,19 @@ export async function generateMetadata({
   const { slug } = await params;
   const post = posts[slug];
   if (!post) return { title: "Post Not Found — Metronagon" };
+  const firstParagraph = post.content.split("\n\n")[0].replace(/[#*_`]/g, "");
+  const description =
+    firstParagraph.length > 160
+      ? firstParagraph.slice(0, 157) + "..."
+      : firstParagraph;
   return {
     title: `${post.title} — Metronagon Blog`,
-    description: post.content.slice(0, 160),
+    description,
+    openGraph: {
+      title: post.title,
+      description,
+      type: "article",
+    },
   };
 }
 

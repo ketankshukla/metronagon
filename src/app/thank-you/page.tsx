@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Thank You — Metronagon",
   description:
     "Your order has been received. We'll be in touch within 24 hours.",
+  robots: { index: false, follow: false },
 };
 
 export default function ThankYouPage() {
