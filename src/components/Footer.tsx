@@ -174,7 +174,8 @@ export default function Footer() {
 
         <div className="mt-16 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 md:flex-row">
           <p className="text-xs text-muted">
-            &copy; {new Date().getFullYear()} Metronagon. All rights reserved.
+            &copy; {new Date().getFullYear()} Metronagon Media. All rights
+            reserved.
           </p>
           <p className="text-xs text-muted/60">The Measure of Excellence</p>
         </div>

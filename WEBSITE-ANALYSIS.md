@@ -366,65 +366,7 @@ A multi-page Next.js 16 business website for Metronagon Media at `metronagon.com
 
 ## Part 2: Issues & New Recommendations
 
-### 2.1 — CRITICAL: OG Image Is the Logo (512×512), Not a Proper Social Preview
-
-`layout.tsx` sets the OG image to `/portfolio/logo.png` at 512×512. The recommended size for social sharing is **1200×630px** (landscape). A square logo as the OG image will:
-
-- Be cropped or letterboxed on Twitter/X (which expects 2:1 ratio)
-- Look unprofessional compared to competitors when shared on LinkedIn or Facebook
-- Miss the opportunity to show actual cover work in the preview
-
-**Fix:** Create a 1200×630px branded image — ideally showing the Metronagon logo on the left and 3–4 of the best cover examples on the right, with the tagline "The Measure of Excellence." Save as `/public/og-image.jpg` and update `layout.tsx` to reference it with correct dimensions.
-
----
-
-### 2.2 — CRITICAL: Blog Posts Are Stubs — No Actual Content
-
-The blog page lists 8 posts with titles, excerpts, and slugs. But clicking any post links to `/blog/[slug]` — and there is a `[slug]/` directory but no actual page content has been read. If these are empty or placeholder pages, any visitor who clicks a blog post from Google search will land on a blank or 404 page. This is a serious SEO and credibility problem.
-
-**Action needed:** Verify whether `/blog/[slug]/page.tsx` exists and has real content for all 8 slugs. If not, either write the content or remove the blog links until they do.
-
----
-
-### 2.3 — HIGH: Pricing Has Increased Significantly — Verify Stripe Products Match
-
-The original analysis noted prices like $99 (Standard cover) and $175 (Premium cover). The current services page shows $500 (Standard) and $750 (Premium) for covers — a 5× increase. Series Branding starts at $1,200. Full Pipeline starts at $1,800.
-
-These are now **premium agency prices**, not freelancer prices. This is a legitimate positioning choice, but it means:
-
-- The target client has shifted from individual indie authors to more serious/funded authors or small publishers
-- The "22 published books" credibility story is even more important at these price points — clients paying $5,000 for a Full Pipeline Premium will research thoroughly
-- The lack of real client testimonials is now a more significant trust gap at these prices
-
-**Recommendations:**
-
-1. Add a "Why These Prices?" section or FAQ entry explaining the value — what does $500 get you that a $75 Fiverr cover doesn't?
-2. Consider adding a comparison table showing Metronagon vs. typical alternatives (Fiverr, Reedsy, etc.) on quality, turnaround, and consistency
-3. At $1,800–$5,000 price points, a contact-first flow (rather than pay-first) may convert better — many clients at this level want to discuss before committing
-
----
-
-### 2.4 — HIGH: No Real Client Testimonials Still
-
-The Case Studies page shows Ketan's own work (Aztec, Repetition, Reality, Children's book). This is honest and correct. But at $500–$5,000 price points, potential clients will want to see that other people have paid for and been happy with this service. The absence of any external validation is the single biggest trust gap for a business at this stage.
-
-**Recommendations:**
-
-1. **Actively seek first clients at a discount** — offer 2–3 projects at 50% off in exchange for a detailed testimonial and permission to feature the work. One real client testimonial is worth more than any amount of portfolio work.
-2. **Add a "First Client" or "Beta Client" offer** — a visible banner or section: "We're accepting 3 founding clients at 40% off. In exchange, we ask for an honest review." This turns the lack of testimonials into a feature.
-3. **Add a Reedsy profile** — Reedsy has a built-in review system and is where serious indie authors look for cover designers. A Reedsy profile with even 1–2 reviews is powerful social proof.
-
----
-
-### 2.5 — HIGH: "See Our Work" and "View Services" Buttons Are Identical Style on Homepage
-
-On the homepage hero, both CTAs ("View Services" and "See Our Work") use the exact same gold button style. Standard UX practice is to have a **primary CTA** (gold/filled) and a **secondary CTA** (outlined/ghost). When both buttons look the same, neither stands out.
-
-**Fix:** Make "View Services" the primary (gold filled, as it is now) and "See Our Work" the secondary (outlined with gold border, transparent background). This creates a clear visual hierarchy and guides the eye to the higher-converting action.
-
----
-
-### 2.6 — HIGH: Services Page Uses `"use client"` But Exports `Metadata`
+### 2.1 — CRITICAL: Services Page Uses `"use client"` But Exports `Metadata`
 
 `src/app/services/page.tsx` has both `"use client"` at the top (line 1) and `import type { Metadata } from "next"` with a `metadata` export (lines 3–4). **This is invalid in Next.js App Router** — Client Components cannot export metadata. The metadata export will be silently ignored, meaning the services page has no SEO title or description despite the code appearing to set one.
 
@@ -432,7 +374,7 @@ On the homepage hero, both CTAs ("View Services" and "See Our Work") use the exa
 
 ---
 
-### 2.7 — MEDIUM: No Email Capture / Lead Generation
+### 2.2 — MEDIUM: No Email Capture / Lead Generation
 
 The only conversion path is: visit → pay. There is no email signup, no lead magnet, no newsletter. Most visitors — especially at $500–$5,000 price points — will not buy on first visit. They need multiple touchpoints.
 
@@ -444,7 +386,7 @@ The only conversion path is: visit → pay. There is no email signup, no lead ma
 
 ---
 
-### 2.8 — MEDIUM: No Reedsy Profile
+### 2.3 — MEDIUM: No Reedsy Profile
 
 Reedsy is the #1 marketplace where serious indie authors find cover designers. It has a built-in review system, vetted professional status, and direct client leads. It was identified as the #1 marketing priority in the original analysis and still hasn't been actioned.
 
@@ -452,15 +394,13 @@ Reedsy is the #1 marketplace where serious indie authors find cover designers. I
 
 ---
 
-### 2.9 — MEDIUM: FAQ Has a Pricing Inconsistency
+### 2.4 — DONE: FAQ Pricing Inconsistency — Fixed
 
-The FAQ answer for "Can I expand my series later?" says: _"Or purchase individual Add New Book Cover updates ($85) anytime."_ But the Updates & Revisions accordion lists "Add New Book Cover" at **$400**. The FAQ is wrong by a factor of ~5×.
-
-**Fix:** Update the FAQ answer to say $400, or update the Updates section to $85 — whichever is the intended price.
+The FAQ answer for "Can I expand my series later?" previously said `$85` but the Updates & Revisions accordion listed "Add New Book Cover" at **$400**. Fixed — FAQ now reads `$400`.
 
 ---
 
-### 2.10 — MEDIUM: "How It Works" Section Appears Twice
+### 2.5 — MEDIUM: "How It Works" Section Appears Twice
 
 The "How It Works" 4-step section appears on both the **homepage** and the **services page**. The content is nearly identical. On the services page it makes sense (it's contextually relevant to the purchase flow). On the homepage it's redundant — a visitor who goes from homepage to services sees it twice within the same session.
 
@@ -468,19 +408,13 @@ The "How It Works" 4-step section appears on both the **homepage** and the **ser
 
 ---
 
-### 2.11 — LOW: Homepage Has Two Gold Buttons in Hero That Both Go to `/services`
+### 2.6 — DONE: Footer Copyright — Fixed
 
-Looking at the homepage hero code: the "View Services" button links to `/services` and the "See Our Work" button links to `/examples`. That's correct. But the styling issue (2.5 above) makes them look like duplicates.
-
----
-
-### 2.12 — LOW: Footer Copyright Says "Metronagon" Not "Metronagon Media"
-
-The footer copyright line reads `© 2026 Metronagon. All rights reserved.` but the brand name used everywhere else is "Metronagon Media." Minor inconsistency — should be consistent.
+Footer copyright now reads `© 2026 Metronagon Media. All rights reserved.`
 
 ---
 
-### 2.13 — LOW: No Pinterest Business Account
+### 2.7 — LOW: No Pinterest Business Account
 
 Pinterest is the #2 marketing priority from the original analysis (after Reedsy) and still hasn't been actioned. Book cover designers do extremely well on Pinterest — it's a visual discovery platform where authors actively search for cover inspiration and find designers.
 
@@ -490,25 +424,18 @@ Pinterest is the #2 marketing priority from the original analysis (after Reedsy)
 
 | Priority | Issue                                                     | Effort   | Impact    |
 | -------- | --------------------------------------------------------- | -------- | --------- |
-| 🔴 1     | Fix OG image to 1200×630px landscape                      | Low      | High      |
-| 🔴 2     | Verify/write blog post content (slug pages)               | High     | Very High |
-| 🔴 3     | Fix services page metadata (remove "use client" conflict) | Low      | High      |
-| 🔴 4     | Fix FAQ pricing inconsistency ($85 vs $400)               | Very Low | Medium    |
-| 🟡 5     | Get first real client testimonials (discount offer)       | Medium   | Very High |
-| 🟡 6     | Create Reedsy profile                                     | Medium   | Very High |
-| 🟡 7     | Add email capture / lead magnet                           | Medium   | High      |
-| 🟡 8     | Fix homepage CTA button hierarchy (primary vs secondary)  | Very Low | Medium    |
-| 🟡 9     | Add "Why These Prices?" explanation on services page      | Low      | High      |
-| 🟢 10    | Remove duplicate "How It Works" from homepage             | Very Low | Low       |
-| 🟢 11    | Fix footer copyright "Metronagon" → "Metronagon Media"    | Very Low | Low       |
-| 🟢 12    | Create Pinterest Business account                         | Medium   | High      |
+| 🔴 1     | Fix services page metadata (remove "use client" conflict) | Low      | High      |
+| � 2      | Add email capture / lead magnet                           | Medium   | High      |
+| 🟡 3     | Create Reedsy profile                                     | Medium   | Very High |
+| 🟡 4     | Remove duplicate "How It Works" from homepage             | Very Low | Medium    |
+| � 5      | Create Pinterest Business account                         | Medium   | High      |
+| ✅ —     | Fix FAQ pricing ($85 → $400)                              | Done     | —         |
+| ✅ —     | Fix footer copyright → "Metronagon Media"                 | Done     | —         |
 
 ---
 
 ## Part 4: Quick Wins (Can Be Done Right Now)
 
-1. **Fix FAQ pricing** — change `$85` to `$400` in the services page FAQ answer
-2. **Fix footer copyright** — change `Metronagon` to `Metronagon Media`
-3. **Fix homepage CTA hierarchy** — make "See Our Work" an outlined/ghost button
-4. **Create OG image** — 1200×630px branded image, update `layout.tsx`
-5. **Fix services page metadata** — extract accordion to client component, make page a Server Component
+1. **Fix services page metadata** — extract `UpdatesAccordion` to a separate `"use client"` component, remove `"use client"` from `services/page.tsx` so the `metadata` export is respected by Next.js
+2. **Remove duplicate "How It Works" from homepage** — replace with a "What You Get" or before/after section
+3. **Create Reedsy profile** — highest-ROI off-site marketing action; existing portfolio is more than sufficient to apply

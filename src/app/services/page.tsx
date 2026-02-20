@@ -992,7 +992,7 @@ export default function ServicesPage() {
               },
               {
                 q: "Can I expand my series later?",
-                a: "Absolutely. The Series Expansion Retainer ($150/quarter) locks in covers at $50 each. Or purchase individual Add New Book Cover updates ($85) anytime.",
+                a: "Absolutely. The Series Expansion Retainer ($150/quarter) locks in covers at $50 each. Or purchase individual Add New Book Cover updates ($400) anytime.",
               },
               {
                 q: "Do you design print/paperback covers?",
