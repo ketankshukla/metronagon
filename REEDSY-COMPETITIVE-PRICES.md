@@ -8,6 +8,77 @@ All Reedsy figures are sourced directly from Reedsy's own published marketplace 
 
 ---
 
+## Price Update Summary — What Changed and Why
+
+All main packages and add-ons on the services page have been updated to the **lowest competitive starting price within Reedsy's documented market range**. The table below shows every price that changed.
+
+### Main Packages
+
+| Package                                            | Old Price | New Price  | Reedsy's Range         | What Professionals Typically Charge |
+| -------------------------------------------------- | --------- | ---------- | ---------------------- | ----------------------------------- |
+| Cover — Standard                                   | $99       | **$500**   | $630–$1,200 (50th pct) | $300–$600                           |
+| Cover — Premium                                    | $175      | **$750**   | $630–$1,200 (50th pct) | $500–$900                           |
+| Branding — Starter (3 Books)                       | $275      | **$1,200** | $1,800–$3,000+ (est.)  | $800–$1,500                         |
+| Branding — Standard (5 Books)                      | $475      | **$2,000** | $3,000–$5,000+ (est.)  | $1,200–$2,500                       |
+| Branding — Premium (8+ Books)                      | $800      | **$3,000** | $5,000–$8,000+ (est.)  | $2,000–$4,500                       |
+| Children's — Standard (32 pages)                   | $500      | **$1,800** | $1,250–$5,700          | $800–$2,000                         |
+| Children's — Plus (32 pages, print-ready)          | $750      | **$2,200** | $1,250–$5,700          | $1,200–$2,500                       |
+| Children's — Premium (32 pages + character system) | $1,000    | **$2,800** | $1,250–$5,700          | $1,500–$3,500                       |
+| Pipeline — Starter (3 Books)                       | $425      | **$1,800** | $3,500–$5,000+ (est.)  | $1,200–$2,500                       |
+| Pipeline — Standard (5 Books)                      | $800      | **$2,800** | $5,000–$8,000+ (est.)  | $2,000–$4,500                       |
+| Pipeline — Premium (8+ Books)                      | $1,400    | **$5,000** | $8,000–$15,000+ (est.) | $4,000–$9,000                       |
+
+> **Note on "What Professionals Typically Charge":** This column reflects general market rates from professional independent designers and illustrators working outside the Reedsy platform — representing the broader freelance market, not just Reedsy's curated premium tier. Reedsy's range is always higher because it screens for established professionals.
+
+> **Note on Branding and Pipeline ranges:** Reedsy does not have a direct bundle category for series branding or full pipeline packages. The ranges marked (est.) are calculated from Reedsy's individual service pricing data (per-cover median × book count + logo + style guide + descriptions). No single Reedsy freelancer sells these as unified packages — that coordination is your competitive advantage.
+
+---
+
+### Updates & Revisions Add-Ons (Existing Clients)
+
+| Service                    | Old Price | New Price   | Reedsy Comparable            | What Professionals Typically Charge |
+| -------------------------- | --------- | ----------- | ---------------------------- | ----------------------------------- |
+| Cover — Minor Revision     | $20       | **$75**     | $75–$150 (small edits)       | $50–$150                            |
+| Cover — Major Revision     | $50       | **$200**    | $200–$400 (new concept)      | $150–$350                           |
+| Add New Book Cover         | $85       | **$400**    | $500–$700 (standard cover)   | $300–$600                           |
+| Logo Refresh               | $100      | **$250**    | $200–$500 (logo design)      | $150–$350                           |
+| New Box Set Cover          | $75       | **$200**    | $300–$600 (cover design)     | $150–$350                           |
+| Add Book to Plan           | $100      | **$175**    | $150–$300 (editorial)        | $100–$250                           |
+| Plan Restructure           | $175      | **$350**    | $300–$600 (editorial)        | $200–$500                           |
+| Book Description Update    | $20       | **$75**     | $100–$200 (copywriting)      | $75–$200                            |
+| Children's — Page Edit     | $25/pg    | **$75/pg**  | $75–$150/pg                  | $50–$125/pg                         |
+| Children's — Add Page      | $40/pg    | **$100/pg** | $100–$200/pg                 | $75–$150/pg                         |
+| Children's — New Character | $50       | **$150**    | $150–$350 (character design) | $100–$250                           |
+
+---
+
+## What You Are Missing — Services Not Currently Offered
+
+The following are services with documented Reedsy demand and clear market rates that you are not currently selling. All are within your existing skill set based on work already done for your own published series:
+
+| Missing Service                                        | Reedsy Market Rate            | Your Effort                                        | Priority  |
+| ------------------------------------------------------ | ----------------------------- | -------------------------------------------------- | --------- |
+| **Standalone book description writing**                | $610 avg (blurb + metadata)   | Low — you already write these for pipeline clients | 🔴 High   |
+| **Interior book formatting** (Kindle + Print)          | $1,030 avg; $475–$1,275 range | Medium — technical but learnable                   | 🟡 Medium |
+| **Audiobook cover design** (ACX/Audible spec)          | $250–$600                     | Low — adaptation of existing covers                | 🔴 High   |
+| **Paperback / hardcover print wrap**                   | $275–$600 standalone          | Low — you have the KDP Print knowledge             | 🔴 High   |
+| **Social media launch graphics pack**                  | $500–$1,400                   | Medium — branding assets repurposed                | 🟡 Medium |
+| **Character portrait commissions**                     | $200–$500 per portrait        | Low — illustration skill you already use           | 🔴 High   |
+| **Amazon listing optimization** (keywords, categories) | $610 avg                      | Low — research and writing only                    | 🟡 Medium |
+| **Author series website**                              | $2,000–$4,500                 | High — dev time, but your strongest differentiator | 🔴 High   |
+| **Author bio writing**                                 | $200–$450 (set of 3 lengths)  | Low — copywriting                                  | 🟢 Low    |
+| **Series naming + taglines**                           | $200–$600                     | Low — creative writing                             | 🟢 Low    |
+| **Print marketing materials** (bookmarks, posters)     | $300–$900                     | Medium — design work                               | 🟢 Low    |
+
+**Highest immediate revenue opportunities (low effort, high rate):**
+
+1. **Standalone book descriptions** — You already do this inside pipeline packages. Offer it as a $250–$400 standalone per book.
+2. **Audiobook cover adaptation** — Take any existing cover and adapt to 3000×3000 ACX spec. $250 per book, $150 as an add-on.
+3. **Character portraits** — You illustrate children's books. Offer 1–3 character portraits for $200–$400 each as standalone commissions.
+4. **Paperback print wrap** — You understand KDP Print specs. Add this as a $275–$350 add-on to any cover order.
+
+---
+
 ## Section 1 — Your Existing Packages vs. Reedsy Market Rates
 
 ### Cover Design

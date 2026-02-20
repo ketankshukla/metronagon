@@ -26,7 +26,7 @@ interface Feature {
 const coverPackages = [
   {
     name: "Standard",
-    price: "$99",
+    price: "$500",
     delivery: "2 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_STANDARD,
     description:
@@ -66,7 +66,7 @@ const coverPackages = [
   },
   {
     name: "Premium",
-    price: "$175",
+    price: "$750",
     delivery: "3 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_PREMIUM,
@@ -116,7 +116,7 @@ const brandingPackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$275",
+    price: "$1,200",
     delivery: "3 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STARTER,
     features: [
@@ -145,7 +145,7 @@ const brandingPackages = [
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$475",
+    price: "$2,000",
     delivery: "5 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STANDARD,
@@ -180,7 +180,7 @@ const brandingPackages = [
   {
     name: "Premium",
     subtitle: "8+ Books",
-    price: "$800",
+    price: "$3,000",
     delivery: "7 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_PREMIUM,
     features: [
@@ -226,7 +226,7 @@ const brandingPackages = [
 const childrensPackages = [
   {
     name: "Standard",
-    price: "$500",
+    price: "$1,800",
     delivery: "5 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
     description:
@@ -266,7 +266,7 @@ const childrensPackages = [
   },
   {
     name: "Plus",
-    price: "$750",
+    price: "$2,200",
     delivery: "6 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PLUS,
@@ -312,7 +312,7 @@ const childrensPackages = [
   },
   {
     name: "Premium",
-    price: "$1,000",
+    price: "$2,800",
     delivery: "7 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PREMIUM,
     description:
@@ -366,8 +366,8 @@ const pipelinePackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$425",
-    savings: "Save $50",
+    price: "$1,800",
+    savings: "Save $1,800+",
     delivery: "5 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STARTER,
     features: [
@@ -406,8 +406,8 @@ const pipelinePackages = [
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$800",
-    savings: "Save $75",
+    price: "$2,800",
+    savings: "Save $3,400+",
     delivery: "7 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STANDARD,
@@ -452,8 +452,8 @@ const pipelinePackages = [
   {
     name: "Premium",
     subtitle: "8+ Books",
-    price: "$1,400",
-    savings: "Save $200",
+    price: "$5,000",
+    savings: "Save $5,000+",
     delivery: "10 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_PREMIUM,
     features: [
@@ -504,67 +504,67 @@ const pipelinePackages = [
 const updates = [
   {
     name: "Cover \u2014 Minor Revision",
-    price: "$20",
+    price: "$75",
     desc: "Text fix, color adjustment, subtitle change",
     delivery: "1 business day",
   },
   {
     name: "Cover \u2014 Major Revision",
-    price: "$50",
+    price: "$200",
     desc: "New concept, different style, layout overhaul",
     delivery: "2 business days",
   },
   {
     name: "Add New Book Cover",
-    price: "$85",
+    price: "$400",
     desc: "New cover matching existing series style",
     delivery: "2 business days",
   },
   {
     name: "Logo Refresh",
-    price: "$100",
+    price: "$250",
     desc: "Updated or redesigned series logo",
     delivery: "2 business days",
   },
   {
     name: "New Box Set Cover",
-    price: "$75",
+    price: "$200",
     desc: "Additional box set or panoramic cover",
     delivery: "2 business days",
   },
   {
     name: "Add Book to Plan",
-    price: "$100",
+    price: "$175",
     desc: "New outline + chapter structure + continuity update",
     delivery: "2 business days",
   },
   {
     name: "Plan Restructure",
-    price: "$175",
+    price: "$350",
     desc: "Reorder, split, or merge books in plan",
     delivery: "3 business days",
   },
   {
     name: "Book Description Update",
-    price: "$20",
+    price: "$75",
     desc: "Updated Amazon/retail description",
     delivery: "1 business day",
   },
   {
     name: "Children\u2019s Book \u2014 Page Edit",
-    price: "$25/pg",
+    price: "$75/pg",
     desc: "Text/story edits with re-illustrated page",
     delivery: "1 day per page",
   },
   {
     name: "Children\u2019s Book \u2014 Add Page",
-    price: "$40/pg",
+    price: "$100/pg",
     desc: "New illustrated page in existing book",
     delivery: "1 day per page",
   },
   {
     name: "Children\u2019s Book \u2014 New Character",
-    price: "$50",
+    price: "$150",
     desc: "New character or scene in existing style",
     delivery: "2 business days",
   },
