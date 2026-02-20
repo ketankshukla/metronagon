@@ -3,7 +3,14 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import { Sparkles, BookOpen, BookImage, X, ArrowRight } from "lucide-react";
+import {
+  Sparkles,
+  BookOpen,
+  BookImage,
+  Layers,
+  X,
+  ArrowRight,
+} from "lucide-react";
 
 type CoverImage = { src: string; title: string };
 
@@ -435,6 +442,279 @@ const genres: Genre[] = [
   },
 ];
 
+type PortfolioSubSection = {
+  label: string;
+  description: string;
+  aspect: "2/3" | "square" | "landscape";
+  images: CoverImage[];
+};
+
+type PortfolioSeries = {
+  id: string;
+  label: string;
+  tagline: string;
+  accentColor: string;
+  sections: PortfolioSubSection[];
+};
+
+const portfolioData: PortfolioSeries[] = [
+  {
+    id: "aztec",
+    label: "Aztec Samurai Adventures",
+    tagline: "12-Book Epic Fantasy Series",
+    accentColor: "#40e0d0",
+    sections: [
+      {
+        label: "Series Logo",
+        description:
+          "The primary brand identity for the Aztec Samurai Adventures series.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/aztec/series-logo.jpg",
+            title: "Aztec Samurai Adventures — Series Logo",
+          },
+        ],
+      },
+      {
+        label: "Book Covers — All 12 Books",
+        description:
+          "Individual ebook covers for each of the 12 books in the series, maintaining consistent visual identity across the full saga.",
+        aspect: "2/3",
+        images: [
+          {
+            src: "/portfolio/aztec/covers/book1-cover.jpg",
+            title: "Book I — Sunblade Rising",
+          },
+          {
+            src: "/portfolio/aztec/covers/book2-cover.jpg",
+            title: "Book II — The Mirror Siege",
+          },
+          {
+            src: "/portfolio/aztec/covers/book3-cover.jpg",
+            title: "Book III — Ash Oaths",
+          },
+          {
+            src: "/portfolio/aztec/covers/book4-cover.jpg",
+            title: "Book IV — The Starless Crown",
+          },
+          {
+            src: "/portfolio/aztec/covers/book5-cover.jpg",
+            title: "Book V — The Serpent's Gambit",
+          },
+          {
+            src: "/portfolio/aztec/covers/book6-cover.jpg",
+            title: "Book VI — Rain of Obsidian",
+          },
+          {
+            src: "/portfolio/aztec/covers/book7-cover.jpg",
+            title: "Book VII — Feathers and Bone",
+          },
+          {
+            src: "/portfolio/aztec/covers/book8-cover.jpg",
+            title: "Book VIII — The Shattered Blade",
+          },
+          {
+            src: "/portfolio/aztec/covers/book9-cover.jpg",
+            title: "Book IX — The Forge of Souls",
+          },
+          {
+            src: "/portfolio/aztec/covers/book10-cover.jpg",
+            title: "Book X — The Mirror Queen",
+          },
+          {
+            src: "/portfolio/aztec/covers/book11-cover.jpg",
+            title: "Book XI — Crown of Stars",
+          },
+          {
+            src: "/portfolio/aztec/covers/book12-cover.jpg",
+            title: "Book XII — The Sun That Never Sets",
+          },
+        ],
+      },
+      {
+        label: "Box Set Covers",
+        description:
+          "Landscape box set covers grouping the series into three acts, designed for promotional use and series-level marketing.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/aztec/box-sets/box-set-1-landscape.jpg",
+            title: "Act I — The Rising (Books 1–4)",
+          },
+          {
+            src: "/portfolio/aztec/box-sets/box-set-2-landscape.jpg",
+            title: "Act II — The Breaking (Books 5–8)",
+          },
+        ],
+      },
+      {
+        label: "Complete Series Cover",
+        description:
+          "The full landscape cover spanning all 12 books — used for series-level promotions and the portfolio website hero.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/aztec/box-sets/complete-series-cover-landscape.jpg",
+            title: "Aztec Samurai Adventures — Complete Series",
+          },
+        ],
+      },
+      {
+        label: "Character Portraits",
+        description:
+          "30+ distinct character portraits created for the series. Each character has a consistent visual style across all appearances.",
+        aspect: "2/3",
+        images: [
+          { src: "/portfolio/aztec/characters/01-Itzil.jpg", title: "Itzil" },
+          {
+            src: "/portfolio/aztec/characters/03-Volzentar.jpg",
+            title: "Volzentar",
+          },
+          {
+            src: "/portfolio/aztec/characters/05-Nightshade.jpg",
+            title: "Nightshade",
+          },
+          { src: "/portfolio/aztec/characters/07-Neyla.jpg", title: "Neyla" },
+          { src: "/portfolio/aztec/characters/09-Miyako.jpg", title: "Miyako" },
+          {
+            src: "/portfolio/aztec/characters/14-Rainara.jpg",
+            title: "Rainara",
+          },
+          {
+            src: "/portfolio/aztec/characters/22-Relicara.jpg",
+            title: "Relicara",
+          },
+          {
+            src: "/portfolio/aztec/characters/30-Sethara.jpg",
+            title: "Sethara",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "reality",
+    label: "Reality Without Belief",
+    tagline: "5-Book Philosophical Essay Series",
+    accentColor: "#00CED1",
+    sections: [
+      {
+        label: "Series Logo",
+        description:
+          "The primary brand identity for the Reality Without Belief series.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/reality/series-logo-reality-without-belief.jpg",
+            title: "Reality Without Belief — Series Logo",
+          },
+        ],
+      },
+      {
+        label: "Book Covers — All 5 Books",
+        description:
+          "Individual ebook covers for each of the 5 books in the series, with a cohesive turquoise-toned visual identity.",
+        aspect: "2/3",
+        images: [
+          {
+            src: "/portfolio/reality/book1-cover.jpg",
+            title: "Book I — The Anatomy of Belief",
+          },
+          {
+            src: "/portfolio/reality/book2-cover.jpg",
+            title: "Book II — The Nature of What Is So",
+          },
+          {
+            src: "/portfolio/reality/book3-cover.jpg",
+            title: "Book III — The Theater of Conviction",
+          },
+          {
+            src: "/portfolio/reality/book4-cover.jpg",
+            title: "Book IV — The Practice of Clear Seeing",
+          },
+          {
+            src: "/portfolio/reality/book5-cover.jpg",
+            title: "Book V — The Quiet Exit",
+          },
+        ],
+      },
+      {
+        label: "Complete Series Cover",
+        description:
+          "The full landscape cover spanning all 5 books — used for series-level promotions and the portfolio website hero.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/reality/complete-series-cover-landscape.jpg",
+            title: "Reality Without Belief — Complete Series",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "repetition",
+    label: "Repetition: Mother of Mastery",
+    tagline: "5-Book Self-Improvement Series",
+    accentColor: "#d4a843",
+    sections: [
+      {
+        label: "Series Logo",
+        description:
+          "The primary brand identity for the Repetition: Mother of Mastery series.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/repetition/series-logo-repetition-mother-of-mastery.jpg",
+            title: "Repetition: Mother of Mastery — Series Logo",
+          },
+        ],
+      },
+      {
+        label: "Book Covers — All 5 Books",
+        description:
+          "Individual ebook covers for each of the 5 books in the series, with a warm gold-toned visual identity.",
+        aspect: "2/3",
+        images: [
+          {
+            src: "/portfolio/repetition/book1-cover.jpg",
+            title: "Book I — The Foundation of Mastery",
+          },
+          {
+            src: "/portfolio/repetition/book2-cover.jpg",
+            title: "Book II — The Habit Engine",
+          },
+          {
+            src: "/portfolio/repetition/book3-cover.jpg",
+            title: "Book III — Mastery in Action",
+          },
+          {
+            src: "/portfolio/repetition/book4-cover.jpg",
+            title: "Book IV — The Cognitive Edge",
+          },
+          {
+            src: "/portfolio/repetition/book5-cover.jpg",
+            title: "Book V — Living Mastery",
+          },
+        ],
+      },
+      {
+        label: "Complete Series Cover",
+        description:
+          "The full landscape cover spanning all 5 books — used for series-level promotions and the portfolio website hero.",
+        aspect: "landscape",
+        images: [
+          {
+            src: "/portfolio/repetition/complete-series-cover-landscape.jpg",
+            title: "Repetition: Mother of Mastery — Complete Series",
+          },
+        ],
+      },
+    ],
+  },
+];
+
 const childrensData = {
   pictureBooks: {
     label: "32-Page Illustrated Picture Books",
@@ -529,6 +809,7 @@ const totalImages =
 
 const filterTabs = [
   { id: "all", label: "All" },
+  { id: "portfolio", label: "Portfolio Case Studies" },
   ...genres.map((g) => ({ id: g.id, label: g.label })),
   { id: "childrens", label: "Children's" },
 ];
@@ -538,10 +819,14 @@ export default function ExamplesPage() {
   const [lightboxImage, setLightboxImage] = useState<CoverImage | null>(null);
 
   const showAll = activeGenre === "all";
+  const showPortfolio = activeGenre === "all" || activeGenre === "portfolio";
   const showChildrens = activeGenre === "all" || activeGenre === "childrens";
-  const filteredGenres = showAll
-    ? genres
-    : genres.filter((g) => g.id === activeGenre);
+  const filteredGenres =
+    showAll || activeGenre === "portfolio"
+      ? showAll
+        ? genres
+        : []
+      : genres.filter((g) => g.id === activeGenre);
 
   return (
     <>
@@ -638,9 +923,7 @@ export default function ExamplesPage() {
               {/* Inline CTA after 5th genre section */}
               {showAll && idx === 4 && (
                 <div className="mb-20 rounded-2xl border border-gold/20 bg-gold/[0.03] px-8 py-10 text-center">
-                  <h3 className="text-xl font-bold">
-                    Like what you see?
-                  </h3>
+                  <h3 className="text-xl font-bold">Like what you see?</h3>
                   <p className="mx-auto mt-2 max-w-md text-sm text-muted">
                     Every cover in this gallery was created with our proven
                     pipeline. Get the same quality for your book.
@@ -656,6 +939,141 @@ export default function ExamplesPage() {
               )}
             </div>
           ))}
+
+          {/* Portfolio Case Studies Section */}
+          {showPortfolio && (
+            <div className={filteredGenres.length > 0 ? "mb-20" : ""}>
+              <div className="mb-10 flex items-center gap-3">
+                <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+                  <Layers size={18} className="text-gold" />
+                </div>
+                <div>
+                  <h2 className="text-2xl font-bold tracking-tight">
+                    Portfolio Case Studies
+                  </h2>
+                  <p className="text-xs text-muted">
+                    3 complete series — real published work
+                  </p>
+                </div>
+              </div>
+
+              {portfolioData.map((series, seriesIdx) => (
+                <div
+                  key={series.id}
+                  className={
+                    seriesIdx < portfolioData.length - 1 ? "mb-16" : ""
+                  }
+                >
+                  {/* Series header */}
+                  <div
+                    className="mb-8 rounded-2xl border p-6"
+                    style={{
+                      borderColor: `${series.accentColor}33`,
+                      backgroundColor: `${series.accentColor}08`,
+                    }}
+                  >
+                    <div className="flex items-center gap-3">
+                      <div
+                        className="h-3 w-3 rounded-full"
+                        style={{ backgroundColor: series.accentColor }}
+                      />
+                      <div>
+                        <h3
+                          className="text-xl font-bold"
+                          style={{ color: series.accentColor }}
+                        >
+                          {series.label}
+                        </h3>
+                        <p className="text-xs text-muted mt-0.5">
+                          {series.tagline}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Sub-sections */}
+                  {series.sections.map((sub, subIdx) => (
+                    <div
+                      key={sub.label}
+                      className={
+                        subIdx < series.sections.length - 1 ? "mb-10" : ""
+                      }
+                    >
+                      <div
+                        className="mb-3 rounded-xl border px-5 py-3"
+                        style={{
+                          borderColor: `${series.accentColor}22`,
+                          backgroundColor: `${series.accentColor}05`,
+                        }}
+                      >
+                        <h4
+                          className="text-sm font-bold"
+                          style={{ color: series.accentColor }}
+                        >
+                          {sub.label}
+                        </h4>
+                        <p className="mt-0.5 text-xs text-muted leading-relaxed">
+                          {sub.description}
+                        </p>
+                      </div>
+
+                      {sub.aspect === "landscape" ? (
+                        <div className="grid grid-cols-1 gap-3 sm:gap-4 sm:grid-cols-2">
+                          {sub.images.map((image) => (
+                            <button
+                              key={image.src}
+                              onClick={() => setLightboxImage(image)}
+                              className="group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover:shadow-lg hover:shadow-gold/10 hover:-translate-y-1"
+                            >
+                              <div className="aspect-[16/9] relative">
+                                <Image
+                                  src={image.src}
+                                  alt={image.title}
+                                  fill
+                                  sizes="(max-width: 640px) 100vw, 50vw"
+                                  className="object-cover transition-transform duration-300 group-hover:scale-105"
+                                />
+                              </div>
+                              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-3 pt-8">
+                                <p className="text-xs font-medium text-white leading-tight">
+                                  {image.title}
+                                </p>
+                              </div>
+                            </button>
+                          ))}
+                        </div>
+                      ) : (
+                        <div className="grid grid-cols-2 gap-3 sm:gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+                          {sub.images.map((image) => (
+                            <button
+                              key={image.src}
+                              onClick={() => setLightboxImage(image)}
+                              className="group relative overflow-hidden rounded-xl border border-border bg-surface-light transition-all hover:border-gold/30 hover:shadow-lg hover:shadow-gold/10 hover:-translate-y-1"
+                            >
+                              <div className="aspect-[2/3] relative">
+                                <Image
+                                  src={image.src}
+                                  alt={image.title}
+                                  fill
+                                  sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 16vw"
+                                  className="object-cover transition-transform duration-300 group-hover:scale-105"
+                                />
+                              </div>
+                              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-3 pt-8">
+                                <p className="text-xs font-medium text-white leading-tight">
+                                  {image.title}
+                                </p>
+                              </div>
+                            </button>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
+          )}
 
           {/* Children's Section — split into two types */}
           {showChildrens && (

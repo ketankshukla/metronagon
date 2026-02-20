@@ -946,10 +946,11 @@ book-02-{title-slug}-description.md
 
 ### Summary
 
-- **Assets you HAVE:** ~130+ files (prompts, emails, portfolio examples)
+- **Assets you HAVE:** ~130+ files (prompts, emails, portfolio examples) + **300+ production prompts** across 4 personal series projects (repetition-mother-of-mastery, reality-without-belief, aztec-samurai-adventures, cartoon-stories)
 - **Assets you NEED:** ~20 template files (most are LOW effort — structured markdown)
 - **Critical path:** The HIGH priority items marked above — focus on these first
 - **Most templates above already have their content defined in this document** — they just need to be saved as actual files in the template repos
+- **IMAGE-PROMPT-STANDARDS.md** — The master quality standard document is at `E:\metronagon-templates\IMAGE-PROMPT-STANDARDS.md`. Every prompt template references this document. It codifies 16 quality rules + 10 advanced techniques extracted from all production prompts
 
 ---
 
