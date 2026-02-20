@@ -1,0 +1,31 @@
+KDP EXCEPTION DRAFTS — RECOMMENDATION
+======================================
+
+DRAFT 03 — RECOMMENDED
+
+Reasons:
+- Tightest structure: each section is 2-4 lines, no padding
+- "Ongoing publishing activity, not a single upload event" is the
+  clearest signal that you want a permanent elevated limit without
+  asking for one explicitly
+- Firm but not aggressive — respectful tone throughout
+- Includes both contact points (ketanshukla.com + email)
+- Short enough that a support agent reads the whole thing
+
+RUNNER-UP: DRAFT 01
+Good if you want slightly more detail in the quality controls section
+without adding length elsewhere.
+
+AVOID: DRAFT 04
+Slightly too formal ("publishing programme", "pleased to provide") —
+reads a little stiff compared to the others.
+
+SUMMARY OF DIFFERENCES
+-----------------------
+Draft 01 — Clean, structured, moderate length. Good all-rounder.
+Draft 02 — Slightly more business-forward. Good if you want to
+           emphasise the professional/commercial angle.
+Draft 03 — Most concise. Best balance of firmness and brevity. RECOMMENDED.
+Draft 04 — Most formal. Thorough but slightly over-written.
+Draft 05 — Shortest of all. Works if you want absolute minimum words,
+           but loses some persuasive detail.
