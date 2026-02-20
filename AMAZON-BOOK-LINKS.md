@@ -12,14 +12,14 @@ So instead of copying a long URL with a bunch of extra stuff, you can use the **
 
 KDP says you can find the ASIN either:
 
-* **Under the book’s title in your KDP Bookshelf**, or
-* On the Amazon book page under **“Product Details”** ([kdp.amazon.com][1])
+- **Under the book’s title in your KDP Bookshelf**, or
+- On the Amazon book page under **“Product Details”** ([kdp.amazon.com][1])
 
 ### If you already copied a long URL
 
 You can usually shorten it by keeping only the part up through the ASIN:
 
-* If you see something like:
+- If you see something like:
   `amazon.com/…/dp/B0XXXXXXX/ref=…?…`
   keep only:
   `amazon.com/dp/B0XXXXXXX`
@@ -39,7 +39,7 @@ They also document the basic affiliate link format using `/dp/ASIN` plus your `t
 
 Use **your own clean button URL** on your site and redirect it to Amazon, like:
 
-* `yourdomain.com/buy/book-title` → redirects to `amazon.com/dp/ASIN`
+- `yourdomain.com/buy/book-title` → redirects to `amazon.com/dp/ASIN`
 
 That way your buttons always look clean, and you can change the Amazon destination later without editing your site layout everywhere.
 
@@ -54,3 +54,61 @@ If you paste me **one** of your current long Amazon URLs, I’ll show you exactl
                 
             Amazon.com Associates Central - Help 
         "
+
+---
+
+# Book Links by Series
+
+---
+
+## Reality Without Belief
+
+> **Series page:** https://www.amazon.com/dp/B0GMXS6LHQ
+
+### Kindle
+
+| Book     | Title                        | Link                             |
+| -------- | ---------------------------- | -------------------------------- |
+| Book I   | The Anatomy of Belief        | https://amazon.com/dp/B0GJMP6S72 |
+| Book II  | The Nature of What Is So     | https://amazon.com/dp/B0GMGP1N5N |
+| Book III | The Theater of Conviction    | https://amazon.com/dp/B0GMYF5GBK |
+| Book IV  | The Practice of Clear Seeing | https://amazon.com/dp/B0GMY4YNWX |
+| Book V   | The Quiet Exit               | https://amazon.com/dp/B0GMY4MMJN |
+
+### Paperback
+
+| Book     | Title                        | Link                             |
+| -------- | ---------------------------- | -------------------------------- |
+| Book I   | The Anatomy of Belief        | https://amazon.com/dp/B0GN2G1T8Q |
+| Book II  | The Nature of What Is So     | https://amazon.com/dp/B0GNZZCZQN |
+| Book III | The Theater of Conviction    | https://amazon.com/dp/B0GNZW5QKX |
+| Book IV  | The Practice of Clear Seeing | https://amazon.com/dp/B0GP6WMY4Y |
+| Book V   | The Quiet Exit               | https://amazon.com/dp/B0GP18MZFN |
+
+---
+
+## Repetition: Mother of Mastery
+
+> **Series page:** https://www.amazon.com/dp/B0GNZ7B92N
+
+### Kindle
+
+| Book     | Title                     | Link                             |
+| -------- | ------------------------- | -------------------------------- |
+| Book I   | The Foundation of Mastery | https://amazon.com/dp/B0GNYVY3GG |
+| Book II  | The Habit Engine          | https://amazon.com/dp/B0GNYSFVP7 |
+| Book III | Mastery in Action         | https://amazon.com/dp/B0GNYJ9WHC |
+| Book IV  | The Cognitive Edge        | https://amazon.com/dp/B0GNWZSFHJ |
+| Book V   | Living Mastery            | https://amazon.com/dp/B0GNWGD7HG |
+
+### Paperback
+
+| Book     | Title                     | Link                             |
+| -------- | ------------------------- | -------------------------------- |
+| Book I   | The Foundation of Mastery | https://amazon.com/dp/B0GP6P5423 |
+| Book II  | The Habit Engine          | https://amazon.com/dp/B0GP1N17RY |
+| Book III | Mastery in Action         | https://amazon.com/dp/B0GP1CX4D6 |
+| Book IV  | The Cognitive Edge        | https://amazon.com/dp/B0GP21LZFT |
+| Book V   | Living Mastery            | https://amazon.com/dp/B0GP1XPM2B |
+
+---
