@@ -1,10 +1,3 @@
-# Author Portfolio (ketanshukla.com) — Full Site Analysis & Recommendations
-
-> **Last updated:** February 2026 — Full re-analysis of current codebase state.
-> This document replaces the previous Metronagon Media analysis. The site being analysed is the **author portfolio** at `E:\author-portfolio`, not the Metronagon business site.
-
----
-
 # Metronagon Media — Detailed Website Analysis & Improvement Suggestions
 
 ## Context
@@ -332,222 +325,190 @@ There's a tension in the messaging: the site positions itself as a "studio" or "
 
 ---
 
-# Author Portfolio (ketanshukla.com) — Updated Full Analysis (February 2026)
+# Metronagon Media — Updated Full Analysis (February 2026)
 
-> Full re-analysis based on reading every component, page, and data file in `E:\author-portfolio`. The sections above are for the Metronagon business site. This section covers the **author portfolio** site only.
-
----
-
-## What the Site Is
-
-A single-page author portfolio for Ketan Shukla. Built with Next.js 16.1.6 + Tailwind CSS v4 + TypeScript. Dark luxury aesthetic (gold on black, EB Garamond serif). One route (`/`) with four sections rendered in order: Hero → SeriesShowcase → AuthorSection → Footer. A `BookModal` overlay is rendered globally via `BookProvider` context and opens on any book cover click or "Book Details" button.
-
-**Stack:** Next.js 16.1.6 (Turbopack), Tailwind CSS v4, TypeScript, Lucide icons, EB Garamond + Inter (Google Fonts), no analytics, no third-party services.
+> Full re-analysis based on reading every file in `E:\metronagon\src`. This section reflects the **current actual state** of the site and supersedes the original analysis above wherever items are marked DONE.
 
 ---
 
-## Part 1: What the Site Does Well
+## What the Site Is Now
 
-1. **Visual identity is strong and consistent** — gold on black, EB Garamond headings, glass morphism cards, gold-frame borders. Reads as premium and distinctive.
-2. **Book modal is fully functional and unified** — clicking any book cover or "Book Details" button opens a rich overlay with cover image, act badge (Aztec only), title, subtitle, focus character (Aztec only), epigraph, elaborate description, and full chapter-by-chapter breakdown. Keyboard navigation (arrow keys + Escape) and on-screen chevrons both work.
-3. **All 22 books have real Amazon buy links for Reality and Repetition** — Kindle and Paperback buttons on every book card with correct ASINs.
-4. **Series buy links are correct** — "Buy The Complete Series on Amazon" buttons use real ASINs (`B0GMXS6LHQ` for Reality, `B0GNZ7B92N` for Repetition). Aztec falls back to `amazon.com` gracefully.
-5. **Mobile responsiveness is solid** — viewport meta disables scaling, touch zoom blocked via JS event listeners, responsive grid layouts throughout, `100dvh` used in modal.
-6. **Image protection is in place** — `ImageProtection.tsx` disables right-click context menu. CSS also disables `user-select`, `user-drag`, and `touch-callout` on all images.
-7. **Author section is personal and well-written** — genuine bio, writing philosophy quotes, stats grid, series cards with correct external links.
-8. **Box set structure for Aztec is well-organised** — three acts (Books 1–4, 5–8, 9–12) each with a landscape cover image, then individual book cards below each act.
-9. **Footer is data-driven** — pulls from `seriesData.ts`, so adding a new series automatically adds a footer column. Buy links are correct per series.
-10. **Scroll-to-top button** — appears after 500px scroll, smooth scroll to top.
+A multi-page Next.js 16 business website for Metronagon Media at `metronagon.com`. Dark luxury aesthetic (gold on black, Geist Sans font). **7 pages:** Home, Services, Examples, Case Studies, Blog, About, Checkout/Thank-You. Stripe embedded checkout. Vercel Analytics installed. Full SEO stack in place.
 
----
+**Stack:** Next.js 16.1.6 (Turbopack), Tailwind CSS, TypeScript, Lucide icons, Geist Sans + Geist Mono (Google Fonts), `@vercel/analytics`, Stripe.
 
-## Part 2: Issues & Recommended Changes
+**Current pricing:**
 
-### 2.1 — CRITICAL: No SEO / Open Graph / Sitemap / robots.txt
-
-`layout.tsx` has a `metadata` object with title, description, and keywords — but nothing else:
-
-- **No `metadataBase`** — Next.js will warn and all OG image URLs will be relative, breaking social sharing previews entirely.
-- **No `openGraph` block** — sharing on Twitter/Facebook/LinkedIn shows a blank or broken preview.
-- **No `twitter` block** — no Twitter Card tags.
-- **No `sitemap.ts`** — Google cannot discover the site structure.
-- **No `robots.ts`** — no crawl instructions.
-- **No JSON-LD structured data** — no `Person`, `Book`, or `WebSite` schema. Google cannot understand who this is or what the books are.
-- **No `alternates.canonical`** — no canonical URL declared.
-
-**Impact:** If anyone shares this site on social media, it shows a blank preview. Google indexes it slowly and without rich results. This is the single highest-priority fix for a public author portfolio.
-
-**Recommended additions to `layout.tsx`:**
-
-```ts
-metadataBase: new URL("https://ketanshukla.com"),
-openGraph: {
-  title: "Ketan Shukla — Author of Fiction & Non-Fiction Book Series",
-  description: "Twenty-two books across three series...",
-  url: "https://ketanshukla.com",
-  siteName: "Ketan Shukla",
-  images: [{ url: "/images/og-cover.png", width: 1200, height: 630 }],
-  type: "website",
-},
-twitter: {
-  card: "summary_large_image",
-  title: "Ketan Shukla — Author",
-  description: "Twenty-two books across three series...",
-  images: ["/images/og-cover.png"],
-},
-alternates: { canonical: "https://ketanshukla.com" },
-```
-
-Also add `src/app/sitemap.ts` and `src/app/robots.ts` (trivial in Next.js App Router), and a JSON-LD `<script>` block in the layout for `Person` + `WebSite` schema.
+- Ebook Cover: Standard $500 / Premium $750
+- Series Branding: Starter $1,200 / Standard $2,000 / Premium $3,000
+- Children's Books: Standard $1,800 / Plus $2,200 / Premium $2,800
+- Full Pipeline: Starter $1,800 / Standard $2,800 / Premium $5,000
+- Add-ons: Rush Fee +50%, Returning Client -10%, Retainer $150/quarter
 
 ---
 
-### 2.2 — CRITICAL: Aztec Buy Buttons Link to Generic Amazon Homepage
+## Part 1: What the Site Does Well (Current State)
 
-Every Aztec book card has "Buy Kindle" and "Buy Paperback" buttons. Both `kindleUrl` and `paperbackUrl` are empty strings (`""`) in `seriesData.ts`. The `BookCard` component falls back to `https://www.amazon.com` — so clicking any Aztec buy button dumps the reader on Amazon's homepage with no context.
-
-This looks broken to any visitor who clicks.
-
-**Recommended fix:** In `BookCard`, check if `kindleUrl` is empty and render a muted "Coming Soon" badge instead of the Amazon button:
-
-```tsx
-{book.kindleUrl ? (
-  <a href={book.kindleUrl} ...>Buy Kindle</a>
-) : (
-  <span className="...text-white/20 text-xs text-center py-1.5">Coming Soon</span>
-)}
-```
-
----
-
-### 2.3 — HIGH: No Buy Buttons Inside the BookModal
-
-The Book Details modal shows cover, epigraph, description, and all chapters — but has **no buy buttons**. A reader who opens the modal, reads the full description and chapter list, and is convinced to buy must then: close the modal → find the right book card → click the buy button. This is unnecessary friction at the highest-intent moment.
-
-**Recommended fix:** Add Kindle and Paperback buy buttons at the bottom of the modal content (above the footer nav), shown conditionally only when the URLs are non-empty. This is the highest-converting placement on the page.
+1. **SEO is fully implemented** — `metadataBase`, Open Graph, Twitter Cards, JSON-LD (`ProfessionalService` + `WebSite`), `sitemap.ts` (14 routes including all blog posts), `robots.ts` with correct disallow rules. All done.
+2. **Analytics is live** — `@vercel/analytics` installed and rendering in root layout. Traffic is being measured.
+3. **Social links are in the footer** — X, Facebook, YouTube, TikTok with correct URLs and aria-labels.
+4. **Contact email is prominent** — `hello@metronagon.com` appears in the footer (with Mail icon), on the services page in the "Questions Before You Order?" section, and in the final CTA section.
+5. **Header navigation is complete** — sticky header with Services, Examples, Case Studies, Blog, About, and a gold "Get Started" CTA button. Mobile hamburger menu works.
+6. **Services page is well-structured** — anchor nav bar (Covers, Branding, Children's, Full Pipeline, FAQ), package cards with feature lists, "Save $X" badges on Full Pipeline, Updates & Revisions accordion (hidden by default), Add-ons section, FAQ with 6 Q&As, and a "Questions Before You Order?" email section.
+7. **Case Studies page replaces Testimonials** — honest portfolio case studies instead of self-referential testimonials. Correct decision.
+8. **Blog has 8 substantive posts** — filterable by category (Cover Design, Series Planning, Process, Character Design, Children's Books, Branding). Each links to a slug route.
+9. **Homepage is well-structured** — logo hero, trust indicator bar (22 books / 3 series / 100+ covers / 30+ portraits), 6 featured covers grid, How It Works 4-step section, CTA.
+10. **Pricing is transparent** — all prices shown upfront, delivery times on every package card, no hidden fees messaging.
+11. **Image protection** — `ImageProtection.tsx` disables right-click context menu sitewide.
+12. **Checkout flow** — Stripe embedded checkout with package-specific thank-you page.
 
 ---
 
-### 2.4 — HIGH: No Navigation Header
+## Part 2: Issues & New Recommendations
 
-The site has no navigation bar or sticky header. There is no way to jump between sections without scrolling. On a page with 12 Aztec books + 5 + 5 = 22 book cards across three large series frames, this is a real usability problem — especially on mobile where each series frame is very tall.
+### 2.1 — CRITICAL: OG Image Is the Logo (512×512), Not a Proper Social Preview
 
-**Recommended fix:** Add a sticky header with:
+`layout.tsx` sets the OG image to `/portfolio/logo.png` at 512×512. The recommended size for social sharing is **1200×630px** (landscape). A square logo as the OG image will:
 
-- Author name/logo on the left
-- Anchor links: `#series` and `#author`
-- An Amazon or contact CTA on the right
-- Hamburger menu on mobile
+- Be cropped or letterboxed on Twitter/X (which expects 2:1 ratio)
+- Look unprofessional compared to competitors when shared on LinkedIn or Facebook
+- Miss the opportunity to show actual cover work in the preview
 
----
-
-### 2.5 — MEDIUM: No Contact Method or Social Links
-
-The footer has no email address, no social media links, no contact method of any kind. The only external links are to the three series websites and Amazon. If a reader, journalist, publisher, or collaborator wants to reach Ketan Shukla, there is no way to do so from this site.
-
-**Recommended additions to footer:**
-
-- Email link (`mailto:` address)
-- Links to any active social profiles (X/Twitter, Goodreads, Instagram)
-- **Goodreads is especially important for fiction authors** — readers check Goodreads before buying. A Goodreads author page with all 22 books listed is free and drives real discovery.
+**Fix:** Create a 1200×630px branded image — ideally showing the Metronagon logo on the left and 3–4 of the best cover examples on the right, with the tagline "The Measure of Excellence." Save as `/public/og-image.jpg` and update `layout.tsx` to reference it with correct dimensions.
 
 ---
 
-### 2.6 — MEDIUM: No Analytics
+### 2.2 — CRITICAL: Blog Posts Are Stubs — No Actual Content
 
-No Vercel Analytics, no Google Analytics, no Plausible. There is no way to know how many people visit, which books they click, or whether they follow through to Amazon.
+The blog page lists 8 posts with titles, excerpts, and slugs. But clicking any post links to `/blog/[slug]` — and there is a `[slug]/` directory but no actual page content has been read. If these are empty or placeholder pages, any visitor who clicks a blog post from Google search will land on a blank or 404 page. This is a serious SEO and credibility problem.
 
-**Recommended fix:** Add `@vercel/analytics` — one `npm install` and one import in `layout.tsx`. Free on Vercel Hobby plan. Gives page views, traffic sources, and top pages automatically.
-
----
-
-### 2.7 — LOW: `favicon.svg` Referenced But Doesn't Exist
-
-`layout.tsx` has `icons: { icon: "/favicon.svg" }` but the only favicon file in `src/app/` is `favicon.ico`. The SVG favicon 404s silently — the browser tab shows no icon.
-
-**Fix:** Change to `icons: { icon: "/favicon.ico" }` — one character change.
+**Action needed:** Verify whether `/blog/[slug]/page.tsx` exists and has real content for all 8 slugs. If not, either write the content or remove the blog links until they do.
 
 ---
 
-### 2.8 — LOW: Author Photo Appears Twice
+### 2.3 — HIGH: Pricing Has Increased Significantly — Verify Stripe Products Match
 
-The same `ketan-shukla.jpeg` appears in both the Hero section (128–160px circle at the very top) and the Author section further down (160px circle). On a single-page site this feels repetitive within a few scrolls.
+The original analysis noted prices like $99 (Standard cover) and $175 (Premium cover). The current services page shows $500 (Standard) and $750 (Premium) for covers — a 5× increase. Series Branding starts at $1,200. Full Pipeline starts at $1,800.
 
-**Options:**
+These are now **premium agency prices**, not freelancer prices. This is a legitimate positioning choice, but it means:
 
-- Remove the photo from the Hero and keep only the larger one in the Author section, OR
-- Use a different photo in one location
+- The target client has shifted from individual indie authors to more serious/funded authors or small publishers
+- The "22 published books" credibility story is even more important at these price points — clients paying $5,000 for a Full Pipeline Premium will research thoroughly
+- The lack of real client testimonials is now a more significant trust gap at these prices
 
----
+**Recommendations:**
 
-### 2.9 — LOW: Stats Are Duplicated (Hero + Author Section)
-
-Hero shows: 3 Series / 22 Books / 388 Chapters.
-Author section shows the same numbers in a 2×2 grid: 22 Books / 3 Series / 388 Chapters / 2 Genres.
-
-The reader sees the same stats twice within a few scrolls.
-
-**Recommended fix:** Remove the stats row from `Hero.tsx`. Keep the full stats grid only in `AuthorSection.tsx` where they have more context around them.
+1. Add a "Why These Prices?" section or FAQ entry explaining the value — what does $500 get you that a $75 Fiverr cover doesn't?
+2. Consider adding a comparison table showing Metronagon vs. typical alternatives (Fiverr, Reedsy, etc.) on quality, turnaround, and consistency
+3. At $1,800–$5,000 price points, a contact-first flow (rather than pay-first) may convert better — many clients at this level want to discuss before committing
 
 ---
 
-### 2.10 — LOW: "2 Genres" Stat Is the Weakest of the Four
+### 2.4 — HIGH: No Real Client Testimonials Still
 
-The Author section stats grid shows "2 Genres" as one of four key numbers. It's obvious from the content that there are fiction and non-fiction books — this stat doesn't impress or inform.
+The Case Studies page shows Ketan's own work (Aztec, Repetition, Reality, Children's book). This is honest and correct. But at $500–$5,000 price points, potential clients will want to see that other people have paid for and been happy with this service. The absence of any external validation is the single biggest trust gap for a business at this stage.
 
-**Better replacement options:**
+**Recommendations:**
 
-- **50** Non-fiction chapters (Reality + Repetition combined)
-- **288** Aztec chapters (impressive standalone number)
-- **3** Acts (Aztec structure — more evocative than "2 genres")
-- Drop the 4th stat and use a 3-column grid instead
-
----
-
-### 2.11 — LOW: Series Order Buries the Purchasable Books
-
-Current order: **Aztec → Repetition → Reality**
-
-Aztec is the longest (12 books, 3 box sets, 3 landscape images) and takes up the most vertical space. A visitor scrolls through all of Aztec before reaching the non-fiction series — which are the only ones with active Amazon buy links and real purchase potential right now.
-
-**Suggested order:** Reality → Repetition → Aztec (or Repetition → Reality → Aztec), with Aztec last since it has no buy links yet. This puts the purchasable books first.
+1. **Actively seek first clients at a discount** — offer 2–3 projects at 50% off in exchange for a detailed testimonial and permission to feature the work. One real client testimonial is worth more than any amount of portfolio work.
+2. **Add a "First Client" or "Beta Client" offer** — a visible banner or section: "We're accepting 3 founding clients at 40% off. In exchange, we ask for an honest review." This turns the lack of testimonials into a feature.
+3. **Add a Reedsy profile** — Reedsy has a built-in review system and is where serious indie authors look for cover designers. A Reedsy profile with even 1–2 reviews is powerful social proof.
 
 ---
 
-### 2.12 — LOW: No OG Cover Image Asset Exists
+### 2.5 — HIGH: "See Our Work" and "View Services" Buttons Are Identical Style on Homepage
 
-Once OG tags are added (see 2.1), a 1200×630px branded image is needed for social sharing previews. No such image currently exists in `public/`. This should show the author name, a selection of book covers, and the tagline. Without it, social shares show a blank preview even after adding the OG metadata.
+On the homepage hero, both CTAs ("View Services" and "See Our Work") use the exact same gold button style. Standard UX practice is to have a **primary CTA** (gold/filled) and a **secondary CTA** (outlined/ghost). When both buttons look the same, neither stands out.
+
+**Fix:** Make "View Services" the primary (gold filled, as it is now) and "See Our Work" the secondary (outlined with gold border, transparent background). This creates a clear visual hierarchy and guides the eye to the higher-converting action.
+
+---
+
+### 2.6 — HIGH: Services Page Uses `"use client"` But Exports `Metadata`
+
+`src/app/services/page.tsx` has both `"use client"` at the top (line 1) and `import type { Metadata } from "next"` with a `metadata` export (lines 3–4). **This is invalid in Next.js App Router** — Client Components cannot export metadata. The metadata export will be silently ignored, meaning the services page has no SEO title or description despite the code appearing to set one.
+
+**Fix:** Extract the accordion (`UpdatesAccordion`) into a separate `"use client"` component file, then make `services/page.tsx` a Server Component (remove `"use client"`) so the `metadata` export works correctly.
+
+---
+
+### 2.7 — MEDIUM: No Email Capture / Lead Generation
+
+The only conversion path is: visit → pay. There is no email signup, no lead magnet, no newsletter. Most visitors — especially at $500–$5,000 price points — will not buy on first visit. They need multiple touchpoints.
+
+**Recommendations:**
+
+1. Add a free lead magnet: "Free PDF: 7 Cover Design Mistakes That Kill Book Sales" — this is directly supported by the existing blog content
+2. Add an email capture form using Kit/ConvertKit (free up to 10K subscribers) on the homepage and at the end of blog posts
+3. A simple "Get our free cover design checklist" opt-in would capture warm leads who aren't ready to buy yet
+
+---
+
+### 2.8 — MEDIUM: No Reedsy Profile
+
+Reedsy is the #1 marketplace where serious indie authors find cover designers. It has a built-in review system, vetted professional status, and direct client leads. It was identified as the #1 marketing priority in the original analysis and still hasn't been actioned.
+
+**This is the highest-ROI marketing action available.** A Reedsy profile with the existing portfolio would immediately put Metronagon in front of authors actively looking to hire.
+
+---
+
+### 2.9 — MEDIUM: FAQ Has a Pricing Inconsistency
+
+The FAQ answer for "Can I expand my series later?" says: _"Or purchase individual Add New Book Cover updates ($85) anytime."_ But the Updates & Revisions accordion lists "Add New Book Cover" at **$400**. The FAQ is wrong by a factor of ~5×.
+
+**Fix:** Update the FAQ answer to say $400, or update the Updates section to $85 — whichever is the intended price.
+
+---
+
+### 2.10 — MEDIUM: "How It Works" Section Appears Twice
+
+The "How It Works" 4-step section appears on both the **homepage** and the **services page**. The content is nearly identical. On the services page it makes sense (it's contextually relevant to the purchase flow). On the homepage it's redundant — a visitor who goes from homepage to services sees it twice within the same session.
+
+**Fix:** Remove "How It Works" from the homepage and keep it only on the services page. Replace it on the homepage with something that adds new information — e.g., a "What You Get" visual breakdown or a featured before/after.
+
+---
+
+### 2.11 — LOW: Homepage Has Two Gold Buttons in Hero That Both Go to `/services`
+
+Looking at the homepage hero code: the "View Services" button links to `/services` and the "See Our Work" button links to `/examples`. That's correct. But the styling issue (2.5 above) makes them look like duplicates.
+
+---
+
+### 2.12 — LOW: Footer Copyright Says "Metronagon" Not "Metronagon Media"
+
+The footer copyright line reads `© 2026 Metronagon. All rights reserved.` but the brand name used everywhere else is "Metronagon Media." Minor inconsistency — should be consistent.
+
+---
+
+### 2.13 — LOW: No Pinterest Business Account
+
+Pinterest is the #2 marketing priority from the original analysis (after Reedsy) and still hasn't been actioned. Book cover designers do extremely well on Pinterest — it's a visual discovery platform where authors actively search for cover inspiration and find designers.
 
 ---
 
 ## Part 3: Priority Ranking
 
-| Priority | Issue                                              | Effort   | Impact               |
-| -------- | -------------------------------------------------- | -------- | -------------------- |
-| 🔴 1     | Add OG / Twitter / sitemap / robots / JSON-LD      | Low      | Very High            |
-| 🔴 2     | Fix Aztec buy buttons (hide or show "Coming Soon") | Very Low | High                 |
-| 🔴 3     | Add buy buttons inside BookModal                   | Low      | High                 |
-| 🟡 4     | Add sticky navigation header                       | Medium   | High                 |
-| 🟡 5     | Add contact email + social links to footer         | Very Low | Medium               |
-| 🟡 6     | Add Vercel Analytics                               | Very Low | Medium               |
-| 🟡 7     | Reorder series (Reality/Repetition before Aztec)   | Very Low | Medium               |
-| 🟢 8     | Fix favicon reference (svg → ico)                  | Very Low | Low                  |
-| 🟢 9     | Remove duplicate stats from Hero                   | Very Low | Low                  |
-| 🟢 10    | Remove duplicate author photo from Hero            | Very Low | Low                  |
-| 🟢 11    | Replace "2 Genres" stat with something stronger    | Very Low | Low                  |
-| 🟢 12    | Add Goodreads author profile link                  | Low      | Medium               |
-| 🟢 13    | Create OG cover image (1200×630px)                 | Medium   | High (needed for #1) |
+| Priority | Issue                                                     | Effort   | Impact    |
+| -------- | --------------------------------------------------------- | -------- | --------- |
+| 🔴 1     | Fix OG image to 1200×630px landscape                      | Low      | High      |
+| 🔴 2     | Verify/write blog post content (slug pages)               | High     | Very High |
+| 🔴 3     | Fix services page metadata (remove "use client" conflict) | Low      | High      |
+| 🔴 4     | Fix FAQ pricing inconsistency ($85 vs $400)               | Very Low | Medium    |
+| 🟡 5     | Get first real client testimonials (discount offer)       | Medium   | Very High |
+| 🟡 6     | Create Reedsy profile                                     | Medium   | Very High |
+| 🟡 7     | Add email capture / lead magnet                           | Medium   | High      |
+| 🟡 8     | Fix homepage CTA button hierarchy (primary vs secondary)  | Very Low | Medium    |
+| 🟡 9     | Add "Why These Prices?" explanation on services page      | Low      | High      |
+| 🟢 10    | Remove duplicate "How It Works" from homepage             | Very Low | Low       |
+| 🟢 11    | Fix footer copyright "Metronagon" → "Metronagon Media"    | Very Low | Low       |
+| 🟢 12    | Create Pinterest Business account                         | Medium   | High      |
 
 ---
 
-## Part 4: Quick Wins (Can Be Done Immediately)
+## Part 4: Quick Wins (Can Be Done Right Now)
 
-All of these are small, safe, high-value changes requiring minimal code:
-
-1. **Fix favicon** — change `icon: "/favicon.svg"` to `icon: "/favicon.ico"` in `layout.tsx`
-2. **Hide Aztec buy buttons** — in `BookCard`, render "Coming Soon" when `kindleUrl === ""`
-3. **Add buy buttons to BookModal** — Kindle + Paperback links at bottom of modal, shown only when URLs are non-empty
-4. **Remove duplicate stats from Hero** — delete the stats row from `Hero.tsx`
-5. **Reorder series** — swap array order in `seriesData.ts` to Reality → Repetition → Aztec
-6. **Add email to footer** — one `<a href="mailto:...">` in `Footer.tsx`
-7. **Add Vercel Analytics** — `npm i @vercel/analytics`, one import in `layout.tsx`
+1. **Fix FAQ pricing** — change `$85` to `$400` in the services page FAQ answer
+2. **Fix footer copyright** — change `Metronagon` to `Metronagon Media`
+3. **Fix homepage CTA hierarchy** — make "See Our Work" an outlined/ghost button
+4. **Create OG image** — 1200×630px branded image, update `layout.tsx`
+5. **Fix services page metadata** — extract accordion to client component, make page a Server Component
