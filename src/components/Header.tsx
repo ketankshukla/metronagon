@@ -33,7 +33,7 @@ export default function Header() {
             Examples
           </Link>
           <Link
-            href="/testimonials"
+            href="/case-studies"
             className="text-sm font-medium text-muted transition-colors hover:text-foreground"
           >
             Case Studies
@@ -84,7 +84,7 @@ export default function Header() {
               Examples
             </Link>
             <Link
-              href="/testimonials"
+              href="/case-studies"
               onClick={() => setMobileOpen(false)}
               className="rounded-lg px-4 py-3 text-sm font-medium text-muted transition-colors hover:bg-surface-lighter hover:text-foreground"
             >

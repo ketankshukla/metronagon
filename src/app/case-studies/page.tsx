@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import { ArrowRight, Layers, X } from "lucide-react";
+import { ArrowRight, ExternalLink, Layers, X } from "lucide-react";
 
 type CoverImage = { src: string; title: string };
 
@@ -12,6 +12,7 @@ type PortfolioSeries = {
   label: string;
   tagline: string;
   accentColor: string;
+  siteUrl: string;
   logo: CoverImage;
   seriesCover: CoverImage;
   boxSets?: CoverImage[];
@@ -25,8 +26,9 @@ const portfolioData: PortfolioSeries[] = [
     label: "Aztec Samurai Adventures",
     tagline: "12-Book Epic Fantasy Series",
     accentColor: "#40e0d0",
+    siteUrl: "https://aztec.ketanshukla.com/",
     logo: {
-      src: "/portfolio/aztec/series-logo.jpg",
+      src: "/portfolio/aztec/series-logo.png",
       title: "Aztec Samurai Adventures — Series Logo",
     },
     seriesCover: {
@@ -48,65 +50,23 @@ const portfolioData: PortfolioSeries[] = [
       },
     ],
     books: [
-      {
-        src: "/portfolio/aztec/covers/book1-cover.jpg",
-        title: "Book I — Sunblade Rising",
-      },
-      {
-        src: "/portfolio/aztec/covers/book2-cover.jpg",
-        title: "Book II — The Mirror Siege",
-      },
-      {
-        src: "/portfolio/aztec/covers/book3-cover.jpg",
-        title: "Book III — Ash Oaths",
-      },
-      {
-        src: "/portfolio/aztec/covers/book4-cover.jpg",
-        title: "Book IV — The Starless Crown",
-      },
-      {
-        src: "/portfolio/aztec/covers/book5-cover.jpg",
-        title: "Book V — The Serpent's Gambit",
-      },
-      {
-        src: "/portfolio/aztec/covers/book6-cover.jpg",
-        title: "Book VI — Rain of Obsidian",
-      },
-      {
-        src: "/portfolio/aztec/covers/book7-cover.jpg",
-        title: "Book VII — Feathers and Bone",
-      },
-      {
-        src: "/portfolio/aztec/covers/book8-cover.jpg",
-        title: "Book VIII — The Shattered Blade",
-      },
-      {
-        src: "/portfolio/aztec/covers/book9-cover.jpg",
-        title: "Book IX — The Forge of Souls",
-      },
-      {
-        src: "/portfolio/aztec/covers/book10-cover.jpg",
-        title: "Book X — The Mirror Queen",
-      },
-      {
-        src: "/portfolio/aztec/covers/book11-cover.jpg",
-        title: "Book XI — Crown of Stars",
-      },
-      {
-        src: "/portfolio/aztec/covers/book12-cover.jpg",
-        title: "Book XII — The Sun That Never Sets",
-      },
+      { src: "/portfolio/aztec/covers/book1-cover.jpg", title: "Book I — Sunblade Rising" },
+      { src: "/portfolio/aztec/covers/book2-cover.jpg", title: "Book II — The Mirror Siege" },
+      { src: "/portfolio/aztec/covers/book3-cover.jpg", title: "Book III — Ash Oaths" },
+      { src: "/portfolio/aztec/covers/book4-cover.jpg", title: "Book IV — The Starless Crown" },
+      { src: "/portfolio/aztec/covers/book5-cover.jpg", title: "Book V — The Serpent's Gambit" },
+      { src: "/portfolio/aztec/covers/book6-cover.jpg", title: "Book VI — Rain of Obsidian" },
+      { src: "/portfolio/aztec/covers/book7-cover.jpg", title: "Book VII — Feathers and Bone" },
+      { src: "/portfolio/aztec/covers/book8-cover.jpg", title: "Book VIII — The Shattered Blade" },
+      { src: "/portfolio/aztec/covers/book9-cover.jpg", title: "Book IX — The Forge of Souls" },
+      { src: "/portfolio/aztec/covers/book10-cover.jpg", title: "Book X — The Mirror Queen" },
+      { src: "/portfolio/aztec/covers/book11-cover.jpg", title: "Book XI — Crown of Stars" },
+      { src: "/portfolio/aztec/covers/book12-cover.jpg", title: "Book XII — The Sun That Never Sets" },
     ],
     characters: [
       { src: "/portfolio/aztec/characters/01-Itzil.jpg", title: "Itzil" },
-      {
-        src: "/portfolio/aztec/characters/03-Volzentar.jpg",
-        title: "Volzentar",
-      },
-      {
-        src: "/portfolio/aztec/characters/05-Nightshade.jpg",
-        title: "Nightshade",
-      },
+      { src: "/portfolio/aztec/characters/03-Volzentar.jpg", title: "Volzentar" },
+      { src: "/portfolio/aztec/characters/05-Nightshade.jpg", title: "Nightshade" },
       { src: "/portfolio/aztec/characters/07-Neyla.jpg", title: "Neyla" },
       { src: "/portfolio/aztec/characters/09-Miyako.jpg", title: "Miyako" },
       { src: "/portfolio/aztec/characters/14-Rainara.jpg", title: "Rainara" },
@@ -119,6 +79,7 @@ const portfolioData: PortfolioSeries[] = [
     label: "Reality Without Belief",
     tagline: "5-Book Philosophical Essay Series",
     accentColor: "#00CED1",
+    siteUrl: "https://reality.ketanshukla.com/",
     logo: {
       src: "/portfolio/reality/series-logo-reality-without-belief.jpg",
       title: "Reality Without Belief — Series Logo",
@@ -128,26 +89,11 @@ const portfolioData: PortfolioSeries[] = [
       title: "Reality Without Belief — Complete Series",
     },
     books: [
-      {
-        src: "/portfolio/reality/book1-cover.jpg",
-        title: "Book I — The Anatomy of Belief",
-      },
-      {
-        src: "/portfolio/reality/book2-cover.jpg",
-        title: "Book II — The Nature of What Is So",
-      },
-      {
-        src: "/portfolio/reality/book3-cover.jpg",
-        title: "Book III — The Theater of Conviction",
-      },
-      {
-        src: "/portfolio/reality/book4-cover.jpg",
-        title: "Book IV — The Practice of Clear Seeing",
-      },
-      {
-        src: "/portfolio/reality/book5-cover.jpg",
-        title: "Book V — The Quiet Exit",
-      },
+      { src: "/portfolio/reality/book1-cover.jpg", title: "Book I — The Anatomy of Belief" },
+      { src: "/portfolio/reality/book2-cover.jpg", title: "Book II — The Nature of What Is So" },
+      { src: "/portfolio/reality/book3-cover.jpg", title: "Book III — The Theater of Conviction" },
+      { src: "/portfolio/reality/book4-cover.jpg", title: "Book IV — The Practice of Clear Seeing" },
+      { src: "/portfolio/reality/book5-cover.jpg", title: "Book V — The Quiet Exit" },
     ],
   },
   {
@@ -155,6 +101,7 @@ const portfolioData: PortfolioSeries[] = [
     label: "Repetition: Mother of Mastery",
     tagline: "5-Book Self-Improvement Series",
     accentColor: "#d4a843",
+    siteUrl: "https://repetition.ketanshukla.com/",
     logo: {
       src: "/portfolio/repetition/series-logo-repetition-mother-of-mastery.jpg",
       title: "Repetition: Mother of Mastery — Series Logo",
@@ -164,26 +111,11 @@ const portfolioData: PortfolioSeries[] = [
       title: "Repetition: Mother of Mastery — Complete Series",
     },
     books: [
-      {
-        src: "/portfolio/repetition/book1-cover.jpg",
-        title: "Book I — The Foundation of Mastery",
-      },
-      {
-        src: "/portfolio/repetition/book2-cover.jpg",
-        title: "Book II — The Habit Engine",
-      },
-      {
-        src: "/portfolio/repetition/book3-cover.jpg",
-        title: "Book III — Mastery in Action",
-      },
-      {
-        src: "/portfolio/repetition/book4-cover.jpg",
-        title: "Book IV — The Cognitive Edge",
-      },
-      {
-        src: "/portfolio/repetition/book5-cover.jpg",
-        title: "Book V — Living Mastery",
-      },
+      { src: "/portfolio/repetition/book1-cover.jpg", title: "Book I — The Foundation of Mastery" },
+      { src: "/portfolio/repetition/book2-cover.jpg", title: "Book II — The Habit Engine" },
+      { src: "/portfolio/repetition/book3-cover.jpg", title: "Book III — Mastery in Action" },
+      { src: "/portfolio/repetition/book4-cover.jpg", title: "Book IV — The Cognitive Edge" },
+      { src: "/portfolio/repetition/book5-cover.jpg", title: "Book V — Living Mastery" },
     ],
   },
 ];
@@ -199,9 +131,10 @@ export default function CaseStudiesPage() {
         <div className="relative mx-auto max-w-6xl px-6 pb-12 pt-24 md:pt-32">
           <div className="mx-auto max-w-2xl text-center">
             <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
-              Portfolio <span className="gold-gradient-text">Case Studies</span>
+              Portfolio{" "}
+              <span className="gold-gradient-text">Case Studies</span>
             </h1>
-            <p className="mt-4 text-lg text-muted">
+            <p className="mt-4 text-base text-muted md:text-lg">
               Real projects, real results. Every project below was produced
               using the exact same creative pipeline available to our clients.
             </p>
@@ -210,14 +143,14 @@ export default function CaseStudiesPage() {
       </section>
 
       {/* Case Studies */}
-      <section className="py-16 md:py-20">
-        <div className="mx-auto max-w-6xl px-6">
+      <section className="py-12 md:py-20">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6">
           <div className="mb-10 flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
               <Layers size={18} className="text-gold" />
             </div>
             <div>
-              <h2 className="text-2xl font-bold tracking-tight">
+              <h2 className="text-xl font-bold tracking-tight md:text-2xl">
                 3 Complete Series — Real Published Work
               </h2>
               <p className="text-xs text-muted">Click any image to enlarge</p>
@@ -229,39 +162,49 @@ export default function CaseStudiesPage() {
               key={series.id}
               className={
                 seriesIdx < portfolioData.length - 1
-                  ? "mb-24 border-b border-border pb-24"
+                  ? "mb-20 border-b border-border pb-20 md:mb-24 md:pb-24"
                   : ""
               }
             >
               {/* Series header */}
               <div
-                className="mb-8 rounded-2xl border p-6"
+                className="mb-6 rounded-2xl border p-4 sm:p-6"
                 style={{
                   borderColor: `${series.accentColor}33`,
                   backgroundColor: `${series.accentColor}08`,
                 }}
               >
-                <div className="flex items-center gap-3">
-                  <div
-                    className="h-3 w-3 rounded-full"
-                    style={{ backgroundColor: series.accentColor }}
-                  />
-                  <div>
-                    <h3
-                      className="text-xl font-bold"
-                      style={{ color: series.accentColor }}
-                    >
-                      {series.label}
-                    </h3>
-                    <p className="text-xs text-muted mt-0.5">
-                      {series.tagline}
-                    </p>
+                <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+                  <div className="flex items-center gap-3">
+                    <div
+                      className="h-3 w-3 shrink-0 rounded-full"
+                      style={{ backgroundColor: series.accentColor }}
+                    />
+                    <div>
+                      <h3
+                        className="text-lg font-bold sm:text-xl"
+                        style={{ color: series.accentColor }}
+                      >
+                        {series.label}
+                      </h3>
+                      <p className="text-xs text-muted mt-0.5">{series.tagline}</p>
+                    </div>
                   </div>
+                  {/* Visit series website button */}
+                  <a
+                    href={series.siteUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex shrink-0 items-center gap-2 rounded-lg border border-gold/30 bg-gold/10 px-4 py-2 text-sm font-semibold text-gold transition-all hover:bg-gold/20 hover:border-gold/50 hover:shadow-md hover:shadow-gold/10"
+                  >
+                    Visit the Series Website
+                    <ExternalLink size={14} />
+                  </a>
                 </div>
               </div>
 
               {/* 1. Logo — full width, black background, centered */}
-              <div className="mb-8">
+              <div className="mb-6 md:mb-8">
                 <p
                   className="mb-3 text-xs font-bold uppercase tracking-widest"
                   style={{ color: series.accentColor }}
@@ -285,7 +228,7 @@ export default function CaseStudiesPage() {
               </div>
 
               {/* 2. Complete Series Cover — full width */}
-              <div className="mb-8">
+              <div className="mb-6 md:mb-8">
                 <p
                   className="mb-3 text-xs font-bold uppercase tracking-widest"
                   style={{ color: series.accentColor }}
@@ -308,7 +251,7 @@ export default function CaseStudiesPage() {
 
               {/* 3. Box Sets — side by side, natural ratio, no cropping */}
               {series.boxSets && series.boxSets.length > 0 && (
-                <div className="mb-8">
+                <div className="mb-6 md:mb-8">
                   <p
                     className="mb-3 text-xs font-bold uppercase tracking-widest"
                     style={{ color: series.accentColor }}
@@ -316,10 +259,10 @@ export default function CaseStudiesPage() {
                     Box Set Covers
                   </p>
                   <div
-                    className={`grid gap-4 ${
+                    className={`grid gap-3 ${
                       series.boxSets.length === 3
-                        ? "grid-cols-3"
-                        : "grid-cols-2"
+                        ? "grid-cols-1 sm:grid-cols-3"
+                        : "grid-cols-1 sm:grid-cols-2"
                     }`}
                   >
                     {series.boxSets.map((image) => (
@@ -344,16 +287,37 @@ export default function CaseStudiesPage() {
                 </div>
               )}
 
-              {/* 4. Individual Book Covers — span full width */}
-              <div className="mb-8">
+              {/* 4. Individual Book Covers — span full width, responsive */}
+              <div className="mb-6 md:mb-8">
                 <p
                   className="mb-3 text-xs font-bold uppercase tracking-widest"
                   style={{ color: series.accentColor }}
                 >
                   Book Covers — All {series.books.length} Books
                 </p>
+                {/* Mobile: 3-col grid. Desktop: all books in one row */}
+                <div className="grid grid-cols-3 gap-2 sm:hidden">
+                  {series.books.map((image) => (
+                    <button
+                      key={image.src}
+                      onClick={() => setLightboxImage(image)}
+                      className="group relative overflow-hidden rounded-lg border border-border bg-surface-light transition-all hover:border-gold/30"
+                    >
+                      <div className="aspect-[2/3] relative">
+                        <Image
+                          src={image.src}
+                          alt={image.title}
+                          fill
+                          sizes="33vw"
+                          className="object-cover transition-transform duration-300 group-hover:scale-105"
+                        />
+                      </div>
+                    </button>
+                  ))}
+                </div>
+                {/* Desktop: all in one row spanning full width */}
                 <div
-                  className="grid gap-3"
+                  className="hidden sm:grid gap-2"
                   style={{
                     gridTemplateColumns: `repeat(${series.books.length}, minmax(0, 1fr))`,
                   }}
@@ -369,12 +333,12 @@ export default function CaseStudiesPage() {
                           src={image.src}
                           alt={image.title}
                           fill
-                          sizes="(max-width: 768px) 20vw, 8vw"
+                          sizes="(max-width: 1024px) 12vw, 8vw"
                           className="object-cover transition-transform duration-300 group-hover:scale-105"
                         />
                       </div>
-                      <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-2 pt-6">
-                        <p className="text-xs font-medium text-white leading-tight">
+                      <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-1 pt-4">
+                        <p className="text-[10px] font-medium text-white leading-tight">
                           {image.title}
                         </p>
                       </div>
@@ -393,7 +357,7 @@ export default function CaseStudiesPage() {
                     Character Portraits (sample of {series.characters.length}{" "}
                     from 30+)
                   </p>
-                  <div className="grid grid-cols-4 gap-3 sm:grid-cols-8">
+                  <div className="grid grid-cols-4 gap-2 sm:grid-cols-8">
                     {series.characters.map((image) => (
                       <button
                         key={image.src}
@@ -409,8 +373,8 @@ export default function CaseStudiesPage() {
                             className="object-cover transition-transform duration-300 group-hover:scale-105"
                           />
                         </div>
-                        <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-2 pt-6">
-                          <p className="text-xs font-medium text-white leading-tight">
+                        <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-1 pt-4">
+                          <p className="text-[10px] font-medium text-white leading-tight">
                             {image.title}
                           </p>
                         </div>
@@ -428,7 +392,8 @@ export default function CaseStudiesPage() {
       <section className="border-t border-border bg-surface py-16">
         <div className="mx-auto max-w-2xl px-6 text-center">
           <h2 className="text-2xl font-bold tracking-tight">
-            Want Results Like <span className="gold-gradient-text">These</span>?
+            Want Results Like{" "}
+            <span className="gold-gradient-text">These</span>?
           </h2>
           <p className="mt-3 text-sm text-muted">
             Every project above was created using the same pipeline and process

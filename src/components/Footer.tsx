@@ -138,7 +138,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/testimonials"
+                  href="/case-studies"
                   className="text-sm text-muted transition-colors hover:text-foreground"
                 >
                   Case Studies
