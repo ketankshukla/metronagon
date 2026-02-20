@@ -94,6 +94,7 @@ export default function RootLayout({
                     "https://www.facebook.com/metronagon/",
                     "https://www.youtube.com/@metronagon",
                     "https://www.tiktok.com/@metronagon",
+                    "https://reedsy.com/ketan-shukla",
                   ],
                 },
                 {

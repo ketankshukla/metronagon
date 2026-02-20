@@ -9,6 +9,14 @@ function XIcon({ size = 18 }: { size?: number }) {
   );
 }
 
+function ReedsyIcon({ size = 18 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor">
+      <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 2c4.418 0 8 3.582 8 8s-3.582 8-8 8-8-3.582-8-8 3.582-8 8-8zm-1 4v2H9v2h2v6h2v-6h2v-2h-2V8h-2z" />
+    </svg>
+  );
+}
+
 function TikTokIcon({ size = 18 }: { size?: number }) {
   return (
     <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor">
@@ -79,6 +87,15 @@ export default function Footer() {
                 className="text-muted transition-colors hover:text-gold"
               >
                 <TikTokIcon size={18} />
+              </a>
+              <a
+                href="https://reedsy.com/ketan-shukla"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Find us on Reedsy"
+                className="text-muted transition-colors hover:text-gold"
+              >
+                <ReedsyIcon size={18} />
               </a>
             </div>
           </div>
