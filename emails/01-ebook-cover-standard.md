@@ -1,4 +1,4 @@
-# Ebook Cover Design — Standard ($75)
+# Ebook Cover Design — Standard ($99)
 
 **Subject:** Your Ebook Cover Design — Let's Get Started!
 

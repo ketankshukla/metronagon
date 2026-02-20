@@ -1,4 +1,4 @@
-# Series Branding — Starter / 3 Books ($250)
+# Series Branding — Starter / 3 Books ($275)
 
 **Subject:** Your Series Branding Package — Let's Get Started!
 

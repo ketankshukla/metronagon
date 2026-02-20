@@ -1,4 +1,4 @@
-# Full Pipeline — Starter / 3 Books ($400)
+# Full Pipeline — Starter / 3 Books ($425)
 
 **Subject:** Your Full Pipeline Package — Let's Get Started!
 

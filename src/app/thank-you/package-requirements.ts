@@ -530,6 +530,73 @@ const packageData: Record<string, PackageInfo> = {
     ],
   },
 
+  "Plus Picture Book": {
+    delivery: "6 business days",
+    deliverables: [
+      "Story writing or adaptation",
+      "32 fully illustrated pages",
+      "Assembled PDF + individual page files",
+      "Print-ready formatted PDF",
+      "2 rounds of revisions",
+    ],
+    requirements: [
+      {
+        heading: "Story Details",
+        items: [
+          "Do you have a story written already? If yes, please attach it",
+          "Book concept — What is the story about? (3–5 sentences)",
+          "Target age group (e.g., 2–4, 4–6, 6–8)",
+          "Main character(s) — Name, age, appearance (hair, skin tone, clothing, distinguishing features, personality traits)",
+          "Supporting characters — Descriptions for each",
+          "Setting — Where does the story take place? Multiple settings? Describe each",
+          "Tone — Fun and silly, gentle, adventurous, educational?",
+          "Lesson or message — Is there a moral or theme?",
+          "Emotional arc — How should the reader feel at beginning vs. end?",
+        ],
+      },
+      {
+        heading: "Visual Direction",
+        items: [
+          'Art style preference (or "your call")',
+          "Color palette — Bright, soft pastels, warm earth tones, or specific colors?",
+          "Reference books or art — List 2–3 children's books whose illustration style you admire",
+          "Visual details that matter — Specific objects, animals, or elements that must appear",
+        ],
+      },
+      {
+        heading: "Text & Layout",
+        items: [
+          "How much text per page? (1–3 sentences is standard)",
+          "Any pages with no text? (Full-bleed illustration pages?)",
+          "Text placement preference — Overlaid on illustrations or separate area?",
+        ],
+      },
+      {
+        heading: "Print Details",
+        items: [
+          'Trim size — 8.5"×8.5" square, 8"×10" portrait, or 10"×8" landscape?',
+          "Print format — KDP Print Paperback or KDP Print Hardcover?",
+          "Hardcover or softcover?",
+        ],
+      },
+      {
+        heading: "Special Pages",
+        items: [
+          'Dedication page text (e.g., "For my little adventurer, Emma")',
+          "Back cover — Any text or tagline?",
+          "Any special requests? (Hidden details, inside jokes, Easter eggs)",
+        ],
+      },
+      {
+        heading: "Publishing Platform",
+        items: [
+          "Where will this be published? (Amazon Kindle Kids, KDP Print, IngramSpark?)",
+          'Trim size preference — Standard is 8.5" × 8.5" square',
+        ],
+      },
+    ],
+  },
+
   "Premium Picture Book": {
     delivery: "7 business days",
     deliverables: [
@@ -860,10 +927,14 @@ export function getPackageInfo(productName: string): PackageInfo | null {
     "architecture large": "Large (8+ Books)",
     "children standard": "Standard Picture Book",
     "childrens standard": "Standard Picture Book",
+    "children plus": "Plus Picture Book",
+    "childrens plus": "Plus Picture Book",
     "children premium": "Premium Picture Book",
     "childrens premium": "Premium Picture Book",
     "picture book standard": "Standard Picture Book",
+    "picture book plus": "Plus Picture Book",
     "picture book premium": "Premium Picture Book",
+    "children's plus": "Plus Picture Book",
     "pipeline starter": "Starter Pipeline (3 Books)",
     "pipeline standard": "Standard Pipeline (5 Books)",
     "pipeline premium": "Premium Pipeline (8+ Books)",
