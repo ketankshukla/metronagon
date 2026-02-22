@@ -388,7 +388,11 @@ PART F — IMAGE PROMPTS
   book-prompts/hero-image-prompt.txt
 
 PART G — PROJECT FILES
-  README.md (updated with real series information)
+  README.md — REPLACE the template README entirely with a project-specific README
+    that includes: series name, author name, series description, book list with
+    titles/subtitles, tech stack, quick start commands, project structure showing
+    actual book directories, deployment info, and links. This is NOT the template
+    README — it is a series-specific project README.
   book-series-plan.md (filled in with real series plan)
   video-prompts/heygen-trailer-template.md (customized for this series)
   video-scripts/book-marketing-template/marketing-video-script.md (customized)
@@ -505,7 +509,8 @@ src/
 ├── client-request-template.md                      ← BLANK TEMPLATE
 ├── {series-name}-client-request.md                ← CLIENT INPUT
 ├── {series-name}-content-generation-details.md    ← GENERATED (Phase 2)
-├── README.md                                       ← UPDATED
+├── workflow-new-book-series.md                     ← WORKFLOW (Cascade follows this)
+├── README.md                                       ← REPLACED (project-specific)
 ├── SETUP.md
 ├── book-series-template.md
 ├── package.json
