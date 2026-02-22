@@ -14,7 +14,8 @@
       "Bash(do touch:*)",
       "Bash(done)",
       "Bash(git init:*)",
-      "Bash(gh repo create:*)"
+      "Bash(gh repo create:*)",
+      "Bash(wc -l:*)"
     ]
   }
 }
