@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Services — Metronagon",
+  title: "Book Cover Design Packages & Pricing | Metronagon Media",
   description:
-    "Professional book cover design, series branding, and children's book illustration. View packages and pricing.",
+    "Browse Metronagon Media's book cover design packages — ebook covers, full wrap print covers, series branding, children's book illustration, and complete publishing pipelines for indie authors.",
 };
 
 export default function ServicesLayout({

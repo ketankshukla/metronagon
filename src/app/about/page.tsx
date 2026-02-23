@@ -16,9 +16,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "About — Metronagon",
+  title: "About Metronagon Media | Published Author & Book Cover Designer",
   description:
-    "The story behind Metronagon. 22 published books, 3 complete series, and a proven creative pipeline built for authors and publishers.",
+    "Metronagon Media is run by Ketan Shukla — a published Amazon KDP author with 22 books across 3 series, now offering professional book cover design, series branding, and children's illustration to indie authors.",
 };
 
 const milestones = [

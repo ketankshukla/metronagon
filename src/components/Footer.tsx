@@ -194,7 +194,17 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Metronagon Media. All rights
             reserved.
           </p>
-          <p className="text-xs text-muted/60">The Measure of Excellence</p>
+          <div className="flex items-center gap-4">
+            <a
+              href="https://ketanshukla.com"
+              rel="author"
+              className="text-xs text-muted/60 transition-colors hover:text-gold"
+            >
+              Ketan Shukla — Author Portfolio
+            </a>
+            <span className="text-xs text-muted/30">|</span>
+            <p className="text-xs text-muted/60">The Measure of Excellence</p>
+          </div>
         </div>
       </div>
     </footer>

@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Case Studies — Metronagon",
+  title:
+    "Book Cover Design Case Studies | Published Series Projects | Metronagon Media",
   description:
-    "Portfolio case studies from Metronagon Media. See how we built series branding, cover systems, and children's books for real published projects.",
+    "See how Metronagon Media built complete series branding, cover systems, and children's picture books for real published projects — including a 12-book fantasy epic and 32-page illustrated children's book.",
 };
 
 export default function CaseStudiesLayout({

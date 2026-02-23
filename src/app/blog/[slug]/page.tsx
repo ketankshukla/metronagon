@@ -7,6 +7,8 @@ const posts: Record<
   string,
   {
     title: string;
+    seoTitle: string;
+    seoDescription: string;
     readTime: string;
     category: string;
     content: string;
@@ -14,6 +16,10 @@ const posts: Record<
 > = {
   "how-i-designed-12-consistent-covers-for-a-fantasy-series": {
     title: "How We Designed 12 Consistent Covers for a Fantasy Series",
+    seoTitle:
+      "How to Design Consistent Book Covers for a Fantasy Series | Metronagon",
+    seoDescription:
+      "Step-by-step process for designing 12 visually consistent book covers for the Aztec Samurai Adventures fantasy series — style guides, iteration, and series branding.",
     readTime: "8 min read",
     category: "Cover Design",
     content: `Creating a single stunning book cover is one challenge. Creating twelve that all feel like they belong in the same universe — while each remaining distinct and compelling — is an entirely different problem.
@@ -61,6 +67,10 @@ This is exactly the process we use for client series branding at Metronagon.`,
   },
   "planning-a-5-book-non-fiction-series-from-a-single-topic": {
     title: "Planning a 5-Book Non-Fiction Series from a Single Topic",
+    seoTitle:
+      "How to Plan a 5-Book Non-Fiction Series from One Topic | Metronagon",
+    seoDescription:
+      "Framework for expanding a single non-fiction topic into a complete 5-book series — from beginner foundations to expert mastery. Includes structure, continuity, and Amazon strategy.",
     readTime: "6 min read",
     category: "Series Planning",
     content: `Most non-fiction authors start with one book. They pour everything they know into it, publish, and move on. But the most successful non-fiction authors think in series — and the ones who plan their series before writing book one have a massive structural advantage.
@@ -110,6 +120,10 @@ This is the exact deliverable included in our Series Architecture packages.`,
   },
   "the-ai-powered-book-cover-pipeline": {
     title: "The Book Cover Pipeline: From Concept to Print",
+    seoTitle:
+      "Book Cover Design Pipeline: From Concept to Print-Ready KDP Cover | Metronagon",
+    seoDescription:
+      "Complete breakdown of the professional book cover pipeline — concept development, creative direction, design iterations, post-processing, and delivery for Amazon KDP publishing.",
     readTime: "10 min read",
     category: "Process",
     content: `The gap between a rough concept and a professional, print-ready book cover is enormous. This post breaks down every step of the pipeline that turns a concept into a cover ready for Amazon KDP — Kindle, Paperback, and Hardcover.
@@ -166,6 +180,10 @@ This is a production pipeline, not an experiment. Every step is repeatable, cons
   },
   "creating-30-character-portraits-with-consistent-style": {
     title: "Creating 30 Character Portraits with Consistent Style",
+    seoTitle:
+      "How to Create 30 Consistent Character Portraits for a Book Series | Metronagon",
+    seoDescription:
+      "How we created 30 visually consistent character portraits for the Aztec Samurai Adventures series using style anchoring, character sheets, and a unified post-processing pipeline.",
     readTime: "7 min read",
     category: "Character Design",
     content: `When the Aztec Samurai Adventures series needed character portraits for 30 distinct characters, the challenge wasn't creating individual images — it was making all 30 look like they existed in the same world.
@@ -199,6 +217,10 @@ This character consistency system is the same one we apply to children’s book 
   },
   "what-makes-a-book-cover-sell": {
     title: "What Makes a Book Cover Sell: Lessons from 22 Published Books",
+    seoTitle:
+      "What Makes a Book Cover Sell? Lessons from 22 Published Books | Metronagon",
+    seoDescription:
+      "Five proven principles that make book covers sell on Amazon — genre signaling, thumbnail readability, title legibility, color contrast, and series consistency. Based on 22 published books.",
     readTime: "9 min read",
     category: "Cover Design",
     content: `After designing covers for 22 books across three series — spanning fantasy fiction, self-improvement non-fiction, and philosophical essays — certain patterns become impossible to ignore.
@@ -246,6 +268,10 @@ These principles guide every cover we create at Metronagon.`,
   },
   "building-a-childrens-picture-book-with-ai-illustration": {
     title: "Building a Children’s Picture Book with Professional Illustration",
+    seoTitle:
+      "How to Create a 32-Page Children's Picture Book with Professional Illustration | Metronagon",
+    seoDescription:
+      "Complete guide to building a 32-page children's picture book — story structure, character design consistency, page-by-page production, and print-ready PDF assembly.",
     readTime: "12 min read",
     category: "Children's Books",
     content: `Creating a 32-page children’s picture book is one of the most complex projects in our pipeline. Unlike a single book cover, a picture book requires sustained character consistency, narrative visual flow, and production-quality output across every page.
@@ -297,6 +323,10 @@ This is the complete service offered in our Children's Picture Book packages.`,
   },
   "designing-childrens-paperback-covers-that-stand-out": {
     title: "Designing Children's Paperback Covers That Stand Out",
+    seoTitle:
+      "Children's Book Cover Design: How to Stand Out on Amazon | Metronagon",
+    seoDescription:
+      "How to design children's paperback covers that appeal to both kids and parents — color psychology by age, typography conventions, and the production process for Amazon KDP.",
     readTime: "8 min read",
     category: "Children's Books",
     content: `Children's paperback covers occupy a unique space in book design. Unlike adult fiction or non-fiction, a children's cover must simultaneously appeal to two completely different audiences: the child who wants to read the book, and the parent or teacher who decides to buy it.
@@ -361,6 +391,10 @@ This is exactly what's included in our Children's Ebook Cover packages at Metron
   },
   "designing-series-logos-that-anchor-a-brand": {
     title: "Designing Series Logos That Anchor a Brand",
+    seoTitle:
+      "Series Logo Design for Book Branding: Why Every Series Needs One | Metronagon",
+    seoDescription:
+      "Why a series logo is the most important branding asset for authors — with examples from four different series across fantasy, self-improvement, and philosophy.",
     readTime: "5 min read",
     category: "Branding",
     content: `A series logo is the single most important branding asset you create. It appears on every cover, every box set, every thumbnail, every social media post. It's the visual thread that ties everything together — and it needs to work at 16 pixels (favicon) and 1600 pixels (hero banner) with equal clarity.
@@ -906,17 +940,12 @@ export async function generateMetadata({
   const { slug } = await params;
   const post = posts[slug];
   if (!post) return { title: "Post Not Found — Metronagon" };
-  const firstParagraph = post.content.split("\n\n")[0].replace(/[#*_`]/g, "");
-  const description =
-    firstParagraph.length > 160
-      ? firstParagraph.slice(0, 157) + "..."
-      : firstParagraph;
   return {
-    title: `${post.title} — Metronagon Blog`,
-    description,
+    title: post.seoTitle,
+    description: post.seoDescription,
     openGraph: {
-      title: post.title,
-      description,
+      title: post.seoTitle,
+      description: post.seoDescription,
       type: "article",
     },
   };

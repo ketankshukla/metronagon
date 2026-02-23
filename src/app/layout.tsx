@@ -25,17 +25,17 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://metronagon.com"),
-  title: "Metronagon Media — The Measure of Excellence",
+  title: "Book Cover Design & Series Branding for Authors | Metronagon Media",
   description:
-    "Professional book cover design, series branding, and children's book illustration for authors and publishers.",
+    "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
   icons: {
     icon: "/icon.svg",
     apple: "/portfolio/logo.png",
   },
   openGraph: {
-    title: "Metronagon Media — The Measure of Excellence",
+    title: "Book Cover Design & Series Branding for Authors | Metronagon Media",
     description:
-      "Professional book cover design, series branding, and children's book illustration for authors and publishers.",
+      "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
     url: "https://metronagon.com",
     siteName: "Metronagon Media",
     locale: "en_US",
@@ -51,9 +51,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Metronagon Media — The Measure of Excellence",
+    title: "Book Cover Design & Series Branding for Authors | Metronagon Media",
     description:
-      "Professional book cover design, series branding, and children's book illustration for authors and publishers.",
+      "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
     images: ["/portfolio/logo.png"],
   },
 };
@@ -81,14 +81,41 @@ export default function RootLayout({
                   url: "https://metronagon.com",
                   logo: "https://metronagon.com/portfolio/logo.png",
                   description:
-                    "Professional book cover design, series branding, and children's book illustration for authors and publishers.",
+                    "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
                   email: "hello@metronagon.com",
                   priceRange: "$99–$1,400",
+                  founder: {
+                    "@type": "Person",
+                    name: "Ketan Shukla",
+                    url: "https://ketanshukla.com",
+                    jobTitle: "Book Cover Designer & Published Author",
+                    description:
+                      "Published Amazon KDP author with 22 books across 3 series. Founder of Metronagon Media, offering professional book cover design and publishing visuals to indie authors.",
+                    knowsAbout: [
+                      "Book Cover Design",
+                      "Series Branding",
+                      "Indie Publishing",
+                      "Amazon KDP",
+                      "Children's Book Illustration",
+                      "Self-Publishing",
+                    ],
+                    sameAs: ["https://ketanshukla.com"],
+                  },
                   serviceType: [
                     "Book Cover Design",
+                    "eBook Cover Design",
                     "Series Branding",
                     "Children's Book Illustration",
+                    "Box Set Cover Design",
+                    "Book Launch Marketing Graphics",
                   ],
+                  areaServed: "Worldwide",
+                  address: {
+                    "@type": "PostalAddress",
+                    addressLocality: "San Diego",
+                    addressRegion: "CA",
+                    addressCountry: "US",
+                  },
                   sameAs: [
                     "https://x.com/metronagon",
                     "https://www.facebook.com/metronagon/",
