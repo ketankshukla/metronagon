@@ -42,10 +42,10 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/portfolio/logo.png",
-        width: 512,
-        height: 512,
-        alt: "Metronagon Media logo",
+        url: "/images/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Metronagon Media — Book Cover Design, Series Branding & Children's Illustration",
       },
     ],
   },
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     title: "Book Cover Design & Series Branding for Authors | Metronagon Media",
     description:
       "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
-    images: ["/portfolio/logo.png"],
+    images: ["/images/og-image.png"],
   },
 };
 
