@@ -1,0 +1,19 @@
+Metronagon Media
+website - metronagon.com
+folder - e:\metronagon
+
+Author Portfilio
+website - ketankshukla.com
+folder - e:\author-portfolio
+
+Aztec Samurai Adventures Series
+website - aztec.ketanshukla.com
+folder: e:\aztec-samurai-Adventures
+
+Reality Without Belief Series website
+website - reality.ketanshukla.com
+folder: e:\reality-without-belief
+
+Repetition Mother of Mastery Series
+website - repetition.ketanshukla.com
+folder: e:\repetition-mother-of-mastery

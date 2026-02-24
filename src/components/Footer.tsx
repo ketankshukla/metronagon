@@ -185,6 +185,14 @@ export default function Footer() {
                   Get Started
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/privacy"
+                  className="text-sm text-muted transition-colors hover:text-foreground"
+                >
+                  Privacy Policy
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
