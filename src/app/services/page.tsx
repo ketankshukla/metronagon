@@ -2,7 +2,6 @@
 
 import type { Metadata } from "next";
 import Link from "next/link";
-import { useState } from "react";
 import {
   Palette,
   Layers,
@@ -28,7 +27,7 @@ const coverPackages = [
     name: "Standard",
     price: "$450",
     delivery: "3\u20135 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_STANDARD,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_FRONT_COVER_DESIGN_STANDARD,
     description:
       "Single front cover for Kindle or paperback \u2014 2 concepts, 1 polished final.",
     features: [
@@ -69,7 +68,7 @@ const coverPackages = [
     price: "$650",
     delivery: "5\u20137 business days",
     popular: true,
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_PREMIUM,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_FRONT_COVER_DESIGN_PREMIUM,
     description: "Premium front cover with 3 concepts and 2 revision rounds.",
     features: [
       {
@@ -112,7 +111,7 @@ const brandingPackages = [
     subtitle: "3 Books",
     price: "$1,400",
     delivery: "7\u201310 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STARTER,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_SERIES_BRANDING_STARTER,
     features: [
       {
         title: "3 front covers",
@@ -142,7 +141,7 @@ const brandingPackages = [
     price: "$2,200",
     delivery: "10\u201314 business days",
     popular: true,
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STANDARD,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_SERIES_BRANDING_STANDARD,
     features: [
       {
         title: "5 front covers",
@@ -171,7 +170,7 @@ const brandingPackages = [
     subtitle: "10 Books",
     price: "$3,500",
     delivery: "14\u201321 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_PREMIUM,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_SERIES_BRANDING_PREMIUM,
     features: [
       {
         title: "10 front covers",
@@ -202,7 +201,8 @@ const childrensPackages = [
     name: "Standard",
     price: "$1,800",
     delivery: "10\u201314 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
+    priceId:
+      process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PICTURE_BOOKS_STANDARD,
     description: "32 illustrated pages with front cover, assembled into a PDF.",
     features: [
       {
@@ -242,7 +242,7 @@ const childrensPackages = [
     price: "$2,400",
     delivery: "14\u201318 business days",
     popular: true,
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PLUS,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PICTURE_BOOKS_PLUS,
     description:
       "Print-ready picture book with front and back cover, 2 revision rounds.",
     features: [
@@ -282,7 +282,8 @@ const childrensPackages = [
     name: "Premium",
     price: "$3,200",
     delivery: "14\u201321 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PREMIUM,
+    priceId:
+      process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PICTURE_BOOKS_PREMIUM,
     description:
       "Premium picture book with character reference sheets and full print package.",
     features: [
@@ -326,7 +327,7 @@ const pipelinePackages = [
     subtitle: "3 Books",
     price: "$1,800",
     delivery: "7\u201310 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STARTER,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_FULL_PIPELINE_STARTER,
     features: [
       {
         title: "3 front covers",
@@ -361,7 +362,7 @@ const pipelinePackages = [
     price: "$2,800",
     delivery: "10\u201314 business days",
     popular: true,
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STANDARD,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_FULL_PIPELINE_STANDARD,
     features: [
       {
         title: "5 front covers",
@@ -395,7 +396,7 @@ const pipelinePackages = [
     subtitle: "10 Books",
     price: "$4,500",
     delivery: "14\u201321 business days",
-    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_PREMIUM,
+    priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_FULL_PIPELINE_PREMIUM,
     features: [
       {
         title: "10 front covers",
@@ -432,54 +433,80 @@ const updates = [
     price: "$75",
     desc: "Text fix, color adjustment, subtitle change",
     delivery: "1 business day",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_COVER_MINOR_REVISION,
   },
   {
     name: "Cover \u2014 Major Revision",
     price: "$250",
     desc: "New concept, different style, layout overhaul",
     delivery: "1 business day",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_COVER_MAJOR_REVISION,
   },
   {
     name: "Add New Book Cover",
     price: "$350",
     desc: "New front cover matching existing series style",
     delivery: "1 business day",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_ADD_NEW_BOOK_COVER,
   },
   {
     name: "Logo Refresh",
     price: "$200",
     desc: "Updated or redesigned series logo",
     delivery: "1 business day",
+    priceId:
+      process.env.NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_LOGO_REFRESH,
   },
   {
     name: "New Box Set Front Cover",
     price: "$200",
     desc: "Additional box set front cover image",
     delivery: "1 business day",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_NEW_BOX_SET_FRONT_COVER,
   },
   {
     name: "Book Description Update",
     price: "$75",
     desc: "Updated Amazon/retail description",
     delivery: "1 business day",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_BOOK_DESCRIPTION_UPDATE,
   },
   {
     name: "Children\u2019s Book \u2014 Page Edit",
     price: "$75/pg",
     desc: "Re-illustrated page with text updates",
     delivery: "1 day per page",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_CHILDRENS_BOOK_PAGE_EDIT,
   },
   {
     name: "Children\u2019s Book \u2014 Add Page",
     price: "$100/pg",
     desc: "New illustrated page in existing book",
     delivery: "1 day per page",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_CHILDRENS_BOOK_ADD_PAGE,
   },
   {
     name: "Children\u2019s Book \u2014 New Character",
     price: "$200",
     desc: "New character design in existing style",
     delivery: "1 business day",
+    priceId:
+      process.env
+        .NEXT_PUBLIC_STRIPE_PRICE_UPDATES_AND_REVISIONS_CHILDRENS_BOOK_NEW_CHARACTER,
   },
 ];
 
@@ -572,40 +599,35 @@ function PackageCard({
   );
 }
 
-function UpdatesAccordion() {
-  const [isOpen, setIsOpen] = useState(false);
-
+function UpdatesSection() {
   return (
-    <section className="border-t border-border bg-surface py-16">
+    <section
+      id="updates"
+      className="scroll-mt-20 border-t border-border bg-surface py-16"
+    >
       <div className="mx-auto max-w-6xl px-6">
-        <button
-          onClick={() => setIsOpen(!isOpen)}
-          className="flex w-full items-center justify-between gap-4"
-        >
-          <div className="flex items-center gap-4">
-            <div className="flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
-              <RotateCcw size={22} className="text-gold" />
-            </div>
-            <div className="text-left">
-              <h2 className="text-2xl font-bold">Updates & Revisions</h2>
-              <p className="text-sm text-muted">
-                Already a client? Purchase updates to existing work.
-              </p>
-            </div>
+        <div className="mb-10 flex items-center gap-4">
+          <div className="flex h-12 w-12 items-center justify-center rounded-xl border border-gold/20 bg-gold/5">
+            <RotateCcw size={22} className="text-gold" />
           </div>
-          <ChevronDown
-            size={24}
-            className={`shrink-0 text-gold transition-transform duration-200 ${
-              isOpen ? "rotate-180" : ""
-            }`}
-          />
-        </button>
-        {isOpen && (
-          <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {updates.map((item) => (
+          <div>
+            <h2 className="text-2xl font-bold">Updates & Revisions</h2>
+            <p className="text-sm text-muted">
+              Already a client? Purchase updates to existing work.
+            </p>
+          </div>
+        </div>
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {updates.map((item) => {
+            const checkoutHref = item.priceId
+              ? `/checkout?price=${item.priceId}&product=${encodeURIComponent(
+                  item.name
+                )}`
+              : "#contact";
+            return (
               <div
                 key={item.name}
-                className="rounded-xl border border-border bg-surface-light p-5"
+                className="flex flex-col rounded-xl border border-border bg-surface-light p-5"
               >
                 <div className="flex items-start justify-between gap-4">
                   <h3 className="text-sm font-semibold">{item.name}</h3>
@@ -620,10 +642,16 @@ function UpdatesAccordion() {
                     {item.delivery}
                   </span>
                 </div>
+                <Link
+                  href={checkoutHref}
+                  className="mt-4 flex items-center justify-center gap-2 rounded-lg bg-gold px-4 py-2 text-xs font-semibold text-background transition-all hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
+                >
+                  Purchase &mdash; {item.price}
+                </Link>
               </div>
-            ))}
-          </div>
-        )}
+            );
+          })}
+        </div>
       </div>
     </section>
   );
@@ -657,6 +685,7 @@ export default function ServicesPage() {
               { href: "#branding", icon: Layers, label: "Branding" },
               { href: "#childrens", icon: Baby, label: "Children's" },
               { href: "#pipeline", icon: Rocket, label: "Full Pipeline" },
+              { href: "#updates", icon: RotateCcw, label: "Updates" },
               { href: "#faq", icon: ChevronDown, label: "FAQ" },
             ].map((item) => (
               <a
@@ -774,8 +803,8 @@ export default function ServicesPage() {
         </div>
       </section>
 
-      {/* Updates & Revisions — Collapsible */}
-      <UpdatesAccordion />
+      {/* Updates & Revisions */}
+      <UpdatesSection />
 
       {/* Add-ons */}
       <section className="py-16">
