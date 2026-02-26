@@ -112,3 +112,43 @@ If you paste me **one** of your current long Amazon URLs, I’ll show you exactl
 | Book V   | Living Mastery            | https://amazon.com/dp/B0GP1XPM2B |
 
 ---
+
+## Aztec Samurai Adventures
+
+> **Series page:** https://www.amazon.com/dp/B0GPDGDV58
+
+### Kindle
+
+| Book      | Title                   | Link                                 |
+| --------- | ----------------------- | ------------------------------------ |
+| Book I    | Sunblade Rising         | https://www.amazon.com/dp/B0GPDH3C5B |
+| Book II   | The Mirror Siege        | https://www.amazon.com/dp/B0GP9NW42M |
+| Book III  | Ash Oaths               | https://www.amazon.com/dp/B0GPN6SNVQ |
+| Book IV   | The Starless Crown      | https://www.amazon.com/dp/B0GPN7Q1B2 |
+| Book V    | The Serpent's Gambit    | https://www.amazon.com/dp/B0GPN6L8M6 |
+| Book VI   | Rain of Obsidian        | https://www.amazon.com/dp/B0GPMBVC1B |
+| Book VII  | Feathers and Bone       | https://www.amazon.com/dp/B0GPNN49SY |
+| Book VIII | The Shattered Blade     | https://www.amazon.com/dp/B0GPNJ3MHK |
+| Book IX   | The Forge of Souls      | https://www.amazon.com/dp/B0GPNK9W5D |
+| Book X    | The Mirror Queen        | https://www.amazon.com/dp/B0GPNRBXMK |
+| Book XI   | Crown of Stars          | https://www.amazon.com/dp/B0GPN4WNB1 |
+| Book XII  | The Sun That Never Sets | https://www.amazon.com/dp/B0GPNM97PJ |
+
+### Paperback
+
+| Book      | Title                   | Link                                 |
+| --------- | ----------------------- | ------------------------------------ |
+| Book I    | Sunblade Rising         | https://www.amazon.com/dp/B0GPJN79DV |
+| Book II   | The Mirror Siege        | https://www.amazon.com/dp/B0GPP97B6S |
+| Book III  | Ash Oaths               | https://www.amazon.com/dp/B0GPPWBMKL |
+| Book IV   | The Starless Crown      | https://www.amazon.com/dp/B0GPQGD3NQ |
+| Book V    | The Serpent's Gambit    | https://www.amazon.com/dp/B0GPPP47ML |
+| Book VI   | Rain of Obsidian        | https://www.amazon.com/dp/B0GPPQ2PZR |
+| Book VII  | Feathers and Bone       | https://www.amazon.com/dp/B0GPPTRQGH |
+| Book VIII | The Shattered Blade     | https://www.amazon.com/dp/B0GPPNMHL8 |
+| Book IX   | The Forge of Souls      | https://www.amazon.com/dp/B0GPPRDRC9 |
+| Book X    | The Mirror Queen        | https://www.amazon.com/dp/B0GPQG1CNC |
+| Book XI   | Crown of Stars          | https://www.amazon.com/dp/B0GPQ9RXPP |
+| Book XII  | The Sun That Never Sets | _Pending_                            |
+
+---
