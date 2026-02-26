@@ -12,8 +12,8 @@ I create complete 32-page children's picture books:
 ✦ Print-ready PDF for Amazon KDP
 ✦ Pixar/Disney-inspired or any art style you want
 
-Standard — $500 (5-day delivery)
-Premium — $1,000 (7-day delivery, character ref sheet + print formatting)
+Standard — $1,800 (10–14 day delivery)
+Premium — $3,200 (14–21 day delivery, character ref sheet + print formatting)
 
 🔗 metronagon.com/services
 

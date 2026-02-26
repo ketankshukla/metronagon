@@ -9,9 +9,9 @@ New week. New covers.
 
 If your book needs a cover that actually sells, I'm taking orders this week.
 
-✦ Ebook covers from $75
-✦ Series branding from $250
-✦ Children's books from $500
+✦ Ebook covers from $450
+✦ Series branding from $1,400
+✦ Children's books from $1,800
 
 2–10 day delivery. Print-ready quality.
 
@@ -45,9 +45,9 @@ Don't design your covers one at a time. Design them as a brand.
 
 Series branding from Metronagon Media gives you consistent covers, a series logo, box set artwork, and a style guide — all unified.
 
-3 books: $250
-5 books: $500
-8+ books: $1,200
+3 books: $1,400
+5 books: $2,200
+10 books: $3,500
 
 🔗 metronagon.com/services
 

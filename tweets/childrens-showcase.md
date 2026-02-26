@@ -9,7 +9,7 @@ Every page. Every character. Every scene. Consistent art style from cover to cov
 
 This is what a professional children's book looks like when it's designed with intention — not cobbled together from random AI images.
 
-Children's picture books from $500 → metronagon.com/services
+Children's picture books from $1,800 → metronagon.com/services
 
 #ChildrensBooks #PictureBook #KidLit #KidLitArt #PictureBookArt #ChildrensAuthor #ChildrensIllustration #BookIllustration #Illustration #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #AIart #AIillustration #BookDesign #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #Storytime #ReadAloud #KidsBooks #ChildrensLiterature #PictureBookIllustration
 ```

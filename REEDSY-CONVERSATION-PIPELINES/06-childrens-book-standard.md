@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Children's Picture Book: Standard ($500)
+# Reedsy Conversation Pipeline — Children's Picture Book: Standard ($1,800)
 
 **Package:** Children's Picture Book — Standard
-**Price:** $500
-**Delivery:** 2 business days
+**Price:** $1,800
+**Delivery:** 10–14 business days
 **Revisions:** 1 round included
 **Deliverables:** 32 fully illustrated pages, front cover image, assembled PDF, individual page files
 
@@ -20,7 +20,7 @@
 
 > Hi! Absolutely — children's picture book illustration is one of my core services. I create all 32 page illustrations plus the cover, with consistent character design across every page.
 >
-> My Standard package is $500 and includes:
+> My Standard package is $1,800 and includes:
 >
 > - 32 fully illustrated pages in a consistent art style (Pixar/Disney-inspired or your preferred direction)
 > - Consistent character design — same appearance, proportions, and clothing on every page
@@ -65,7 +65,7 @@
 
 **YOU:**
 
-> The Standard package delivers a digital-ready PDF — perfect for Kindle ebook distribution. For **print-ready paperback** (with proper bleed, margins, and gutter for KDP Print), you'd want the **Plus package ($700)**, which includes:
+> The Standard package delivers a digital-ready PDF — perfect for Kindle ebook distribution. For **print-ready paperback** (with proper bleed, margins, and gutter for KDP Print), you'd want the **Plus package ($2,400)**, which includes:
 >
 > - Everything in Standard
 > - Front AND back cover images (not just front)
@@ -115,7 +115,7 @@
 >
 > The result: your main character looks like the same person on page 1 and page 32. Same goes for supporting characters.
 >
-> If you want to see this in action, my portfolio shows consistent character design across entire book series. The Premium package ($900) includes dedicated **character reference sheets** created before production begins, which takes consistency even further. But the Standard package uses the same anchoring technique — just without a separate reference sheet deliverable.
+> If you want to see this in action, my portfolio shows consistent character design across entire book series. The Premium package ($3,200) includes dedicated **character reference sheets** created before production begins, which takes consistency even further. But the Standard package uses the same anchoring technique — just without a separate reference sheet deliverable.
 
 ---
 
@@ -373,7 +373,7 @@ After the client expresses interest and before sending the creative brief, send 
 > 32 pages is the standard for a picture book, and it works best with 1-3 sentences per page. If your text runs longer, we have two options:
 >
 > 1. **Edit down** — Tighten the text to fit 32 pages. Most picture book stories benefit from being concise — let the illustrations carry the visual storytelling.
-> 2. **Add pages** — If the story truly needs more space, additional pages are available at $50/page (Children's Book — Add Page).
+> 2. **Add pages** — If the story truly needs more space, additional pages are available at $100/page (Children's Book — Add Page).
 >
 > I'd recommend option 1 first. Send me the text and I'll tell you how it fits within 32 pages and where you might trim.
 
@@ -463,7 +463,7 @@ After the client expresses interest and before sending the creative brief, send 
 > - What specifically feels rushed? (Less detail? Wrong scene? Composition too simple?)
 > - What would "not rushed" look like? (More background detail? More character expression? Different angle?)
 >
-> The more specific you are, the better I can fix everything in one pass. If some pages need complete reimagining beyond what one revision round covers, additional page edits are $35/page (Children's Book — Page Edit).
+> The more specific you are, the better I can fix everything in one pass. If some pages need complete reimagining beyond what one revision round covers, additional page edits are $75/page (Children's Book — Page Edit).
 
 ---
 
@@ -538,11 +538,11 @@ After the client expresses interest and before sending the creative brief, send 
 >
 > This is essentially upgrading to the Plus package scope. Two options:
 >
-> 1. **Plus upgrade — $200** (the difference between Standard at $500 and Plus at $700). You get: print-ready PDF, back cover illustration, and 2 revision rounds on the new deliverables.
+> 1. **Plus upgrade — $600** (the difference between Standard at $1,800 and Plus at $2,400). You get: print-ready PDF, back cover illustration, and 2 revision rounds on the new deliverables.
 >
 > 2. **Individual add-ons:** Back cover alone is custom (contact for quote), plus print formatting.
 >
-> The upgrade at $200 is the cleaner path. Want to proceed?
+> The upgrade at $600 is the cleaner path. Want to proceed?
 
 ---
 
@@ -556,8 +556,8 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Of course! If the text changes don't require new illustrations (just text swaps in the existing layout), I can update the PDF.
 >
-> - Minor text changes across the book: **$35** (Book Description Update pricing — since it's text-only work)
-> - If any text changes require illustration modifications (e.g., a new scene described), those are **$35/page** (Children's Book — Page Edit)
+> - Minor text changes across the book: **$75** (Book Description Update pricing — since it's text-only work)
+> - If any text changes require illustration modifications (e.g., a new scene described), those are **$75/page** (Children's Book — Page Edit)
 >
 > Send me the updated text and I'll let you know which category it falls under.
 
@@ -573,18 +573,18 @@ After the client expresses interest and before sending the creative brief, send 
 
 > I'd love to! Since we already have Milo's character design established, the sequel will be even smoother — I'll use the exact same character anchoring from Book 1 for perfect consistency.
 >
-> Same Standard package at $500, with the added benefit of locked-in character design from the first book.
+> Same Standard package at $1,800, with the added benefit of locked-in character design from the first book.
 >
-> Send me the story text and creative brief whenever you're ready. Returning clients get 10% off — so this would be **$450**.
+> Send me the story text and creative brief whenever you're ready. Returning clients get 10% off — so this would be **$1,620**.
 
 ---
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $500, you receive $450.
-- **Milestone structure:** For a $500 project, suggest 2 milestones:
-  - Milestone 1 ($250): Upfront to begin — character design and first pages
-  - Milestone 2 ($250): On delivery — remaining pages and assembled PDF
+- **Payment on Reedsy:** Reedsy takes 10%. On $1,800, you receive $1,620.
+- **Milestone structure:** For a $1,800 project, suggest 2 milestones:
+  - Milestone 1 ($900): Upfront to begin — character design and first pages
+  - Milestone 2 ($900): On delivery — remaining pages and assembled PDF
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

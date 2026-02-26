@@ -1,4 +1,4 @@
-# Series Architecture — Medium / 5 Books ($400)
+# Series Architecture — Medium / 5 Books ($2,800)
 
 **Subject:** Your Series Architecture Plan — Let's Get Started!
 

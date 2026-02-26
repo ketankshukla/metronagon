@@ -33,17 +33,17 @@ A 2" × 6" retractable banner design (print file only — printing and hardware 
 
 ## Pricing
 
-| Item | Price | Delivery |
-|------|-------|----------|
-| **Bookmark** — double-sided, print-ready | $150 | 2 business days |
-| **Postcard** — double-sided, print-ready | $125 | 2 business days |
-| **Poster** — 8.5×11" | $175 | 2 business days |
-| **Poster** — 11×17" | $200 | 2–3 business days |
-| **ARC Kit Insert Card** | $125 | 1–2 business days |
-| **Table Display Banner** — print file only | $250 | 3 business days |
-| **Full Event Kit** — bookmark + postcard + poster (8.5×11") | $375 | 3–4 business days |
-| **Complete Marketing Kit** — bookmark + postcard + two posters + ARC insert | $550 | 4–5 business days |
-| **Series Set** — same piece designed for all books in series (e.g., 5 bookmarks) | +50% over single price | +2 business days |
+| Item                                                                             | Price                  | Delivery          |
+| -------------------------------------------------------------------------------- | ---------------------- | ----------------- |
+| **Bookmark** — double-sided, print-ready                                         | $200                   | 2 business days   |
+| **Postcard** — double-sided, print-ready                                         | $125                   | 2 business days   |
+| **Poster** — 8.5×11"                                                             | $175                   | 2 business days   |
+| **Poster** — 11×17"                                                              | $200                   | 2–3 business days |
+| **ARC Kit Insert Card**                                                          | $125                   | 1–2 business days |
+| **Table Display Banner** — print file only                                       | $250                   | 3 business days   |
+| **Full Event Kit** — bookmark + postcard + poster (8.5×11")                      | $375                   | 3–4 business days |
+| **Complete Marketing Kit** — bookmark + postcard + two posters + ARC insert      | $550                   | 4–5 business days |
+| **Series Set** — same piece designed for all books in series (e.g., 5 bookmarks) | +50% over single price | +2 business days  |
 
 ---
 

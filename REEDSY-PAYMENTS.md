@@ -10,10 +10,10 @@ Reedsy charges a **10% collaboration fee from the freelancer** and a **separate 
 
 **What this means in practice:**
 
-- You quote a project at **$500**
-- Reedsy deducts **$50 (10%)** from your side
-- You receive **$450**
-- The client pays **$550** (your $500 quote + their 10% fee)
+- You quote a project at **$650**
+- Reedsy deducts **$65 (10%)** from your side
+- You receive **$585**
+- The client pays **$715** (your $650 quote + their 10% fee)
 
 **The formula to quote on Reedsy if you want to net a specific amount:**
 
@@ -219,7 +219,7 @@ Reedsy is a **curated marketplace** — not everyone who applies is accepted. Th
 | Item                          | Details                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------- |
 | Reedsy's cut                  | 10% from you, 10% from client                                                           |
-| Your net from $500 quote      | $450                                                                                    |
+| Your net from $650 quote      | $585                                                                                    |
 | Formula to quote              | Desired net ÷ 0.90                                                                      |
 | Payment method                | Milestone-based, held in escrow                                                         |
 | Typical split                 | 50% deposit, 50% on delivery                                                            |

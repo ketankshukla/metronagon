@@ -85,8 +85,8 @@ What you get:
 ✦ Assembled PDF + individual page files
 ✦ Print-ready for Amazon KDP
 
-Standard — $500 (5-day delivery)
-Premium — $1,000 (7-day delivery, character ref sheet + print formatting)
+Standard — $1,800 (10–14 day delivery)
+Premium — $3,200 (14–21 day delivery, character ref sheet + print formatting)
 ```
 
 ## Tweet 8/8

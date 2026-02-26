@@ -30,21 +30,21 @@ Together: **The Measure of Excellence.** A business that delivers work to the hi
 
 ### New Project Orders
 
-| #   | Product Name                                  | Description                                                                 | Price  | Delivery         | Stripe Fee | Net Income |
-| --- | --------------------------------------------- | --------------------------------------------------------------------------- | ------ | ---------------- | ---------- | ---------- |
-| 1   | Ebook Cover Design                            | Single ebook cover, 1600x2400, 300 DPI, 3 concepts, 1 final                 | $75    | 2 business days  | $2.48      | $72.52     |
-| 2   | Ebook Cover Design (Premium)                  | Premium style, 3 concepts, 2 revision rounds                                | $150   | 3 business days  | $4.65      | $145.35    |
-| 3   | Series Branding — Starter (3 books)           | Logo + 3 consistent ebook covers + 1 box set cover                          | $250   | 3 business days  | $7.55      | $242.45    |
-| 4   | Series Branding — Standard (5 books)          | Logo + 5 consistent ebook covers + box set + thumbnail                      | $450   | 5 business days  | $13.35     | $436.65    |
-| 5   | Series Branding — Premium (8+ books)          | Logo + all ebook covers + box set + panoramic + thumbnail + author portrait | $750   | 7 business days  | $22.05     | $727.95    |
-| 6   | Series Architecture — Small (3 books)         | Series plan, chapter outlines, continuity plan, book descriptions           | $200   | 2 business days  | $6.10      | $193.90    |
-| 7   | Series Architecture — Medium (5 books)        | Same as above, larger series                                                | $400   | 3 business days  | $11.90     | $388.10    |
-| 8   | Series Architecture — Large (8+ books)        | Same as above, full epic-scale series                                       | $800   | 5 business days  | $23.50     | $776.50    |
-| 9   | Children's Picture Book — Standard (32 pages) | Story + 32 AI-illustrated pages + assembled PDF                             | $500   | 5 business days  | $14.80     | $485.20    |
-| 10  | Children's Picture Book — Premium (32 pages)  | Same + custom character design + print-ready formatting                     | $1,000 | 7 business days  | $29.30     | $970.70    |
-| 11  | Full Pipeline — Starter                       | Series plan (3 books) + 3 ebook covers + branding                           | $400   | 5 business days  | $11.90     | $388.10    |
-| 12  | Full Pipeline — Standard                      | Series plan (5 books) + 5 ebook covers + full branding                      | $900   | 7 business days  | $26.40     | $873.60    |
-| 13  | Full Pipeline — Premium                       | Full series plan (8+ books) + all ebook covers + full branding              | $1,500 | 10 business days | $43.80     | $1,456.20  |
+| #   | Product Name                                  | Description                                                                 | Price  | Delivery            | Stripe Fee | Net Income |
+| --- | --------------------------------------------- | --------------------------------------------------------------------------- | ------ | ------------------- | ---------- | ---------- |
+| 1   | Ebook Cover Design                            | Single ebook cover, 1600x2400, 300 DPI, 3 concepts, 1 final                 | $75    | 2 business days     | $2.48      | $72.52     |
+| 2   | Ebook Cover Design (Premium)                  | Premium style, 3 concepts, 2 revision rounds                                | $650   | 5–7 business days   | $19.15     | $630.85    |
+| 3   | Series Branding — Starter (3 books)           | Logo + 3 consistent ebook covers + 1 box set cover                          | $1,400 | 7–10 business days  | $40.90     | $1,359.10  |
+| 4   | Series Branding — Standard (5 books)          | Logo + 5 consistent ebook covers + box set + thumbnail                      | $450   | 5 business days     | $13.35     | $436.65    |
+| 5   | Series Branding — Premium (8+ books)          | Logo + all ebook covers + box set + panoramic + thumbnail + author portrait | $750   | 7 business days     | $22.05     | $727.95    |
+| 6   | Series Architecture — Small (3 books)         | Series plan, chapter outlines, continuity plan, book descriptions           | $200   | 2 business days     | $6.10      | $193.90    |
+| 7   | Series Architecture — Medium (5 books)        | Same as above, larger series                                                | $2,800 | 10–14 business days | $81.50     | $2,718.50  |
+| 8   | Series Architecture — Large (8+ books)        | Same as above, full epic-scale series                                       | $800   | 5 business days     | $23.50     | $776.50    |
+| 9   | Children's Picture Book — Standard (32 pages) | Story + 32 AI-illustrated pages + assembled PDF                             | $500   | 5 business days     | $14.80     | $485.20    |
+| 10  | Children's Picture Book — Premium (32 pages)  | Same + custom character design + print-ready formatting                     | $1,000 | 7 business days     | $29.30     | $970.70    |
+| 11  | Full Pipeline — Starter                       | Series plan (3 books) + 3 ebook covers + branding                           | $1,800 | 7–10 business days  | $52.50     | $1,747.50  |
+| 12  | Full Pipeline — Standard                      | Series plan (5 books) + 5 ebook covers + full branding                      | $900   | 7 business days     | $26.40     | $873.60    |
+| 13  | Full Pipeline — Premium                       | Full series plan (8+ books) + all ebook covers + full branding              | $1,500 | 10 business days    | $43.80     | $1,456.20  |
 
 ### Delivery Timeline Philosophy
 
@@ -85,7 +85,7 @@ The Rush Fee (48hr Turnaround) exists for clients who genuinely need speed. Stan
 
 | #   | Product Name              | Description                                                        | Price        | Net Per Year |
 | --- | ------------------------- | ------------------------------------------------------------------ | ------------ | ------------ |
-| 27  | Series Expansion Retainer | Ongoing ebook cover additions as new books publish (up to 1/month) | $150/quarter | $582.00      |
+| 27  | Series Expansion Retainer | Ongoing ebook cover additions as new books publish (up to 1/month) | $350/quarter | $1,358.00    |
 
 ---
 
@@ -182,7 +182,7 @@ The two sites work together: ketanshukla.com is the PROOF, metronagon.com is the
 | ----------------- | ------------------------------------------ | ------ | ----------- | ---------- |
 | 1 cover sale      | 1× Ebook Cover Design                      | $75    | $2.48       | $72.52     |
 | 1 series branding | 1× Series Branding — Standard (5 books)    | $450   | $13.35      | $436.65    |
-| 1 series plan     | 1× Series Architecture — Medium (5 books)  | $400   | $11.90      | $388.10    |
+| 1 series plan     | 1× Series Architecture — Medium (5 books)  | $2,800 | $81.50      | $2,718.50  |
 | 1 children's book | 1× Children's Picture Book — Standard      | $500   | $14.80      | $485.20    |
 | 1 full pipeline   | 1× Full Pipeline — Standard                | $900   | $26.40      | $873.60    |
 | Solid month       | 3 covers + 1 branding + 1 plan             | $875   | $25.63      | $849.37    |
@@ -194,7 +194,7 @@ The two sites work together: ketanshukla.com is the PROOF, metronagon.com is the
 
 | Trigger                            | What to Add                                                       |
 | ---------------------------------- | ----------------------------------------------------------------- |
-| 5+ cover/branding clients          | Paperback wrap covers ($250 each)                                 |
+| 5+ cover/branding clients          | Paperback wrap covers ($350 each)                                 |
 | Client asks for a website          | Author portfolio websites ($1,000–$3,000) — upgrade to Vercel Pro |
 | Video script examples ready        | Marketing video scripts ($100–$300)                               |
 | Consistently earning $3,000+/month | Full catalogue from BUSINESS-STRATEGY.md                          |
@@ -251,16 +251,16 @@ Each service package becomes a Stripe **Product** with a **Price**. Here's how:
 ```
 New Project Orders (13 products):
   1. Ebook Cover Design — Standard ($75)
-  2. Ebook Cover Design — Premium ($150)
-  3. Series Branding — Starter ($250)
+  2. Ebook Cover Design — Premium ($650)
+  3. Series Branding — Starter ($1,400)
   4. Series Branding — Standard ($450)
   5. Series Branding — Premium ($750)
   6. Series Architecture — Small ($200)
-  7. Series Architecture — Medium ($400)
+  7. Series Architecture — Medium ($2,800)
   8. Series Architecture — Large ($800)
   9. Children's Picture Book — Standard ($500)
   10. Children's Picture Book — Premium ($1,000)
-  11. Full Pipeline — Starter ($400)
+  11. Full Pipeline — Starter ($1,800)
   12. Full Pipeline — Standard ($900)
   13. Full Pipeline — Premium ($1,500)
 
@@ -282,7 +282,7 @@ Bundles & Add-ons (2 products):
   26. Returning Client Discount — 10% (apply via Stripe Coupon, not a product)
 
 Retainers (1 product):
-  27. Series Expansion Retainer ($150/quarter — set as Recurring, quarterly)
+  27. Series Expansion Retainer ($350/quarter — set as Recurring, quarterly)
 ```
 
 ### Step 4: Generate Payment Links

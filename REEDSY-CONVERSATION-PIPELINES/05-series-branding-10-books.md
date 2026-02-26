@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Series Branding: Premium / 10 Books ($950)
+# Reedsy Conversation Pipeline — Series Branding: Premium / 10 Books ($3,500)
 
 **Package:** Series Branding — Premium (10 Books)
-**Price:** $950
-**Delivery:** 3 business days
+**Price:** $3,500
+**Delivery:** 14–21 business days
 **Revisions:** 2 rounds included
 **Deliverables:** 10 visually consistent front covers, series logo, box set front cover
 
@@ -20,7 +20,7 @@
 
 > Hi! A 10-book series is a serious project — I've done exactly this myself with my 12-book Aztec Samurai Adventures series on Amazon, so I know what it takes to maintain visual consistency across that many books.
 >
-> My Series Branding — Premium package is $950 for 10 books:
+> My Series Branding — Premium package is $3,500 for 10 books:
 >
 > - 10 visually consistent front covers (Kindle + paperback ready, 1600x2400, 300 DPI)
 > - Series logo (logomark + wordmark)
@@ -28,7 +28,7 @@
 > - 2 rounds of revisions on any deliverable
 > - 3 business day delivery
 >
-> That's $95 per cover — the best per-unit value across all my packages. Plus the logo and box set are included.
+> That's $350 per cover — the best per-unit value across all my packages. Plus the logo and box set are included.
 >
 > Every cover is built on a unified design system — same palette, typography hierarchy, composition logic — so all 10 books read as a cohesive series on Amazon.
 >
@@ -44,19 +44,19 @@
 
 **YOU:**
 
-> If you're confident it will be 10 books, the Premium package at $950 is significantly better value:
+> If you're confident it will be 10 books, the Premium package at $3,500 is significantly better value:
 >
-> **5-book now ($600) + 5 individual covers later ($125 each = $625) = $1,225 total**
+> **5-book now ($2,200) + 5 individual covers later ($350 each = $1,750) = $3,950 total**
 > vs.
-> **10-book package: $950 total**
+> **10-book package: $3,500 total**
 >
-> That's a $275 savings. Plus:
+> That's a $450 savings. Plus:
 >
 > - All 10 covers designed as a single unified system — maximum visual consistency
 > - Box set cover reflects the full 10-book series from day one
 > - 2 revision rounds instead of 1
 >
-> For the 5 unwritten books, I just need working titles and a rough sense of each book's focus (even one sentence). If titles change later, text updates are $35 each (Cover Minor Revision).
+> For the 5 unwritten books, I just need working titles and a rough sense of each book's focus (even one sentence). If titles change later, text updates are $75 each (Cover Minor Revision).
 >
 > The design system (palette, typography, composition logic, logo) is locked from the start, so even if book details evolve, the visual consistency holds.
 
@@ -301,7 +301,7 @@ After the client expresses interest and before sending the creative brief, send 
 > - Match the emotional progression of the series (escalating intensity toward the finale)
 > - Use compositional variety so they don't feel repetitive
 >
-> When your plans for Books 7-10 solidify, any title changes or visual adjustments are just $35 per cover (Cover Minor Revision) or $100 for a completely new direction (Cover Major Revision).
+> When your plans for Books 7-10 solidify, any title changes or visual adjustments are just $75 per cover (Cover Minor Revision) or $250 for a completely new direction (Cover Major Revision).
 >
 > Let me work with what you've given me — I'll make creative decisions for the gaps and you can refine during your 2 revision rounds. Sound good?
 
@@ -407,7 +407,7 @@ After the client expresses interest and before sending the creative brief, send 
 >
 > The more specific you are, the closer I'll get in one pass. You'll still have Round 2 for any fine-tuning on these or any other covers.
 >
-> If the reworks are extensive and you'd like additional covers fully redesigned beyond what the 2 revision rounds cover, individual Cover Major Revisions are available at $100 per cover.
+> If the reworks are extensive and you'd like additional covers fully redesigned beyond what the 2 revision rounds cover, individual Cover Major Revisions are available at $250 per cover.
 
 ---
 
@@ -495,9 +495,9 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Congratulations on the expansion! Since the visual system is fully established, adding new covers is straightforward.
 >
-> Additional books beyond the 10-book bundle are $125 per cover (Add New Book Cover). Each will be designed to match the existing series system perfectly.
+> Additional books beyond the 10-book bundle are $350 per cover (Add New Book Cover). Each will be designed to match the existing series system perfectly.
 >
-> 2 covers x $125 = $250. I just need the title and a brief description for each. 1 business day delivery per cover.
+> 2 covers x $350 = $700. I just need the title and a brief description for each. 1 business day delivery per cover.
 >
 > Want me to send the brief?
 
@@ -511,7 +511,7 @@ After the client expresses interest and before sending the creative brief, send 
 
 **YOU:**
 
-> Your package included 1 box set cover (the complete set). The 2 additional partial box set covers would each be a New Box Set Front Cover at $100 each = $200 total.
+> Your package included 1 box set cover (the complete set). The 2 additional partial box set covers would each be a New Box Set Front Cover at $200 each = $400 total.
 >
 > - Box Set 1: Books 1-3
 > - Box Set 2: Books 4-7
@@ -533,12 +533,12 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Welcome back! I have all your files on record. Two updates:
 >
-> 1. **Book 3 title change** — Cover Minor Revision: $35
-> 2. **Box set cover update** — New Box Set Front Cover: $100
+> 1. **Book 3 title change** — Cover Minor Revision: $75
+> 2. **Box set cover update** — New Box Set Front Cover: $200
 >
-> Total: $135. Both ready within 1 business day.
+> Total: $275. Both ready within 1 business day.
 >
-> As a returning client, you get 10% off: **$121.50 total.**
+> As a returning client, you get 10% off: **$247.50 total.**
 >
 > Want me to proceed? Just send me the new title.
 
@@ -546,11 +546,11 @@ After the client expresses interest and before sending the creative brief, send 
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $950, you receive $855.
-- **Milestone structure:** For a $950 project, suggest 2-3 milestones:
-  - Milestone 1 ($350): Upfront to begin — brief review, design system development
-  - Milestone 2 ($300): On first delivery — all covers, logo, box set delivered
-  - Milestone 3 ($300): On final delivery — after revisions, final files
+- **Payment on Reedsy:** Reedsy takes 10%. On $3,500, you receive $3,150.
+- **Milestone structure:** For a $3,500 project, suggest 3 milestones:
+  - Milestone 1 ($1,200): Upfront to begin — brief review, design system development
+  - Milestone 2 ($1,200): On first delivery — all covers, logo, box set delivered
+  - Milestone 3 ($1,100): On final delivery — after revisions, final files
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

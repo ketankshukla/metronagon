@@ -1,4 +1,4 @@
-# Series Expansion Retainer ($150/quarter)
+# Series Expansion Retainer ($350/quarter)
 
 **Subject:** Your Series Expansion Retainer Is Active — Here's How It Works
 
@@ -30,7 +30,7 @@ That's it. I have your series style system on file, so I'll match everything aut
 
 ## Billing
 
-- You'll be charged **$150 every 3 months** automatically
+- You'll be charged **$350 every 3 months** automatically
 - You can cancel anytime from your Stripe customer portal or by emailing me
 - Unused months do not roll over — if you don't request a cover in a given month, that slot is simply not used
 

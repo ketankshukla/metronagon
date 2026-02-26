@@ -3,6 +3,7 @@
 ## Phase 1: Foundation (Months 1–6)
 
 ### Objective
+
 Build a client base, accumulate reviews, and establish Metronagon Media as a credible option in the indie author services space.
 
 ### Key Actions
@@ -37,14 +38,14 @@ Build a client base, accumulate reviews, and establish Metronagon Media as a cre
 
 ### Milestones
 
-| Milestone | Target |
-| --- | --- |
-| First paid client | Month 1 |
-| 5 completed projects | Month 2–3 |
-| First five-star review | Month 1–2 |
-| 10 completed projects | Month 4–5 |
-| 10 reviews accumulated | Month 5–6 |
-| First returning client | Month 3–4 |
+| Milestone                | Target    |
+| ------------------------ | --------- |
+| First paid client        | Month 1   |
+| 5 completed projects     | Month 2–3 |
+| First five-star review   | Month 1–2 |
+| 10 completed projects    | Month 4–5 |
+| 10 reviews accumulated   | Month 5–6 |
+| First returning client   | Month 3–4 |
 | Monthly revenue > $2,000 | Month 4–6 |
 
 ---
@@ -52,15 +53,16 @@ Build a client base, accumulate reviews, and establish Metronagon Media as a cre
 ## Phase 2: Establishment (Months 7–12)
 
 ### Objective
+
 Raise prices based on accumulated social proof, expand service visibility, and begin building a returning client base.
 
 ### Key Actions
 
 **Price Increases**
 
-- Raise single cover prices by 30–50% (Standard: $150 → $200–$250, Premium: $250 → $350–$400)
-- Raise branding and pipeline packages by 30–40%
-- Raise children's book packages by 40–50%
+- Raise single cover prices by 20–30% (Standard: $450 → $550–$650, Premium: $650 → $750–$900)
+- Raise branding and pipeline packages by 20–30%
+- Raise children's book packages by 20–30%
 - Justify increases with accumulated reviews and expanded portfolio
 
 **Marketing Expansion**
@@ -86,29 +88,30 @@ Raise prices based on accumulated social proof, expand service visibility, and b
 
 ### Milestones
 
-| Milestone | Target |
-| --- | --- |
-| 25 completed projects | Month 8–9 |
-| 20+ reviews | Month 10–12 |
-| Monthly revenue > $5,000 | Month 9–12 |
-| First month with 10+ orders | Month 10–12 |
-| Returning client rate > 15% | Month 10–12 |
-| First price increase implemented | Month 7 |
+| Milestone                        | Target      |
+| -------------------------------- | ----------- |
+| 25 completed projects            | Month 8–9   |
+| 20+ reviews                      | Month 10–12 |
+| Monthly revenue > $5,000         | Month 9–12  |
+| First month with 10+ orders      | Month 10–12 |
+| Returning client rate > 15%      | Month 10–12 |
+| First price increase implemented | Month 7     |
 
 ---
 
 ## Phase 3: Scaling (Year 2)
 
 ### Objective
+
 Approach Reedsy-competitive pricing, maximize revenue per client, and explore expansion opportunities.
 
 ### Key Actions
 
 **Premium Positioning**
 
-- Raise prices toward Reedsy entry-level ($300–$500 for single covers)
+- Raise prices toward upper Reedsy professional range ($600–$900 for single covers)
 - Introduce a "Portfolio" or "VIP" tier for premium clients wanting the highest level of service
-- Position Metronagon as a mid-tier professional option, not a budget alternative
+- Position Metronagon as an established professional option in the Reedsy marketplace
 - Update all marketing materials to reflect the elevated positioning
 
 **Revenue Optimization**
@@ -135,13 +138,13 @@ Approach Reedsy-competitive pricing, maximize revenue per client, and explore ex
 
 ### Milestones
 
-| Milestone | Target |
-| --- | --- |
-| 50+ completed client projects | Month 15–18 |
-| 30+ five-star reviews | Month 14–16 |
-| Monthly revenue > $8,000 | Month 13–18 |
-| Annual revenue > $80,000 | End of Year 2 |
-| Average order value > $500 | Month 18–24 |
+| Milestone                     | Target        |
+| ----------------------------- | ------------- |
+| 50+ completed client projects | Month 15–18   |
+| 30+ five-star reviews         | Month 14–16   |
+| Monthly revenue > $8,000      | Month 13–18   |
+| Annual revenue > $80,000      | End of Year 2 |
+| Average order value > $2,000  | Month 18–24   |
 
 ---
 
@@ -149,7 +152,7 @@ Approach Reedsy-competitive pricing, maximize revenue per client, and explore ex
 
 ### Possible Expansion Directions
 
-1. **Author Website Design** — Leverage the Next.js expertise used to build 5 portfolio websites. Offer website design packages to indie authors ($500–$2,000 per site).
+1. **Author Website Design** — Leverage the Next.js expertise used to build 5 portfolio websites. Offer website design packages to indie authors ($1,500–$5,000 per site).
 
 2. **Amazon A+ Content** — Design enhanced product page graphics for Amazon listings. A natural extension of cover design for KDP authors.
 
@@ -165,10 +168,10 @@ Approach Reedsy-competitive pricing, maximize revenue per client, and explore ex
 
 ### Revenue Targets
 
-| Year | Conservative | Moderate | Optimistic |
-| --- | --- | --- | --- |
-| Year 1 | $25,000–$34,000 | $37,000–$51,000 | $60,000–$80,000 |
-| Year 2 | $50,000–$65,000 | $75,000–$100,000 | $110,000–$150,000 |
+| Year   | Conservative    | Moderate          | Optimistic         |
+| ------ | --------------- | ----------------- | ------------------ |
+| Year 1 | $25,000–$34,000 | $37,000–$51,000   | $60,000–$80,000    |
+| Year 2 | $50,000–$65,000 | $75,000–$100,000  | $110,000–$150,000  |
 | Year 3 | $70,000–$90,000 | $100,000–$140,000 | $150,000–$200,000+ |
 
 ### Long-Term Competitive Position

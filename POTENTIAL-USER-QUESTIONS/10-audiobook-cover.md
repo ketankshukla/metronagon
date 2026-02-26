@@ -31,7 +31,7 @@ Audiobook covers are typically displayed at sizes much smaller than ebook covers
 | Service                                                                                        | Price                              | Delivery             |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------- |
 | **Audiobook Cover Adaptation** — existing cover adapted to square ACX format                   | $75 per book                       | 1 business day       |
-| **Audiobook Cover — New Design** — original square composition matching series visual language | $150 per book                      | 2–3 business days    |
+| **Audiobook Cover — New Design** — original square composition matching series visual language | $200 per book                      | 2–3 business days    |
 | **Series Audiobook Pack** — all 3 covers adapted                                               | $175                               | 2 business days      |
 | **Series Audiobook Pack** — all 5 covers adapted                                               | $275                               | 3 business days      |
 | **Series Audiobook Pack** — 8+ covers adapted                                                  | $450                               | 4–5 business days    |

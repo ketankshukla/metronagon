@@ -9,7 +9,7 @@ Repetition: Mother of Mastery — a 5-book series, fully branded.
 
 When your entire series looks like it was planned from day one, readers trust it. They buy it. They binge it.
 
-Series branding from $250 → metronagon.com/services
+Series branding from $1,400 → metronagon.com/services
 
 #BookCoverDesign #EbookCover #CoverDesign #BookCovers #BookCoverArt #CoverArt #BookDesign #IndieAuthor #SelfPublishing #IndiePublishing #SelfPublished #WritingCommunity #AuthorLife #WritersOfTwitter #AmWriting #AmazonKDP #KDP #KindlePublishing #SeriesBranding #AuthorBranding #BookBranding #BrandIdentity #BookCoverReveal #CoverReveal #AIart #AIillustration #BookMarketing #AuthorServices #HireADesigner #GraphicDesign #DigitalArt #IndieBooks #BookStagram #BookTwitter #WritersLife #IndieWriter #BookArt #CreativeServices #VisualIdentity #BoxSet
 ```

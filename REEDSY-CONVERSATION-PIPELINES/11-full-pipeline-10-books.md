@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Full Pipeline: Premium / 10 Books ($1,350)
+# Reedsy Conversation Pipeline — Full Pipeline: Premium / 10 Books ($4,500)
 
 **Package:** Full Pipeline — Premium (10 Books)
-**Price:** $1,350
-**Delivery:** 4 business days
+**Price:** $4,500
+**Delivery:** 14–21 business days
 **Revisions:** 2 rounds included
 **Deliverables:** 10 visually consistent front covers, series logo, box set front cover, 10 keyword-optimized Amazon book descriptions
 
@@ -18,7 +18,7 @@
 
 **YOU:**
 
-> Hi! My Full Pipeline — Premium is exactly this. It's $1,350 for the complete 10-book package:
+> Hi! My Full Pipeline — Premium is exactly this. It's $4,500 for the complete 10-book package:
 >
 > - 10 visually consistent front covers (Kindle + paperback ready, 1600x2400, 300 DPI)
 > - Series logo (logomark + wordmark)
@@ -27,7 +27,7 @@
 > - 2 rounds of revisions on any deliverable (covers AND descriptions)
 > - 4 business day delivery
 >
-> That's $135 per book for cover + description + your share of the logo and box set. It's the best value I offer — and everything is designed and written as a single cohesive system.
+> That's $450 per book for cover + description + your share of the logo and box set. It's the best value I offer — and everything is designed and written as a single cohesive system.
 >
 > I've done this exact thing for my own 12-book Aztec Samurai Adventures series on Amazon — 12 visually consistent covers, logo, box set cover, and descriptions all built from the same creative pipeline. I know what it takes to maintain consistency and quality across this many books.
 >
@@ -39,7 +39,7 @@
 
 **CLIENT:**
 
-> If I bought 10 individual covers ($150 each = $1,500) plus 10 descriptions separately, it would cost way more. Is the Pipeline really all-inclusive?
+> If I bought 10 individual covers ($450 each = $4,500) plus 10 descriptions separately, it would cost way more. Is the Pipeline really all-inclusive?
 
 **YOU:**
 
@@ -47,15 +47,15 @@
 >
 > **A la carte:**
 >
-> - 10 individual Standard covers: $1,500
-> - 10 book descriptions: $350 (at $35 each)
-> - Series logo: $100+
-> - Box set cover: $100+
-> - Total: ~$2,050+
+> - 10 individual Standard covers: $4,500
+> - 10 book descriptions: $750 (at $75 each)
+> - Series logo: $200+
+> - Box set cover: $200+
+> - Total: ~$5,650+
 >
-> **Full Pipeline Premium: $1,350**
+> **Full Pipeline Premium: $4,500**
 >
-> You save $700+ AND get:
+> You save $1,150+ AND get:
 >
 > - All 10 covers designed as a unified visual system (not 10 separate projects)
 > - Descriptions written by the same person who designed the covers (matching visual and verbal identity)
@@ -93,7 +93,7 @@
 >
 > That's it. I'll handle palette, typography, composition, logo design, visual progression, keyword research, and description structure.
 >
-> If some books are still in development, give me what you have — even working titles and rough ideas. I'll design covers and descriptions that fit the system and can be refined later ($35 per text update, $100 for a major cover revision).
+> If some books are still in development, give me what you have — even working titles and rough ideas. I'll design covers and descriptions that fit the system and can be refined later ($75 per text update, $250 for a major cover revision).
 >
 > The brief looks long but most of it is optional. Send what you have and I'll make it work.
 
@@ -356,9 +356,9 @@ After the client expresses interest and before sending the creative brief, send 
 >
 > As Books 6-10 solidify, you can update:
 >
-> - Cover title change: $35 (Cover Minor Revision)
-> - Cover visual overhaul: $100 (Cover Major Revision)
-> - Description rewrite: $35 (Book Description Update)
+> - Cover title change: $75 (Cover Minor Revision)
+> - Cover visual overhaul: $250 (Cover Major Revision)
+> - Description rewrite: $75 (Book Description Update)
 >
 > I'll start building everything now and you can refine later. Sound good?
 
@@ -623,11 +623,11 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Since the visual and verbal system is fully established:
 >
-> - 2x Add New Book Cover: $125 each = $250
-> - 2x Book Description: $35 each = $70
-> - Total: $320
+> - 2x Add New Book Cover: $350 each = $700
+> - 2x Book Description: $75 each = $150
+> - Total: $850
 >
-> Returning client discount (10%): **$288**
+> Returning client discount (10%): **$765**
 >
 > I just need titles, brief plot summaries, and key visual elements. 1-2 business day delivery.
 
@@ -643,8 +643,8 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Your package includes 1 box set cover (the complete 10-book set — already delivered).
 >
-> The 3 additional partial box set covers: $100 each = $300.
-> Returning client discount: **$270**.
+> The 3 additional partial box set covers: $200 each = $600.
+> Returning client discount: **$540**.
 >
 > - Box Set 1: Books 1-3
 > - Box Set 2: Books 4-6
@@ -669,7 +669,7 @@ After the client expresses interest and before sending the creative brief, send 
 > - Different structure (question-led vs statement-led)
 > - Same keywords, different emphasis
 >
-> Book Description Update: $35. Returning client: **$31.50**.
+> Book Description Update: $75. Returning client: **$67.50**.
 >
 > You'll then have two versions to rotate on Amazon and track which converts better.
 
@@ -685,8 +685,8 @@ After the client expresses interest and before sending the creative brief, send 
 
 > I'd love to! Since you're a returning client:
 >
-> Full Pipeline Standard (5 Books): $850.
-> Returning client discount (10%): **$765**.
+> Full Pipeline Standard (5 Books): $2,800.
+> Returning client discount (10%): **$2,520**.
 >
 > If there's any connection between the two series (shared universe, crossover characters), I can design the new series to complement the existing one visually while having its own distinct identity.
 >
@@ -715,11 +715,11 @@ After the client expresses interest and before sending the creative brief, send 
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $1,350, you receive $1,215.
-- **Milestone structure:** For a $1,350 project, suggest 3 milestones:
-  - Milestone 1 ($450): Upfront — brief review, design system, production begins
-  - Milestone 2 ($450): First delivery — all covers + logo + box set
-  - Milestone 3 ($450): Descriptions delivered + revisions + final files
+- **Payment on Reedsy:** Reedsy takes 10%. On $4,500, you receive $4,050.
+- **Milestone structure:** For a $4,500 project, suggest 3 milestones:
+  - Milestone 1 ($1,500): Upfront — brief review, design system, production begins
+  - Milestone 2 ($1,500): First delivery — all covers + logo + box set
+  - Milestone 3 ($1,500): Descriptions delivered + revisions + final files
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

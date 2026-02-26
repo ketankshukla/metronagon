@@ -51,6 +51,12 @@ export default function Header() {
             About
           </Link>
           <Link
+            href="/ai-transparency"
+            className="text-sm font-medium text-muted transition-colors hover:text-foreground"
+          >
+            AI Transparency
+          </Link>
+          <Link
             href="/services"
             className="rounded-lg bg-gold px-4 py-2 text-sm font-semibold text-background transition-all hover:bg-gold-light hover:shadow-lg hover:shadow-gold/20"
           >
@@ -103,6 +109,13 @@ export default function Header() {
               className="rounded-lg px-4 py-3 text-sm font-medium text-muted transition-colors hover:bg-surface-lighter hover:text-foreground"
             >
               About
+            </Link>
+            <Link
+              href="/ai-transparency"
+              onClick={() => setMobileOpen(false)}
+              className="rounded-lg px-4 py-3 text-sm font-medium text-muted transition-colors hover:bg-surface-lighter hover:text-foreground"
+            >
+              AI Transparency
             </Link>
             <Link
               href="/services"

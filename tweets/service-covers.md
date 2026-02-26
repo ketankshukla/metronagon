@@ -9,8 +9,8 @@ Readers spend 0.3 seconds deciding whether to click. Your cover has to win that 
 
 I design professional, cinematic ebook covers for indie authors:
 
-✦ Standard — $75 (2-day delivery)
-✦ Premium — $150 (3-day delivery)
+✦ Standard — $450 (3–5 day delivery)
+✦ Premium — $650 (5–7 day delivery)
 
 3 concept variations. Print-ready quality. Amazon KDP-optimized.
 

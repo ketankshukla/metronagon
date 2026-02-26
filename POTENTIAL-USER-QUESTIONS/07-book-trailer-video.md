@@ -20,6 +20,7 @@ Every frame uses imagery and color pulled from your series' visual world — spe
 I've built a custom YouTube player (you can see it embedded on the Repetition: Mother of Mastery and Reality Without Belief sites) that displays your trailer with a series-branded thumbnail overlay and no YouTube UI chrome. If you have an author website, your trailer integrates cleanly into it.
 
 **Formats Delivered:**
+
 - 16:9 MP4 for YouTube (1920×1080)
 - 9:16 vertical crop for Instagram Reels and TikTok
 - 1:1 square crop for Facebook and Instagram feed
@@ -32,14 +33,14 @@ I've built a custom YouTube player (you can see it embedded on the Repetition: M
 
 ## Pricing
 
-| Package | Price | Delivery |
-|---------|-------|----------|
-| **30-Second Teaser** — cover-forward, text-driven, single track | $350 | 3–4 business days |
-| **60-Second Standard Trailer** — full 3-act structure, licensed music, title card | $550 | 5 business days |
-| **90-Second Premium Trailer** — extended narrative, multiple music cues, reader quote cards | $750 | 7 business days |
-| **Series Promo Video** — 2-minute overview of entire series (box set focus) | $950 | 8–10 business days |
-| **Vertical Cut Add-On** — Reels/TikTok version of any trailer | +$125 | +1 business day |
-| **YouTube Player Integration** — embed trailer into your author website with custom branded player | +$200 | +1 business day |
+| Package                                                                                            | Price  | Delivery           |
+| -------------------------------------------------------------------------------------------------- | ------ | ------------------ |
+| **30-Second Teaser** — cover-forward, text-driven, single track                                    | $350   | 3–4 business days  |
+| **60-Second Standard Trailer** — full 3-act structure, licensed music, title card                  | $650   | 5 business days    |
+| **90-Second Premium Trailer** — extended narrative, multiple music cues, reader quote cards        | $900   | 7 business days    |
+| **Series Promo Video** — 2-minute overview of entire series (box set focus)                        | $1,200 | 8–10 business days |
+| **Vertical Cut Add-On** — Reels/TikTok version of any trailer                                      | +$125  | +1 business day    |
+| **YouTube Player Integration** — embed trailer into your author website with custom branded player | +$200  | +1 business day    |
 
 ---
 

@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Front Cover Design: Standard ($150)
+# Reedsy Conversation Pipeline — Front Cover Design: Standard ($450)
 
 **Package:** Front Cover Design — Standard
-**Price:** $150
-**Delivery:** 1 business day
+**Price:** $450
+**Delivery:** 3–5 business days
 **Revisions:** 1 round included
 **Deliverables:** 2 concept variations, 1 polished final front cover (1600x2400, 300 DPI PNG/JPG)
 
@@ -22,15 +22,15 @@
 >
 > I design front cover images for Amazon KDP books — Kindle ebook and paperback. I've published 22 books across 3 series on Amazon, so I know exactly what works at thumbnail size and what converts browsers into buyers.
 >
-> My Standard package is $150 and includes:
+> My Standard package is $450 and includes:
 >
 > - 2 fully realized concept variations based on your brief
 > - 1 polished final with professional typography
 > - 1 round of revisions
 > - Delivered as high-res PNG/JPG (1600x2400, 300 DPI) — Amazon KDP-ready
-> - 1 business day turnaround
+> - 3–5 business day turnaround
 >
-> If you'd like more concepts and revision rounds, the Premium package ($250) gives you 3 concepts and 2 revision rounds.
+> If you'd like more concepts and revision rounds, the Premium package ($650) gives you 3 concepts and 2 revision rounds.
 >
 > Could you tell me a bit about your book? Genre, title, and what kind of feel you're going for? I can let you know which package fits best.
 
@@ -46,7 +46,7 @@
 
 > Hi! "The Ember Throne" — great title. Fantasy covers are my specialty — my Aztec Samurai Adventures series is a 12-book fantasy epic on Amazon, so I've done this exact kind of work extensively.
 >
-> For a single front cover, my Standard package is $150:
+> For a single front cover, my Standard package is $450:
 >
 > - 2 concept variations — two fully realized visual directions you can compare side by side
 > - 1 polished final with professional typography
@@ -64,7 +64,7 @@
 
 **CLIENT:**
 
-> Hi, your work looks great but I've seen covers for $50-80 on Fiverr. Why should I pay $150?
+> Hi, your work looks great but I've seen covers for $50-80 on Fiverr. Why should I pay $450?
 
 **YOU:**
 
@@ -76,7 +76,7 @@
 >
 > 3. **Production-ready files.** 1600x2400, 300 DPI, optimized for KDP. No upscaling artifacts, no wrong dimensions, no back-and-forth with Amazon's cover validator.
 >
-> Fiverr covers at $50 are usually template-based with stock imagery. If you're serious about your book looking professional on Amazon, $150 is a strong investment.
+> Fiverr covers at $50 are usually template-based with stock imagery. If you're serious about your book looking professional on Amazon, $450 reflects the depth of custom creative work involved — each cover starts with a 2,500–3,000 word creative brief tailored to your book.
 >
 > Happy to show you examples from my portfolio if you'd like to see the quality level: https://metronagon.com/examples
 
@@ -94,7 +94,7 @@
 >
 > For KDP Print paperbacks, Amazon's Cover Creator tool handles the spine and back cover layout using your front cover image. Most indie authors use that workflow and it works well.
 >
-> My Standard package ($150) gives you a front cover at 1600x2400, 300 DPI — perfect for both Kindle and the front panel of a KDP Print paperback.
+> My Standard package ($450) gives you a front cover at 1600x2400, 300 DPI — perfect for both Kindle and the front panel of a KDP Print paperback.
 >
 > Would you like to move forward with a front cover?
 
@@ -397,7 +397,7 @@ Once the client confirms interest:
 >
 > If you can point me to what you're envisioning — even a rough description or a reference image that's closer — I'll use your included revision round to create a new direction.
 >
-> If after the revision you'd like additional rounds, those are available at $35 each (Cover Minor Revision) or $100 for a completely new concept direction (Cover Major Revision).
+> If after the revision you'd like additional rounds, those are available at $75 each (Cover Minor Revision) or $250 for a completely new concept direction (Cover Major Revision).
 
 ---
 
@@ -468,7 +468,7 @@ Once the client confirms interest:
 
 **YOU:**
 
-> Of course! Since the final has been delivered and your included revision round is used, this would be a Cover Minor Revision at $35. That covers any text change, color adjustment, or subtitle update.
+> Of course! Since the final has been delivered and your included revision round is used, this would be a Cover Minor Revision at $75. That covers any text change, color adjustment, or subtitle update.
 >
 > Want me to go ahead? I can have it done within 1 business day.
 
@@ -484,10 +484,10 @@ Once the client confirms interest:
 
 > I understand — feedback from editors can change everything. There are two options:
 >
-> 1. **Cover Major Revision — $100:** I create a new concept in a different style or direction, with a fresh visual approach.
-> 2. **New Standard Package — $150:** If it's a completely clean start with a new brief, new concepts, new everything.
+> 1. **Cover Major Revision — $250:** I create a new concept in a different style or direction, with a fresh visual approach.
+> 2. **New Standard Package — $450:** If it's a completely clean start with a new brief, new concepts, new everything.
 >
-> Which feels more appropriate? If the core elements (title, genre, palette) are staying the same but the visual direction is changing, the Major Revision at $100 is the right move.
+> Which feels more appropriate? If the core elements (title, genre, palette) are staying the same but the visual direction is changing, the Major Revision at $250 is the right move.
 
 ---
 
@@ -499,14 +499,14 @@ Once the client confirms interest:
 
 **YOU:**
 
-> Absolutely! For a 3-book series, I'd recommend the Series Branding — Starter package ($400). It includes:
+> Absolutely! For a 3-book series, I'd recommend the Series Branding — Starter package ($1,400). It includes:
 >
 > - 3 front covers (visually consistent across the series)
 > - Series logo
 > - Box set front cover
 > - 1 revision round
 >
-> Since you already have the first cover, I can match the new covers to your existing design. That's $400 for the full package, or $125 each as individual Add New Book Cover updates.
+> Since you already have the first cover, I can match the new covers to your existing design. That's $1,400 for the full package, or $350 each as individual Add New Book Cover updates.
 >
 > The branding package is the better value and ensures all 3 covers look like they belong together. Want me to send the creative brief for the series?
 
@@ -526,9 +526,9 @@ Once the client confirms interest:
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** The client pays through the Reedsy platform. Reedsy takes a 10% commission. On a $150 package, you receive $135.
+- **Payment on Reedsy:** The client pays through the Reedsy platform. Reedsy takes a 10% commission. On a $450 package, you receive $405.
 - **Alternative:** If the client found you on Reedsy but wants to pay directly, you can direct them to https://metronagon.com/services to pay via Stripe (no commission). However, this must be handled carefully — Reedsy's terms require that projects initiated on the platform are completed and paid through the platform.
-- **Milestone structure:** For a $150 single-cover project, Reedsy typically handles this as a single milestone (100% upfront or on delivery, depending on your agreement with the client).
+- **Milestone structure:** For a $450 single-cover project, Reedsy typically handles this as a single milestone (100% upfront or on delivery, depending on your agreement with the client).
 
 ---
 

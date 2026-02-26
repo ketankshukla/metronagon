@@ -38,13 +38,13 @@ If your series also needs individual book subtitles — not just a series name �
 
 ## Pricing
 
-| Service | Price | Delivery |
-|---------|-------|----------|
-| **Series Name Only** — 10–15 candidates with rationale | $150 | 2 business days |
-| **Series Name + Taglines** — name candidates + 5–7 tagline options for the selected name | $250 | 3 business days |
-| **Complete Naming Package** — series name + taglines + book subtitle system for all books | $400 | 4–5 business days |
-| **Rebrand Consultation** — existing series with a name that isn't working; repositioning recommendations | $175 | 2 business days |
-| **Taglines Only** — for a series that already has a name | $100 | 1 business day |
+| Service                                                                                                  | Price | Delivery          |
+| -------------------------------------------------------------------------------------------------------- | ----- | ----------------- |
+| **Series Name Only** — 10–15 candidates with rationale                                                   | $200  | 2 business days   |
+| **Series Name + Taglines** — name candidates + 5–7 tagline options for the selected name                 | $350  | 3 business days   |
+| **Complete Naming Package** — series name + taglines + book subtitle system for all books                | $500  | 4–5 business days |
+| **Rebrand Consultation** — existing series with a name that isn't working; repositioning recommendations | $175  | 2 business days   |
+| **Taglines Only** — for a series that already has a name                                                 | $100  | 1 business day    |
 
 ---
 

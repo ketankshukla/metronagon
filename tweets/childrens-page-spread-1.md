@@ -9,7 +9,7 @@ Bright. Warm. Inviting. The art style has to make a child want to turn the page 
 
 These pages were designed for both.
 
-Children's picture books from $500. Standard: 5-day delivery. Premium: 7-day delivery.
+Children's picture books from $1,800. Standard: 10–14 day delivery. Premium: 14–21 day delivery.
 
 🔗 metronagon.com/services
 

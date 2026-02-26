@@ -11,9 +11,9 @@ The Full Pipeline — everything your series needs, in one package.
 ✦ Series logo & box set cover
 ✦ Style guide & book descriptions
 
-Starter (3 Books) — $400
-Standard (5 Books) — $750
-Premium (8+ Books) — $1,800
+Starter (3 Books) — $1,800
+Standard (5 Books) — $2,800
+Premium (10 Books) — $4,500
 
 One order. One designer. Complete series.
 

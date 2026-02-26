@@ -29,16 +29,16 @@ For the Aztec Samurai Adventures site, I produced 30 character portraits — her
 
 ## Pricing
 
-| Package | Price | Delivery |
-|---------|-------|----------|
-| **Single Character Portrait** | $85 | 1–2 business days |
-| **3-Pack** | $225 | 3 business days |
-| **5-Pack** | $350 | 5 business days |
-| **10-Pack** | $600 | 7 business days |
-| **15-Pack** | $850 | 9 business days |
-| **Full Cast — 30 Portraits** (as seen on Aztec site) | $1,500 | 15 business days |
+| Package                                                                                                   | Price              | Delivery             |
+| --------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- |
+| **Single Character Portrait**                                                                             | $85                | 1–2 business days    |
+| **3-Pack**                                                                                                | $225               | 3 business days      |
+| **5-Pack**                                                                                                | $350               | 5 business days      |
+| **10-Pack**                                                                                               | $750               | 7 business days      |
+| **15-Pack**                                                                                               | $1,050             | 9 business days      |
+| **Full Cast — 30 Portraits** (as seen on Aztec site)                                                      | $1,500             | 15 business days     |
 | **Character Modal Content** — backstory, description, abilities, arc, relationships written per character | +$40 per character | included in timeline |
-| **Character Grid + Website Integration** — adding portrait gallery to an existing site | $500 | 3 business days |
+| **Character Grid + Website Integration** — adding portrait gallery to an existing site                    | $500               | 3 business days      |
 
 ---
 

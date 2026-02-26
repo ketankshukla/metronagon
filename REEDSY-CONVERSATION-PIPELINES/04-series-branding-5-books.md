@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Series Branding: Standard / 5 Books ($600)
+# Reedsy Conversation Pipeline — Series Branding: Standard / 5 Books ($2,200)
 
 **Package:** Series Branding — Standard (5 Books)
-**Price:** $600
-**Delivery:** 2 business days
+**Price:** $2,200
+**Delivery:** 10–14 business days
 **Revisions:** 1 round included
 **Deliverables:** 5 visually consistent front covers, series logo, box set front cover
 
@@ -20,7 +20,7 @@
 
 > Hi! A 5-book series is the sweet spot for visual branding — enough books to build a recognizable identity on Amazon.
 >
-> My Series Branding — Standard package is $600 for 5 books:
+> My Series Branding — Standard package is $2,200 for 5 books:
 >
 > - 5 visually consistent front covers (Kindle + paperback ready, 1600x2400, 300 DPI)
 > - Series logo (logomark + wordmark)
@@ -46,11 +46,11 @@
 
 > You can, but it's more expensive a la carte. Here's the math:
 >
-> **Option 1: Start with 3-book Starter ($400) + add 2 covers later ($125 each = $250) = $650 total**
+> **Option 1: Start with 3-book Starter ($1,400) + add 2 covers later ($350 each = $700) = $2,100 total**
 > You'd also miss the box set cover update for the 5-book set.
 >
-> **Option 2: 5-book Standard ($600)**
-> All 5 covers designed as a unified system from day one + logo + box set cover — $50 less than doing it piecemeal.
+> **Option 2: 5-book Standard ($2,200)**
+> All 5 covers designed as a unified system from day one + logo + box set cover. Only $100 more than piecemeal, and with far better visual consistency.
 >
 > The 5-book package is the better value AND produces a more cohesive result because I design all 5 together. The consistency is strongest when the entire set is created in one session.
 >
@@ -62,19 +62,19 @@
 
 **CLIENT:**
 
-> $600 for 5 covers — that's $120 per cover. Could I just buy individual covers at $150 each?
+> $2,200 for 5 covers — that's $440 per cover. Could I just buy individual covers at $450 each?
 
 **YOU:**
 
-> You could — 5 individual Standard covers would be $750. So the branding package saves you $150 right off the top.
+> You could — 5 individual Standard covers would be $2,250. So the branding package saves you $50 right off the top.
 >
 > But the real value isn't just the per-cover savings:
 >
 > 1. **Visual consistency** — All 5 covers are designed as a unified system. Same palette, typography, composition logic. Individual covers designed separately may not look cohesive as a set.
-> 2. **Series logo included** — A custom logomark and wordmark that anchors the brand of your series. This would be $100+ as a standalone.
-> 3. **Box set cover included** — A front cover for your Amazon box set listing, showcasing all 5 books as a single product. Another $100+ standalone.
+> 2. **Series logo included** — A custom logomark and wordmark that anchors the brand of your series. This would be $200+ as a standalone.
+> 3. **Box set cover included** — A front cover for your Amazon box set listing, showcasing all 5 books as a single product. Another $200+ standalone.
 >
-> So you're getting 5 covers + logo + box set for $600, vs. 5 covers alone for $750. The branding package is clearly the better deal.
+> So you're getting 5 covers + logo + box set for $2,200, vs. 5 covers alone for $2,250. The branding package is clearly the better deal.
 
 ---
 
@@ -340,7 +340,7 @@ After the client expresses interest and before sending the creative brief, send 
 >
 > That's enough for me to create covers that fit the series arc and can be refined later if your story evolves. The visual system (palette, typography, logo) is locked from Books 1-3, so Books 4-5 will automatically feel cohesive.
 >
-> If titles or details change after delivery, a text update is just $35 per cover (Cover Minor Revision).
+> If titles or details change after delivery, a text update is just $75 per cover (Cover Minor Revision).
 
 ---
 
@@ -476,11 +476,11 @@ After the client expresses interest and before sending the creative brief, send 
 
 > That's fantastic news! Two options:
 >
-> 1. **5x Add New Book Cover at $125 each = $625** — Each cover matched to the existing visual system.
+> 1. **5x Add New Book Cover at $350 each = $1,750** — Each cover matched to the existing visual system.
 >
-> 2. **Upgrade to Series Branding Premium (10 Books) at $950** — I'd credit the $600 you already paid, so the upgrade cost is $350 for 5 new covers + updated box set cover. Much better value.
+> 2. **Upgrade to Series Branding Premium (10 Books) at $3,500** — I'd credit the $2,200 you already paid, so the upgrade cost is $1,300 for 5 new covers + updated box set cover. Much better value.
 >
-> The upgrade is clearly the better deal at $350 for 5 new covers + updated box set. Want to proceed? I'll send the brief for Books 6-10.
+> The upgrade is clearly the better deal at $1,300 for 5 new covers + updated box set. Want to proceed? I'll send the brief for Books 6-10.
 
 ---
 
@@ -492,7 +492,7 @@ After the client expresses interest and before sending the creative brief, send 
 
 **YOU:**
 
-> Sure! That would be a New Box Set Front Cover update at $100. I'll create a box set cover featuring just Books 1-3 using the existing visual system. 1 business day delivery.
+> Sure! That would be a New Box Set Front Cover update at $200. I'll create a box set cover featuring just Books 1-3 using the existing visual system. 1 business day delivery.
 >
 > Want me to go ahead?
 
@@ -500,10 +500,10 @@ After the client expresses interest and before sending the creative brief, send 
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $600, you receive $540.
-- **Milestone structure:** For a $600 project, suggest 2 milestones:
-  - Milestone 1 ($300): Upfront to begin work
-  - Milestone 2 ($300): On final delivery
+- **Payment on Reedsy:** Reedsy takes 10%. On $2,200, you receive $1,980.
+- **Milestone structure:** For a $2,200 project, suggest 2 milestones:
+  - Milestone 1 ($1,100): Upfront to begin work
+  - Milestone 2 ($1,100): On final delivery
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

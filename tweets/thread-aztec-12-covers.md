@@ -147,7 +147,7 @@ All designed as one unified system. Not 12 separate jobs — one vision.
 ```
 This is what I do at Metronagon Media.
 
-Single covers from $75. Full series branding from $250. Complete pipeline (covers + planning + branding) from $400.
+Single covers from $450. Full series branding from $1,400. Complete pipeline (covers + branding + descriptions) from $1,800.
 
 Every project delivered in 2–10 business days.
 ```

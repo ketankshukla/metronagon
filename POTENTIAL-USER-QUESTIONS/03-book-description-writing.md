@@ -30,14 +30,14 @@ Turnaround is 1 business day per book.
 
 ## Pricing
 
-| Service | Price | Delivery |
-|---------|-------|----------|
-| **Single Book Description** | $150 | 1 business day |
-| **3-Book Series Pack** | $350 | 2 business days |
-| **5-Book Series Pack** | $550 | 3 business days |
-| **8+ Book Series Pack** | $800 | 5 business days |
-| **Description + A/B Variant** — 2 versions to test | +$75 per book | +1 business day |
-| **Back Cover Copy** — print-formatted (shorter, tighter) | $100 per book | 1 business day |
+| Service                                                  | Price         | Delivery             |
+| -------------------------------------------------------- | ------------- | -------------------- |
+| **Single Book Description**                              | $200          | 1 business day       |
+| **3-Book Series Pack**                                   | $500          | 2 business days      |
+| **5-Book Series Pack**                                   | $750          | 3 business days      |
+| **8+ Book Series Pack**                                  | $800          | 5 business days      |
+| **Description + A/B Variant** — 2 versions to test       | +$75 per book | +1 business day      |
+| **Back Cover Copy** — print-formatted (shorter, tighter) | $100 per book | 1 business day       |
 | **Back Cover Copy Add-On** to existing description order | +$60 per book | included in timeline |
 
 > **Note on series pricing:** Each book in a series needs a different description — but they must also feel like they belong together, with consistent voice and escalating stakes. Series pack pricing accounts for the additional work of writing them as a unified body of copy, not independent pieces.
@@ -47,6 +47,7 @@ Turnaround is 1 business day per book.
 ## What I Need From You
 
 To write your description, I need one of the following:
+
 - Your completed manuscript (I'll read what I need to)
 - A detailed synopsis (3–5 paragraphs) covering plot, protagonist, central conflict, and resolution direction
 - For non-fiction: your chapter list and a description of the transformation you promise the reader

@@ -28,7 +28,7 @@ If you already have an ebook cover designed by me, the print wrap is a straightf
 
 | Service                                                                            | Price | Delivery          |
 | ---------------------------------------------------------------------------------- | ----- | ----------------- |
-| **Print Wrap Add-On** — extends your existing ebook cover into a full print wrap   | $150  | 2 business days   |
+| **Print Wrap Add-On** — extends your existing ebook cover into a full print wrap   | $250  | 2 business days   |
 | **Print Wrap — New Design** — full front + spine + back from scratch               | $275  | 3–4 business days |
 | **Premium Print Wrap** — new design + back cover blurb writing + barcode placement | $375  | 4–5 business days |
 | **Series Print Wrap Bundle** — full wrap for every book in a series (3 books)      | $375  | 5 business days   |

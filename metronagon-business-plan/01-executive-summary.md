@@ -13,18 +13,18 @@ Most book cover designers fall into two camps:
 1. **Fiverr-level freelancers** ($25–$100) who produce generic, template-based covers with no understanding of series branding or Amazon optimization
 2. **Established Reedsy professionals** ($500–$1,200+) who command premium rates justified by years of client reviews and marketplace presence
 
-Metronagon Media occupies the strategic middle ground — offering professional-quality work backed by a real published portfolio, at prices accessible to indie authors who are serious about their books but cannot yet afford premium agency rates.
+Metronagon Media positions itself as a professional-tier option — offering high-quality work backed by a real 22-book published portfolio and detailed creative process documentation, at prices that sit within Reedsy's professional range.
 
 ## What We Sell
 
 Metronagon Media offers four categories of digital creative services, all delivered remotely:
 
-- **Front Cover Design** — Single Kindle/paperback front covers ($150–$250)
-- **Series Branding** — Multi-book cover suites with logo and box set cover ($400–$950)
-- **Children's Picture Book Illustration** — 32-page illustrated books with covers and assembled PDFs ($500–$900)
-- **Full Publishing Pipeline** — Complete packages combining covers, logo, box set cover, and Amazon book descriptions ($550–$1,350)
+- **Front Cover Design** — Single Kindle/paperback front covers ($450–$650)
+- **Series Branding** — Multi-book cover suites with logo and box set cover ($1,400–$3,500)
+- **Children's Picture Book Illustration** — 32-page illustrated books with covers and assembled PDFs ($1,800–$3,200)
+- **Full Publishing Pipeline** — Complete packages combining covers, logo, box set cover, and Amazon book descriptions ($1,800–$4,500)
 
-Additionally, we offer **Updates & Revisions** for existing clients ($35–$125) and **Add-ons** including rush delivery (+50%) and a returning client discount (-10%).
+Additionally, we offer **Updates & Revisions** for existing clients ($75–$350) and **Add-ons** including rush delivery (+50%) and a returning client discount (-10%).
 
 ## Competitive Advantage
 
@@ -40,20 +40,20 @@ All revenue comes from one-time project payments processed through Stripe. There
 
 The pricing structure is designed to:
 
-- Start below established marketplace rates to build a client base and review history
-- Offer clear value through bundled packages (e.g., 10-book branding at ~$95/cover vs. $150 for a standalone cover)
-- Scale upward over 6–12 months as client testimonials and ratings accumulate
+- Position at the entry-to-mid point of Reedsy's professional range, justified by portfolio quality and process depth
+- Offer clear value through bundled packages (e.g., 10-book branding at ~$350/cover vs. $450 for a standalone cover)
+- Scale upward as client reviews and marketplace reputation grow
 
 ## Financial Summary
 
-| Metric | Year 1 Target |
-| --- | --- |
-| Average order value | $350–$500 |
-| Monthly orders (target) | 8–12 |
-| Monthly revenue (target) | $2,800–$6,000 |
-| Annual revenue (target) | $33,600–$72,000 |
-| Operating expenses | Minimal (tools, hosting, Stripe fees) |
-| Profit margin | 85–90% (digital delivery, no physical goods) |
+| Metric                   | Year 1 Target                                |
+| ------------------------ | -------------------------------------------- |
+| Average order value      | $1,200–$2,000                                |
+| Monthly orders (target)  | 4–8                                          |
+| Monthly revenue (target) | $4,800–$16,000                               |
+| Annual revenue (target)  | $57,600–$192,000                             |
+| Operating expenses       | Minimal (tools, hosting, Stripe fees)        |
+| Profit margin            | 85–90% (digital delivery, no physical goods) |
 
 ## Current Status
 
@@ -67,4 +67,4 @@ The pricing structure is designed to:
 
 ## Vision
 
-Within 12 months, Metronagon Media aims to establish a steady client base of indie authors, accumulate 20+ five-star reviews, and raise prices toward the Reedsy-competitive range ($300–$500+ per cover). The long-term vision is to become a recognized name in the indie author services space — known for quality, speed, and the unique credibility of a designer who is also a published author.
+Within 12 months, Metronagon Media aims to establish a steady client base of indie authors, accumulate 20+ five-star reviews, and move prices toward the upper Reedsy professional range ($600–$900+ per cover). The long-term vision is to become a recognized name in the indie author services space — known for quality, thoroughness, and the unique credibility of a designer who is also a published author with 22 books.

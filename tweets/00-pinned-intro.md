@@ -9,10 +9,10 @@
 
 I design professional book covers, series branding, and children's book illustrations for indie authors.
 
-🎨 Ebook Covers — from $75
-📚 Series Branding (3–12+ books) — from $250
-🧒 Children's Picture Books — from $500
-🚀 Full Pipeline (covers + planning + branding) — from $400
+🎨 Ebook Covers — from $450
+📚 Series Branding (3–10 books) — from $1,400
+🧒 Children's Picture Books — from $1,800
+🚀 Full Pipeline (covers + branding + descriptions) — from $1,800
 
 Every project delivered in 2–10 business days.
 

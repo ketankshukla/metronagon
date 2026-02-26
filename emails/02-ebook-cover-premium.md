@@ -1,4 +1,4 @@
-# Ebook Cover Design — Premium ($150)
+# Ebook Cover Design — Premium ($650)
 
 **Subject:** Your Premium Ebook Cover — Let's Get Started!
 

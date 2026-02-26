@@ -9,9 +9,9 @@ If your 5-book series has 5 covers that look like they were designed by 5 differ
 
 Series branding from Metronagon Media:
 
-✦ 3 Books — $250
-✦ 5 Books — $500
-✦ 8+ Books — $1,200
+✦ 3 Books — $1,400
+✦ 5 Books — $2,200
+✦ 10 Books — $3,500
 
 Covers. Logo. Box set. Style guide. All unified.
 
@@ -31,5 +31,5 @@ Covers. Logo. Box set. Style guide. All unified.
 
 1. "Book 1 of a 12-book branded series — consistent visual identity. Series branding by Metronagon Media."
 2. "Book 2 maintaining series branding consistency — same palette, typography, and composition grid. By Metronagon Media."
-3. "Book 3 — unified series design. Professional series branding starting at $250. By Metronagon Media."
+3. "Book 3 — unified series design. Professional series branding starting at $1,400. By Metronagon Media."
 4. "Custom series logo designed as part of the series branding package. By Metronagon Media."

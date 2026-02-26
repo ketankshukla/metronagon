@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Series Branding: Starter / 3 Books ($400)
+# Reedsy Conversation Pipeline — Series Branding: Starter / 3 Books ($1,400)
 
 **Package:** Series Branding — Starter (3 Books)
-**Price:** $400
-**Delivery:** 2 business days
+**Price:** $1,400
+**Delivery:** 7–10 business days
 **Revisions:** 1 round included
 **Deliverables:** 3 visually consistent front covers, series logo, box set front cover
 
@@ -20,7 +20,7 @@
 
 > Hi! Absolutely — series branding is one of my core services. I've designed covers for three complete series on Amazon (22 books total), so I know exactly how to build visual consistency across multiple books.
 >
-> My Series Branding — Starter package is $400 for 3 books and includes:
+> My Series Branding — Starter package is $1,400 for 3 books and includes:
 >
 > - 3 visually consistent front covers (Kindle + paperback ready)
 > - Series logo (logomark + wordmark)
@@ -38,7 +38,7 @@
 
 **CLIENT:**
 
-> Couldn't I just buy 3 individual Standard covers? That would be $450 — only $50 more and I'd get 6 concepts instead of 3.
+> Couldn't I just buy 3 individual Standard covers? That would be $1,350 — only slightly less, but wouldn't I get 6 concepts instead of 3?
 
 **YOU:**
 
@@ -46,14 +46,14 @@
 >
 > With 3 individual covers, each one is designed independently. They might end up looking great individually but not cohesive as a series. Readers browse Amazon by thumbnail — if your 3 books don't instantly read as a set, you lose the "binge reader" effect.
 >
-> With the Series Branding package ($400):
+> With the Series Branding package ($1,400):
 >
 > - All 3 covers are designed as a **unified system** from day one — same palette, same typography hierarchy, same composition logic
 > - You get a **series logo** — a logomark and wordmark that anchors the whole series identity
 > - You get a **box set front cover** — a separate image for your Amazon box set listing
 > - The visual consistency drives binge reads — readers see Book 1, recognize Books 2 and 3 instantly
 >
-> You're saving $50 AND getting the logo + box set cover included. The branding package is the right move for a series.
+> For just $50 more you're getting the logo + box set cover included AND all 3 covers designed as a cohesive system. The branding package is the right move for a series.
 
 ---
 
@@ -69,11 +69,11 @@
 >
 > Two options:
 >
-> **Option 1: Series Branding Starter ($400)** — I treat your existing Book 1 as the design reference and create 2 new matching covers + series logo + box set cover. Full package, unified result.
+> **Option 1: Series Branding Starter ($1,400)** — I treat your existing Book 1 as the design reference and create 2 new matching covers + series logo + box set cover. Full package, unified result.
 >
-> **Option 2: 2x Add New Book Cover ($125 each = $250) + Logo ($100) + Box Set ($100) = $450** — A la carte pricing for the same deliverables, but $50 more.
+> **Option 2: 2x Add New Book Cover ($350 each = $700) + Logo ($200) + Box Set ($200) = $1,100** — A la carte pricing for the same deliverables, but without the unified design process.
 >
-> The branding package at $400 is the better deal. I'll use your Book 1 cover as the foundation and build the system around it.
+> The branding package at $1,400 is the premium choice — all 3 covers are designed as a unified system from day one, and the logo + box set cover are built into the visual identity. I'll use your Book 1 cover as the foundation and build the system around it.
 >
 > Want to proceed? Send me your Book 1 cover and I'll send the creative brief.
 
@@ -406,7 +406,7 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Absolutely. For Book 2, what specifically isn't working — is it the composition, the setting, the mood, or something else? The more you can tell me about what you're envisioning instead, the better I can redirect.
 >
-> Since this is your 1 included revision round, I'll create a new direction for Book 2 while keeping everything else as-is. If you'd like major overhauls on additional covers, those would be separate (Cover Major Revision at $100 per cover).
+> Since this is your 1 included revision round, I'll create a new direction for Book 2 while keeping everything else as-is. If you'd like major overhauls on additional covers, those would be separate (Cover Major Revision at $250 per cover).
 >
 > Give me the new direction for Book 2 and I'll get it done.
 
@@ -478,9 +478,9 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Absolutely! Since we have the visual system established, adding new covers is straightforward. Two options:
 >
-> 1. **Add New Book Cover — $125 each:** 2 new covers at $125 = $250. Each matches the existing trilogy style.
+> 1. **Add New Book Cover — $350 each:** 2 new covers at $350 = $700. Each matches the existing trilogy style.
 >
-> 2. **Upgrade to Series Branding Standard (5 Books) — $600:** This would give you 5 covers total + updated logo + updated box set. Since you already have 3, I'd effectively be creating 2 new covers and updating the box set to reflect all 5 books, for $200 more than a la carte but with the box set update included.
+> 2. **Upgrade to Series Branding Standard (5 Books) — $2,200:** This would give you 5 covers total + updated logo + updated box set. Since you already have 3, I'd effectively be creating 2 new covers and updating the box set to reflect all 5 books. The upgrade includes the unified design treatment and box set update.
 >
 > The upgrade is cleaner since your box set cover will need to reflect 5 books instead of 3 anyway. Want to proceed?
 
@@ -506,7 +506,7 @@ After the client expresses interest and before sending the creative brief, send 
 
 **YOU:**
 
-> Simple text update — that falls under a Cover Minor Revision at $35. I'll swap the title and send you the updated files within 1 business day.
+> Simple text update — that falls under a Cover Minor Revision at $75. I'll swap the title and send you the updated files within 1 business day.
 >
 > Want me to go ahead?
 
@@ -514,10 +514,10 @@ After the client expresses interest and before sending the creative brief, send 
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $400, you receive $360.
-- **Milestone structure:** For a $400 project, suggest 2 milestones:
-  - Milestone 1 ($200): Upfront to begin — covers brief review, concept development
-  - Milestone 2 ($200): On delivery — final files and revision round
+- **Payment on Reedsy:** Reedsy takes 10%. On $1,400, you receive $1,260.
+- **Milestone structure:** For a $1,400 project, suggest 2 milestones:
+  - Milestone 1 ($700): Upfront to begin — covers brief review, concept development
+  - Milestone 2 ($700): On delivery — final files and revision round
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe (no commission).
 
 ---

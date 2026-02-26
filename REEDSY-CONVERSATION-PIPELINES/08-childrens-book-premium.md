@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Children's Picture Book: Premium ($900)
+# Reedsy Conversation Pipeline — Children's Picture Book: Premium ($3,200)
 
 **Package:** Children's Picture Book — Premium
-**Price:** $900
-**Delivery:** 3 business days
+**Price:** $3,200
+**Delivery:** 14–21 business days
 **Revisions:** 2 rounds included
 **Deliverables:** Character reference sheets, 32 fully illustrated pages (multiple refinement passes), front AND back cover images, print-ready PDF, individual page files
 
@@ -18,7 +18,7 @@
 
 **YOU:**
 
-> Hi! My Premium package ($900) is the highest-quality children's picture book option I offer. Here's what sets it apart:
+> Hi! My Premium package ($3,200) is the highest-quality children's picture book option I offer. Here's what sets it apart:
 >
 > - **Character reference sheets** — Before I illustrate a single page, I create dedicated reference sheets for your characters: front view, expressions, and clothing defined. This is the key to flawless consistency across all 32 pages.
 > - **32 fully illustrated pages** with multiple refinement passes — premium quality means each page gets extra attention to detail, lighting, and expression
@@ -38,13 +38,13 @@
 
 **CLIENT:**
 
-> I'm torn between Plus ($700) and Premium ($900). Is the Premium worth the extra $200?
+> I'm torn between Plus ($2,400) and Premium ($3,200). Is the Premium worth the extra $800?
 
 **YOU:**
 
 > Here's the honest comparison:
 >
-> | Feature                    | Plus ($700)               | Premium ($900)                                |
+> | Feature                    | Plus ($2,400)             | Premium ($3,200)                              |
 > | -------------------------- | ------------------------- | --------------------------------------------- |
 > | 32 illustrated pages       | Enhanced quality          | **Premium quality (extra refinement passes)** |
 > | Character reference sheets | No (style anchoring used) | **Yes — dedicated sheets before production**  |
@@ -54,7 +54,7 @@
 > | Revision rounds            | 2                         | 2                                             |
 > | Delivery                   | 2 days                    | 3 days                                        |
 >
-> **The $200 difference buys you:**
+> **The $800 difference buys you:**
 >
 > 1. **Character reference sheets** — You see and approve exactly how your characters look before I illustrate any pages. If something's off (hair wrong, expression too old, clothing not right), we fix it at the reference stage — not after 32 pages are done.
 > 2. **Higher illustration quality** — Multiple refinement passes per page. Richer backgrounds, more detailed character expressions, more polished lighting.
@@ -536,7 +536,7 @@ This is a Premium-exclusive step that happens BEFORE page illustration.
 
 > Amazing! Since we have the character reference sheets from Book 1, the sequel will have perfect character continuity from page 1. Same faces, same proportions, same clothing — readers will recognize their favorite characters instantly.
 >
-> Same Premium package at $900. Returning client discount: **$810** (10% off).
+> Same Premium package at $3,200. Returning client discount: **$2,880** (10% off).
 >
 > I'll create new reference sheets only for any NEW characters. Existing characters use the approved sheets from Book 1.
 >
@@ -554,10 +554,10 @@ This is a Premium-exclusive step that happens BEFORE page illustration.
 
 > Yes! For the Premium package, I'll:
 >
-> 1. Create a reference sheet for the new character ($75 — Children's Book New Character)
-> 2. Add the character to the relevant pages ($35/page — Children's Book Page Edit)
+> 1. Create a reference sheet for the new character ($200 — Children's Book New Character)
+> 2. Add the character to the relevant pages ($75/page — Children's Book Page Edit)
 >
-> So if the new character appears on 4 pages: $75 + (4 x $35) = $215.
+> So if the new character appears on 4 pages: $200 + (4 x $75) = $500.
 >
 > Send me the character description and which pages they should appear on, and I'll get started.
 
@@ -585,11 +585,11 @@ This is a Premium-exclusive step that happens BEFORE page illustration.
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $900, you receive $810.
-- **Milestone structure:** For a $900 project, suggest 3 milestones:
-  - Milestone 1 ($300): Upfront — character reference sheet development
-  - Milestone 2 ($300): Reference sheets approved, page production begins
-  - Milestone 3 ($300): On final delivery — all pages, covers, print PDF
+- **Payment on Reedsy:** Reedsy takes 10%. On $3,200, you receive $2,880.
+- **Milestone structure:** For a $3,200 project, suggest 3 milestones:
+  - Milestone 1 ($1,100): Upfront — character reference sheet development
+  - Milestone 2 ($1,100): Reference sheets approved, page production begins
+  - Milestone 3 ($1,000): On final delivery — all pages, covers, print PDF
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

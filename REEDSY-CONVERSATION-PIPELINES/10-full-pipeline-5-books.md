@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Full Pipeline: Standard / 5 Books ($850)
+# Reedsy Conversation Pipeline — Full Pipeline: Standard / 5 Books ($2,800)
 
 **Package:** Full Pipeline — Standard (5 Books)
-**Price:** $850
-**Delivery:** 3 business days
+**Price:** $2,800
+**Delivery:** 10–14 business days
 **Revisions:** 2 rounds included
 **Deliverables:** 5 visually consistent front covers, series logo, box set front cover, 5 keyword-optimized Amazon book descriptions
 
@@ -18,7 +18,7 @@
 
 **YOU:**
 
-> Hi! My Full Pipeline — Standard package ($850) is exactly what you need. It's the complete launch package for a 5-book series:
+> Hi! My Full Pipeline — Standard package ($2,800) is exactly what you need. It's the complete launch package for a 5-book series:
 >
 > - 5 visually consistent front covers (Kindle + paperback ready, 1600x2400, 300 DPI)
 > - Series logo (logomark + wordmark)
@@ -39,23 +39,23 @@
 
 **CLIENT:**
 
-> I was thinking of getting branding from you ($600) and hiring a copywriter for the descriptions separately. Is the Pipeline worth it?
+> I was thinking of getting branding from you ($2,200) and hiring a copywriter for the descriptions separately. Is the Pipeline worth it?
 
 **YOU:**
 
 > Good question. Let's compare:
 >
-> **Option 1: Branding ($600) + separate copywriter**
+> **Option 1: Branding ($2,200) + separate copywriter**
 >
-> - Branding: $600 (5 covers + logo + box set)
-> - Copywriter on Reedsy: $150-$300 for 5 descriptions (typical range)
-> - Total: $750-$900
+> - Branding: $2,200 (5 covers + logo + box set)
+> - Copywriter on Reedsy: $300-$600 for 5 descriptions (typical range)
+> - Total: $2,500-$2,800
 > - Coordination: You manage two professionals separately
 >
-> **Option 2: Full Pipeline ($850)**
+> **Option 2: Full Pipeline ($2,800)**
 >
 > - Everything in one package: covers + logo + box set + 5 descriptions
-> - Total: $850
+> - Total: $2,800
 > - Coordination: One person, one brief, one delivery
 >
 > The Pipeline is competitively priced AND you get a single person who understands both the visual and verbal identity of your series. The descriptions I write are informed by the same creative brief as the covers — the visual mood and the copy tone match perfectly.
@@ -535,9 +535,9 @@ After the client expresses interest and before sending the creative brief, send 
 
 **YOU:**
 
-> Absolutely! Book Description Update: $35. I'll revise using new keywords, reader language, and any positioning changes. 1 business day.
+> Absolutely! Book Description Update: $75. I'll revise using new keywords, reader language, and any positioning changes. 1 business day.
 >
-> Returning client discount: **$31.50**.
+> Returning client discount: **$67.50**.
 >
 > Send me the new direction and any specific keywords or phrases from reviews you want incorporated.
 
@@ -553,11 +553,11 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Congratulations! Two options:
 >
-> 1. **5x Add New Book Cover ($125 each = $625) + 5x Book Description ($35 each = $175) = $800**
+> 1. **5x Add New Book Cover ($350 each = $1,750) + 5x Book Description ($75 each = $375) = $2,125**
 >
-> 2. **Upgrade to Full Pipeline Premium (10 Books) at $1,350.** You've paid $850, so the upgrade is $500 for 5 new covers + 5 new descriptions + updated box set cover.
+> 2. **Upgrade to Full Pipeline Premium (10 Books) at $4,500.** You've paid $2,800, so the upgrade is $1,700 for 5 new covers + 5 new descriptions + updated box set cover.
 >
-> The upgrade saves you $300 AND includes an updated box set cover for the full 10-book collection. Much better value.
+> The upgrade saves you $425 AND includes an updated box set cover for the full 10-book collection. Much better value.
 >
 > Want to proceed?
 
@@ -582,11 +582,11 @@ After the client expresses interest and before sending the creative brief, send 
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $850, you receive $765.
-- **Milestone structure:** For an $850 project, suggest 2-3 milestones:
-  - Milestone 1 ($300): Upfront — brief review, design system, first covers
-  - Milestone 2 ($300): All covers + logo + box set delivered
-  - Milestone 3 ($250): Descriptions delivered + final files
+- **Payment on Reedsy:** Reedsy takes 10%. On $2,800, you receive $2,520.
+- **Milestone structure:** For a $2,800 project, suggest 3 milestones:
+  - Milestone 1 ($1,000): Upfront — brief review, design system, first covers
+  - Milestone 2 ($1,000): All covers + logo + box set delivered
+  - Milestone 3 ($800): Descriptions delivered + final files
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

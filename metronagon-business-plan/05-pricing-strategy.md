@@ -12,84 +12,84 @@ At the same time, the work quality is demonstrably above Fiverr-tier output. The
 
 ### Main Packages
 
-| Package | Price | Per-Cover Equivalent | Delivery |
-| --- | --- | --- | --- |
-| Cover — Standard | $150 | $150 | 1 day |
-| Cover — Premium | $250 | $250 | 2 days |
-| Branding — Starter (3 Books) | $400 | ~$133 | 2 days |
-| Branding — Standard (5 Books) | $600 | ~$120 | 2 days |
-| Branding — Premium (10 Books) | $950 | ~$95 | 3 days |
-| Children's — Standard | $500 | ~$15/page | 2 days |
-| Children's — Plus | $700 | ~$22/page | 2 days |
-| Children's — Premium | $900 | ~$28/page | 3 days |
-| Pipeline — Starter (3 Books) | $550 | ~$183 | 2 days |
-| Pipeline — Standard (5 Books) | $850 | ~$170 | 3 days |
-| Pipeline — Premium (10 Books) | $1,350 | ~$135 | 4 days |
+| Package                       | Price  | Per-Cover Equivalent | Delivery   |
+| ----------------------------- | ------ | -------------------- | ---------- |
+| Cover — Standard              | $450   | $450                 | 3–5 days   |
+| Cover — Premium               | $650   | $650                 | 5–7 days   |
+| Branding — Starter (3 Books)  | $1,400 | ~$467                | 7–10 days  |
+| Branding — Standard (5 Books) | $2,200 | ~$440                | 10–14 days |
+| Branding — Premium (10 Books) | $3,500 | ~$350                | 14–21 days |
+| Children's — Standard         | $1,800 | ~$56/page            | 10–14 days |
+| Children's — Plus             | $2,400 | ~$75/page            | 14–18 days |
+| Children's — Premium          | $3,200 | ~$100/page           | 14–21 days |
+| Pipeline — Starter (3 Books)  | $1,800 | ~$600                | 7–10 days  |
+| Pipeline — Standard (5 Books) | $2,800 | ~$560                | 10–14 days |
+| Pipeline — Premium (10 Books) | $4,500 | ~$450                | 14–21 days |
 
 ### Updates & Revisions
 
-| Service | Price | Delivery |
-| --- | --- | --- |
-| Cover — Minor Revision | $35 | 1 day |
-| Cover — Major Revision | $100 | 1 day |
-| Add New Book Cover | $125 | 1 day |
-| Logo Refresh | $100 | 1 day |
-| New Box Set Front Cover | $100 | 1 day |
-| Book Description Update | $35 | 1 day |
-| Children's — Page Edit | $35/page | 1 day/page |
-| Children's — Add Page | $50/page | 1 day/page |
-| Children's — New Character | $75 | 1 day |
+| Service                    | Price     | Delivery   |
+| -------------------------- | --------- | ---------- |
+| Cover — Minor Revision     | $75       | 1 day      |
+| Cover — Major Revision     | $250      | 1 day      |
+| Add New Book Cover         | $350      | 1 day      |
+| Logo Refresh               | $200      | 1 day      |
+| New Box Set Front Cover    | $200      | 1 day      |
+| Book Description Update    | $75       | 1 day      |
+| Children's — Page Edit     | $75/page  | 1 day/page |
+| Children's — Add Page      | $100/page | 1 day/page |
+| Children's — New Character | $75       | 1 day      |
 
 ### Add-Ons
 
-| Add-On | Price |
-| --- | --- |
-| Rush Fee — 48hr Turnaround | +50% of base price |
-| Returning Client Discount | -10% off any new order |
+| Add-On                     | Price                  |
+| -------------------------- | ---------------------- |
+| Rush Fee — 48hr Turnaround | +50% of base price     |
+| Returning Client Discount  | -10% off any new order |
 
 ## Pricing Rationale
 
-### Why Not Cheaper
+### Why These Prices
 
-- $150 for a single front cover is above Fiverr's typical $25–$100 range
-- It signals "I take this seriously" without demanding established-professional trust levels
-- Children's books at $500 for 32 illustrations represent genuine value at ~$15/illustration
-- Pricing below $100 would attract bargain hunters and devalue the portfolio
+- $450 for a single front cover positions Metronagon at the entry point of Reedsy's professional range ($500–$700)
+- Each cover starts with a 2,500–3,000 word creative brief — 8–12 hours of skilled professional work per cover
+- Children's books at $1,800 for 32 illustrations represent ~$56/illustration — professional rate for consistent, high-quality character work
+- The AI Transparency page (metronagon.com/ai-transparency) demonstrates the depth of the creative process, justifying professional rates
+- 22 published books across 3 series provide verifiable proof of quality
 
-### Why Not More Expensive
+### Why Not Higher
 
-- Every price is below Reedsy's entry-level for comparable work
-- A client who cannot verify reviews or client testimonials will not pay $500+ for a single cover from an unknown designer
-- Bundles offer clear savings over buying covers individually, incentivizing larger orders
-- The goal is volume and reviews first, premium pricing second
+- Zero Reedsy client reviews means pricing at the top of the range would be premature
+- Current prices sit at entry-to-mid professional range, with clear room to grow as reviews accumulate
+- Bundle economics reward commitment — per-cover rates decrease with larger packages
 
 ### Bundle Economics
 
 The pricing structure deliberately rewards larger orders:
 
-| Buying Strategy | Total Cost | Per-Cover Cost |
-| --- | --- | --- |
-| 5 individual Standard covers | $750 | $150/cover |
-| Branding Standard (5 Books) | $600 | $120/cover |
-| Pipeline Standard (5 Books) | $850 | $170/cover (includes logo, box set, descriptions) |
-| 10 individual Standard covers | $1,500 | $150/cover |
-| Branding Premium (10 Books) | $950 | $95/cover |
-| Pipeline Premium (10 Books) | $1,350 | $135/cover (includes logo, box set, descriptions) |
+| Buying Strategy               | Total Cost | Per-Cover Cost                                    |
+| ----------------------------- | ---------- | ------------------------------------------------- |
+| 5 individual Standard covers  | $2,250     | $450/cover                                        |
+| Branding Standard (5 Books)   | $2,200     | $440/cover                                        |
+| Pipeline Standard (5 Books)   | $2,800     | $560/cover (includes logo, box set, descriptions) |
+| 10 individual Standard covers | $4,500     | $450/cover                                        |
+| Branding Premium (10 Books)   | $3,500     | $350/cover                                        |
+| Pipeline Premium (10 Books)   | $4,500     | $450/cover (includes logo, box set, descriptions) |
 
 This makes series branding and pipeline packages the obvious value choice for authors planning multi-book series — which is exactly the highest-value customer segment.
 
 ## Price Comparison: Current vs. Market
 
-| Package | Metronagon (Now) | Reedsy Entry | Reedsy Mid-Range |
-| --- | --- | --- | --- |
-| Single cover | $150–$250 | $500–$700 | $750–$1,200 |
-| 3-book branding | $400 | $1,200–$1,800 | $2,000–$3,000 |
-| 5-book branding | $600 | $2,000–$2,800 | $3,000–$4,500 |
-| 10-book branding | $950 | $3,000–$4,500 | $5,000–$7,000+ |
-| Children's (32 pages) | $500–$900 | $1,800–$2,500 | $2,800–$4,000 |
-| 5-book pipeline | $850 | $2,800–$3,800 | $4,000–$6,000 |
+| Package               | Metronagon (Now) | Reedsy Entry  | Reedsy Mid-Range |
+| --------------------- | ---------------- | ------------- | ---------------- |
+| Single cover          | $450–$650        | $500–$700     | $750–$1,200      |
+| 3-book branding       | $1,400           | $1,200–$1,800 | $2,000–$3,000    |
+| 5-book branding       | $2,200           | $2,000–$2,800 | $3,000–$4,500    |
+| 10-book branding      | $3,500           | $3,000–$4,500 | $5,000–$7,000+   |
+| Children's (32 pages) | $1,800–$3,200    | $1,800–$2,500 | $2,800–$4,000    |
+| 5-book pipeline       | $2,800           | $2,800–$3,800 | $4,000–$6,000    |
 
-Metronagon's current prices represent a **60–75% discount** compared to established Reedsy professionals. This is intentional for the launch phase.
+Metronagon's current prices sit at the **entry-to-mid point of Reedsy's professional range**, justified by the depth of creative work (2,500–3,000 word briefs per cover), 22-book portfolio, and AI Transparency documentation.
 
 ## Planned Price Evolution
 
@@ -105,35 +105,35 @@ The pricing strategy includes a deliberate escalation path tied to reputation mi
 
 - **Target:** 15–25 total reviews, 4.8+ average rating
 - **Price increases:**
-  - Cover Standard: $150 → $200–$250
-  - Cover Premium: $250 → $350–$400
-  - Branding packages: +30–40%
-  - Pipeline packages: +30–40%
-  - Children's packages: +40–50%
+  - Cover Standard: $450 → $550–$650
+  - Cover Premium: $650 → $750–$900
+  - Branding packages: +20–30%
+  - Pipeline packages: +20–30%
+  - Children's packages: +20–30%
 - **Justification:** Review history now provides social proof
 
 ### Phase 3: Premium (Year 2+)
 
 - **Target:** 25+ reviews, recognized name in indie author communities
 - **Price increases:**
-  - Cover Standard: $300–$400
-  - Cover Premium: $400–$600
-  - Branding packages: Approaching Reedsy entry-level
-  - Pipeline packages: $1,500–$3,000 range
-  - Children's packages: $1,000–$1,500+
+  - Cover Standard: $600–$700
+  - Cover Premium: $800–$950
+  - Branding packages: Upper Reedsy professional range
+  - Pipeline packages: $4,000–$7,000 range
+  - Children's packages: $3,000–$4,000+
 - **Justification:** Proven track record with paying clients, not just self-work
 
 ### Long-Term Goal
 
-| Package | Current | Goal (12 months) | Reedsy Competitive |
-| --- | --- | --- | --- |
-| Cover — Standard | $150 | $300–$400 | $500–$700 |
-| Cover — Premium | $250 | $400–$600 | $750–$950 |
-| Branding — 3 Books | $400 | $700–$900 | $1,200–$1,800 |
-| Branding — 5 Books | $600 | $1,000–$1,400 | $2,000–$2,800 |
-| Branding — 10 Books | $950 | $1,500–$2,200 | $3,000–$4,500 |
-| Children's — Standard | $500 | $800–$1,200 | $1,800–$2,500 |
-| Pipeline — 5 Books | $850 | $1,400–$1,800 | $2,800–$3,800 |
+| Package               | Current | Goal (12 months) | Reedsy Competitive |
+| --------------------- | ------- | ---------------- | ------------------ |
+| Cover — Standard      | $450    | $550–$700        | $500–$700          |
+| Cover — Premium       | $650    | $750–$950        | $750–$950          |
+| Branding — 3 Books    | $1,400  | $1,600–$1,800    | $1,200–$1,800      |
+| Branding — 5 Books    | $2,200  | $2,500–$2,800    | $2,000–$2,800      |
+| Branding — 10 Books   | $3,500  | $4,000–$4,500    | $3,000–$4,500      |
+| Children's — Standard | $1,800  | $2,000–$2,500    | $1,800–$2,500      |
+| Pipeline — 5 Books    | $2,800  | $3,200–$3,800    | $2,800–$3,800      |
 
 ## Payment Processing
 

@@ -26,8 +26,8 @@ interface Feature {
 const coverPackages = [
   {
     name: "Standard",
-    price: "$150",
-    delivery: "1 business day",
+    price: "$450",
+    delivery: "3\u20135 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_STANDARD,
     description:
       "Single front cover for Kindle or paperback \u2014 2 concepts, 1 polished final.",
@@ -66,8 +66,8 @@ const coverPackages = [
   },
   {
     name: "Premium",
-    price: "$250",
-    delivery: "2 business days",
+    price: "$650",
+    delivery: "5\u20137 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_PREMIUM,
     description: "Premium front cover with 3 concepts and 2 revision rounds.",
@@ -110,8 +110,8 @@ const brandingPackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$400",
-    delivery: "2 business days",
+    price: "$1,400",
+    delivery: "7\u201310 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STARTER,
     features: [
       {
@@ -139,8 +139,8 @@ const brandingPackages = [
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$600",
-    delivery: "2 business days",
+    price: "$2,200",
+    delivery: "10\u201314 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STANDARD,
     features: [
@@ -169,8 +169,8 @@ const brandingPackages = [
   {
     name: "Premium",
     subtitle: "10 Books",
-    price: "$950",
-    delivery: "3 business days",
+    price: "$3,500",
+    delivery: "14\u201321 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_PREMIUM,
     features: [
       {
@@ -200,8 +200,8 @@ const brandingPackages = [
 const childrensPackages = [
   {
     name: "Standard",
-    price: "$500",
-    delivery: "2 business days",
+    price: "$1,800",
+    delivery: "10\u201314 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
     description: "32 illustrated pages with front cover, assembled into a PDF.",
     features: [
@@ -239,8 +239,8 @@ const childrensPackages = [
   },
   {
     name: "Plus",
-    price: "$700",
-    delivery: "2 business days",
+    price: "$2,400",
+    delivery: "14\u201318 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PLUS,
     description:
@@ -280,8 +280,8 @@ const childrensPackages = [
   },
   {
     name: "Premium",
-    price: "$900",
-    delivery: "3 business days",
+    price: "$3,200",
+    delivery: "14\u201321 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PREMIUM,
     description:
       "Premium picture book with character reference sheets and full print package.",
@@ -324,8 +324,8 @@ const pipelinePackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$550",
-    delivery: "2 business days",
+    price: "$1,800",
+    delivery: "7\u201310 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STARTER,
     features: [
       {
@@ -358,8 +358,8 @@ const pipelinePackages = [
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$850",
-    delivery: "3 business days",
+    price: "$2,800",
+    delivery: "10\u201314 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STANDARD,
     features: [
@@ -393,8 +393,8 @@ const pipelinePackages = [
   {
     name: "Premium",
     subtitle: "10 Books",
-    price: "$1,350",
-    delivery: "4 business days",
+    price: "$4,500",
+    delivery: "14\u201321 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_PREMIUM,
     features: [
       {
@@ -429,55 +429,55 @@ const pipelinePackages = [
 const updates = [
   {
     name: "Cover \u2014 Minor Revision",
-    price: "$35",
+    price: "$75",
     desc: "Text fix, color adjustment, subtitle change",
     delivery: "1 business day",
   },
   {
     name: "Cover \u2014 Major Revision",
-    price: "$100",
+    price: "$250",
     desc: "New concept, different style, layout overhaul",
     delivery: "1 business day",
   },
   {
     name: "Add New Book Cover",
-    price: "$125",
+    price: "$350",
     desc: "New front cover matching existing series style",
     delivery: "1 business day",
   },
   {
     name: "Logo Refresh",
-    price: "$100",
+    price: "$200",
     desc: "Updated or redesigned series logo",
     delivery: "1 business day",
   },
   {
     name: "New Box Set Front Cover",
-    price: "$100",
+    price: "$200",
     desc: "Additional box set front cover image",
     delivery: "1 business day",
   },
   {
     name: "Book Description Update",
-    price: "$35",
+    price: "$75",
     desc: "Updated Amazon/retail description",
     delivery: "1 business day",
   },
   {
     name: "Children\u2019s Book \u2014 Page Edit",
-    price: "$35/pg",
+    price: "$75/pg",
     desc: "Re-illustrated page with text updates",
     delivery: "1 day per page",
   },
   {
     name: "Children\u2019s Book \u2014 Add Page",
-    price: "$50/pg",
+    price: "$100/pg",
     desc: "New illustrated page in existing book",
     delivery: "1 day per page",
   },
   {
     name: "Children\u2019s Book \u2014 New Character",
-    price: "$75",
+    price: "$200",
     desc: "New character design in existing style",
     delivery: "1 business day",
   },
@@ -900,7 +900,7 @@ export default function ServicesPage() {
               },
               {
                 q: "Can I expand my series later?",
-                a: "Yes. Purchase an Add New Book Cover ($125) anytime to add a new front cover matching your existing series style.",
+                a: "Yes. Purchase an Add New Book Cover ($350) anytime to add a new front cover matching your existing series style.",
               },
               {
                 q: "Do you write children\u2019s book stories?",

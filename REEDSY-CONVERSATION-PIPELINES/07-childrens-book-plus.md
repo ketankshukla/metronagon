@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Children's Picture Book: Plus ($700)
+# Reedsy Conversation Pipeline — Children's Picture Book: Plus ($2,400)
 
 **Package:** Children's Picture Book — Plus
-**Price:** $700
-**Delivery:** 2 business days
+**Price:** $2,400
+**Delivery:** 14–18 business days
 **Revisions:** 2 rounds included
 **Deliverables:** 32 fully illustrated pages, front AND back cover images, print-ready PDF (KDP Print specs), individual page files
 
@@ -18,7 +18,7 @@
 
 **YOU:**
 
-> Hi! For a print paperback, my Plus package ($700) is the right fit. It includes everything you need for KDP Print:
+> Hi! For a print paperback, my Plus package ($2,400) is the right fit. It includes everything you need for KDP Print:
 >
 > - 32 fully illustrated pages with consistent character design
 > - Front AND back cover illustrations (no spine — Amazon's Cover Creator handles that)
@@ -37,22 +37,22 @@
 
 **CLIENT:**
 
-> What's the difference between Standard ($500) and Plus ($700)?
+> What's the difference between Standard ($1,800) and Plus ($2,400)?
 
 **YOU:**
 
 > Here's the comparison:
 >
-> | Feature               | Standard ($500) | Plus ($700)                       |
-> | --------------------- | --------------- | --------------------------------- |
-> | 32 illustrated pages  | Yes             | Yes (enhanced quality)            |
-> | Character consistency | Yes             | Yes                               |
-> | Front cover           | Yes             | Yes                               |
-> | Back cover            | No              | **Yes**                           |
-> | PDF format            | Digital-ready   | **Print-ready (KDP Print specs)** |
-> | Individual page files | Yes             | Yes                               |
-> | Revision rounds       | 1               | **2**                             |
-> | Delivery              | 2 days          | 2 days                            |
+> | Feature               | Standard ($1,800) | Plus ($2,400)                     |
+> | --------------------- | ----------------- | --------------------------------- |
+> | 32 illustrated pages  | Yes               | Yes (enhanced quality)            |
+> | Character consistency | Yes               | Yes                               |
+> | Front cover           | Yes               | Yes                               |
+> | Back cover            | No                | **Yes**                           |
+> | PDF format            | Digital-ready     | **Print-ready (KDP Print specs)** |
+> | Individual page files | Yes               | Yes                               |
+> | Revision rounds       | 1                 | **2**                             |
+> | Delivery              | 2 days            | 2 days                            |
 >
 > **Bottom line:**
 >
@@ -79,7 +79,7 @@
 > - Print-ready PDF reformatted for KDP Print (bleed, margins, gutter)
 > - 1 additional revision round
 >
-> The upgrade cost is $200 (the difference between Standard and Plus). I'll use your existing illustrations and add the print-specific elements.
+> The upgrade cost is $600 (the difference between Standard and Plus). I'll use your existing illustrations and add the print-specific elements.
 >
 > Want to proceed? I just need your back cover preferences (any text, tagline, or specific imagery you'd like on the back).
 
@@ -522,7 +522,7 @@ After the client expresses interest and before sending the creative brief, send 
 
 > The illustrations and content are the same — the difference is in the print specifications. For hardcover on KDP, the trim size and formatting requirements differ slightly.
 >
-> I can reformat the print-ready PDF for KDP Print Hardcover specifications for $35 (Book Description Update pricing — since it's a formatting adjustment, not new art).
+> I can reformat the print-ready PDF for KDP Print Hardcover specifications for $75 (Book Description Update pricing — since it's a formatting adjustment, not new art).
 >
 > Want me to proceed? Just confirm whether you want the same trim size or a different one for hardcover.
 
@@ -538,7 +538,7 @@ After the client expresses interest and before sending the creative brief, send 
 
 > Wonderful! Since Zara's character design is already locked in, the sequel will be seamless — same look, same ladybug pin, same warmth.
 >
-> Same Plus package at $700. Returning client discount: **$630** (10% off).
+> Same Plus package at $2,400. Returning client discount: **$2,160** (10% off).
 >
 > Send me the story text and brief whenever you're ready!
 
@@ -552,20 +552,20 @@ After the client expresses interest and before sending the creative brief, send 
 
 **YOU:**
 
-> Of course! Additional pages are $50/page (Children's Book — Add Page). For 4 extra pages: $200.
+> Of course! Additional pages are $100/page (Children's Book — Add Page). For 4 extra pages: $400.
 >
 > Send me the text for the 4 new pages and where they should be inserted in the story, and I'll illustrate them in the same style and integrate them into the print-ready PDF.
 >
-> Total: $200 for 4 additional illustrated pages. 1 day per page delivery.
+> Total: $400 for 4 additional illustrated pages. 1 day per page delivery.
 
 ---
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Reedsy takes 10%. On $700, you receive $630.
-- **Milestone structure:** For a $700 project, suggest 2 milestones:
-  - Milestone 1 ($350): Upfront to begin — character design, first pages
-  - Milestone 2 ($350): On delivery — remaining pages, covers, print PDF
+- **Payment on Reedsy:** Reedsy takes 10%. On $2,400, you receive $2,160.
+- **Milestone structure:** For a $2,400 project, suggest 2 milestones:
+  - Milestone 1 ($1,200): Upfront to begin — character design, first pages
+  - Milestone 2 ($1,200): On delivery — remaining pages, covers, print PDF
 - **Alternative:** Direct payment at https://metronagon.com/services via Stripe.
 
 ---

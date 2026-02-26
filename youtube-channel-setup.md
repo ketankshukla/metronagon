@@ -56,13 +56,13 @@ book cover design, ebook cover design, book cover designer, series branding, boo
 
 ## 5. Channel Links (YouTube Studio → Customization → Basic Info → Links)
 
-| Link Title | URL |
-|------------|-----|
-| Website | https://metronagon.com |
+| Link Title         | URL                             |
+| ------------------ | ------------------------------- |
+| Website            | https://metronagon.com          |
 | Services & Pricing | https://metronagon.com/services |
-| Portfolio | https://metronagon.com/about |
-| X (Twitter) | https://x.com/MetronagonMedia |
-| Email | mailto:ketan@metronagon.com |
+| Portfolio          | https://metronagon.com/about    |
+| X (Twitter)        | https://x.com/MetronagonMedia   |
+| Email              | mailto:ketan@metronagon.com     |
 
 ---
 
@@ -139,11 +139,10 @@ Professional book cover design, series branding, series architecture, and childr
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 📦 WHAT I OFFER:
-• Ebook Cover Design — $75–$150 (2–3 day delivery)
-• Series Branding — $250–$1,200 (3–7 day delivery)
-• Series Architecture & Planning — $200–$800 (2–5 day delivery)
-• Children's Picture Book — $500–$1,000 (5–7 day delivery)
-• Full Pipeline (Covers + Branding + Architecture) — $400–$1,800 (5–10 day delivery)
+• Ebook Cover Design — $450–$650 (3–7 day delivery)
+• Series Branding — $1,400–$3,500 (7–21 day delivery)
+• Children's Picture Book — $1,800–$3,200 (10–21 day delivery)
+• Full Pipeline (Covers + Branding + Descriptions) — $1,800–$4,500 (7–21 day delivery)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -169,32 +168,41 @@ book cover design, ebook cover, cover design process, series branding, indie aut
 Use these patterns for different video types:
 
 ### Cover Design Process Videos
+
 ```
 I Designed a [Genre] Book Cover in [Time] — Full Process | Metronagon Media
 ```
+
 Examples:
+
 - `I Designed a Dark Fantasy Book Cover in 2 Hours — Full Process | Metronagon Media`
 - `I Designed an Epic Sci-Fi Book Cover in 90 Minutes — Full Process | Metronagon Media`
 
 ### Series Branding Videos
+
 ```
 [X]-Book Series Branding — From Scratch to Shelf | [Series Name]
 ```
+
 Examples:
+
 - `12-Book Series Branding — From Scratch to Shelf | The Aztec Chronicles`
 - `5-Book Series Branding — From Scratch to Shelf | Reality Without Belief`
 
 ### Cover Reveals
+
 ```
 COVER REVEAL: [Book/Series Name] — [Genre] Book Cover Design
 ```
 
 ### Before & After
+
 ```
 Book Cover Redesign: Before vs. After | [Genre] Transformation
 ```
 
 ### Tips & Education
+
 ```
 [Number] Book Cover Mistakes That Kill Sales (And How to Fix Them)
 Why Your Book Cover Isn't Selling — [Number] Things to Change Today
@@ -202,6 +210,7 @@ The Anatomy of a Bestselling [Genre] Book Cover
 ```
 
 ### Children's Book
+
 ```
 I Illustrated a Complete Children's Book — 32 Pages, Full Process
 Children's Picture Book Illustration — From Story to Finished Book
@@ -227,15 +236,15 @@ Thumbnail text font: **Montserrat Black** or **Bebas Neue** in white with a dark
 
 Set these in YouTube Studio → Customization → Layout:
 
-| Section Order | Section Type | Title |
-|---------------|-------------|-------|
-| 1 | Channel Trailer | (auto — for unsubscribed visitors) |
-| 2 | Created Playlist | Featured Work — Cover Design Process |
-| 3 | Created Playlist | Series Branding Showcases |
-| 4 | Created Playlist | Children's Book Illustration |
-| 5 | Created Playlist | Book Cover Tips for Authors |
-| 6 | Created Playlist | Cover Reveals |
-| 7 | Popular uploads | Popular Uploads |
+| Section Order | Section Type     | Title                                |
+| ------------- | ---------------- | ------------------------------------ |
+| 1             | Channel Trailer  | (auto — for unsubscribed visitors)   |
+| 2             | Created Playlist | Featured Work — Cover Design Process |
+| 3             | Created Playlist | Series Branding Showcases            |
+| 4             | Created Playlist | Children's Book Illustration         |
+| 5             | Created Playlist | Book Cover Tips for Authors          |
+| 6             | Created Playlist | Cover Reveals                        |
+| 7             | Popular uploads  | Popular Uploads                      |
 
 ---
 
@@ -243,16 +252,16 @@ Set these in YouTube Studio → Customization → Layout:
 
 Create these empty playlists now — you'll add videos to them as you publish:
 
-| Playlist Name | Description |
-|---------------|-------------|
-| Cover Design Process | Watch the full design process for professional ebook covers — from concept to completion. Every genre, every style. |
-| Series Branding Showcases | Full series branding projects — logos, covers, box sets, and style guides for multi-book series. See how visual identity is built across 3, 5, and 12+ books. |
-| Children's Book Illustration | Complete children's picture book illustrations — character design, page layouts, and finished 32-page books. |
-| Book Cover Tips for Authors | Practical advice for indie authors on what makes a book cover sell, common mistakes, and how to brief a designer. |
-| Cover Reveals | Dramatic cover reveal videos for completed projects. |
-| The Aztec Chronicles — 12-Book Series | Complete behind-the-scenes of the Aztec Chronicles — a 12-book dark fantasy series with full branding, covers, characters, and box sets. |
-| Reality Without Belief — 5-Book Series | Design process for the Reality Without Belief series — 5 covers, series logo, box set, and YouTube thumbnail. |
-| Repetition: Mother of Mastery — 5-Book Series | Design process for the Repetition series — 5 covers, series logo, box set, and YouTube thumbnail. |
+| Playlist Name                                 | Description                                                                                                                                                   |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cover Design Process                          | Watch the full design process for professional ebook covers — from concept to completion. Every genre, every style.                                           |
+| Series Branding Showcases                     | Full series branding projects — logos, covers, box sets, and style guides for multi-book series. See how visual identity is built across 3, 5, and 12+ books. |
+| Children's Book Illustration                  | Complete children's picture book illustrations — character design, page layouts, and finished 32-page books.                                                  |
+| Book Cover Tips for Authors                   | Practical advice for indie authors on what makes a book cover sell, common mistakes, and how to brief a designer.                                             |
+| Cover Reveals                                 | Dramatic cover reveal videos for completed projects.                                                                                                          |
+| The Aztec Chronicles — 12-Book Series         | Complete behind-the-scenes of the Aztec Chronicles — a 12-book dark fantasy series with full branding, covers, characters, and box sets.                      |
+| Reality Without Belief — 5-Book Series        | Design process for the Reality Without Belief series — 5 covers, series logo, box set, and YouTube thumbnail.                                                 |
+| Repetition: Mother of Mastery — 5-Book Series | Design process for the Repetition series — 5 covers, series logo, box set, and YouTube thumbnail.                                                             |
 
 ---
 
@@ -260,18 +269,18 @@ Create these empty playlists now — you'll add videos to them as you publish:
 
 These are the highest-impact videos to launch with, using your existing portfolio:
 
-| # | Video Title | Content |
-|---|------------|---------|
-| 1 | I Designed 12 Book Covers for One Series — Full Branding Process | Showcase the complete Aztec Chronicles series — covers, characters, box sets, logo. Time-lapse + narration. |
-| 2 | $75 vs $150 Book Cover — What's the Difference? | Side-by-side comparison of Standard vs Premium cover design. Shows value of each tier. |
-| 3 | 5 Book Cover Mistakes That Kill Sales | Educational content. Show bad vs good covers. Position yourself as the expert. |
-| 4 | I Illustrated a Complete Children's Book — 32 Pages | Walk through the entire children's book process from story to finished pages. |
-| 5 | What Makes a Fantasy Book Cover Sell? — Design Breakdown | Analyze bestselling fantasy covers and apply those principles to your own work. |
-| 6 | Series Branding: How I Built Visual Identity Across 5 Books | Reality Without Belief series — show the logo, covers, box set, thumbnail, and how they connect. |
-| 7 | Cover Reveal: The Aztec Chronicles — All 12 Covers | Cinematic reveal of each cover with dramatic music. Short, shareable, high engagement. |
-| 8 | How to Brief a Book Cover Designer (So You Get What You Want) | Teach authors how to provide good creative briefs. Builds trust and positions you as professional. |
-| 9 | I Built a Complete Book Series From Scratch — Story + Covers + Branding | Full Pipeline showcase — architecture + covers + branding together. |
-| 10 | Before & After: Book Cover Redesigns That Changed Everything | Take generic/bad covers and redesign them. Powerful visual content. |
+| #   | Video Title                                                             | Content                                                                                                     |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 1   | I Designed 12 Book Covers for One Series — Full Branding Process        | Showcase the complete Aztec Chronicles series — covers, characters, box sets, logo. Time-lapse + narration. |
+| 2   | $450 vs $650 Book Cover — What's the Difference?                        | Side-by-side comparison of Standard vs Premium cover design. Shows value of each tier.                      |
+| 3   | 5 Book Cover Mistakes That Kill Sales                                   | Educational content. Show bad vs good covers. Position yourself as the expert.                              |
+| 4   | I Illustrated a Complete Children's Book — 32 Pages                     | Walk through the entire children's book process from story to finished pages.                               |
+| 5   | What Makes a Fantasy Book Cover Sell? — Design Breakdown                | Analyze bestselling fantasy covers and apply those principles to your own work.                             |
+| 6   | Series Branding: How I Built Visual Identity Across 5 Books             | Reality Without Belief series — show the logo, covers, box set, thumbnail, and how they connect.            |
+| 7   | Cover Reveal: The Aztec Chronicles — All 12 Covers                      | Cinematic reveal of each cover with dramatic music. Short, shareable, high engagement.                      |
+| 8   | How to Brief a Book Cover Designer (So You Get What You Want)           | Teach authors how to provide good creative briefs. Builds trust and positions you as professional.          |
+| 9   | I Built a Complete Book Series From Scratch — Story + Covers + Branding | Full Pipeline showcase — architecture + covers + branding together.                                         |
+| 10  | Before & After: Book Cover Redesigns That Changed Everything            | Take generic/bad covers and redesign them. Powerful visual content.                                         |
 
 ---
 
@@ -279,7 +288,7 @@ These are the highest-impact videos to launch with, using your existing portfoli
 
 ```
 Week 1:  Video 1 (Aztec Chronicles showcase — your strongest portfolio piece)
-Week 2:  Video 2 ($75 vs $150 comparison — drives service awareness)
+Week 2:  Video 2 ($450 vs $650 comparison — drives service awareness)
 Week 3:  Video 5 (Fantasy cover analysis — educational, attracts search traffic)
 Week 4:  Video 7 (Cover reveal — short, shareable, builds momentum)
 
@@ -293,17 +302,21 @@ Then: 1 video per week, alternating between process videos and educational conte
 Go through each of these in YouTube Studio → Settings:
 
 ### General
+
 - [x] Currency: **USD**
 
 ### Channel → Basic Info
+
 - [x] Country: **United States** (or your actual country)
 - [x] Keywords: (paste from Section 4 above)
 
 ### Channel → Advanced Settings
+
 - [x] Audience: **No, set this channel as not made for kids** (unless children's book content specifically targets kids)
 - [x] Google Ads account: Link when ready for promoted videos
 
 ### Upload Defaults → Basic Info
+
 - [x] Title: Leave blank (you'll customize per video)
 - [x] Description: (paste from Section 11 above)
 - [x] Visibility: **Public**
@@ -314,14 +327,17 @@ Go through each of these in YouTube Studio → Settings:
 - [x] Comments: **Hold potentially inappropriate comments for review**
 
 ### Upload Defaults → Advanced Settings
+
 - [x] Allow embedding: **Yes**
 - [x] Publish to subscriptions feed: **Yes**
 - [x] Caption certification: **This content has never aired on television in the U.S.**
 
 ### Permissions
+
 - Add any team members if needed later
 
 ### Community
+
 - [x] Approved users: Default
 - [x] Block links: Default (to prevent spam)
 
@@ -373,4 +389,4 @@ Post 2–3 times per week:
 
 ---
 
-*Last updated: February 2026*
+_Last updated: February 2026_

@@ -1,4 +1,5 @@
 # Full Pipeline — Starter (3 Books)
+
 **Price: $425 | Delivery: 5 Business Days**
 
 ---
@@ -25,7 +26,7 @@ The Full Pipeline Starter package solves this from the beginning. Before a singl
 
 **The value calculation:**
 
-The Branding Starter (3 books) costs $275 and covers logo + covers + box set. The Pipeline Starter adds a full series plan + book descriptions for $425 — that's $150 for the plan and descriptions, which at standard per-book rates would cost $350 on their own. You're saving $200 by bundling.
+The Branding Starter (3 books) costs $1,400 and covers logo + covers + box set. The Pipeline Starter adds book descriptions for $1,800 — that's $400 for the descriptions, which at standard per-book rates would cost $600 on their own. You're saving $200 by bundling.
 
 I built this pipeline for my own three series — the Aztec Samurai Adventures, Repetition: Mother of Mastery, and Reality Without Belief. Every book in those series was published from a pre-planned series architecture, with descriptions written to work together as a set. That planning shows in the finished product.
 
@@ -35,17 +36,17 @@ I built this pipeline for my own three series — the Aztec Samurai Adventures, 
 
 ## Package Details
 
-| Feature | Detail |
-|---------|--------|
-| **Series plan** | Full arc + chapter outlines for all 3 books + continuity plan |
-| **Ebook covers** | 3 covers from shared style guide |
-| **Series logo** | Custom logomark + wordmark |
-| **Box set cover** | 1 landscape composite |
-| **Book descriptions** | 3 keyword-optimized Amazon descriptions |
-| **Revisions** | 1 round (any deliverable) |
-| **Resolution** | 1600×2400, 300 DPI (covers) |
-| **Delivery** | 5 business days |
-| **Savings** | Save $50 vs. purchasing components separately |
+| Feature               | Detail                                                        |
+| --------------------- | ------------------------------------------------------------- |
+| **Series plan**       | Full arc + chapter outlines for all 3 books + continuity plan |
+| **Ebook covers**      | 3 covers from shared style guide                              |
+| **Series logo**       | Custom logomark + wordmark                                    |
+| **Box set cover**     | 1 landscape composite                                         |
+| **Book descriptions** | 3 keyword-optimized Amazon descriptions                       |
+| **Revisions**         | 1 round (any deliverable)                                     |
+| **Resolution**        | 1600×2400, 300 DPI (covers)                                   |
+| **Delivery**          | 5 business days                                               |
+| **Savings**           | Save $50 vs. purchasing components separately                 |
 
 ---
 

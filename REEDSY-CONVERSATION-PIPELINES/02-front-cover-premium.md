@@ -1,8 +1,8 @@
-# Reedsy Conversation Pipeline — Front Cover Design: Premium ($250)
+# Reedsy Conversation Pipeline — Front Cover Design: Premium ($650)
 
 **Package:** Front Cover Design — Premium
-**Price:** $250
-**Delivery:** 2 business days
+**Price:** $650
+**Delivery:** 5–7 business days
 **Revisions:** 2 rounds included
 **Deliverables:** 3 concept variations, 1 polished final front cover (1600x2400, 300 DPI PNG/JPG)
 
@@ -20,14 +20,14 @@
 
 > Great question! Here's the breakdown:
 >
-> **Standard ($150):**
+> **Standard ($450):**
 >
 > - 2 concept variations
 > - 1 polished final
 > - 1 revision round
-> - 1 business day delivery
+> - 3–5 business day delivery
 >
-> **Premium ($250):**
+> **Premium ($650):**
 >
 > - 3 concept variations — more visual directions to choose from
 > - Premium cinematic photorealistic style — the same system I used for my published 22-book Amazon portfolio
@@ -51,7 +51,7 @@
 
 > Smart thinking — the first cover sets the tone for the entire series, so Premium is exactly the right call.
 >
-> For $250 you get:
+> For $650 you get:
 >
 > - 3 distinct concept variations — I'll give you three fully realized visual directions so you have maximum choice
 > - Premium cinematic style with custom visual direction — this is the same pipeline I used across all 22 of my published Amazon titles
@@ -422,7 +422,7 @@ Once the client confirms Premium:
 
 **YOU:**
 
-> Of course! Your 2 included revision rounds are now used, but this is a small text change — it falls under a Cover Minor Revision at $35.
+> Of course! Your 2 included revision rounds are now used, but this is a small text change — it falls under a Cover Minor Revision at $75.
 >
 > That covers any text fix, color adjustment, or subtitle change. I can have it done within 1 business day.
 >
@@ -452,7 +452,7 @@ Once the client confirms Premium:
 >
 > Please download and verify everything — check the title spelling, author name, and that the image looks correct at both full size and when you shrink it to thumbnail size (that's how most readers will first see it on Amazon).
 >
-> If you spot anything at all, you still have your unused Revision Round 2 available (or Revision Round 2 was used — in which case, minor fixes are always $35).
+> If you spot anything at all, you still have your unused Revision Round 2 available (or Revision Round 2 was used — in which case, minor fixes are always $75).
 >
 > It's been a pleasure working on "Dead Signal." If you're happy with the result, a Reedsy review would mean the world — it helps other authors find me. And when you're ready for the next book in the series, returning clients get 10% off!
 
@@ -472,11 +472,11 @@ Once the client confirms Premium:
 >
 > For 5 books total (including the one we just did), I'd suggest:
 >
-> **Option 1: Series Branding — Standard (5 Books) — $600**
-> Includes 5 visually consistent front covers, series logo, box set front cover, and 1 revision round. Since we already have Book 1's style locked in, I'll match the remaining 4 covers to it and include the series logo + box set cover.
+> **Option 1: Series Branding — Standard (5 Books) — $2,200**
+> Includes 5 visually consistent front covers, series logo, box set front cover, and 1 revision round. Since we already have Book 1’s style locked in, I’ll match the remaining 4 covers to it and include the series logo + box set cover.
 >
-> **Option 2: Individual covers — $125 each (Add New Book Cover)**
-> 4 new covers at $125 each = $500. But you won't get the series logo or box set cover.
+> **Option 2: Individual covers — $350 each (Add New Book Cover)**
+> 4 new covers at $350 each = $1,400. But you won’t get the series logo or box set cover.
 >
 > The branding package is the better value — you get the logo and box set cover included, plus I build all 5 covers as a unified visual system.
 >
@@ -518,8 +518,8 @@ Once the client confirms Premium:
 
 ## Reedsy Payment Notes
 
-- **Payment on Reedsy:** Client pays through the Reedsy platform. Reedsy takes 10%. On $250, you receive $225.
-- **Milestone structure:** For a $250 project, typically a single milestone. You can also structure it as: 50% upfront ($125) to begin, 50% ($125) on final delivery.
+- **Payment on Reedsy:** Client pays through the Reedsy platform. Reedsy takes 10%. On $650, you receive $585.
+- **Milestone structure:** For a $650 project, typically a single milestone. You can also structure it as: 50% upfront ($325) to begin, 50% ($325) on final delivery.
 - **Direct alternative:** https://metronagon.com/services via Stripe (no commission), but respect Reedsy's terms for projects initiated on their platform.
 
 ---

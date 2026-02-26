@@ -9,6 +9,7 @@ Everything you need to set up a professional X account for Metronagon Media. All
 ```
 Metronagon Media
 ```
+
 (16 characters — clean, professional, recognizable)
 
 ---
@@ -28,6 +29,7 @@ Metronagon Media
 ```
 Professional book covers, series branding & children's book illustration for indie authors. AI-powered. Delivered in days, not weeks. ✦ The Measure of Excellence
 ```
+
 (160 characters exactly)
 
 ---
@@ -65,6 +67,7 @@ Wide cinematic banner (1500x500), dark charcoal-black background, gold (#d4af37)
 ```
 
 After generating, overlay text in Canva:
+
 - **"METRONAGON MEDIA"** — centered, Playfair Display or Cinzel font, gold
 - **"Book Covers · Series Branding · Children's Books"** — smaller, below, white or light gold
 - **"metronagon.com"** — bottom-right corner, small, muted gold
@@ -90,10 +93,10 @@ Pin this as your first and permanent pinned tweet:
 
 I design professional book covers, series branding, and children's book illustrations for indie authors.
 
-🎨 Ebook Covers — from $75
-📚 Series Branding (3–12+ books) — from $250
-🧒 Children's Picture Books — from $500
-🚀 Full Pipeline (covers + planning + branding) — from $400
+🎨 Ebook Covers — from $450
+📚 Series Branding (3–10 books) — from $1,400
+🧒 Children's Picture Books — from $1,800
+🚀 Full Pipeline (covers + branding + descriptions) — from $1,800
 
 Every project delivered in 2–10 business days.
 
@@ -102,6 +105,7 @@ See the full portfolio and pricing ↓
 ```
 
 Attach: A 4-image carousel showing your best work:
+
 1. Aztec Chronicles — all 12 covers in a grid
 2. Reality Without Belief — 5 covers + box set
 3. Children's book — 4-page spread
@@ -112,18 +116,22 @@ Attach: A 4-image carousel showing your best work:
 ## 10. Account Settings
 
 ### Privacy and Safety
+
 - [x] **Protect your posts:** OFF (public account — you want maximum visibility)
 - [x] **Photo tagging:** Allow anyone to tag you
 - [x] **Direct Messages:** Allow message requests from everyone (potential clients will DM you)
 
 ### Notifications
+
 - [x] **Quality filter:** ON
 - [x] **Muted words:** Add spam terms if needed later
 
 ### Accessibility
+
 - [x] **Alt text reminders:** ON (always add alt text to your cover images — this also helps with search)
 
 ### Monetization
+
 - Apply for X Premium (blue checkmark) once the account is established — adds credibility
 
 ---
@@ -131,6 +139,7 @@ Attach: A 4-image carousel showing your best work:
 ## 11. X Premium / Blue Verification
 
 **Recommended:** Subscribe to X Premium ($8/month) for:
+
 - Blue checkmark (credibility for a business account)
 - Longer posts (up to 25,000 characters)
 - Edit button
@@ -145,26 +154,29 @@ This is worth it from day one for a business account.
 ## 12. Posting Strategy
 
 ### Frequency
+
 - **Minimum:** 1 post per day
 - **Ideal:** 2–3 posts per day (morning, afternoon, evening)
 - **Best times for indie author audience:** 8–9 AM EST, 12–1 PM EST, 7–9 PM EST
 
 ### Content Mix (weekly)
-| Day | Content Type | Example |
-|-----|-------------|---------|
-| Monday | Cover reveal / showcase | Post a finished cover with process details |
-| Tuesday | Educational tip | "3 things that make a fantasy cover sell" |
-| Wednesday | Before/after or comparison | Side-by-side of concept vs. final |
-| Thursday | Portfolio highlight | Showcase a full series branding project |
-| Friday | Behind the scenes | Work-in-progress screenshot |
-| Saturday | Engagement post | Poll: "Which cover style do you prefer? A or B?" |
-| Sunday | Promotional | Direct CTA to services page with pricing |
+
+| Day       | Content Type               | Example                                          |
+| --------- | -------------------------- | ------------------------------------------------ |
+| Monday    | Cover reveal / showcase    | Post a finished cover with process details       |
+| Tuesday   | Educational tip            | "3 things that make a fantasy cover sell"        |
+| Wednesday | Before/after or comparison | Side-by-side of concept vs. final                |
+| Thursday  | Portfolio highlight        | Showcase a full series branding project          |
+| Friday    | Behind the scenes          | Work-in-progress screenshot                      |
+| Saturday  | Engagement post            | Poll: "Which cover style do you prefer? A or B?" |
+| Sunday    | Promotional                | Direct CTA to services page with pricing         |
 
 ### Hashtag Strategy
 
 Use 3–5 hashtags per post (X's sweet spot — more than that looks spammy):
 
 **Primary hashtags (rotate these):**
+
 ```
 #BookCoverDesign #IndieAuthor #SelfPublishing #BookCovers #WritingCommunity
 #AuthorLife #KDP #AmazonKDP #BookDesign #CoverDesign
@@ -182,17 +194,19 @@ Use 3–5 hashtags per post (X's sweet spot — more than that looks spammy):
 ## 13. Engagement Strategy
 
 ### Accounts to Follow and Engage With
+
 Follow and regularly reply to/retweet:
 
-| Account Type | Examples | Why |
-|-------------|----------|-----|
-| Indie author influencers | @JoannaPenn, @MarkDawsonAuth, @NickStephensonA | Their followers are your customers |
-| Self-publishing educators | @DaleRoberts_, @kindlepreneur | Same audience |
-| Writing community accounts | @WritingTips, @AdviceToWriters | Massive reach into author community |
-| Book cover designers (non-competing) | Follow a few for industry awareness | Learn trends, engage professionally |
-| KDP/publishing news | @AmazonKDP, @IngramSpark | Stay informed, engage on their posts |
+| Account Type                         | Examples                                       | Why                                  |
+| ------------------------------------ | ---------------------------------------------- | ------------------------------------ |
+| Indie author influencers             | @JoannaPenn, @MarkDawsonAuth, @NickStephensonA | Their followers are your customers   |
+| Self-publishing educators            | @DaleRoberts\_, @kindlepreneur                 | Same audience                        |
+| Writing community accounts           | @WritingTips, @AdviceToWriters                 | Massive reach into author community  |
+| Book cover designers (non-competing) | Follow a few for industry awareness            | Learn trends, engage professionally  |
+| KDP/publishing news                  | @AmazonKDP, @IngramSpark                       | Stay informed, engage on their posts |
 
 ### Engagement Tactics
+
 1. **Reply to indie authors asking about cover design** — search "need book cover" or "looking for cover designer" daily
 2. **Quote-tweet author cover reveals** with professional commentary ("Love the color contrast here — the gold title really pops against the dark background")
 3. **Reply to writing community threads** with helpful design advice
@@ -207,7 +221,7 @@ Threads get 2–3x more engagement than single tweets. Publish one thread per we
 
 1. **"I designed 12 book covers for one series. Here's every cover and the story behind each one."** (Aztec Chronicles showcase)
 2. **"5 book cover mistakes that are killing your sales — and exactly how to fix each one."**
-3. **"What goes into a $250 series branding package? Here's everything you get."** (service breakdown)
+3. **"What goes into a $1,400 series branding package? Here's everything you get."** (service breakdown)
 4. **"I illustrated a complete 32-page children's book. Here's the full process."**
 5. **"The anatomy of a bestselling fantasy book cover — a designer's breakdown."**
 6. **"How to brief a book cover designer so you get exactly what you want (a thread for authors)."**
@@ -221,20 +235,23 @@ Threads get 2–3x more engagement than single tweets. Publish one thread per we
 Always add alt text to images (accessibility + search discovery):
 
 **For single covers:**
+
 ```
 Professional [genre] ebook cover design featuring [brief description of the cover image]. Designed by Metronagon Media. [dimensions] at 300 DPI.
 ```
 
 **For series:**
+
 ```
 Complete [X]-book series branding for [series name] — [genre]. Includes [X] ebook covers, series logo, and box set design. Designed by Metronagon Media.
 ```
 
 **For children's books:**
+
 ```
 Children's picture book illustration — page [X] of [book name]. [Brief description of the scene]. Full-color AI illustration by Metronagon Media.
 ```
 
 ---
 
-*Last updated: February 2026*
+_Last updated: February 2026_
