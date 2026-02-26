@@ -709,8 +709,8 @@ const postGalleries: Record<string, GallerySection[]> = {
       layout: "pages",
       images: [
         {
-          src: "/portfolio/childrens/page-01.jpg",
-          alt: "Page 1 — Story Opening",
+          src: "/portfolio/childrens/page-02.jpg",
+          alt: "Page 2 — Story Opening",
         },
         {
           src: "/portfolio/childrens/page-04.jpg",
