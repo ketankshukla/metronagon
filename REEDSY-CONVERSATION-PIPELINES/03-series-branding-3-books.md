@@ -106,6 +106,7 @@ After the client expresses interest and before sending the creative brief, send 
 >
 > **Please take a look at my portfolio to see the quality this process delivers:**
 >
+> - https://metronagon.com/ai-transparency — full details on my AI-assisted process, copyright protections, and a real example prompt
 > - https://metronagon.com/examples — cover gallery across multiple genres
 > - https://metronagon.com/case-studies — complete series case studies showing visual consistency across multiple books
 >

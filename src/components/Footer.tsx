@@ -187,6 +187,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/ai-transparency"
+                  className="text-sm text-muted transition-colors hover:text-foreground"
+                >
+                  AI Transparency
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/privacy"
                   className="text-sm text-muted transition-colors hover:text-foreground"
                 >
