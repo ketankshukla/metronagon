@@ -13,9 +13,11 @@
 ### Scenario A: Client Has a Large Series and Wants Everything
 
 **CLIENT:**
+
 > Hi, I'm launching a 10-book epic fantasy series and I need the full package — covers, branding, and descriptions for all 10 books. What's your biggest package?
 
 **YOU:**
+
 > Hi! My Full Pipeline — Premium is exactly this. It's $1,350 for the complete 10-book package:
 >
 > - 10 visually consistent front covers (Kindle + paperback ready, 1600x2400, 300 DPI)
@@ -36,12 +38,15 @@
 ### Scenario B: Client Calculating Cost vs A La Carte
 
 **CLIENT:**
+
 > If I bought 10 individual covers ($150 each = $1,500) plus 10 descriptions separately, it would cost way more. Is the Pipeline really all-inclusive?
 
 **YOU:**
+
 > Correct — here's the full comparison:
 >
 > **A la carte:**
+>
 > - 10 individual Standard covers: $1,500
 > - 10 book descriptions: $350 (at $35 each)
 > - Series logo: $100+
@@ -51,6 +56,7 @@
 > **Full Pipeline Premium: $1,350**
 >
 > You save $700+ AND get:
+>
 > - All 10 covers designed as a unified visual system (not 10 separate projects)
 > - Descriptions written by the same person who designed the covers (matching visual and verbal identity)
 > - Logo and box set included
@@ -63,19 +69,24 @@
 ### Scenario C: Client Worried About Managing a 10-Book Brief
 
 **CLIENT:**
+
 > 10 books is a lot of info to provide. How detailed does the brief need to be?
 
 **YOU:**
+
 > I understand the concern. Here's the minimum I need to create great work:
 >
 > **For covers (minimum per book):**
+>
 > - Title
 > - One key visual element or scene (even one sentence: "a sword in a stone" or "a city on fire")
 >
 > **For descriptions (minimum per book):**
+>
 > - 3-5 sentence plot summary (who, what, conflict, stakes)
 >
 > **For the series as a whole:**
+>
 > - Genre, series name, author name
 > - 3 reference covers you admire
 > - General mood/color preferences
@@ -91,9 +102,11 @@
 ### Scenario D: Client Asks About Staged Delivery
 
 **CLIENT:**
+
 > Can you deliver in batches? I want to start publishing Books 1-3 while you finish the rest.
 
 **YOU:**
+
 > Absolutely. For a 10-book package, I can deliver in stages:
 >
 > - **Stage 1 (Day 2):** Books 1-3 covers + descriptions + series logo — enough to start publishing
@@ -106,14 +119,128 @@
 
 ---
 
+## AI Transparency & Client Consent (Reedsy Compliance — Required)
+
+> **This disclosure must be sent BEFORE proceeding to the creative brief. Per Reedsy's AI transparency policy, you must obtain the client's written consent before any AI-assisted tools are used in the project.**
+
+After the client expresses interest and before sending the creative brief, send the following:
+
+**YOU:**
+
+> Before we move forward, I want to be fully transparent about my creative process — I share this with every client upfront, and Reedsy requires it.
+>
+> My design workflow uses **AI-assisted image generation** as a core part of the creative pipeline for all visual deliverables. I use advanced prompt engineering techniques to generate high-quality visual concepts, which I then refine, composite, color-grade, and finalize into production-ready cover art and visual assets.
+>
+> **What this means in practice for your visual deliverables (covers, logo, box set):**
+>
+> - I translate your creative brief into detailed, genre-specific image generation prompts — each one carefully engineered to capture your series' characters, setting, mood, and genre conventions
+> - Each concept goes through multiple rounds of generation, selection, and refinement — I generate dozens of variations and curate the strongest results
+> - I composite, color-grade, and enhance the selected outputs to achieve a cohesive, polished visual system across all 10 covers in your series
+> - Typography, layout, logo design, and final production are handled with professional design precision
+> - Every visual deliverable is a polished, commercially ready, print-quality product — not a raw AI output
+>
+> **A note on your Amazon book descriptions:** The keyword-optimized book descriptions included in this package are **written work** — crafted by me based on your story details, genre keywords, and conversion principles. The AI transparency above applies specifically to the visual deliverables (covers, series logo, box set cover).
+>
+> **What this does NOT mean:**
+>
+> - This is not "type a sentence and use the first thing that appears." Every visual goes through an extensive creative process driven by my expertise in book cover design, genre conventions, and Amazon marketplace requirements.
+> - I've published 22 books across 3 series on Amazon — all designed using this exact pipeline. Maintaining visual consistency across a 10-book series is where this process truly shines.
+>
+> **Please take a look at my portfolio to see the quality this process delivers:**
+>
+> - https://metronagon.com/examples — cover gallery across multiple genres
+> - https://metronagon.com/case-studies — complete series case studies showing visual consistency across multiple books
+>
+> Per Reedsy's AI transparency policy, I need your written confirmation that you're comfortable with AI-assisted tools being part of the creative process for the visual deliverables before we proceed.
+>
+> Happy to answer any questions about how it works.
+
+---
+
+### Client Response: Accepts
+
+**CLIENT:**
+
+> That's totally fine with me. Your portfolio looks great — let's go!
+
+**YOU:**
+
+> Thank you — I appreciate both the trust and the chance to work on this. I'll note your consent in our project record and send you the creative brief next.
+
+---
+
+### Client Response: Has Questions About Quality / Uniqueness
+
+**CLIENT:**
+
+> I'm open to it, but I want to make sure my covers won't look "AI-generated" or generic. How do you ensure quality across 10 books?
+
+**YOU:**
+
+> Completely fair concern, and one I take seriously. Here's how I deliver professional-grade results:
+>
+> 1. **Your brief drives every prompt.** I don't use templates or generic inputs. Every image generation prompt is custom-built from YOUR specific characters, settings, mood, color palette, and genre.
+> 2. **Iterative refinement.** I generate dozens of variations per concept, then select, composite, and refine the strongest elements — it's a curation and design process, not a one-shot output.
+> 3. **Series consistency at scale.** This is where my process excels — I engineer prompts that maintain the same visual language, color palette, and compositional logic across all 10 books while giving each cover its own identity.
+> 4. **Professional finishing.** Typography, composition, color grading, and production polish are all applied with the same rigor as any professional design workflow.
+> 5. **Genre expertise.** I know what works on Amazon because I sell there myself. Your covers will look like they belong on a bestseller shelf.
+>
+> And remember — the book descriptions are written by me from scratch based on your story details and genre keywords. No AI generation there — just conversion-focused copywriting from someone who's written descriptions for 22 Amazon titles.
+>
+> Check my case studies for proof: https://metronagon.com/case-studies — you'll see complete series with consistent visual identity across multiple books. That level of design intention doesn't happen by accident.
+>
+> If you're comfortable, just confirm and I'll send the creative brief!
+
+---
+
+### Client Response: Has Copyright Concerns
+
+**CLIENT:**
+
+> I've read that AI-generated images can't be copyrighted. Will that be a problem for my covers?
+
+**YOU:**
+
+> Important question — and one I take very seriously as a professional.
+>
+> You're right that the US Copyright Office has indicated that purely AI-generated images with minimal human input may lack full copyright protection on their own. However, my workflow involves substantial human creative direction at every stage: concept development, detailed prompt engineering, visual selection, compositing, refinement, typography, layout, and production design.
+>
+> The final products you receive are not raw AI outputs — they're professionally designed covers that reflect significant human creative decision-making throughout the entire process.
+>
+> As a Reedsy professional, I bear full legal responsibility for ensuring that your deliverables are commercially exploitable and free of copyright issues. That's my obligation to you, and I stand behind it completely.
+>
+> You'll receive production-ready files that you can use commercially on Amazon, IngramSpark, or any other publishing platform without restriction.
+>
+> As for the book descriptions — those are original written work and are fully copyrightable without question.
+
+---
+
+### Client Response: Declines AI-Assisted Work
+
+**CLIENT:**
+
+> I appreciate the honesty, but I'd prefer a designer who works without AI tools. Nothing personal.
+
+**YOU:**
+
+> No offense taken at all — I genuinely respect that preference, and I'd always rather be upfront than surprise you later.
+>
+> I'd suggest browsing Reedsy's other designers who specialize in hand-illustrated or traditional digital painting approaches. If you ever want to see what my pipeline can deliver, my portfolio is always open: https://metronagon.com/examples
+>
+> Best of luck with your series!
+
+---
+
 ## Phase 2: Creative Brief Request
 
 **YOU:**
+
 > Here's the creative brief for the 10-book Full Pipeline. This is the most comprehensive brief I send, but remember — provide what you have, and I'll handle the creative decisions for any gaps.
 >
 > **CREATIVE BRIEF — Full Pipeline (10 Books)**
 >
 > **1. Series Overview**
+>
 > - Series name (if you have one):
 > - Genre:
 > - Brief series description (4-6 sentences — the full arc across 10 books):
@@ -123,17 +250,19 @@
 > **2. Individual Book Details (for each of the 10 books)**
 >
 > For each book, provide:
+>
 > - Title (and subtitle, if any):
 > - Plot summary (3-5 sentences — main conflict, stakes, hook):
 > - Main character(s) — Who they are and their arc in this book:
 > - Key visual element or scene for the cover:
 > - Emotional position in the series (e.g., "the setup," "the darkest point," "the turning point," "the finale"):
 >
-> *Book 1:* ...
-> *Book 2:* ...
+> _Book 1:_ ...
+> _Book 2:_ ...
 > [through Book 10]
 >
 > **3. Visual Direction (for covers)**
+>
 > - Mood/tone:
 > - Color palette preferences:
 > - Style preference — Photorealistic or stylized?
@@ -141,15 +270,18 @@
 > - Visual progression — Should covers evolve across the series?
 >
 > **4. Reference Covers**
+>
 > - 3-5 existing covers or series you admire (especially long series):
 > - Covers you DON'T like:
 >
 > **5. Logo and Typography**
+>
 > - Series logo direction:
 > - Author name:
 > - Font style preference:
 >
 > **6. Book Descriptions**
+>
 > - Keywords to include (genre tropes, themes, search terms):
 > - Comparable titles/authors to reference:
 > - Description tone:
@@ -157,6 +289,7 @@
 > - Any specific tropes or content tags to highlight:
 >
 > **7. Publishing Platform**
+>
 > - Where will this be published?
 > - Amazon categories:
 > - Amazon backend keywords (if you have them):
@@ -170,15 +303,19 @@
 ### Scenario A: Complete Brief (All 10 Books)
 
 **CLIENT:**
+
 > [Sends detailed brief with all 10 books, visual direction, keywords, comp authors]
 
 **YOU:**
+
 > This is exceptional work — you've given me a complete roadmap for all 10 books. Here's my plan:
 >
 > **Design System:**
+>
 > - [Palette, typography, recurring motif, visual progression across 10 books]
 >
 > **Cover Plan:**
+>
 > - Books 1-3: [Arc 1 visual theme]
 > - Books 4-6: [Arc 2 visual theme / shift]
 > - Books 7-9: [Arc 3 visual theme / escalation]
@@ -189,6 +326,7 @@
 > **Box Set Cover:** [Description — how it represents all 10 books]
 >
 > **Description Strategy:**
+>
 > - Voice: [Genre-matched tone]
 > - Structure: Hook → character → stakes → escalation → CTA
 > - Keywords distributed naturally across all 10 descriptions
@@ -203,16 +341,20 @@
 ### Scenario B: Partial Brief (5 Books Detailed, 5 Rough)
 
 **CLIENT:**
+
 > Books 1-5 are solid. Books 6-10 are rough — just titles and general ideas.
 
 **YOU:**
+
 > That's plenty. For Books 1-5, I have everything I need for strong covers and targeted descriptions.
 >
 > For Books 6-10, I'll:
+>
 > - **Covers:** Design within the established visual system, using your rough ideas for the key visual. The palette, typography, and composition logic carry forward automatically.
 > - **Descriptions:** Write genre-appropriate hooks based on your rough ideas. They'll be more general than Books 1-5 but still keyword-rich and conversion-focused.
 >
 > As Books 6-10 solidify, you can update:
+>
 > - Cover title change: $35 (Cover Minor Revision)
 > - Cover visual overhaul: $100 (Cover Major Revision)
 > - Description rewrite: $35 (Book Description Update)
@@ -224,12 +366,15 @@
 ### Scenario C: Client Sends Brief in Multiple Messages Over Days
 
 **CLIENT:**
+
 > [Sends Books 1-3 on Monday, Books 4-7 on Wednesday, Books 8-10 on Friday]
 
 **YOU (after receiving Books 1-3):**
+
 > Got Books 1-3 — great detail. I'll start building the design system and these first covers while you prepare the rest. Take your time on Books 4-10.
 
 **YOU (after receiving all 10):**
+
 > Perfect — I now have all 10 books. I'll integrate Books 4-10 into the design system I started building from Books 1-3. Everything will be cohesive.
 >
 > Full delivery in 4 business days from today. Starting full production now!
@@ -239,55 +384,56 @@
 ## Phase 4: Deliverables Delivery
 
 **YOU:**
+
 > Hi [Client]! Your complete 10-book Full Pipeline package is ready. This is a large delivery — take your time reviewing everything.
 >
 > ---
 >
 > **COVERS (10):**
 >
-> **Book 1 — "[Title]"**
-> [Image attached] — [Brief visual description and how it sets the series tone]
+> **Book 1 — "[Title]"** > [Image attached] — [Brief visual description and how it sets the series tone]
 >
-> **Book 2 — "[Title]"**
-> [Image attached] — [Description]
+> **Book 2 — "[Title]"** > [Image attached] — [Description]
 >
 > [... through Book 10, each with image and description]
 >
-> **Book 10 — "[Title]"**
-> [Image attached] — [Description of the climactic final cover]
+> **Book 10 — "[Title]"** > [Image attached] — [Description of the climactic final cover]
 >
-> **Series Logo — "[Series Name]"**
-> [Image attached]
+> **Series Logo — "[Series Name]"** > [Image attached]
 >
-> **Box Set Front Cover**
-> [Image attached]
+> **Box Set Front Cover** > [Image attached]
 >
 > ---
 >
 > **AMAZON BOOK DESCRIPTIONS (10):**
 >
 > **Book 1 — "[Title]"**
+>
 > > [Full description with hook, character intro, stakes, keywords, CTA]
 > > [Ends with series hook: "Book 1 of [Series Name]"]
 >
 > **Book 2 — "[Title]"**
+>
 > > [Full description — continues from Book 1 without spoiling key reveals]
 >
 > [... through Book 10]
 >
 > **Book 10 — "[Title]"**
+>
 > > [Full description — finale hook, "The epic conclusion of [Series Name]"]
 > > [CTA: "Start from Book 1: [Link]"]
 >
 > ---
 >
 > **Design System Notes:**
+>
 > - Palette: [Colors used, how they evolve]
 > - Typography: [Font family, hierarchy]
 > - Recurring motif: [Visual element tying all 10 covers together]
 > - Progression: [How covers evolve from Book 1 to Book 10]
 >
 > **Description Notes:**
+>
 > - Keywords used: [List of genre keywords woven across descriptions]
 > - Comp authors referenced: [Where and how]
 > - Spoiler discipline: [How each description respects prior-book boundaries]
@@ -295,6 +441,7 @@
 > ---
 >
 > **What to do next:**
+>
 > 1. Review all 22 deliverables (10 covers + logo + box set + 10 descriptions)
 > 2. **Covers:** Check visual consistency, titles, author name, thumbnail readability. View all 10 side by side.
 > 3. **Descriptions:** Check accuracy, tone, keywords, spoiler boundaries, and hooks. Read each as if you're a reader who's never heard of the series.
@@ -309,14 +456,17 @@
 ### Scenario A: Scattered Feedback Across Covers and Descriptions
 
 **CLIENT:**
+
 > Overall this is incredible. Here are my notes:
 >
 > Covers:
+>
 > - Book 4: Needs a darker mood — this is the "everything falls apart" book
 > - Book 7: Character should be more prominent
 > - Book 10: The title text is hard to read against the background
 >
 > Descriptions:
+>
 > - Book 1: Perfect
 > - Book 3: Add "slow burn romance" as a keyword — that's a big search term for my genre
 > - Book 5: The hook is too similar to Book 4's — differentiate them
@@ -325,18 +475,16 @@
 > - All others: Perfect
 
 **YOU:**
+
 > Clear notes — I'll address all 8 items:
 >
 > **Covers:**
+>
 > 1. Book 4 — Darken the mood: deeper shadows, more desaturated palette, heavier atmosphere
 > 2. Book 7 — Scale up the character: more prominent in the composition, closer framing
 > 3. Book 10 — Improve title readability: add contrast backing, adjust text color or add subtle glow
 >
-> **Descriptions:**
-> 4. Book 3 — Weave "slow burn romance" naturally into the relationship setup
-> 5. Book 5 — Differentiate from Book 4: new opening hook, different emotional angle
-> 6. Book 8 — Pull back Book 7 references. Set up Book 8's unique conflict without revealing Book 7's resolution.
-> 7. Book 9 — Update CTA to tease the finale: "The epic conclusion awaits in [Book 10 Title]"
+> **Descriptions:** 4. Book 3 — Weave "slow burn romance" naturally into the relationship setup 5. Book 5 — Differentiate from Book 4: new opening hook, different emotional angle 6. Book 8 — Pull back Book 7 references. Set up Book 8's unique conflict without revealing Book 7's resolution. 7. Book 9 — Update CTA to tease the finale: "The epic conclusion awaits in [Book 10 Title]"
 >
 > Revision Round 1 of 2. All updates delivered together.
 
@@ -345,12 +493,15 @@
 ### Scenario B: Client Wants Major Changes to a Section of Covers
 
 **CLIENT:**
+
 > Books 1-4 and 8-10 are great. But Books 5, 6, and 7 need different visual approaches — they're the "middle arc" and should feel distinct.
 
 **YOU:**
+
 > I can create new directions for Books 5-7 in Revision Round 1. To make the most of it:
 >
 > For each book, tell me:
+>
 > - What's not working in the current version?
 > - What should the "middle arc" feel like? (Darker? Different setting? Different color temperature? More intimate vs epic?)
 >
@@ -361,9 +512,11 @@
 ### Scenario C: Client Wants All Descriptions Restructured
 
 **CLIENT:**
+
 > The covers are perfect but the descriptions need a different structure. Instead of action hooks, I want each one to open with an emotional question.
 
 **YOU:**
+
 > I'll restructure all 10 descriptions to lead with emotional questions:
 >
 > - Book 1: "What would you sacrifice for the truth?"
@@ -381,13 +534,17 @@
 ### Scenario A: Final Polish
 
 **CLIENT:**
+
 > Round 1 is great. Just a few tiny things:
+>
 > - Book 6 cover: The sky color is slightly off from the rest of the arc — can you match it?
 > - Book 9 description: Change "ancient war" to "forgotten war" — fits the lore better
 > - That's it!
 
 **YOU:**
+
 > Easy fixes:
+>
 > 1. Book 6 — Color-match the sky to the rest of the middle arc palette
 > 2. Book 9 description — "ancient war" → "forgotten war"
 >
@@ -398,9 +555,11 @@
 ### Scenario B: Client Happy After Round 1
 
 **CLIENT:**
+
 > Round 1 fixed everything. Let's finalize!
 
 **YOU:**
+
 > I'll do a final quality pass — color consistency across all 10 covers, typography alignment check, description formatting verification — and prepare your complete delivery package. Round 2 stays available if you spot anything after receiving finals.
 
 ---
@@ -408,29 +567,35 @@
 ## Phase 7: Final Delivery
 
 **YOU:**
+
 > Hi [Client]! Your complete 10-book Full Pipeline package is finalized.
 >
 > **Final Delivery — [Series Name] (10 Books)**
 >
 > **Covers (PNG + JPG, 1600x2400, 300 DPI each):**
+>
 > - `[Book-1-Title]-Cover-FINAL.png / .jpg`
 > - `[Book-2-Title]-Cover-FINAL.png / .jpg`
 > - ... [through Book 10]
 >
 > **Series Logo:**
+>
 > - `[Series]-Logo.png` (transparent background)
 > - `[Series]-Logo-Dark.png` (for light backgrounds)
 >
 > **Box Set Cover:**
+>
 > - `[Series]-BoxSet-FINAL.png / .jpg`
 >
 > **Amazon Book Descriptions:**
+>
 > - `Book-Descriptions.docx` — All 10 descriptions with HTML-formatted and plain text versions
 > - `Keywords-Reference.txt` — Master list of all keywords used across descriptions (useful for your Amazon backend keyword fields)
 >
 > **Files delivered via:** Google Drive link (organized: /Covers, /Logo, /BoxSet, /Descriptions)
 >
 > **Publishing checklist:**
+>
 > 1. Upload covers to KDP (Kindle + Print front covers)
 > 2. Copy descriptions to each book's KDP listing (use HTML versions for best formatting)
 > 3. Use logo on your Amazon author page and marketing materials
@@ -450,9 +615,11 @@
 ### Scenario A: Client Wants to Extend to 12+ Books
 
 **CLIENT:**
+
 > The series is expanding to 12 books. Need covers and descriptions for 2 more.
 
 **YOU:**
+
 > Since the visual and verbal system is fully established:
 >
 > - 2x Add New Book Cover: $125 each = $250
@@ -468,9 +635,11 @@
 ### Scenario B: Client Wants Multiple Box Set Configurations
 
 **CLIENT:**
+
 > I want box sets for: Books 1-3, Books 4-6, Books 7-10, and the complete 10-book set.
 
 **YOU:**
+
 > Your package includes 1 box set cover (the complete 10-book set — already delivered).
 >
 > The 3 additional partial box set covers: $100 each = $300.
@@ -488,10 +657,13 @@
 ### Scenario C: Client Wants Description A/B Testing
 
 **CLIENT:**
+
 > Book 1 isn't converting well. Can you write an alternative description so I can A/B test?
 
 **YOU:**
+
 > Smart approach. I'll write an alternative Book 1 description with:
+>
 > - Different opening hook (emotional vs action, or vice versa)
 > - Different structure (question-led vs statement-led)
 > - Same keywords, different emphasis
@@ -505,9 +677,11 @@
 ### Scenario D: Client Returns 6 Months Later for a New Series
 
 **CLIENT:**
+
 > That series did great! I'm starting a new 5-book series. Can you do the full pipeline again?
 
 **YOU:**
+
 > I'd love to! Since you're a returning client:
 >
 > Full Pipeline Standard (5 Books): $850.
@@ -522,9 +696,11 @@
 ### Scenario E: Client Asks About Marketing Beyond Amazon
 
 **CLIENT:**
+
 > I want to promote the series on social media. Can you create promotional graphics?
 
 **YOU:**
+
 > Promotional graphics aren't part of the Pipeline package, but I can create them as custom work. Common requests:
 >
 > - **Social media announcement graphics** (square + story formats)
@@ -549,16 +725,16 @@
 
 ## Timeline Summary
 
-| Step | Duration | Action |
-| --- | --- | --- |
-| Initial inquiry + response | Same day | Respond within a few hours |
-| Creative brief sent | Same day | Send immediately after confirmation |
-| Brief received | 3-10 days (client dependent) | Follow up after 4 days |
-| All deliverables created | 4 business days | Deliver all 22 pieces (or staged) |
-| Client reviews + Revision 1 | 2-7 days (client dependent) | Revise within 1-2 business days |
-| Revision 2 (if needed) | 1-5 days (client dependent) | Revise within 1 business day |
-| Final delivery | Same day as last revision | Deliver all final files |
-| **Total project time** | **8-25 days typical** | Depends on client response speed |
+| Step                        | Duration                     | Action                              |
+| --------------------------- | ---------------------------- | ----------------------------------- |
+| Initial inquiry + response  | Same day                     | Respond within a few hours          |
+| Creative brief sent         | Same day                     | Send immediately after confirmation |
+| Brief received              | 3-10 days (client dependent) | Follow up after 4 days              |
+| All deliverables created    | 4 business days              | Deliver all 22 pieces (or staged)   |
+| Client reviews + Revision 1 | 2-7 days (client dependent)  | Revise within 1-2 business days     |
+| Revision 2 (if needed)      | 1-5 days (client dependent)  | Revise within 1 business day        |
+| Final delivery              | Same day as last revision    | Deliver all final files             |
+| **Total project time**      | **8-25 days typical**        | Depends on client response speed    |
 
 ---
 
@@ -567,9 +743,11 @@
 After 4 days:
 
 **YOU:**
+
 > Hi [Client]! Just checking in — I know 22 deliverables is a lot to review. Take your time, but I wanted to make sure everything came through correctly. Your revision rounds are still active whenever you're ready. Let me know if you have any questions!
 
 After 10 days:
 
 **YOU:**
+
 > Hi [Client] — following up once more. All your files are saved and both revision rounds are still available. Whenever you're ready to send feedback, I'll jump right on it. If your timeline has shifted, no problem at all — just let me know and we'll work around your schedule.
