@@ -26,87 +26,81 @@ interface Feature {
 const coverPackages = [
   {
     name: "Standard",
-    price: "$500",
-    delivery: "2 business days",
+    price: "$150",
+    delivery: "1 business day",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_STANDARD,
     description:
-      "Single ebook cover with 3 concept variations and 1 polished final.",
+      "Single front cover for Kindle or paperback \u2014 2 concepts, 1 polished final.",
     features: [
+      {
+        title: "Front cover only",
+        detail:
+          "One front cover image for your Kindle ebook or KDP Print paperback \u2014 does not include spine or back cover",
+      },
       {
         title: "1600\u00d72400, 300 DPI",
         detail:
-          "Amazon KDP-ready dimensions optimized for Kindle, KDP Print Paperback, and KDP Print Hardcover",
+          "Amazon KDP-ready dimensions delivered as high-resolution PNG/JPG",
       },
       {
         title: "Photorealistic or stylised",
         detail:
-          "Choose between cinematic photorealistic scenes or stylized artistic illustrations \u2014 tailored to your genre\u2019s visual expectations",
+          "Choose between cinematic photorealistic scenes or stylized artistic illustrations \u2014 tailored to your genre",
       },
       {
-        title: "3 concept variations",
+        title: "2 concept variations",
         detail:
-          "Three fully realized visual directions based on your brief \u2014 not rough sketches, but complete cover concepts you can compare side by side",
+          "Two fully realized visual directions based on your brief \u2014 complete cover concepts you can compare side by side",
       },
       {
-        title: "1 final polished cover",
+        title: "1 polished final",
         detail:
-          "The winning concept refined with professional typography, color correction, contrast optimization, and composition polish",
+          "The winning concept refined with professional typography, color correction, and composition polish",
       },
       {
         title: "1 round of revisions",
         detail:
-          "Adjustments to colors, text placement, font choice, or compositional elements on the selected final cover",
-      },
-      {
-        title: "High-res PNG/JPG delivery",
-        detail:
-          "Print-quality files delivered via Google Drive or ZIP, ready for immediate upload to Amazon KDP or any publishing platform",
+          "Adjustments to colors, text placement, font choice, or compositional elements on the selected final",
       },
     ],
   },
   {
     name: "Premium",
-    price: "$750",
-    delivery: "3 business days",
+    price: "$250",
+    delivery: "2 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_COVER_PREMIUM,
-    description:
-      "Premium style cover with extra refinement and revision rounds.",
+    description: "Premium front cover with 3 concepts and 2 revision rounds.",
     features: [
+      {
+        title: "Front cover only",
+        detail:
+          "One front cover image for your Kindle ebook or KDP Print paperback \u2014 does not include spine or back cover",
+      },
       {
         title: "1600\u00d72400, 300 DPI",
         detail:
-          "Amazon KDP-ready dimensions optimized for retina screens and print-on-demand services",
+          "Amazon KDP-ready dimensions delivered as high-resolution PNG/JPG",
       },
       {
         title: "Premium photorealistic style",
         detail:
-          "Premium cinematic style with custom visual direction for a gallery-quality result \u2014 the same system used for our published 22-book portfolio",
+          "Premium cinematic style with custom visual direction \u2014 the same system used for our published 22-book portfolio",
       },
       {
         title: "3 concept variations",
         detail:
-          "Three distinct visual directions, each using the premium style guide for maximum visual impact and genre accuracy",
+          "Three distinct visual directions for maximum choice and genre accuracy",
       },
       {
-        title: "1 final polished cover",
+        title: "1 polished final",
         detail:
-          "The winning concept receives extended refinement \u2014 multiple creative passes, advanced post-processing, and meticulous typography",
+          "The winning concept receives extended refinement \u2014 multiple creative passes and meticulous typography",
       },
       {
         title: "2 rounds of revisions",
         detail:
-          "Two full revision cycles for fine-tuning every detail. Adjust composition, color palette, typography, or any visual element across both rounds",
-      },
-      {
-        title: "High-res PNG/JPG delivery",
-        detail:
-          "Print-quality files delivered via Google Drive or ZIP, ready for immediate upload to any platform",
-      },
-      {
-        title: "Priority turnaround",
-        detail:
-          "Placed at the front of the production queue with dedicated time \u2014 your project gets focused, uninterrupted attention",
+          "Two full revision cycles to fine-tune composition, color palette, typography, or any visual element",
       },
     ],
   },
@@ -116,108 +110,88 @@ const brandingPackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$1,200",
-    delivery: "3 business days",
+    price: "$400",
+    delivery: "2 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STARTER,
     features: [
       {
-        title: "Series logo design",
+        title: "3 front covers",
         detail:
-          "A custom logomark and wordmark that anchors the visual identity of your series \u2014 designed to work at favicon size and hero banner scale",
+          "Three visually consistent front cover images for Kindle and paperback \u2014 does not include spine or back cover",
       },
       {
-        title: "3 consistent ebook covers",
+        title: "Series logo",
         detail:
-          "Three covers built from a shared style guide ensuring color palette, typography, lighting direction, and composition remain visually unified",
+          "A custom logomark and wordmark that anchors the visual identity of your series",
       },
       {
-        title: "1 box set cover",
+        title: "Box set front cover",
         detail:
-          "A landscape composite cover designed for Amazon box set listings \u2014 showcases the series as a single compelling product",
+          "A front cover image for your Amazon box set listing \u2014 showcases the series as a single product",
       },
       {
-        title: "Style guide document",
+        title: "1 round of revisions",
         detail:
-          "PDF documenting fonts, hex colors, composition rules, and visual guidelines so future covers or marketing materials maintain perfect consistency",
+          "Adjustments to any deliverable \u2014 covers, logo, or box set cover",
       },
     ],
   },
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$2,000",
-    delivery: "5 business days",
+    price: "$600",
+    delivery: "2 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_STANDARD,
     features: [
       {
-        title: "Series logo design",
+        title: "5 front covers",
         detail:
-          "Custom logomark and wordmark designed to anchor the visual identity across all 5 books and marketing materials",
+          "Five visually consistent front cover images for Kindle and paperback \u2014 unified color, typography, and composition",
       },
       {
-        title: "5 consistent ebook covers",
+        title: "Series logo",
         detail:
-          "Five covers sharing a unified style guide \u2014 consistent color grading, typography, lighting, and composition across the entire series",
+          "Custom logomark and wordmark designed to anchor the visual identity across all 5 books",
       },
       {
-        title: "Box set cover",
+        title: "Box set front cover",
         detail:
-          "Landscape composite cover for Amazon box set listings, designed to showcase the full 5-book collection as one premium product",
+          "Front cover image for your Amazon box set listing, showcasing the full 5-book collection",
       },
       {
-        title: "YouTube thumbnail",
+        title: "1 round of revisions",
         detail:
-          "A 1280\u00d7720 branded promotional thumbnail using series visual language \u2014 optimized for YouTube, social media, or advertising",
-      },
-      {
-        title: "Style guide document",
-        detail:
-          "Comprehensive PDF with all visual specifications: colors, fonts, composition rules, visual guidelines, and usage guidelines",
+          "Adjustments to any deliverable \u2014 covers, logo, or box set cover",
       },
     ],
   },
   {
     name: "Premium",
-    subtitle: "8+ Books",
-    price: "$3,000",
-    delivery: "7 business days",
+    subtitle: "10 Books",
+    price: "$950",
+    delivery: "3 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_BRANDING_PREMIUM,
     features: [
       {
-        title: "Series logo design",
+        title: "10 front covers",
         detail:
-          "Premium logomark and wordmark anchoring the visual identity of your entire epic-scale series",
+          "Ten visually consistent front cover images for Kindle and paperback \u2014 every cover looks like it belongs in the series",
       },
       {
-        title: "All ebook covers (8+)",
+        title: "Series logo",
         detail:
-          "Every book in the series receives a cover built from the same style guide \u2014 whether it\u2019s 8, 10, or 12 books, every cover looks like it belongs",
+          "Premium logomark and wordmark anchoring the visual identity of your entire series",
       },
       {
-        title: "Box set cover",
+        title: "Box set front cover",
         detail:
-          "Landscape composite cover for Amazon box set listings, designed to showcase the complete collection",
+          "Front cover image for your Amazon box set listing, showcasing the complete collection",
       },
       {
-        title: "Panoramic cover",
+        title: "2 rounds of revisions",
         detail:
-          "Wide-format panoramic scene connecting all major characters or elements \u2014 ideal for marketing banners, website heroes, and print posters",
-      },
-      {
-        title: "YouTube thumbnail",
-        detail:
-          "Branded 1280\u00d7720 thumbnail optimized for YouTube, social media, or advertising campaigns",
-      },
-      {
-        title: "Author portrait",
-        detail:
-          "Professional author portrait rendered in the series\u2019 visual style \u2014 for author pages, social profiles, and book back matter",
-      },
-      {
-        title: "Complete style guide",
-        detail:
-          "Comprehensive document covering every visual decision: colors, fonts, composition rules, visual guidelines, character descriptions, and expansion guidelines",
+          "Two full revision cycles covering any deliverable \u2014 covers, logo, or box set cover",
       },
     ],
   },
@@ -226,17 +200,11 @@ const brandingPackages = [
 const childrensPackages = [
   {
     name: "Standard",
-    price: "$1,800",
-    delivery: "5 business days",
+    price: "$500",
+    delivery: "2 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_STANDARD,
-    description:
-      "Complete 32-page illustrated picture book for digital distribution.",
+    description: "32 illustrated pages with front cover, assembled into a PDF.",
     features: [
-      {
-        title: "Story writing or adaptation",
-        detail:
-          "Original story creation or adaptation of your concept into a picture-book-friendly structure with age-appropriate language and pacing",
-      },
       {
         title: "32 fully illustrated pages",
         detail:
@@ -245,118 +213,108 @@ const childrensPackages = [
       {
         title: "Consistent character design",
         detail:
-          "Main characters maintain the same appearance, proportions, and clothing across all 32 pages using style anchoring and reference sheets",
+          "Main characters maintain the same appearance, proportions, and clothing across all 32 pages using style anchoring",
+      },
+      {
+        title: "Front cover image",
+        detail:
+          "A front cover illustration for your children\u2019s book \u2014 does not include spine or back cover",
       },
       {
         title: "Assembled PDF",
         detail:
-          "Complete, page-ordered PDF with illustrations and text laid out together \u2014 ready for digital distribution or print submission",
+          "Complete, page-ordered PDF with illustrations and text laid out together \u2014 ready for digital distribution",
       },
       {
-        title: "Individual page image files",
+        title: "Individual page files",
         detail:
-          "All 32 page illustrations delivered as separate high-resolution image files for flexible use in layouts or marketing",
+          "All 32 page illustrations delivered as separate high-resolution image files",
       },
       {
         title: "1 round of revisions",
         detail:
-          "Adjustments to illustrations, text placement, character expressions, or scene composition on any pages that need refinement",
+          "Adjustments to illustrations, text placement, character expressions, or scene composition",
       },
     ],
   },
   {
     name: "Plus",
-    price: "$2,200",
-    delivery: "6 business days",
+    price: "$700",
+    delivery: "2 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PLUS,
     description:
-      "Print-ready picture book with enhanced illustrations and 2 revision rounds.",
+      "Print-ready picture book with front and back cover, 2 revision rounds.",
     features: [
-      {
-        title: "Story writing or adaptation",
-        detail:
-          "Original story creation or adaptation with enhanced narrative structure and vocabulary calibration for the target age group",
-      },
       {
         title: "32 fully illustrated pages",
         detail:
-          "Full-color illustrations on every page with enhanced quality \u2014 additional refinement passes per page for a polished result",
+          "Full-color illustrations on every page with enhanced quality \u2014 additional refinement passes for a polished result",
       },
       {
         title: "Consistent character design",
         detail:
-          "Main characters maintain the same appearance, proportions, and clothing across all 32 pages using style anchoring and reference sheets",
+          "Main characters maintain the same appearance, proportions, and clothing across all 32 pages using style anchoring",
       },
       {
-        title: "Print-ready formatting",
+        title: "Front and back cover images",
         detail:
-          "Book formatted to exact Amazon KDP Print specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for KDP Print Paperback and Hardcover",
+          "Front cover and back cover illustrations for your children\u2019s book \u2014 does not include spine design",
       },
       {
-        title: "Assembled PDF",
+        title: "Print-ready PDF",
         detail:
-          "Complete print-ready PDF with all pages, front cover, title page, copyright page, and back cover assembled in correct order",
+          "Book formatted to Amazon KDP Print specifications \u2014 proper bleed, margins, and gutter allowance for paperback",
       },
       {
-        title: "Individual page image files",
+        title: "Individual page files",
         detail:
-          "All 32 illustrations plus cover art delivered as separate high-resolution files for marketing, social media, or alternative layouts",
+          "All 32 illustrations plus cover art delivered as separate high-resolution files",
       },
       {
         title: "2 rounds of revisions",
         detail:
-          "Two full revision cycles \u2014 adjust illustrations, text, layout, character expressions, backgrounds, or any visual element across both rounds",
+          "Two full revision cycles \u2014 adjust illustrations, text, layout, or any visual element across both rounds",
       },
     ],
   },
   {
     name: "Premium",
-    price: "$2,800",
-    delivery: "7 business days",
+    price: "$900",
+    delivery: "3 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CHILDRENS_PREMIUM,
     description:
-      "Premium picture book with custom character design system and full print package.",
+      "Premium picture book with character reference sheets and full print package.",
     features: [
-      {
-        title: "Story writing or adaptation",
-        detail:
-          "Original story creation or adaptation with enhanced narrative structure, vocabulary calibration, and pedagogical consideration for the target age group",
-      },
       {
         title: "32 fully illustrated pages",
         detail:
-          "Full-color illustrations on every page with premium quality \u2014 multiple refinement passes per page to ensure the highest visual standard",
+          "Full-color illustrations on every page with premium quality \u2014 multiple refinement passes for the highest visual standard",
       },
       {
-        title: "Custom character design system",
+        title: "Character reference sheets",
         detail:
-          "Dedicated character reference sheets created before page production begins \u2014 front view, side view, expressions, and clothing defined as a reusable system",
+          "Dedicated character reference sheets created before page production \u2014 front view, expressions, and clothing defined for consistency",
       },
       {
-        title: "Print-ready formatting",
+        title: "Front and back cover images",
         detail:
-          "Book formatted to exact Amazon KDP Print specifications \u2014 proper bleed, margins, gutter allowance, and color profile (CMYK-safe) for KDP Print Paperback and Hardcover",
+          "Front cover and back cover illustrations for your children\u2019s book \u2014 does not include spine design",
       },
       {
-        title: "Assembled PDF",
+        title: "Print-ready PDF",
         detail:
-          "Complete print-ready PDF with all pages, front cover, title page, copyright page, and back cover assembled in correct order",
+          "Book formatted to Amazon KDP Print specifications \u2014 proper bleed, margins, and gutter allowance for paperback",
       },
       {
-        title: "Individual page image files",
+        title: "Individual page files",
         detail:
-          "All 32 illustrations plus cover art delivered as separate high-resolution files for marketing, social media, or alternative layouts",
+          "All 32 illustrations plus cover art delivered as separate high-resolution files",
       },
       {
         title: "2 rounds of revisions",
         detail:
-          "Two full revision cycles \u2014 adjust illustrations, text, layout, character expressions, backgrounds, or any visual element across both rounds",
-      },
-      {
-        title: "Story text document",
-        detail:
-          "Separate document with the complete story text, page-by-page \u2014 useful for audio narration, translation, or future adaptations",
+          "Two full revision cycles \u2014 adjust illustrations, text, layout, or any visual element across both rounds",
       },
     ],
   },
@@ -366,20 +324,14 @@ const pipelinePackages = [
   {
     name: "Starter",
     subtitle: "3 Books",
-    price: "$1,800",
-    savings: "Save $1,800+",
-    delivery: "5 business days",
+    price: "$550",
+    delivery: "2 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STARTER,
     features: [
       {
-        title: "Series plan (3 books)",
+        title: "3 front covers",
         detail:
-          "Complete series arc, chapter outlines for all 3 books, and cross-book continuity plan \u2014 the architectural foundation for your series",
-      },
-      {
-        title: "3 ebook covers",
-        detail:
-          "Three visually consistent covers built from a shared style guide, each at 1600\u00d72400, 300 DPI, Amazon KDP-ready",
+          "Three visually consistent front covers for Kindle and paperback, each at 1600\u00d72400, 300 DPI",
       },
       {
         title: "Series logo",
@@ -387,115 +339,88 @@ const pipelinePackages = [
           "Custom logomark and wordmark that anchors the visual identity of your 3-book series",
       },
       {
-        title: "Box set cover",
+        title: "Box set front cover",
         detail:
-          "Landscape composite cover showcasing all 3 books as a single product \u2014 designed for Amazon box set listings",
+          "Front cover image showcasing all 3 books as a single product \u2014 for your Amazon box set listing",
       },
       {
-        title: "Book descriptions",
+        title: "3 book descriptions",
         detail:
-          "Keyword-optimized Amazon descriptions for all 3 books \u2014 compelling hooks that drive conversions while maintaining series continuity",
+          "Keyword-optimized Amazon descriptions for all 3 books \u2014 compelling hooks that drive conversions",
       },
       {
         title: "1 round of revisions",
         detail:
-          "Adjustments to any deliverable \u2014 covers, plan structure, descriptions, or branding elements",
+          "Adjustments to any deliverable \u2014 covers, logo, box set cover, or descriptions",
       },
     ],
   },
   {
     name: "Standard",
     subtitle: "5 Books",
-    price: "$2,800",
-    savings: "Save $3,400+",
-    delivery: "7 business days",
+    price: "$850",
+    delivery: "3 business days",
     popular: true,
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_STANDARD,
     features: [
       {
-        title: "Series plan (5 books)",
+        title: "5 front covers",
         detail:
-          "Multi-book arc with escalating stakes, mid-series pivot, chapter outlines per book, and full cross-book continuity mapping",
+          "Five visually consistent front covers for Kindle and paperback \u2014 unified color, typography, and composition",
       },
       {
-        title: "5 ebook covers",
+        title: "Series logo",
         detail:
-          "Five unified covers with shared style guide \u2014 consistent color, typography, lighting, and composition across the entire series",
+          "Custom logomark and wordmark anchoring the visual identity across all 5 books",
       },
       {
-        title: "Full series branding",
+        title: "Box set front cover",
         detail:
-          "Series logo, style guide document, and complete visual identity system designed for consistent expansion",
+          "Front cover image showcasing the full 5-book collection \u2014 for your Amazon box set listing",
       },
       {
-        title: "Box set + thumbnail",
+        title: "5 book descriptions",
         detail:
-          "Landscape box set cover for Amazon plus a 1280\u00d7720 YouTube/social media thumbnail using the series visual language",
-      },
-      {
-        title: "Book descriptions",
-        detail:
-          "Five keyword-optimized Amazon descriptions that progressively build stakes while each working as a standalone purchase hook",
-      },
-      {
-        title: "Continuity plan",
-        detail:
-          "Character database, subplot tracking, callback registry, and thematic throughline documentation across all 5 books",
+          "Keyword-optimized Amazon descriptions for all 5 books \u2014 each working as a standalone purchase hook",
       },
       {
         title: "2 rounds of revisions",
         detail:
-          "Two full revision cycles covering any deliverable \u2014 plans, covers, branding, descriptions, or continuity documents",
+          "Two full revision cycles covering any deliverable \u2014 covers, logo, box set cover, or descriptions",
       },
     ],
   },
   {
     name: "Premium",
-    subtitle: "8+ Books",
-    price: "$5,000",
-    savings: "Save $5,000+",
-    delivery: "10 business days",
+    subtitle: "10 Books",
+    price: "$1,350",
+    delivery: "4 business days",
     priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PIPELINE_PREMIUM,
     features: [
       {
-        title: "Full series plan (8+ books)",
+        title: "10 front covers",
         detail:
-          "Epic-scale series architecture with multi-arc design, chapter outlines for every book, and comprehensive continuity tracking across the entire series",
+          "Ten visually consistent front covers for Kindle and paperback \u2014 every cover is genre-accurate and visually unified",
       },
       {
-        title: "All ebook covers",
+        title: "Series logo",
         detail:
-          "Every book receives a cover from the same style guide \u2014 whether 8, 10, or 12+ books, every cover is visually unified and genre-accurate",
+          "Premium logomark and wordmark anchoring the visual identity of your entire series",
       },
       {
-        title: "Complete branding package",
+        title: "Box set front cover",
         detail:
-          "Series logo, panoramic cover, author portrait, YouTube thumbnail, and a comprehensive style guide documenting every visual decision",
+          "Front cover image showcasing the complete collection \u2014 for your Amazon box set listing",
       },
       {
-        title: "Box set + panoramic + thumbnail",
+        title: "10 book descriptions",
         detail:
-          "Box set cover, wide-format panoramic scene connecting all major elements, and branded social media thumbnail",
-      },
-      {
-        title: "Book descriptions",
-        detail:
-          "Keyword-optimized Amazon descriptions for every book in the series \u2014 each one compelling, accurate, and conversion-focused",
-      },
-      {
-        title: "Series bible",
-        detail:
-          "Comprehensive reference document: world rules, magic systems, geography, timeline, character backstories, and all established canon",
-      },
-      {
-        title: "Character tracking",
-        detail:
-          "Full character database with descriptions, relationship maps, knowledge states, power progressions, and emotional arcs across all books",
+          "Keyword-optimized Amazon descriptions for every book \u2014 each compelling, accurate, and conversion-focused",
       },
       {
         title: "2 rounds of revisions",
         detail:
-          "Two full revision cycles across every deliverable \u2014 covers, plans, branding, bible, descriptions, and continuity documents",
+          "Two full revision cycles across every deliverable \u2014 covers, logo, box set cover, and descriptions",
       },
     ],
   },
@@ -504,69 +429,57 @@ const pipelinePackages = [
 const updates = [
   {
     name: "Cover \u2014 Minor Revision",
-    price: "$75",
+    price: "$35",
     desc: "Text fix, color adjustment, subtitle change",
     delivery: "1 business day",
   },
   {
     name: "Cover \u2014 Major Revision",
-    price: "$200",
+    price: "$100",
     desc: "New concept, different style, layout overhaul",
-    delivery: "2 business days",
+    delivery: "1 business day",
   },
   {
     name: "Add New Book Cover",
-    price: "$400",
-    desc: "New cover matching existing series style",
-    delivery: "2 business days",
+    price: "$125",
+    desc: "New front cover matching existing series style",
+    delivery: "1 business day",
   },
   {
     name: "Logo Refresh",
-    price: "$250",
+    price: "$100",
     desc: "Updated or redesigned series logo",
-    delivery: "2 business days",
+    delivery: "1 business day",
   },
   {
-    name: "New Box Set Cover",
-    price: "$200",
-    desc: "Additional box set or panoramic cover",
-    delivery: "2 business days",
-  },
-  {
-    name: "Add Book to Plan",
-    price: "$175",
-    desc: "New outline + chapter structure + continuity update",
-    delivery: "2 business days",
-  },
-  {
-    name: "Plan Restructure",
-    price: "$350",
-    desc: "Reorder, split, or merge books in plan",
-    delivery: "3 business days",
+    name: "New Box Set Front Cover",
+    price: "$100",
+    desc: "Additional box set front cover image",
+    delivery: "1 business day",
   },
   {
     name: "Book Description Update",
-    price: "$75",
+    price: "$35",
     desc: "Updated Amazon/retail description",
     delivery: "1 business day",
   },
   {
     name: "Children\u2019s Book \u2014 Page Edit",
-    price: "$75/pg",
-    desc: "Text/story edits with re-illustrated page",
+    price: "$35/pg",
+    desc: "Re-illustrated page with text updates",
     delivery: "1 day per page",
   },
   {
     name: "Children\u2019s Book \u2014 Add Page",
-    price: "$100/pg",
+    price: "$50/pg",
     desc: "New illustrated page in existing book",
     delivery: "1 day per page",
   },
   {
     name: "Children\u2019s Book \u2014 New Character",
-    price: "$150",
-    desc: "New character or scene in existing style",
-    delivery: "2 business days",
+    price: "$75",
+    desc: "New character design in existing style",
+    delivery: "1 business day",
   },
 ];
 
@@ -767,9 +680,10 @@ export default function ServicesPage() {
               <Palette size={22} className="text-gold" />
             </div>
             <div>
-              <h2 className="text-2xl font-bold">Ebook Cover Design</h2>
+              <h2 className="text-2xl font-bold">Front Cover Design</h2>
               <p className="text-sm text-muted">
-                Professional covers, photorealistic or stylised, Amazon-ready
+                Front cover images for Kindle and paperback — photorealistic or
+                stylised, Amazon-ready
               </p>
             </div>
           </div>
@@ -821,7 +735,8 @@ export default function ServicesPage() {
                 Children&apos;s Picture Books
               </h2>
               <p className="text-sm text-muted">
-                32-page illustrated books from concept to print-ready PDF
+                You provide the story, we create the art — 32 pages of
+                illustration
               </p>
             </div>
           </div>
@@ -846,8 +761,8 @@ export default function ServicesPage() {
             <div>
               <h2 className="text-2xl font-bold">Full Pipeline</h2>
               <p className="text-sm text-muted">
-                Everything in one package &mdash; covers, branding, series
-                planning, and book descriptions combined
+                Front covers, series logo, box set cover, and book descriptions
+                in one package
               </p>
             </div>
           </div>
@@ -873,7 +788,7 @@ export default function ServicesPage() {
               <h2 className="text-2xl font-bold">Add-ons</h2>
             </div>
           </div>
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2">
             <div className="rounded-xl border border-border bg-surface-light p-6">
               <Clock size={20} className="text-gold" />
               <h3 className="mt-3 text-sm font-semibold">
@@ -894,17 +809,6 @@ export default function ServicesPage() {
                 Previous clients receive 10% off any new order. Loyalty matters.
               </p>
               <p className="mt-3 text-sm font-bold text-gold">-10%</p>
-            </div>
-            <div className="rounded-xl border border-gold/30 bg-gold/[0.03] p-6">
-              <Layers size={20} className="text-gold" />
-              <h3 className="mt-3 text-sm font-semibold">
-                Series Expansion Retainer
-              </h3>
-              <p className="mt-1 text-xs text-muted">
-                Publishing regularly? Lock in covers at $50 each. Up to 1 new
-                cover per month, style files kept on file.
-              </p>
-              <p className="mt-3 text-sm font-bold text-gold">$150/quarter</p>
             </div>
           </div>
         </div>
@@ -980,11 +884,15 @@ export default function ServicesPage() {
             {[
               {
                 q: "What file formats do I receive?",
-                a: "High-resolution PNG and JPG files at 1600\u00d72400, 300 DPI \u2014 ready for Amazon KDP Kindle, Paperback, and Hardcover. Children\u2019s books include assembled PDFs.",
+                a: "High-resolution PNG and JPG files at 1600\u00d72400, 300 DPI \u2014 ready for Amazon KDP Kindle and Paperback. Children\u2019s books include assembled PDFs.",
               },
               {
                 q: "How long does delivery take?",
-                a: "Standard covers: 2 business days. Series branding: 3\u20137 days depending on tier. Children\u2019s books: 5\u20137 days. Full Pipeline: 5\u201310 days. Need it faster? Add the 48-hour Rush Fee.",
+                a: "Most packages deliver in 1\u20132 business days. Larger packages (10-book branding or pipeline) take 3\u20134 days. Need it faster? Add the 48-hour Rush Fee.",
+              },
+              {
+                q: "What exactly is a front cover?",
+                a: "We design the front cover image only \u2014 the image buyers see on Amazon. We do not design spines or back covers. For children\u2019s books, Plus and Premium tiers include both front and back cover images (no spine).",
               },
               {
                 q: "What if I\u2019m not happy with the concepts?",
@@ -992,11 +900,11 @@ export default function ServicesPage() {
               },
               {
                 q: "Can I expand my series later?",
-                a: "Absolutely. The Series Expansion Retainer ($150/quarter) locks in covers at $50 each. Or purchase individual Add New Book Cover updates ($400) anytime.",
+                a: "Yes. Purchase an Add New Book Cover ($125) anytime to add a new front cover matching your existing series style.",
               },
               {
-                q: "Do you design print/paperback covers?",
-                a: "Our standard deliverables are ebook covers. For full print wraps (spine + back cover), contact us at hello@metronagon.com for a custom quote.",
+                q: "Do you write children\u2019s book stories?",
+                a: "No \u2014 we focus on illustration only. You provide the story text, and we create all the artwork: page illustrations, front cover, and back cover (Plus/Premium tiers).",
               },
               {
                 q: "How do revisions work?",
