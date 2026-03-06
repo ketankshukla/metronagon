@@ -149,6 +149,6 @@ If you paste me **one** of your current long Amazon URLs, I’ll show you exactl
 | Book IX   | The Forge of Souls      | https://www.amazon.com/dp/B0GPPRDRC9 |
 | Book X    | The Mirror Queen        | https://www.amazon.com/dp/B0GPQG1CNC |
 | Book XI   | Crown of Stars          | https://www.amazon.com/dp/B0GPQ9RXPP |
-| Book XII  | The Sun That Never Sets | _Pending_                            |
+| Book XII  | The Sun That Never Sets | https://www.amazon.com/dp/B0GR9C6CYC |
 
 ---
