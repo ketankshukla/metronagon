@@ -1,5 +1,9 @@
 # Metronagon Media
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/ketankshukla/metronagon.svg)](https://github.com/ketankshukla/metronagon/commits/master) [![Repo size](https://img.shields.io/github/repo-size/ketankshukla/metronagon.svg)](https://github.com/ketankshukla/metronagon) [![GitHub issues](https://img.shields.io/github/issues/ketankshukla/metronagon.svg)](https://github.com/ketankshukla/metronagon/issues) [![GitHub stars](https://img.shields.io/github/stars/ketankshukla/metronagon.svg?style=social)](https://github.com/ketankshukla/metronagon/stargazers)
+
+[![TypeScript](https://img.shields.io/badge/typed-TypeScript-blue.svg)](https://www.typescriptlang.org/) [![Next.js](https://img.shields.io/badge/framework-Next.js-black.svg)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/styling-Tailwind%20CSS-38B2AC.svg)](https://tailwindcss.com/) [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org/)
+
 Professional book cover design, series branding, series architecture, and children's book illustration for authors and publishers.
 
 ## Tech Stack
