@@ -4,10 +4,10 @@ import { ArrowRight, BookOpen, Layers, Palette, Rocket } from "lucide-react";
 
 const featuredCovers = [
   { src: "/portfolio/aztec/covers/book1-cover.jpg", title: "Aztec Samurai Book 1" },
-  { src: "/examples/fantasy/the-sunken-throne.png", title: "The Sunken Throne" },
-  { src: "/examples/thrillers/the-cold-room.png", title: "The Cold Room" },
-  { src: "/examples/romance/moonburn.png", title: "Moonburn" },
-  { src: "/examples/sci-fi/orbital-dawn.png", title: "Orbital Dawn" },
+  { src: "/examples/fantasy/the-sunken-throne.webp", title: "The Sunken Throne" },
+  { src: "/examples/thrillers/the-cold-room.webp", title: "The Cold Room" },
+  { src: "/examples/romance/moonburn.webp", title: "Moonburn" },
+  { src: "/examples/sci-fi/orbital-dawn.webp", title: "Orbital Dawn" },
   { src: "/portfolio/childrens/front-cover.jpg", title: "Ixchel and the Stolen Sun" },
 ];
 
@@ -21,7 +21,7 @@ export default function Home() {
           <div className="mx-auto max-w-3xl text-center">
             <div className="animate-fade-in mb-8">
               <Image
-                src="/portfolio/logo.png"
+                src="/portfolio/logo.webp"
                 alt="Metronagon Media — The Measure of Excellence"
                 width={600}
                 height={600}

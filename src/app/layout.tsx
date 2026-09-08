@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
   icons: {
     icon: "/icon.svg",
-    apple: "/portfolio/logo.png",
+    apple: "/portfolio/logo.webp",
   },
   openGraph: {
     title: "Book Cover Design & Series Branding for Authors | Metronagon Media",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/og-image.png",
+        url: "/images/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Metronagon Media — Book Cover Design, Series Branding & Children's Illustration",
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     title: "Book Cover Design & Series Branding for Authors | Metronagon Media",
     description:
       "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
-    images: ["/images/og-image.png"],
+    images: ["/images/og-image.webp"],
   },
 };
 
@@ -79,7 +79,7 @@ export default function RootLayout({
                   "@type": "ProfessionalService",
                   name: "Metronagon Media",
                   url: "https://metronagon.com",
-                  logo: "https://metronagon.com/portfolio/logo.png",
+                  logo: "https://metronagon.com/portfolio/logo.webp",
                   description:
                     "Professional book cover design, series branding, and children's book illustration for indie authors and publishers. Built by a published Amazon KDP author with 22 books across 3 series.",
                   email: "hello@metronagon.com",

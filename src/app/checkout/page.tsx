@@ -59,7 +59,7 @@ function CheckoutForm() {
       </Link>
       <div className="mb-8 flex flex-col items-center">
         <Image
-          src="/portfolio/logo.png"
+          src="/portfolio/logo.webp"
           alt="Metronagon Media"
           width={500}
           height={500}

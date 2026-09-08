@@ -76,7 +76,7 @@ export default function ThankYouContent() {
           {/* Logo */}
           <div className="mb-8 flex justify-center">
             <Image
-              src="/portfolio/logo.png"
+              src="/portfolio/logo.webp"
               alt="Metronagon Media"
               width={200}
               height={200}

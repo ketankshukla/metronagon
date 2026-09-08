@@ -751,23 +751,23 @@ const postGalleries: Record<string, GallerySection[]> = {
       layout: "covers",
       images: [
         {
-          src: "/examples/childrens/the-map-to-everywhere.png",
+          src: "/examples/childrens/the-map-to-everywhere.webp",
           alt: "The Map to Everywhere — Paperback Cover",
         },
         {
-          src: "/examples/childrens/the-crayon-kingdom.png",
+          src: "/examples/childrens/the-crayon-kingdom.webp",
           alt: "The Crayon Kingdom — Paperback Cover",
         },
         {
-          src: "/examples/childrens/the-blanket-fort-chronicles.png",
+          src: "/examples/childrens/the-blanket-fort-chronicles.webp",
           alt: "The Blanket Fort Chronicles — Paperback Cover",
         },
         {
-          src: "/examples/childrens/professor-paws-and-the-midnight-parade.png",
+          src: "/examples/childrens/professor-paws-and-the-midnight-parade.webp",
           alt: "Professor Paws and the Midnight Parade — Paperback Cover",
         },
         {
-          src: "/examples/childrens/captain-stardust-and-the-planet-of-socks.png",
+          src: "/examples/childrens/captain-stardust-and-the-planet-of-socks.webp",
           alt: "Captain Stardust and the Planet of Socks — Paperback Cover",
         },
       ],
@@ -779,15 +779,15 @@ const postGalleries: Record<string, GallerySection[]> = {
       layout: "covers",
       images: [
         {
-          src: "/examples/childrens/when-the-moon-fell-into-the-garden.png",
+          src: "/examples/childrens/when-the-moon-fell-into-the-garden.webp",
           alt: "When the Moon Fell into the Garden — Picture Book",
         },
         {
-          src: "/examples/childrens/the-very-hungry-cloud.png",
+          src: "/examples/childrens/the-very-hungry-cloud.webp",
           alt: "The Very Hungry Cloud — Picture Book",
         },
         {
-          src: "/examples/childrens/the-robot-who-learned-to-dream.png",
+          src: "/examples/childrens/the-robot-who-learned-to-dream.webp",
           alt: "The Robot Who Learned to Dream — Picture Book",
         },
       ],
@@ -801,7 +801,7 @@ const postGalleries: Record<string, GallerySection[]> = {
       layout: "logos",
       images: [
         {
-          src: "/portfolio/logo.png",
+          src: "/portfolio/logo.webp",
           alt: "Metronagon Media — The Measure of Excellence",
         },
       ],
@@ -825,7 +825,7 @@ const postGalleries: Record<string, GallerySection[]> = {
       layout: "logos",
       images: [
         {
-          src: "/portfolio/repetition/series-logo.png",
+          src: "/portfolio/repetition/series-logo.webp",
           alt: "Repetition: Mother of Mastery — Series Logo",
         },
       ],
@@ -837,7 +837,7 @@ const postGalleries: Record<string, GallerySection[]> = {
       layout: "logos",
       images: [
         {
-          src: "/portfolio/reality/series-logo.png",
+          src: "/portfolio/reality/series-logo.webp",
           alt: "Reality Without Belief — Series Logo",
         },
       ],

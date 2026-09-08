@@ -20,35 +20,35 @@ const genres: Genre[] = [
     label: "Sci-Fi",
     images: [
       {
-        src: "/examples/sci-fi/neon-rain-protocol.png",
+        src: "/examples/sci-fi/neon-rain-protocol.webp",
         title: "Neon Rain Protocol",
       },
-      { src: "/examples/sci-fi/orbital-dawn.png", title: "Orbital Dawn" },
+      { src: "/examples/sci-fi/orbital-dawn.webp", title: "Orbital Dawn" },
       {
-        src: "/examples/sci-fi/biomechanical-eden.png",
+        src: "/examples/sci-fi/biomechanical-eden.webp",
         title: "Biomechanical Eden",
       },
       {
-        src: "/examples/sci-fi/cathedral-of-stars.png",
+        src: "/examples/sci-fi/cathedral-of-stars.webp",
         title: "Cathedral of Stars",
       },
-      { src: "/examples/sci-fi/first-light.png", title: "First Light" },
+      { src: "/examples/sci-fi/first-light.webp", title: "First Light" },
       {
-        src: "/examples/sci-fi/ghost-in-the-signal.png",
+        src: "/examples/sci-fi/ghost-in-the-signal.webp",
         title: "Ghost in the Signal",
       },
-      { src: "/examples/sci-fi/green-machine.png", title: "Green Machine" },
-      { src: "/examples/sci-fi/stardrift-seven.png", title: "Stardrift Seven" },
+      { src: "/examples/sci-fi/green-machine.webp", title: "Green Machine" },
+      { src: "/examples/sci-fi/stardrift-seven.webp", title: "Stardrift Seven" },
       {
-        src: "/examples/sci-fi/the-quantum-garden.png",
+        src: "/examples/sci-fi/the-quantum-garden.webp",
         title: "The Quantum Garden",
       },
       {
-        src: "/examples/sci-fi/the-rust-prophet.png",
+        src: "/examples/sci-fi/the-rust-prophet.webp",
         title: "The Rust Prophet",
       },
       {
-        src: "/examples/sci-fi/tomorrow-belonged-to-us.png",
+        src: "/examples/sci-fi/tomorrow-belonged-to-us.webp",
         title: "Tomorrow Belonged to Us",
       },
     ],
@@ -58,51 +58,51 @@ const genres: Genre[] = [
     label: "Fantasy",
     images: [
       {
-        src: "/examples/fantasy/the-garden-of-forgotten-gods.png",
+        src: "/examples/fantasy/the-garden-of-forgotten-gods.webp",
         title: "The Garden of Forgotten Gods",
       },
       {
-        src: "/examples/fantasy/dragonfire-summit.png",
+        src: "/examples/fantasy/dragonfire-summit.webp",
         title: "Dragonfire Summit",
       },
       {
-        src: "/examples/fantasy/the-bone-orchards.png",
+        src: "/examples/fantasy/the-bone-orchards.webp",
         title: "The Bone Orchards",
       },
       {
-        src: "/examples/fantasy/the-cartographers-folly.png",
+        src: "/examples/fantasy/the-cartographers-folly.webp",
         title: "The Cartographer's Folly",
       },
       {
-        src: "/examples/fantasy/the-desert-of-burning-glass.png",
+        src: "/examples/fantasy/the-desert-of-burning-glass.webp",
         title: "The Desert of Burning Glass",
       },
       {
-        src: "/examples/fantasy/the-frost-thorn-crown.png",
+        src: "/examples/fantasy/the-frost-thorn-crown.webp",
         title: "The Frost Thorn Crown",
       },
       {
-        src: "/examples/fantasy/the-iron-covenant.png",
+        src: "/examples/fantasy/the-iron-covenant.webp",
         title: "The Iron Covenant",
       },
       {
-        src: "/examples/fantasy/the-library-of-unwritten-things.png",
+        src: "/examples/fantasy/the-library-of-unwritten-things.webp",
         title: "The Library of Unwritten Things",
       },
       {
-        src: "/examples/fantasy/the-paper-kingdoms.png",
+        src: "/examples/fantasy/the-paper-kingdoms.webp",
         title: "The Paper Kingdoms",
       },
       {
-        src: "/examples/fantasy/the-shrine-beneath-the-tide.png",
+        src: "/examples/fantasy/the-shrine-beneath-the-tide.webp",
         title: "The Shrine Beneath the Tide",
       },
       {
-        src: "/examples/fantasy/the-stained-glass-war.png",
+        src: "/examples/fantasy/the-stained-glass-war.webp",
         title: "The Stained Glass War",
       },
       {
-        src: "/examples/fantasy/the-sunken-throne.png",
+        src: "/examples/fantasy/the-sunken-throne.webp",
         title: "The Sunken Throne",
       },
     ],
@@ -112,36 +112,36 @@ const genres: Genre[] = [
     label: "Romance",
     images: [
       {
-        src: "/examples/romance/crown-of-thorns-and-roses.png",
+        src: "/examples/romance/crown-of-thorns-and-roses.webp",
         title: "Crown of Thorns and Roses",
       },
       {
-        src: "/examples/romance/enemies-like-us.png",
+        src: "/examples/romance/enemies-like-us.webp",
         title: "Enemies Like Us",
       },
       {
-        src: "/examples/romance/his-dark-garden.png",
+        src: "/examples/romance/his-dark-garden.webp",
         title: "His Dark Garden",
       },
-      { src: "/examples/romance/moonburn.png", title: "Moonburn" },
+      { src: "/examples/romance/moonburn.webp", title: "Moonburn" },
       {
-        src: "/examples/romance/the-bookshop-at-the-end-of-the-lane.png",
+        src: "/examples/romance/the-bookshop-at-the-end-of-the-lane.webp",
         title: "The Bookshop at the End of the Lane",
       },
       {
-        src: "/examples/romance/the-dukes-wager.png",
+        src: "/examples/romance/the-dukes-wager.webp",
         title: "The Duke's Wager",
       },
       {
-        src: "/examples/romance/the-highland-vow.png",
+        src: "/examples/romance/the-highland-vow.webp",
         title: "The Highland Vow",
       },
       {
-        src: "/examples/romance/the-paris-arrangement.png",
+        src: "/examples/romance/the-paris-arrangement.webp",
         title: "The Paris Arrangement",
       },
       {
-        src: "/examples/romance/the-vineyard-letters.png",
+        src: "/examples/romance/the-vineyard-letters.webp",
         title: "The Vineyard Letters",
       },
     ],
@@ -151,24 +151,24 @@ const genres: Genre[] = [
     label: "Thrillers",
     images: [
       {
-        src: "/examples/thrillers/the-blood-clock.png",
+        src: "/examples/thrillers/the-blood-clock.webp",
         title: "The Blood Clock",
       },
-      { src: "/examples/thrillers/the-cold-room.png", title: "The Cold Room" },
+      { src: "/examples/thrillers/the-cold-room.webp", title: "The Cold Room" },
       {
-        src: "/examples/thrillers/the-glitch-protocol.png",
+        src: "/examples/thrillers/the-glitch-protocol.webp",
         title: "The Glitch Protocol",
       },
       {
-        src: "/examples/thrillers/the-last-witness.png",
+        src: "/examples/thrillers/the-last-witness.webp",
         title: "The Last Witness",
       },
       {
-        src: "/examples/thrillers/the-market-maker.png",
+        src: "/examples/thrillers/the-market-maker.webp",
         title: "The Market Maker",
       },
       {
-        src: "/examples/thrillers/the-ninth-floor.png",
+        src: "/examples/thrillers/the-ninth-floor.webp",
         title: "The Ninth Floor",
       },
     ],
@@ -178,32 +178,32 @@ const genres: Genre[] = [
     label: "Horror",
     images: [
       {
-        src: "/examples/horror/the-congregation.png",
+        src: "/examples/horror/the-congregation.webp",
         title: "The Congregation",
       },
-      { src: "/examples/horror/the-doll-ward.png", title: "The Doll Ward" },
+      { src: "/examples/horror/the-doll-ward.webp", title: "The Doll Ward" },
       {
-        src: "/examples/horror/the-house-that-hunger-built.png",
+        src: "/examples/horror/the-house-that-hunger-built.webp",
         title: "The House That Hunger Built",
       },
       {
-        src: "/examples/horror/the-long-dark-between-stations.png",
+        src: "/examples/horror/the-long-dark-between-stations.webp",
         title: "The Long Dark Between Stations",
       },
       {
-        src: "/examples/horror/the-mirror-saint.png",
+        src: "/examples/horror/the-mirror-saint.webp",
         title: "The Mirror Saint",
       },
       {
-        src: "/examples/horror/the-signal-beneath.png",
+        src: "/examples/horror/the-signal-beneath.webp",
         title: "The Signal Beneath",
       },
       {
-        src: "/examples/horror/the-smile-collector.png",
+        src: "/examples/horror/the-smile-collector.webp",
         title: "The Smile Collector",
       },
       {
-        src: "/examples/horror/the-teeth-in-the-walls.png",
+        src: "/examples/horror/the-teeth-in-the-walls.webp",
         title: "The Teeth in the Walls",
       },
     ],
@@ -213,35 +213,35 @@ const genres: Genre[] = [
     label: "Mystery",
     images: [
       {
-        src: "/examples/mystery/the-crossword-killer.png",
+        src: "/examples/mystery/the-crossword-killer.webp",
         title: "The Crossword Killer",
       },
       {
-        src: "/examples/mystery/the-fingerprint-garden.png",
+        src: "/examples/mystery/the-fingerprint-garden.webp",
         title: "The Fingerprint Garden",
       },
       {
-        src: "/examples/mystery/the-jade-equation.png",
+        src: "/examples/mystery/the-jade-equation.webp",
         title: "The Jade Equation",
       },
       {
-        src: "/examples/mystery/the-last-chess-move.png",
+        src: "/examples/mystery/the-last-chess-move.webp",
         title: "The Last Chess Move",
       },
       {
-        src: "/examples/mystery/the-locked-garden.png",
+        src: "/examples/mystery/the-locked-garden.webp",
         title: "The Locked Garden",
       },
       {
-        src: "/examples/mystery/the-venice-cipher.png",
+        src: "/examples/mystery/the-venice-cipher.webp",
         title: "The Venice Cipher",
       },
       {
-        src: "/examples/mystery/the-whispering-library.png",
+        src: "/examples/mystery/the-whispering-library.webp",
         title: "The Whispering Library",
       },
       {
-        src: "/examples/mystery/the-widow-of-rue-morgue.png",
+        src: "/examples/mystery/the-widow-of-rue-morgue.webp",
         title: "The Widow of Rue Morgue",
       },
     ],
@@ -251,32 +251,32 @@ const genres: Genre[] = [
     label: "Adventure",
     images: [
       {
-        src: "/examples/adventure/the-balloon-cartographer.png",
+        src: "/examples/adventure/the-balloon-cartographer.webp",
         title: "The Balloon Cartographer",
       },
-      { src: "/examples/adventure/the-deep-road.png", title: "The Deep Road" },
+      { src: "/examples/adventure/the-deep-road.webp", title: "The Deep Road" },
       {
-        src: "/examples/adventure/the-iron-horse-riders.png",
+        src: "/examples/adventure/the-iron-horse-riders.webp",
         title: "The Iron Horse Riders",
       },
       {
-        src: "/examples/adventure/the-lost-expedition.png",
+        src: "/examples/adventure/the-lost-expedition.webp",
         title: "The Lost Expedition",
       },
       {
-        src: "/examples/adventure/the-silk-road-gambit.png",
+        src: "/examples/adventure/the-silk-road-gambit.webp",
         title: "The Silk Road Gambit",
       },
       {
-        src: "/examples/adventure/the-sky-pirates-of-iron-bay.png",
+        src: "/examples/adventure/the-sky-pirates-of-iron-bay.webp",
         title: "The Sky Pirates of Iron Bay",
       },
       {
-        src: "/examples/adventure/the-summit-of-all-fears.png",
+        src: "/examples/adventure/the-summit-of-all-fears.webp",
         title: "The Summit of All Fears",
       },
       {
-        src: "/examples/adventure/the-wreck-of-the-golden-serpent.png",
+        src: "/examples/adventure/the-wreck-of-the-golden-serpent.webp",
         title: "The Wreck of the Golden Serpent",
       },
     ],
@@ -286,35 +286,35 @@ const genres: Genre[] = [
     label: "Historical Fiction",
     images: [
       {
-        src: "/examples/historical-fiction/the-cartographer-of-constantinople.png",
+        src: "/examples/historical-fiction/the-cartographer-of-constantinople.webp",
         title: "The Cartographer of Constantinople",
       },
       {
-        src: "/examples/historical-fiction/the-jazz-age-prophet.png",
+        src: "/examples/historical-fiction/the-jazz-age-prophet.webp",
         title: "The Jazz Age Prophet",
       },
       {
-        src: "/examples/historical-fiction/the-last-supper-at-the-leaky-barrel.png",
+        src: "/examples/historical-fiction/the-last-supper-at-the-leaky-barrel.webp",
         title: "The Last Supper at the Leaky Barrel",
       },
       {
-        src: "/examples/historical-fiction/the-midwife-of-venice.png",
+        src: "/examples/historical-fiction/the-midwife-of-venice.webp",
         title: "The Midwife of Venice",
       },
       {
-        src: "/examples/historical-fiction/the-pharaohs-architect.png",
+        src: "/examples/historical-fiction/the-pharaohs-architect.webp",
         title: "The Pharaoh's Architect",
       },
       {
-        src: "/examples/historical-fiction/the-samurai-accountant.png",
+        src: "/examples/historical-fiction/the-samurai-accountant.webp",
         title: "The Samurai Accountant",
       },
       {
-        src: "/examples/historical-fiction/the-silk-weaver-of-lyon.png",
+        src: "/examples/historical-fiction/the-silk-weaver-of-lyon.webp",
         title: "The Silk Weaver of Lyon",
       },
       {
-        src: "/examples/historical-fiction/the-viking-widow.png",
+        src: "/examples/historical-fiction/the-viking-widow.webp",
         title: "The Viking Widow",
       },
     ],
@@ -324,43 +324,43 @@ const genres: Genre[] = [
     label: "Literary Fiction",
     images: [
       {
-        src: "/examples/literary-fiction/still-water.png",
+        src: "/examples/literary-fiction/still-water.webp",
         title: "Still Water",
       },
       {
-        src: "/examples/literary-fiction/the-atlas-of-invisible-cities.png",
+        src: "/examples/literary-fiction/the-atlas-of-invisible-cities.webp",
         title: "The Atlas of Invisible Cities",
       },
       {
-        src: "/examples/literary-fiction/the-beekeeper-of-aleppo.png",
+        src: "/examples/literary-fiction/the-beekeeper-of-aleppo.webp",
         title: "The Beekeeper of Aleppo",
       },
       {
-        src: "/examples/literary-fiction/the-color-of-forgetting.png",
+        src: "/examples/literary-fiction/the-color-of-forgetting.webp",
         title: "The Color of Forgetting",
       },
       {
-        src: "/examples/literary-fiction/the-geometry-of-grief.png",
+        src: "/examples/literary-fiction/the-geometry-of-grief.webp",
         title: "The Geometry of Grief",
       },
       {
-        src: "/examples/literary-fiction/the-glass-museum.png",
+        src: "/examples/literary-fiction/the-glass-museum.webp",
         title: "The Glass Museum",
       },
       {
-        src: "/examples/literary-fiction/the-house-of-infinite-stairs.png",
+        src: "/examples/literary-fiction/the-house-of-infinite-stairs.webp",
         title: "The House of Infinite Stairs",
       },
       {
-        src: "/examples/literary-fiction/the-orchard-keeper.png",
+        src: "/examples/literary-fiction/the-orchard-keeper.webp",
         title: "The Orchard Keeper",
       },
       {
-        src: "/examples/literary-fiction/the-translator.png",
+        src: "/examples/literary-fiction/the-translator.webp",
         title: "The Translator",
       },
       {
-        src: "/examples/literary-fiction/the-weight-of-small-things.png",
+        src: "/examples/literary-fiction/the-weight-of-small-things.webp",
         title: "The Weight of Small Things",
       },
     ],
@@ -370,35 +370,35 @@ const genres: Genre[] = [
     label: "Philosophy & Self-Help",
     images: [
       {
-        src: "/examples/philosophy-self-help/the-art-of-letting-go.png",
+        src: "/examples/philosophy-self-help/the-art-of-letting-go.webp",
         title: "The Art of Letting Go",
       },
       {
-        src: "/examples/philosophy-self-help/the-compass-of-purpose.png",
+        src: "/examples/philosophy-self-help/the-compass-of-purpose.webp",
         title: "The Compass of Purpose",
       },
       {
-        src: "/examples/philosophy-self-help/the-mountain-within.png",
+        src: "/examples/philosophy-self-help/the-mountain-within.webp",
         title: "The Mountain Within",
       },
       {
-        src: "/examples/philosophy-self-help/the-philosophy-of-walking.png",
+        src: "/examples/philosophy-self-help/the-philosophy-of-walking.webp",
         title: "The Philosophy of Walking",
       },
       {
-        src: "/examples/philosophy-self-help/the-quiet-revolution.png",
+        src: "/examples/philosophy-self-help/the-quiet-revolution.webp",
         title: "The Quiet Revolution",
       },
       {
-        src: "/examples/philosophy-self-help/the-stoics-garden.png",
+        src: "/examples/philosophy-self-help/the-stoics-garden.webp",
         title: "The Stoic's Garden",
       },
       {
-        src: "/examples/philosophy-self-help/the-ten-thousand-hours.png",
+        src: "/examples/philosophy-self-help/the-ten-thousand-hours.webp",
         title: "The Ten Thousand Hours",
       },
       {
-        src: "/examples/philosophy-self-help/the-unfinished-self.png",
+        src: "/examples/philosophy-self-help/the-unfinished-self.webp",
         title: "The Unfinished Self",
       },
     ],
@@ -408,27 +408,27 @@ const genres: Genre[] = [
     label: "Humor & Satire",
     images: [
       {
-        src: "/examples/humor-satire/a-brief-history-of-bad-decisions.png",
+        src: "/examples/humor-satire/a-brief-history-of-bad-decisions.webp",
         title: "A Brief History of Bad Decisions",
       },
       {
-        src: "/examples/humor-satire/death-by-committee.png",
+        src: "/examples/humor-satire/death-by-committee.webp",
         title: "Death by Committee",
       },
       {
-        src: "/examples/humor-satire/sorry-im-late-i-didnt-want-to-come.png",
+        src: "/examples/humor-satire/sorry-im-late-i-didnt-want-to-come.webp",
         title: "Sorry I'm Late, I Didn't Want to Come",
       },
       {
-        src: "/examples/humor-satire/the-cats-guide-to-human-ownership.png",
+        src: "/examples/humor-satire/the-cats-guide-to-human-ownership.webp",
         title: "The Cat's Guide to Human Ownership",
       },
       {
-        src: "/examples/humor-satire/the-existential-dread-of-brunch.png",
+        src: "/examples/humor-satire/the-existential-dread-of-brunch.webp",
         title: "The Existential Dread of Brunch",
       },
       {
-        src: "/examples/humor-satire/the-middle-managers-guide-to-the-apocalypse.png",
+        src: "/examples/humor-satire/the-middle-managers-guide-to-the-apocalypse.webp",
         title: "The Middle Manager's Guide to the Apocalypse",
       },
     ],
@@ -482,42 +482,42 @@ const childrensData = {
       "Standalone front cover designs for children's ebooks and paperbacks. Each cover is a single striking illustration designed to capture attention on Amazon and bookstore shelves.",
     images: [
       {
-        src: "/examples/childrens/the-map-to-everywhere.png",
+        src: "/examples/childrens/the-map-to-everywhere.webp",
         title: "The Map to Everywhere",
       },
       {
-        src: "/examples/childrens/the-crayon-kingdom.png",
+        src: "/examples/childrens/the-crayon-kingdom.webp",
         title: "The Crayon Kingdom",
       },
       {
-        src: "/examples/childrens/the-blanket-fort-chronicles.png",
+        src: "/examples/childrens/the-blanket-fort-chronicles.webp",
         title: "The Blanket Fort Chronicles",
       },
       {
-        src: "/examples/childrens/professor-paws-and-the-midnight-parade.png",
+        src: "/examples/childrens/professor-paws-and-the-midnight-parade.webp",
         title: "Professor Paws and the Midnight Parade",
       },
       {
-        src: "/examples/childrens/captain-stardust-and-the-planet-of-socks.png",
+        src: "/examples/childrens/captain-stardust-and-the-planet-of-socks.webp",
         title: "Captain Stardust and the Planet of Socks",
       },
       {
-        src: "/examples/childrens/when-the-moon-fell-into-the-garden.png",
+        src: "/examples/childrens/when-the-moon-fell-into-the-garden.webp",
         title: "When the Moon Fell into the Garden",
       },
       {
-        src: "/examples/childrens/the-very-hungry-cloud.png",
+        src: "/examples/childrens/the-very-hungry-cloud.webp",
         title: "The Very Hungry Cloud",
       },
       {
-        src: "/examples/childrens/the-robot-who-learned-to-dream.png",
+        src: "/examples/childrens/the-robot-who-learned-to-dream.webp",
         title: "The Robot Who Learned to Dream",
       },
       {
-        src: "/examples/childrens/the-felt-forest.png",
+        src: "/examples/childrens/the-felt-forest.webp",
         title: "The Felt Forest",
       },
-      { src: "/examples/childrens/chalk-world.png", title: "Chalk World" },
+      { src: "/examples/childrens/chalk-world.webp", title: "Chalk World" },
     ] as CoverImage[],
   },
 };

@@ -1,0 +1,12 @@
+# Business operations material. The site is src/ + public/; everything below is
+# how the studio is run, not what it serves. Excluded so it is not re-uploaded
+# as build source on every deployment.
+
+example-prompts/
+confidence-scripts/
+logo-designs/
+business-cards/
+book-package-descriptions/
+book-prompts/
+archived/
+wiki/
